@@ -1,4 +1,4 @@
-layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	type	county	subpref
+level	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	type	county	subpref
 1	01000	01			北海道	ほっかいどう	Hokkaido Prefecture	北海道	ほっかいどう	Hokkaido	12		
 2	01100	01			札幌市	さっぽろし	Sapporo City	札幌	さっぽろ	Sapporo	21		
 3	01100	01	01100		札幌市	さっぽろし	Sapporo City	札幌	さっぽろ	Sapporo	31		01300
