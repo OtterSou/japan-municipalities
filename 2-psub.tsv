@@ -1,0 +1,463 @@
+code	pref	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	type
+01100	01	札幌市	さっぽろし	Sapporo City	札幌	さっぽろ	Sapporo	21
+01200	01	市部	しぶ	City Area				23
+01300	01	石狩振興局	いしかりしんこうきょく	Ishikari Subprefectural Bureau	石狩	いしかり	Ishikari	26
+01330	01	渡島総合振興局	おしまそうごうしんこうきょく	Oshima General Subprefectural Bureau	渡島	おしま	Oshima	25
+01360	01	檜山振興局	ひやましんこうきょく	Hiyama Subprefectural Bureau	檜山	ひやま	Hiyama	26
+01390	01	後志総合振興局	しりべしそうごうしんこうきょく	Shiribeshi General Subprefectural Bureau	後志	しりべし	Shiribeshi	25
+01420	01	空知総合振興局	そらちそうごうしんこうきょく	Sorachi General Subprefectural Bureau	空知	そらち	Sorachi	25
+01450	01	上川総合振興局	かみかわそうごうしんこうきょく	Kamikawa General Subprefectural Bureau	上川	かみかわ	Kamikawa	25
+01480	01	留萌振興局	るもいしんこうきょく	Rumoi Subprefectural Bureau	留萌	るもい	Rumoi	26
+01510	01	宗谷総合振興局	そうやそうごうしんこうきょく	Soya General Subprefectural Bureau	宗谷	そうや	Soya	25
+01540	01	オホーツク総合振興局	おほーつくそうごうしんこうきょく	Okhotsk General Subprefectural Bureau	オホーツク	おほーつく	Okhotsk	25
+01570	01	胆振総合振興局	いぶりそうごうしんこうきょく	Iburi General Subprefectural Bureau	胆振	いぶり	Iburi	25
+01600	01	日高振興局	ひだかしんこうきょく	Hidaka Subprefectural Bureau	日高	ひだか	Hidaka	26
+01630	01	十勝総合振興局	とかちそうごうしんこうきょく	Tokachi General Subprefectural Bureau	十勝	とかち	Tokachi	25
+01660	01	釧路総合振興局	くしろそうごうしんこうきょく	Kushiro General Subprefectural Bureau	釧路	くしろ	Kushiro	25
+01690	01	根室振興局	ねむろしんこうきょく	Nemuro Subprefectural Bureau	根室	ねむろ	Nemuro	26
+01801	01	石狩郡	いしかりぐん	Ishikari County	石狩	いしかり	Ishikari	24
+01802	01	松前郡	まつまえぐん	Matsumae County	松前	まつまえ	Matsumae	24
+01803	01	上磯郡	かみいそぐん	Kamiiso County	上磯	かみいそ	Kamiiso	24
+01804	01	亀田郡	かめだぐん	Kameda County	亀田	かめだ	Kameda	24
+01805	01	茅部郡	かやべぐん	Kayabe County	茅部	かやべ	Kayabe	24
+01806	01	二海郡	ふたみぐん	Futami County	二海	ふたみ	Futami	24
+01807	01	山越郡	やまこしぐん	Yamakoshi County	山越	やまこし	Yamakoshi	24
+01808	01	檜山郡	ひやまぐん	Hiyama County	檜山	ひやま	Hiyama	24
+01809	01	爾志郡	にしぐん	Nishi County	爾志	にし	Nishi	24
+01810	01	奥尻郡	おくしりぐん	Okushiri County	奥尻	おくしり	Okushiri	24
+01811	01	瀬棚郡	せたなぐん	Setana County	瀬棚	せたな	Setana	24
+01812	01	久遠郡	くどうぐん	Kudo County	久遠	くどう	Kudo	24
+01813	01	島牧郡	しままきぐん	Shimamaki County	島牧	しままき	Shimamaki	24
+01814	01	寿都郡	すっつぐん	Suttsu County	寿都	すっつ	Suttsu	24
+01815	01	磯谷郡	いそやぐん	Isoya County	磯谷	いそや	Isoya	24
+01816	01	虻田郡	あぶたぐん	Abuta County	虻田	あぶた	Abuta	24
+01817	01	岩内郡	いわないぐん	Iwanai County	岩内	いわない	Iwanai	24
+01818	01	古宇郡	ふるうぐん	Furuu County	古宇	ふるう	Furuu	24
+01819	01	積丹郡	しゃこたんぐん	Shakotan County	積丹	しゃこたん	Shakotan	24
+01820	01	古平郡	ふるびらぐん	Furubira County	古平	ふるびら	Furubira	24
+01821	01	余市郡	よいちぐん	Yoichi County	余市	よいち	Yoichi	24
+01822	01	空知郡	そらちぐん	Sorachi County	空知	そらち	Sorachi	24
+01823	01	夕張郡	ゆうばりぐん	Yubari County	夕張	ゆうばり	Yubari	24
+01824	01	樺戸郡	かばとぐん	Kabato County	樺戸	かばと	Kabato	24
+01825	01	雨竜郡	うりゅうぐん	Uryu County	雨竜	うりゅう	Uryu	24
+01826	01	上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24
+01827	01	勇払郡	ゆうふつぐん	Yufutsu County	勇払	ゆうふつ	Yufutsu	24
+01828	01	上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24
+01829	01	中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24
+01830	01	増毛郡	ましけぐん	Mashike County	増毛	ましけ	Mashike	24
+01831	01	留萌郡	るもいぐん	Rumoi County	留萌	るもい	Rumoi	24
+01832	01	苫前郡	とままえぐん	Tomamae County	苫前	とままえ	Tomamae	24
+01833	01	天塩郡	てしおぐん	Teshio County	天塩	てしお	Teshio	24
+01834	01	宗谷郡	そうやぐん	Soya County	宗谷	そうや	Soya	24
+01835	01	枝幸郡	えさしぐん	Esashi County	枝幸	えさし	Esashi	24
+01836	01	礼文郡	れぶんぐん	Rebun County	礼文	れぶん	Rebun	24
+01837	01	利尻郡	りしりぐん	Rishiri County	利尻	りしり	Rishiri	24
+01838	01	網走郡	あばしりぐん	Abashiri County	網走	あばしり	Abashiri	24
+01839	01	斜里郡	しゃりぐん	Shari County	斜里	しゃり	Shari	24
+01840	01	常呂郡	ところぐん	Tokoro County	常呂	ところ	Tokoro	24
+01841	01	紋別郡	もんべつぐん	Monbetsu County	紋別	もんべつ	Monbetsu	24
+01842	01	有珠郡	うすぐん	Usu County	有珠	うす	Usu	24
+01843	01	白老郡	しらおいぐん	Shiraoi County	白老	しらおい	Shiraoi	24
+01844	01	沙流郡	さるぐん	Saru County	沙流	さる	Saru	24
+01845	01	新冠郡	にいかっぷぐん	Niikappu County	新冠	にいかっぷ	Niikappu	24
+01846	01	浦河郡	うらかわぐん	Urakawa County	浦河	うらかわ	Urakawa	24
+01847	01	様似郡	さまにぐん	Samani County	様似	さまに	Samani	24
+01848	01	幌泉郡	ほろいずみぐん	Horoizumi County	幌泉	ほろいずみ	Horoizumi	24
+01849	01	日高郡	ひだかぐん	Hidaka County	日高	ひだか	Hidaka	24
+01850	01	河東郡	かとうぐん	Kato County	河東	かとう	Kato	24
+01851	01	上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24
+01852	01	河西郡	かさいぐん	Kasai County	河西	かさい	Kasai	24
+01853	01	広尾郡	ひろおぐん	Hiroo County	広尾	ひろお	Hiroo	24
+01854	01	中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24
+01855	01	足寄郡	あしょろぐん	Ashoro County	足寄	あしょろ	Ashoro	24
+01856	01	十勝郡	とかちぐん	Tokachi County	十勝	とかち	Tokachi	24
+01857	01	釧路郡	くしろぐん	Kushiro County	釧路	くしろ	Kushiro	24
+01858	01	厚岸郡	あっけしぐん	Akkeshi County	厚岸	あっけし	Akkeshi	24
+01859	01	川上郡	かわかみぐん	Kawakami County	川上	かわかみ	Kawakami	24
+01860	01	阿寒郡	あかんぐん	Akan County	阿寒	あかん	Akan	24
+01861	01	白糠郡	しらぬかぐん	Shiranuka County	白糠	しらぬか	Shiranuka	24
+01862	01	野付郡	のつけぐん	Notsuke County	野付	のつけ	Notsuke	24
+01863	01	標津郡	しべつぐん	Shibetsu County	標津	しべつ	Shibetsu	24
+01864	01	目梨郡	めなしぐん	Menashi County	目梨	めなし	Menashi	24
+01865	01	色丹郡	しこたんぐん	Shikotan County	色丹	しこたん	Shikotan	24
+01866	01	国後郡	くなしりぐん	Kunashiri County	国後	くなしり	Kunashiri	24
+01867	01	択捉郡	えとろふぐん	Etorofu County	択捉	えとろふ	Etorofu	24
+01868	01	紗那郡	しゃなぐん	Shana County	紗那	しゃな	Shana	24
+01869	01	蘂取郡	しべとろぐん	Shibetoro County	蘂取	しべとろ	Shibetoro	24
+02200	02	市部	しぶ	City Area				23
+02300	02	東津軽郡	ひがしつがるぐん	Higashitsugaru County	東津軽	ひがしつがる	Higashitsugaru	24
+02320	02	西津軽郡	にしつがるぐん	Nishitsugaru County	西津軽	にしつがる	Nishitsugaru	24
+02340	02	中津軽郡	なかつがるぐん	Nakatsugaru County	中津軽	なかつがる	Nakatsugaru	24
+02360	02	南津軽郡	みなみつがるぐん	Minamitsugaru County	南津軽	みなみつがる	Minamitsugaru	24
+02380	02	北津軽郡	きたつがるぐん	Kitatsugaru County	北津軽	きたつがる	Kitatsugaru	24
+02400	02	上北郡	かみきたぐん	Kamikita County	上北	かみきた	Kamikita	24
+02420	02	下北郡	しもきたぐん	Shimokita County	下北	しもきた	Shimokita	24
+02440	02	三戸郡	さんのへぐん	Sannohe County	三戸	さんのへ	Sannohe	24
+03200	03	市部	しぶ	City Area				23
+03300	03	岩手郡	いわてぐん	Iwate County	岩手	いわて	Iwate	24
+03320	03	紫波郡	しわぐん	Shiwa County	紫波	しわ	Shiwa	24
+03360	03	和賀郡	わがぐん	Waga County	和賀	わが	Waga	24
+03380	03	胆沢郡	いさわぐん	Isawa County	胆沢	いさわ	Isawa	24
+03400	03	西磐井郡	にしいわいぐん	Nishiiwai County	西磐井	にしいわい	Nishiiwai	24
+03440	03	気仙郡	けせんぐん	Kesen County	気仙	けせん	Kesen	24
+03460	03	上閉伊郡	かみへいぐん	Kamihei County	上閉伊	かみへい	Kamihei	24
+03480	03	下閉伊郡	しもへいぐん	Shimohei County	下閉伊	しもへい	Shimohei	24
+03500	03	九戸郡	くのへぐん	Kunohe County	九戸	くのへ	Kunohe	24
+03520	03	二戸郡	にのへぐん	Ninohe County	二戸	にのへ	Ninohe	24
+04100	04	仙台市	せんだいし	Sendai City	仙台	せんだい	Sendai	21
+04200	04	市部	しぶ	City Area				23
+04300	04	刈田郡	かったぐん	Katta County	刈田	かった	Katta	24
+04320	04	柴田郡	しばたぐん	Shibata County	柴田	しばた	Shibata	24
+04340	04	伊具郡	いぐぐん	Igu County	伊具	いぐ	Igu	24
+04360	04	亘理郡	わたりぐん	Watari County	亘理	わたり	Watari	24
+04400	04	宮城郡	みやぎぐん	Miyagi County	宮城	みやぎ	Miyagi	24
+04420	04	黒川郡	くろかわぐん	Kurokawa County	黒川	くろかわ	Kurokawa	24
+04440	04	加美郡	かみぐん	Kami County	加美	かみ	Kami	24
+04500	04	遠田郡	とおだぐん	Toda County	遠田	とおだ	Toda	24
+04580	04	牡鹿郡	おしかぐん	Oshika County	牡鹿	おしか	Oshika	24
+04600	04	本吉郡	もとよしぐん	Motoyoshi County	本吉	もとよし	Motoyoshi	24
+05200	05	市部	しぶ	City Area				23
+05300	05	鹿角郡	かづのぐん	Kazuno County	鹿角	かづの	Kazuno	24
+05320	05	北秋田郡	きたあきたぐん	Kitaakita County	北秋田	きたあきた	Kitaakita	24
+05340	05	山本郡	やまもとぐん	Yamamoto County	山本	やまもと	Yamamoto	24
+05360	05	南秋田郡	みなみあきたぐん	Minamiakita County	南秋田	みなみあきた	Minamiakita	24
+05420	05	仙北郡	せんぼくぐん	Senboku County	仙北	せんぼく	Senboku	24
+05460	05	雄勝郡	おがちぐん	Ogachi County	雄勝	おがち	Ogachi	24
+06200	06	市部	しぶ	City Area				23
+06300	06	東村山郡	ひがしむらやまぐん	Higashimurayama County	東村山	ひがしむらやま	Higashimurayama	24
+06320	06	西村山郡	にしむらやまぐん	Nishimurayama County	西村山	にしむらやま	Nishimurayama	24
+06340	06	北村山郡	きたむらやまぐん	Kitamurayama County	北村山	きたむらやま	Kitamurayama	24
+06360	06	最上郡	もがみぐん	Mogami County	最上	もがみ	Mogami	24
+06380	06	東置賜郡	ひがしおきたまぐん	Higashiokitama County	東置賜	ひがしおきたま	Higashiokitama	24
+06400	06	西置賜郡	にしおきたまぐん	Nishiokitama County	西置賜	にしおきたま	Nishiokitama	24
+06420	06	東田川郡	ひがしたがわぐん	Higashitagawa County	東田川	ひがしたがわ	Higashitagawa	24
+06460	06	飽海郡	あくみぐん	Akumi County	飽海	あくみ	Akumi	24
+07200	07	市部	しぶ	City Area				23
+07300	07	伊達郡	だてぐん	Date County	伊達	だて	Date	24
+07320	07	安達郡	あだちぐん	Adachi County	安達	あだち	Adachi	24
+07340	07	岩瀬郡	いわせぐん	Iwase County	岩瀬	いわせ	Iwase	24
+07360	07	南会津郡	みなみあいづぐん	Minamiaizu County	南会津	みなみあいづ	Minamiaizu	24
+07400	07	耶麻郡	やまぐん	Yama County	耶麻	やま	Yama	24
+07420	07	河沼郡	かわぬまぐん	Kawanuma County	河沼	かわぬま	Kawanuma	24
+07440	07	大沼郡	おおぬまぐん	Onuma County	大沼	おおぬま	Onuma	24
+07460	07	西白河郡	にししらかわぐん	Nishishirakawa County	西白河	にししらかわ	Nishishirakawa	24
+07480	07	東白川郡	ひがししらかわぐん	Higashishirakawa County	東白川	ひがししらかわ	Higashishirakawa	24
+07500	07	石川郡	いしかわぐん	Ishikawa County	石川	いしかわ	Ishikawa	24
+07520	07	田村郡	たむらぐん	Tamura County	田村	たむら	Tamura	24
+07540	07	双葉郡	ふたばぐん	Futaba County	双葉	ふたば	Futaba	24
+07560	07	相馬郡	そうまぐん	Soma County	相馬	そうま	Soma	24
+08200	08	市部	しぶ	City Area				23
+08300	08	東茨城郡	ひがしいばらきぐん	Higashiibaraki County	東茨城	ひがしいばらき	Higashiibaraki	24
+08340	08	那珂郡	なかぐん	Naka County	那珂	なか	Naka	24
+08360	08	久慈郡	くじぐん	Kuji County	久慈	くじ	Kuji	24
+08440	08	稲敷郡	いなしきぐん	Inashiki County	稲敷	いなしき	Inashiki	24
+08520	08	結城郡	ゆうきぐん	Yuki County	結城	ゆうき	Yuki	24
+08540	08	猿島郡	さしまぐん	Sashima County	猿島	さしま	Sashima	24
+08560	08	北相馬郡	きたそうまぐん	Kitasoma County	北相馬	きたそうま	Kitasoma	24
+09200	09	市部	しぶ	City Area				23
+09300	09	河内郡	かわちぐん	Kawachi County	河内	かわち	Kawachi	24
+09340	09	芳賀郡	はがぐん	Haga County	芳賀	はが	Haga	24
+09360	09	下都賀郡	しもつがぐん	Shimotsuga County	下都賀	しもつが	Shimotsuga	24
+09380	09	塩谷郡	しおやぐん	Shioya County	塩谷	しおや	Shioya	24
+09400	09	那須郡	なすぐん	Nasu County	那須	なす	Nasu	24
+10200	10	市部	しぶ	City Area				23
+10340	10	北群馬郡	きたぐんまぐん	Kitagunma County	北群馬	きたぐんま	Kitagunma	24
+10360	10	多野郡	たのぐん	Tano County	多野	たの	Tano	24
+10380	10	甘楽郡	かんらぐん	Kanra County	甘楽	かんら	Kanra	24
+10420	10	吾妻郡	あがつまぐん	Agatsuma County	吾妻	あがつま	Agatsuma	24
+10440	10	利根郡	とねぐん	Tone County	利根	とね	Tone	24
+10460	10	佐波郡	さわぐん	Sawa County	佐波	さわ	Sawa	24
+10520	10	邑楽郡	おうらぐん	Ora County	邑楽	おうら	Ora	24
+11100	11	さいたま市	さいたまし	Saitama City	さいたま	さいたま	Saitama	21
+11200	11	市部	しぶ	City Area				23
+11300	11	北足立郡	きたあだちぐん	Kitaadachi County	北足立	きたあだち	Kitaadachi	24
+11320	11	入間郡	いるまぐん	Iruma County	入間	いるま	Iruma	24
+11340	11	比企郡	ひきぐん	Hiki County	比企	ひき	Hiki	24
+11360	11	秩父郡	ちちぶぐん	Chichibu County	秩父	ちちぶ	Chichibu	24
+11380	11	児玉郡	こだまぐん	Kodama County	児玉	こだま	Kodama	24
+11400	11	大里郡	おおさとぐん	Osato County	大里	おおさと	Osato	24
+11440	11	南埼玉郡	みなみさいたまぐん	Minamisaitama County	南埼玉	みなみさいたま	Minamisaitama	24
+11460	11	北葛飾郡	きたかつしかぐん	Kitakatsushika County	北葛飾	きたかつしか	Kitakatsushika	24
+12100	12	千葉市	ちばし	Chiba City	千葉	ちば	Chiba	21
+12200	12	市部	しぶ	City Area				23
+12320	12	印旛郡	いんばぐん	Inba County	印旛	いんば	Inba	24
+12340	12	香取郡	かとりぐん	Katori County	香取	かとり	Katori	24
+12400	12	山武郡	さんぶぐん	Sanbu County	山武	さんぶ	Sanbu	24
+12420	12	長生郡	ちょうせいぐん	Chosei County	長生	ちょうせい	Chosei	24
+12440	12	夷隅郡	いすみぐん	Isumi County	夷隅	いすみ	Isumi	24
+12460	12	安房郡	あわぐん	Awa County	安房	あわ	Awa	24
+13100	13	特別区部	とくべつくぶ	Special Ward Area				22
+13200	13	市部	しぶ	City Area				23
+13300	13	西多摩郡	にしたまぐん	Nishitama County	西多摩	にしたま	Nishitama	24
+13360	13	大島支庁	おおしましちょう	Oshima Branch Office	大島	おおしま	Oshima	27
+13380	13	三宅支庁	みやけしちょう	Miyake Branch Office	三宅	みやけ	Miyake	27
+13400	13	八丈支庁	はちじょうしちょう	Hachijo Branch Office	八丈	はちじょう	Hachijo	27
+13420	13	小笠原支庁	おがさわらしちょう	Ogasawara Branch Office	小笠原	おがさわら	Ogasawara	27
+14100	14	横浜市	よこはまし	Yokohama City	横浜	よこはま	Yokohama	21
+14130	14	川崎市	かわさきし	Kawasaki City	川崎	かわさき	Kawasaki	21
+14150	14	相模原市	さがみはらし	Sagamihara City	相模原	さがみはら	Sagamihara	21
+14200	14	市部	しぶ	City Area				23
+14300	14	三浦郡	みうらぐん	Miura County	三浦	みうら	Miura	24
+14320	14	高座郡	こうざぐん	Koza County	高座	こうざ	Koza	24
+14340	14	中郡	なかぐん	Naka County	中	なか	Naka	24
+14360	14	足柄上郡	あしがらかみぐん	Ashigarakami County	足柄上	あしがらかみ	Ashigarakami	24
+14380	14	足柄下郡	あしがらしもぐん	Ashigarashimo County	足柄下	あしがらしも	Ashigarashimo	24
+14400	14	愛甲郡	あいこうぐん	Aiko County	愛甲	あいこう	Aiko	24
+15100	15	新潟市	にいがたし	Niigata City	新潟	にいがた	Niigata	21
+15200	15	市部	しぶ	City Area				23
+15300	15	北蒲原郡	きたかんばらぐん	Kitakanbara County	北蒲原	きたかんばら	Kitakanbara	24
+15340	15	西蒲原郡	にしかんばらぐん	Nishikanbara County	西蒲原	にしかんばら	Nishikanbara	24
+15360	15	南蒲原郡	みなみかんばらぐん	Minamikanbara County	南蒲原	みなみかんばら	Minamikanbara	24
+15380	15	東蒲原郡	ひがしかんばらぐん	Higashikanbara County	東蒲原	ひがしかんばら	Higashikanbara	24
+15400	15	三島郡	さんとうぐん	Santo County	三島	さんとう	Santo	24
+15460	15	南魚沼郡	みなみうおぬまぐん	Minamiuonuma County	南魚沼	みなみうおぬま	Minamiuonuma	24
+15480	15	中魚沼郡	なかうおぬまぐん	Nakauonuma County	中魚沼	なかうおぬま	Nakauonuma	24
+15500	15	刈羽郡	かりわぐん	Kariwa County	刈羽	かりわ	Kariwa	24
+15580	15	岩船郡	いわふねぐん	Iwafune County	岩船	いわふね	Iwafune	24
+16200	16	市部	しぶ	City Area				23
+16320	16	中新川郡	なかにいかわぐん	Nakaniikawa County	中新川	なかにいかわ	Nakaniikawa	24
+16340	16	下新川郡	しもにいかわぐん	Shimoniikawa County	下新川	しもにいかわ	Shimoniikawa	24
+17200	17	市部	しぶ	City Area				23
+17320	17	能美郡	のみぐん	Nomi County	能美	のみ	Nomi	24
+17360	17	河北郡	かほくぐん	Kahoku County	河北	かほく	Kahoku	24
+17380	17	羽咋郡	はくいぐん	Hakui County	羽咋	はくい	Hakui	24
+17400	17	鹿島郡	かしまぐん	Kashima County	鹿島	かしま	Kashima	24
+17460	17	鳳珠郡	ほうすぐん	Hosu County	鳳珠	ほうす	Hosu	24
+18200	18	市部	しぶ	City Area				23
+18320	18	吉田郡	よしだぐん	Yoshida County	吉田	よしだ	Yoshida	24
+18380	18	今立郡	いまだてぐん	Imadate County	今立	いまだて	Imadate	24
+18400	18	南条郡	なんじょうぐん	Nanjo County	南条	なんじょう	Nanjo	24
+18420	18	丹生郡	にゅうぐん	Nyu County	丹生	にゅう	Nyu	24
+18440	18	三方郡	みかたぐん	Mikata County	三方	みかた	Mikata	24
+18480	18	大飯郡	おおいぐん	Oi County	大飯	おおい	Oi	24
+18500	18	三方上中郡	みかたかみなかぐん	Mikatakaminaka County	三方上中	みかたかみなか	Mikatakaminaka	24
+19200	19	市部	しぶ	City Area				23
+19340	19	西八代郡	にしやつしろぐん	Nishiyatsushiro County	西八代	にしやつしろ	Nishiyatsushiro	24
+19360	19	南巨摩郡	みなみこまぐん	Minamikoma County	南巨摩	みなみこま	Minamikoma	24
+19380	19	中巨摩郡	なかこまぐん	Nakakoma County	中巨摩	なかこま	Nakakoma	24
+19420	19	南都留郡	みなみつるぐん	Minamitsuru County	南都留	みなみつる	Minamitsuru	24
+19440	19	北都留郡	きたつるぐん	Kitatsuru County	北都留	きたつる	Kitatsuru	24
+20200	20	市部	しぶ	City Area				23
+20300	20	南佐久郡	みなみさくぐん	Minamisaku County	南佐久	みなみさく	Minamisaku	24
+20320	20	北佐久郡	きたさくぐん	Kitasaku County	北佐久	きたさく	Kitasaku	24
+20340	20	小県郡	ちいさがたぐん	Chiisagata County	小県	ちいさがた	Chiisagata	24
+20360	20	諏訪郡	すわぐん	Suwa County	諏訪	すわ	Suwa	24
+20380	20	上伊那郡	かみいなぐん	Kamiina County	上伊那	かみいな	Kamiina	24
+20400	20	下伊那郡	しもいなぐん	Shimoina County	下伊那	しもいな	Shimoina	24
+20420	20	木曽郡	きそぐん	Kiso County	木曽	きそ	Kiso	24
+20440	20	東筑摩郡	ひがしちくまぐん	Higashichikuma County	東筑摩	ひがしちくま	Higashichikuma	24
+20480	20	北安曇郡	きたあづみぐん	Kitaazumi County	北安曇	きたあづみ	Kitaazumi	24
+20520	20	埴科郡	はにしなぐん	Hanishina County	埴科	はにしな	Hanishina	24
+20540	20	上高井郡	かみたかいぐん	Kamitakai County	上高井	かみたかい	Kamitakai	24
+20560	20	下高井郡	しもたかいぐん	Shimotakai County	下高井	しもたかい	Shimotakai	24
+20580	20	上水内郡	かみみのちぐん	Kamiminochi County	上水内	かみみのち	Kamiminochi	24
+20600	20	下水内郡	しもみのちぐん	Shimominochi County	下水内	しもみのち	Shimominochi	24
+21200	21	市部	しぶ	City Area				23
+21300	21	羽島郡	はしまぐん	Hashima County	羽島	はしま	Hashima	24
+21340	21	養老郡	ようろうぐん	Yoro County	養老	ようろう	Yoro	24
+21360	21	不破郡	ふわぐん	Fuwa County	不破	ふわ	Fuwa	24
+21380	21	安八郡	あんぱちぐん	Anpachi County	安八	あんぱち	Anpachi	24
+21400	21	揖斐郡	いびぐん	Ibi County	揖斐	いび	Ibi	24
+21420	21	本巣郡	もとすぐん	Motosu County	本巣	もとす	Motosu	24
+21500	21	加茂郡	かもぐん	Kamo County	加茂	かも	Kamo	24
+21520	21	可児郡	かにぐん	Kani County	可児	かに	Kani	24
+21600	21	大野郡	おおのぐん	Ono County	大野	おおの	Ono	24
+22100	22	静岡市	しずおかし	Shizuoka City	静岡	しずおか	Shizuoka	21
+22130	22	浜松市	はままつし	Hamamatsu City	浜松	はままつ	Hamamatsu	21
+22200	22	市部	しぶ	City Area				23
+22300	22	賀茂郡	かもぐん	Kamo County	賀茂	かも	Kamo	24
+22320	22	田方郡	たがたぐん	Tagata County	田方	たがた	Tagata	24
+22340	22	駿東郡	すんとうぐん	Sunto County	駿東	すんとう	Sunto	24
+22420	22	榛原郡	はいばらぐん	Haibara County	榛原	はいばら	Haibara	24
+22460	22	周智郡	しゅうちぐん	Shuchi County	周智	しゅうち	Shuchi	24
+23100	23	名古屋市	なごやし	Nagoya City	名古屋	なごや	Nagoya	21
+23200	23	市部	しぶ	City Area				23
+23300	23	愛知郡	あいちぐん	Aichi County	愛知	あいち	Aichi	24
+23340	23	西春日井郡	にしかすがいぐん	Nishikasugai County	西春日井	にしかすがい	Nishikasugai	24
+23360	23	丹羽郡	にわぐん	Niwa County	丹羽	にわ	Niwa	24
+23420	23	海部郡	あまぐん	Ama County	海部	あま	Ama	24
+23440	23	知多郡	ちたぐん	Chita County	知多	ちた	Chita	24
+23500	23	額田郡	ぬかたぐん	Nukata County	額田	ぬかた	Nukata	24
+23560	23	北設楽郡	きたしたらぐん	Kitashitara County	北設楽	きたしたら	Kitashitara	24
+24200	24	市部	しぶ	City Area				23
+24300	24	桑名郡	くわなぐん	Kuwana County	桑名	くわな	Kuwana	24
+24320	24	員弁郡	いなべぐん	Inabe County	員弁	いなべ	Inabe	24
+24340	24	三重郡	みえぐん	Mie County	三重	みえ	Mie	24
+24440	24	多気郡	たきぐん	Taki County	多気	たき	Taki	24
+24460	24	度会郡	わたらいぐん	Watarai County	度会	わたらい	Watarai	24
+24540	24	北牟婁郡	きたむろぐん	Kitamuro County	北牟婁	きたむろ	Kitamuro	24
+24560	24	南牟婁郡	みなみむろぐん	Minamimuro County	南牟婁	みなみむろ	Minamimuro	24
+25200	25	市部	しぶ	City Area				23
+25380	25	蒲生郡	がもうぐん	Gamo County	蒲生	がもう	Gamo	24
+25420	25	愛知郡	えちぐん	Echi County	愛知	えち	Echi	24
+25440	25	犬上郡	いぬかみぐん	Inukami County	犬上	いぬかみ	Inukami	24
+26100	26	京都市	きょうとし	Kyoto City	京都	きょうと	Kyoto	21
+26200	26	市部	しぶ	City Area				23
+26300	26	乙訓郡	おとくにぐん	Otokuni County	乙訓	おとくに	Otokuni	24
+26320	26	久世郡	くせぐん	Kuse County	久世	くせ	Kuse	24
+26340	26	綴喜郡	つづきぐん	Tsuzuki County	綴喜	つづき	Tsuzuki	24
+26360	26	相楽郡	そうらくぐん	Soraku County	相楽	そうらく	Soraku	24
+26400	26	船井郡	ふないぐん	Funai County	船井	ふない	Funai	24
+26460	26	与謝郡	よさぐん	Yosa County	与謝	よさ	Yosa	24
+27100	27	大阪市	おおさかし	Osaka City	大阪	おおさか	Osaka	21
+27140	27	堺市	さかいし	Sakai City	堺	さかい	Sakai	21
+27200	27	市部	しぶ	City Area				23
+27300	27	三島郡	みしまぐん	Mishima County	三島	みしま	Mishima	24
+27320	27	豊能郡	とよのぐん	Toyono County	豊能	とよの	Toyono	24
+27340	27	泉北郡	せんぼくぐん	Senboku County	泉北	せんぼく	Senboku	24
+27360	27	泉南郡	せんなんぐん	Sennan County	泉南	せんなん	Sennan	24
+27380	27	南河内郡	みなみかわちぐん	Minamikawachi County	南河内	みなみかわち	Minamikawachi	24
+28100	28	神戸市	こうべし	Kobe City	神戸	こうべ	Kobe	21
+28200	28	市部	しぶ	City Area				23
+28300	28	川辺郡	かわべぐん	Kawabe County	川辺	かわべ	Kawabe	24
+28360	28	多可郡	たかぐん	Taka County	多可	たか	Taka	24
+28380	28	加古郡	かこぐん	Kako County	加古	かこ	Kako	24
+28440	28	神崎郡	かんざきぐん	Kanzaki County	神崎	かんざき	Kanzaki	24
+28460	28	揖保郡	いぼぐん	Ibo County	揖保	いぼ	Ibo	24
+28480	28	赤穂郡	あこうぐん	Ako County	赤穂	あこう	Ako	24
+28500	28	佐用郡	さようぐん	Sayo County	佐用	さよう	Sayo	24
+28580	28	美方郡	みかたぐん	Mikata County	美方	みかた	Mikata	24
+29200	29	市部	しぶ	City Area				23
+29320	29	山辺郡	やまべぐん	Yamabe County	山辺	やまべ	Yamabe	24
+29340	29	生駒郡	いこまぐん	Ikoma County	生駒	いこま	Ikoma	24
+29360	29	磯城郡	しきぐん	Shiki County	磯城	しき	Shiki	24
+29380	29	宇陀郡	うだぐん	Uda County	宇陀	うだ	Uda	24
+29400	29	高市郡	たかいちぐん	Takaichi County	高市	たかいち	Takaichi	24
+29420	29	北葛城郡	きたかつらぎぐん	Kitakatsuragi County	北葛城	きたかつらぎ	Kitakatsuragi	24
+29440	29	吉野郡	よしのぐん	Yoshino County	吉野	よしの	Yoshino	24
+30200	30	市部	しぶ	City Area				23
+30300	30	海草郡	かいそうぐん	Kaiso County	海草	かいそう	Kaiso	24
+30340	30	伊都郡	いとぐん	Ito County	伊都	いと	Ito	24
+30360	30	有田郡	ありだぐん	Arida County	有田	ありだ	Arida	24
+30380	30	日高郡	ひだかぐん	Hidaka County	日高	ひだか	Hidaka	24
+30400	30	西牟婁郡	にしむろぐん	Nishimuro County	西牟婁	にしむろ	Nishimuro	24
+30420	30	東牟婁郡	ひがしむろぐん	Higashimuro County	東牟婁	ひがしむろ	Higashimuro	24
+31200	31	市部	しぶ	City Area				23
+31300	31	岩美郡	いわみぐん	Iwami County	岩美	いわみ	Iwami	24
+31320	31	八頭郡	やずぐん	Yazu County	八頭	やず	Yazu	24
+31360	31	東伯郡	とうはくぐん	Tohaku County	東伯	とうはく	Tohaku	24
+31380	31	西伯郡	さいはくぐん	Saihaku County	西伯	さいはく	Saihaku	24
+31400	31	日野郡	ひのぐん	Hino County	日野	ひの	Hino	24
+32200	32	市部	しぶ	City Area				23
+32340	32	仁多郡	にたぐん	Nita County	仁多	にた	Nita	24
+32380	32	飯石郡	いいしぐん	Iishi County	飯石	いいし	Iishi	24
+32440	32	邑智郡	おおちぐん	Ochi County	邑智	おおち	Ochi	24
+32500	32	鹿足郡	かのあしぐん	Kanoashi County	鹿足	かのあし	Kanoashi	24
+32520	32	隠岐郡	おきぐん	Oki County	隠岐	おき	Oki	24
+33100	33	岡山市	おかやまし	Okayama City	岡山	おかやま	Okayama	21
+33200	33	市部	しぶ	City Area				23
+33340	33	和気郡	わけぐん	Wake County	和気	わけ	Wake	24
+33420	33	都窪郡	つくぼぐん	Tsukubo County	都窪	つくぼ	Tsukubo	24
+33440	33	浅口郡	あさくちぐん	Asakuchi County	浅口	あさくち	Asakuchi	24
+33460	33	小田郡	おだぐん	Oda County	小田	おだ	Oda	24
+33580	33	真庭郡	まにわぐん	Maniwa County	真庭	まにわ	Maniwa	24
+33600	33	苫田郡	とまたぐん	Tomata County	苫田	とまた	Tomata	24
+33620	33	勝田郡	かつたぐん	Katsuta County	勝田	かつた	Katsuta	24
+33640	33	英田郡	あいだぐん	Aida County	英田	あいだ	Aida	24
+33660	33	久米郡	くめぐん	Kume County	久米	くめ	Kume	24
+33680	33	加賀郡	かがぐん	Kaga County	加賀	かが	Kaga	24
+34100	34	広島市	ひろしまし	Hiroshima City	広島	ひろしま	Hiroshima	21
+34200	34	市部	しぶ	City Area				23
+34300	34	安芸郡	あきぐん	Aki County	安芸	あき	Aki	24
+34360	34	山県郡	やまがたぐん	Yamagata County	山県	やまがた	Yamagata	24
+34420	34	豊田郡	とよたぐん	Toyota County	豊田	とよた	Toyota	24
+34460	34	世羅郡	せらぐん	Sera County	世羅	せら	Sera	24
+34540	34	神石郡	じんせきぐん	Jinseki County	神石	じんせき	Jinseki	24
+35200	35	市部	しぶ	City Area				23
+35300	35	大島郡	おおしまぐん	Oshima County	大島	おおしま	Oshima	24
+35320	35	玖珂郡	くがぐん	Kuga County	玖珂	くが	Kuga	24
+35340	35	熊毛郡	くまげぐん	Kumage County	熊毛	くまげ	Kumage	24
+35500	35	阿武郡	あぶぐん	Abu County	阿武	あぶ	Abu	24
+36200	36	市部	しぶ	City Area				23
+36300	36	勝浦郡	かつうらぐん	Katsuura County	勝浦	かつうら	Katsuura	24
+36320	36	名東郡	みょうどうぐん	Myodo County	名東	みょうどう	Myodo	24
+36340	36	名西郡	みょうざいぐん	Myozai County	名西	みょうざい	Myozai	24
+36360	36	那賀郡	なかぐん	Naka County	那賀	なか	Naka	24
+36380	36	海部郡	かいふぐん	Kaifu County	海部	かいふ	Kaifu	24
+36400	36	板野郡	いたのぐん	Itano County	板野	いたの	Itano	24
+36460	36	美馬郡	みまぐん	Mima County	美馬	みま	Mima	24
+36480	36	三好郡	みよしぐん	Miyoshi County	三好	みよし	Miyoshi	24
+37200	37	市部	しぶ	City Area				23
+37320	37	小豆郡	しょうずぐん	Shozu County	小豆	しょうず	Shozu	24
+37340	37	木田郡	きたぐん	Kita County	木田	きた	Kita	24
+37360	37	香川郡	かがわぐん	Kagawa County	香川	かがわ	Kagawa	24
+37380	37	綾歌郡	あやうたぐん	Ayauta County	綾歌	あやうた	Ayauta	24
+37400	37	仲多度郡	なかたどぐん	Nakatado County	仲多度	なかたど	Nakatado	24
+38200	38	市部	しぶ	City Area				23
+38340	38	越智郡	おちぐん	Ochi County	越智	おち	Ochi	24
+38380	38	上浮穴郡	かみうけなぐん	Kamiukena County	上浮穴	かみうけな	Kamiukena	24
+38400	38	伊予郡	いよぐん	Iyo County	伊予	いよ	Iyo	24
+38420	38	喜多郡	きたぐん	Kita County	喜多	きた	Kita	24
+38440	38	西宇和郡	にしうわぐん	Nishiuwa County	西宇和	にしうわ	Nishiuwa	24
+38480	38	北宇和郡	きたうわぐん	Kitauwa County	北宇和	きたうわ	Kitauwa	24
+38500	38	南宇和郡	みなみうわぐん	Minamiuwa County	南宇和	みなみうわ	Minamiuwa	24
+39200	39	市部	しぶ	City Area				23
+39300	39	安芸郡	あきぐん	Aki County	安芸	あき	Aki	24
+39340	39	長岡郡	ながおかぐん	Nagaoka County	長岡	ながおか	Nagaoka	24
+39360	39	土佐郡	とさぐん	Tosa County	土佐	とさ	Tosa	24
+39380	39	吾川郡	あがわぐん	Agawa County	吾川	あがわ	Agawa	24
+39400	39	高岡郡	たかおかぐん	Takaoka County	高岡	たかおか	Takaoka	24
+39420	39	幡多郡	はたぐん	Hata County	幡多	はた	Hata	24
+40100	40	北九州市	きたきゅうしゅうし	Kitakyushu City	北九州	きたきゅうしゅう	Kitakyushu	21
+40130	40	福岡市	ふくおかし	Fukuoka City	福岡	ふくおか	Fukuoka	21
+40200	40	市部	しぶ	City Area				23
+40340	40	糟屋郡	かすやぐん	Kasuya County	糟屋	かすや	Kasuya	24
+40380	40	遠賀郡	おんがぐん	Onga County	遠賀	おんが	Onga	24
+40400	40	鞍手郡	くらてぐん	Kurate County	鞍手	くらて	Kurate	24
+40420	40	嘉穂郡	かほぐん	Kaho County	嘉穂	かほ	Kaho	24
+40440	40	朝倉郡	あさくらぐん	Asakura County	朝倉	あさくら	Asakura	24
+40500	40	三井郡	みいぐん	Mii County	三井	みい	Mii	24
+40520	40	三潴郡	みづまぐん	Mizuma County	三潴	みづま	Mizuma	24
+40540	40	八女郡	やめぐん	Yame County	八女	やめ	Yame	24
+40600	40	田川郡	たがわぐん	Tagawa County	田川	たがわ	Tagawa	24
+40620	40	京都郡	みやこぐん	Miyako County	京都	みやこ	Miyako	24
+40640	40	築上郡	ちくじょうぐん	Chikujo County	築上	ちくじょう	Chikujo	24
+41200	41	市部	しぶ	City Area				23
+41320	41	神埼郡	かんざきぐん	Kanzaki County	神埼	かんざき	Kanzaki	24
+41340	41	三養基郡	みやきぐん	Miyaki County	三養基	みやき	Miyaki	24
+41380	41	東松浦郡	ひがしまつうらぐん	Higashimatsuura County	東松浦	ひがしまつうら	Higashimatsuura	24
+41400	41	西松浦郡	にしまつうらぐん	Nishimatsuura County	西松浦	にしまつうら	Nishimatsuura	24
+41420	41	杵島郡	きしまぐん	Kishima County	杵島	きしま	Kishima	24
+41440	41	藤津郡	ふじつぐん	Fujitsu County	藤津	ふじつ	Fujitsu	24
+42200	42	市部	しぶ	City Area				23
+42300	42	西彼杵郡	にしそのぎぐん	Nishisonogi County	西彼杵	にしそのぎ	Nishisonogi	24
+42320	42	東彼杵郡	ひがしそのぎぐん	Higashisonogi County	東彼杵	ひがしそのぎ	Higashisonogi	24
+42380	42	北松浦郡	きたまつうらぐん	Kitamatsuura County	北松浦	きたまつうら	Kitamatsuura	24
+42400	42	南松浦郡	みなみまつうらぐん	Minamimatsuura County	南松浦	みなみまつうら	Minamimatsuura	24
+43100	43	熊本市	くまもとし	Kumamoto City	熊本	くまもと	Kumamoto	21
+43200	43	市部	しぶ	City Area				23
+43340	43	下益城郡	しもましきぐん	Shimomashiki County	下益城	しもましき	Shimomashiki	24
+43360	43	玉名郡	たまなぐん	Tamana County	玉名	たまな	Tamana	24
+43400	43	菊池郡	きくちぐん	Kikuchi County	菊池	きくち	Kikuchi	24
+43420	43	阿蘇郡	あそぐん	Aso County	阿蘇	あそ	Aso	24
+43440	43	上益城郡	かみましきぐん	Kamimashiki County	上益城	かみましき	Kamimashiki	24
+43460	43	八代郡	やつしろぐん	Yatsushiro County	八代	やつしろ	Yatsushiro	24
+43480	43	葦北郡	あしきたぐん	Ashikita County	葦北	あしきた	Ashikita	24
+43500	43	球磨郡	くまぐん	Kuma County	球磨	くま	Kuma	24
+43520	43	天草郡	あまくさぐん	Amakusa County	天草	あまくさ	Amakusa	24
+44200	44	市部	しぶ	City Area				23
+44320	44	東国東郡	ひがしくにさきぐん	Higashikunisaki County	東国東	ひがしくにさき	Higashikunisaki	24
+44340	44	速見郡	はやみぐん	Hayami County	速見	はやみ	Hayami	24
+44460	44	玖珠郡	くすぐん	Kusu County	玖珠	くす	Kusu	24
+45200	45	市部	しぶ	City Area				23
+45340	45	北諸県郡	きたもろかたぐん	Kitamorokata County	北諸県	きたもろかた	Kitamorokata	24
+45360	45	西諸県郡	にしもろかたぐん	Nishimorokata County	西諸県	にしもろかた	Nishimorokata	24
+45380	45	東諸県郡	ひがしもろかたぐん	Higashimorokata County	東諸県	ひがしもろかた	Higashimorokata	24
+45400	45	児湯郡	こゆぐん	Koyu County	児湯	こゆ	Koyu	24
+45420	45	東臼杵郡	ひがしうすきぐん	Higashiusuki County	東臼杵	ひがしうすき	Higashiusuki	24
+45440	45	西臼杵郡	にしうすきぐん	Nishiusuki County	西臼杵	にしうすき	Nishiusuki	24
+46200	46	市部	しぶ	City Area				23
+46300	46	鹿児島郡	かごしまぐん	Kagoshima County	鹿児島	かごしま	Kagoshima	24
+46380	46	薩摩郡	さつまぐん	Satsuma County	薩摩	さつま	Satsuma	24
+46400	46	出水郡	いずみぐん	Izumi County	出水	いずみ	Izumi	24
+46440	46	姶良郡	あいらぐん	Aira County	姶良	あいら	Aira	24
+46460	46	曽於郡	そおぐん	Soo County	曽於	そお	Soo	24
+46480	46	肝属郡	きもつきぐん	Kimotsuki County	肝属	きもつき	Kimotsuki	24
+46500	46	熊毛郡	くまげぐん	Kumage County	熊毛	くまげ	Kumage	24
+46520	46	大島郡	おおしまぐん	Oshima County	大島	おおしま	Oshima	24
+47200	47	市部	しぶ	City Area				23
+47300	47	国頭郡	くにがみぐん	Kunigami County	国頭	くにがみ	Kunigami	24
+47320	47	中頭郡	なかがみぐん	Nakagami County	中頭	なかがみ	Nakagami	24
+47340	47	島尻郡	しまじりぐん	Shimajiri County	島尻	しまじり	Shimajiri	24
+47370	47	宮古郡	みやこぐん	Miyako County	宮古	みやこ	Miyako	24
+47380	47	八重山郡	やえやまぐん	Yaeyama County	八重山	やえやま	Yaeyama	24

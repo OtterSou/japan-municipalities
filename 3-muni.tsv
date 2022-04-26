@@ -1,0 +1,1748 @@
+code	pref	psub	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	type	county	subpref
+01100	01	01100	札幌市	さっぽろし	Sapporo City	札幌	さっぽろ	Sapporo	31		01300
+01202	01	01200	函館市	はこだてし	Hakodate City	函館	はこだて	Hakodate	32		01330
+01203	01	01200	小樽市	おたるし	Otaru City	小樽	おたる	Otaru	32		01390
+01204	01	01200	旭川市	あさひかわし	Asahikawa City	旭川	あさひかわ	Asahikawa	32		01450
+01205	01	01200	室蘭市	むろらんし	Muroran City	室蘭	むろらん	Muroran	32		01570
+01206	01	01200	釧路市	くしろし	Kushiro City	釧路	くしろ	Kushiro	32		01660
+01207	01	01200	帯広市	おびひろし	Obihiro City	帯広	おびひろ	Obihiro	32		01630
+01208	01	01200	北見市	きたみし	Kitami City	北見	きたみ	Kitami	32		01450
+01209	01	01200	夕張市	ゆうばりし	Yubari City	夕張	ゆうばり	Yubari	32		01420
+01210	01	01200	岩見沢市	いわみざわし	Iwamizawa City	岩見沢	いわみざわ	Iwamizawa	32		01420
+01211	01	01200	網走市	あばしりし	Abashiri City	網走	あばしり	Abashiri	32		01450
+01212	01	01200	留萌市	るもいし	Rumoi City	留萌	るもい	Rumoi	32		01480
+01213	01	01200	苫小牧市	とまこまいし	Tomakomai City	苫小牧	とまこまい	Tomakomai	32		01570
+01214	01	01200	稚内市	わっかないし	Wakkanai City	稚内	わっかない	Wakkanai	32		01510
+01215	01	01200	美唄市	びばいし	Bibai City	美唄	びばい	Bibai	32		01420
+01216	01	01200	芦別市	あしべつし	Ashibetsu City	芦別	あしべつ	Ashibetsu	32		01420
+01217	01	01200	江別市	えべつし	Ebetsu City	江別	えべつ	Ebetsu	32		01300
+01218	01	01200	赤平市	あかびらし	Akabira City	赤平	あかびら	Akabira	32		01420
+01219	01	01200	紋別市	もんべつし	Monbetsu City	紋別	もんべつ	Monbetsu	32		01450
+01220	01	01200	士別市	しべつし	Shibetsu City	士別	しべつ	Shibetsu	32		01450
+01221	01	01200	名寄市	なよろし	Nayoro City	名寄	なよろ	Nayoro	32		01450
+01222	01	01200	三笠市	みかさし	Mikasa City	三笠	みかさ	Mikasa	32		01420
+01223	01	01200	根室市	ねむろし	Nemuro City	根室	ねむろ	Nemuro	32		01690
+01224	01	01200	千歳市	ちとせし	Chitose City	千歳	ちとせ	Chitose	32		01300
+01225	01	01200	滝川市	たきかわし	Takikawa City	滝川	たきかわ	Takikawa	32		01420
+01226	01	01200	砂川市	すながわし	Sunagawa City	砂川	すながわ	Sunagawa	32		01420
+01227	01	01200	歌志内市	うたしないし	Utashinai City	歌志内	うたしない	Utashinai	32		01420
+01228	01	01200	深川市	ふかがわし	Fukagawa City	深川	ふかがわ	Fukagawa	32		01420
+01229	01	01200	富良野市	ふらのし	Furano City	富良野	ふらの	Furano	32		01450
+01230	01	01200	登別市	のぼりべつし	Noboribetsu City	登別	のぼりべつ	Noboribetsu	32		01570
+01231	01	01200	恵庭市	えにわし	Eniwa City	恵庭	えにわ	Eniwa	32		01300
+01233	01	01200	伊達市	だてし	Date City	伊達	だて	Date	32		01570
+01234	01	01200	北広島市	きたひろしまし	Kitahiroshima City	北広島	きたひろしま	Kitahiroshima	32		01300
+01235	01	01200	石狩市	いしかりし	Ishikari City	石狩	いしかり	Ishikari	32		01300
+01236	01	01200	北斗市	ほくとし	Hokuto City	北斗	ほくと	Hokuto	32		01330
+01303	01	01300	当別町	とうべつちょう	Tobetsu Town	当別	とうべつ	Tobetsu	35	01801	01300
+01304	01	01300	新篠津村	しんしのつむら	Shinshinotsu Village	新篠津	しんしのつ	Shinshinotsu	36	01801	01300
+01331	01	01330	松前町	まつまえちょう	Matsumae Town	松前	まつまえ	Matsumae	35	01802	01330
+01332	01	01330	福島町	ふくしまちょう	Fukushima Town	福島	ふくしま	Fukushima	35	01802	01330
+01333	01	01330	知内町	しりうちちょう	Shiriuchi Town	知内	しりうち	Shiriuchi	35	01803	01330
+01334	01	01330	木古内町	きこないちょう	Kikonai Town	木古内	きこない	Kikonai	35	01803	01330
+01337	01	01330	七飯町	ななえちょう	Nanae Town	七飯	ななえ	Nanae	35	01804	01330
+01343	01	01330	鹿部町	しかべちょう	Shikabe Town	鹿部	しかべ	Shikabe	35	01805	01330
+01345	01	01330	森町	もりまち	Mori Town	森	もり	Mori	34	01805	01330
+01346	01	01330	八雲町	やくもちょう	Yakumo Town	八雲	やくも	Yakumo	35	01806	01330
+01347	01	01330	長万部町	おしゃまんべちょう	Oshamanbe Town	長万部	おしゃまんべ	Oshamanbe	35	01807	01330
+01361	01	01360	江差町	えさしちょう	Esashi Town	江差	えさし	Esashi	35	01808	01360
+01362	01	01360	上ノ国町	かみのくにちょう	Kaminokuni Town	上ノ国	かみのくに	Kaminokuni	35	01808	01360
+01363	01	01360	厚沢部町	あっさぶちょう	Assabu Town	厚沢部	あっさぶ	Assabu	35	01808	01360
+01364	01	01360	乙部町	おとべちょう	Otobe Town	乙部	おとべ	Otobe	35	01809	01360
+01367	01	01360	奥尻町	おくしりちょう	Okushiri Town	奥尻	おくしり	Okushiri	35	01810	01360
+01370	01	01360	今金町	いまかねちょう	Imakane Town	今金	いまかね	Imakane	35	01811	01360
+01371	01	01360	せたな町	せたなちょう	Setana Town	せたな	せたな	Setana	35	01812	01360
+01391	01	01390	島牧村	しままきむら	Shimamaki Village	島牧	しままき	Shimamaki	36	01813	01390
+01392	01	01390	寿都町	すっつちょう	Suttsu Town	寿都	すっつ	Suttsu	35	01814	01390
+01393	01	01390	黒松内町	くろまつないちょう	Kuromatsunai Town	黒松内	くろまつない	Kuromatsunai	35	01814	01390
+01394	01	01390	蘭越町	らんこしちょう	Rankoshi Town	蘭越	らんこし	Rankoshi	35	01815	01390
+01395	01	01390	ニセコ町	にせこちょう	Niseko Town	ニセコ	にせこ	Niseko	35	01816	01390
+01396	01	01390	真狩村	まっかりむら	Makkari Village	真狩	まっかり	Makkari	36	01816	01390
+01397	01	01390	留寿都村	るすつむら	Rusutsu Village	留寿都	るすつ	Rusutsu	36	01816	01390
+01398	01	01390	喜茂別町	きもべつちょう	Kimobetsu Town	喜茂別	きもべつ	Kimobetsu	35	01816	01390
+01399	01	01390	京極町	きょうごくちょう	Kyogoku Town	京極	きょうごく	Kyogoku	35	01816	01390
+01400	01	01390	倶知安町	くっちゃんちょう	Kutchan Town	倶知安	くっちゃん	Kutchan	35	01816	01390
+01401	01	01390	共和町	きょうわちょう	Kyowa Town	共和	きょうわ	Kyowa	35	01817	01390
+01402	01	01390	岩内町	いわないちょう	Iwanai Town	岩内	いわない	Iwanai	35	01817	01390
+01403	01	01390	泊村	とまりむら	Tomari Village	泊	とまり	Tomari	36	01818	01390
+01404	01	01390	神恵内村	かもえないむら	Kamoenai Village	神恵内	かもえない	Kamoenai	36	01818	01390
+01405	01	01390	積丹町	しゃこたんちょう	Shakotan Town	積丹	しゃこたん	Shakotan	35	01819	01390
+01406	01	01390	古平町	ふるびらちょう	Furubira Town	古平	ふるびら	Furubira	35	01820	01390
+01407	01	01390	仁木町	にきちょう	Niki Town	仁木	にき	Niki	35	01821	01390
+01408	01	01390	余市町	よいちちょう	Yoichi Town	余市	よいち	Yoichi	35	01821	01390
+01409	01	01390	赤井川村	あかいがわむら	Akaigawa Village	赤井川	あかいがわ	Akaigawa	36	01821	01390
+01423	01	01420	南幌町	なんぽろちょう	Nanporo Town	南幌	なんぽろ	Nanporo	35	01822	01420
+01424	01	01420	奈井江町	ないえちょう	Naie Town	奈井江	ないえ	Naie	35	01822	01420
+01425	01	01420	上砂川町	かみすながわちょう	Kamisunagawa Town	上砂川	かみすながわ	Kamisunagawa	35	01822	01420
+01427	01	01420	由仁町	ゆにちょう	Yuni Town	由仁	ゆに	Yuni	35	01823	01420
+01428	01	01420	長沼町	ながぬまちょう	Naganuma Town	長沼	ながぬま	Naganuma	35	01823	01420
+01429	01	01420	栗山町	くりやまちょう	Kuriyama Town	栗山	くりやま	Kuriyama	35	01823	01420
+01430	01	01420	月形町	つきがたちょう	Tsukigata Town	月形	つきがた	Tsukigata	35	01824	01420
+01431	01	01420	浦臼町	うらうすちょう	Urausu Town	浦臼	うらうす	Urausu	35	01824	01420
+01432	01	01420	新十津川町	しんとつかわちょう	Shintotsukawa Town	新十津川	しんとつかわ	Shintotsukawa	35	01824	01420
+01433	01	01420	妹背牛町	もせうしちょう	Moseushi Town	妹背牛	もせうし	Moseushi	35	01825	01420
+01434	01	01420	秩父別町	ちっぷべつちょう	Chippubetsu Town	秩父別	ちっぷべつ	Chippubetsu	35	01825	01420
+01436	01	01420	雨竜町	うりゅうちょう	Uryu Town	雨竜	うりゅう	Uryu	35	01825	01420
+01437	01	01420	北竜町	ほくりゅうちょう	Hokuryu Town	北竜	ほくりゅう	Hokuryu	35	01825	01420
+01438	01	01420	沼田町	ぬまたちょう	Numata Town	沼田	ぬまた	Numata	35	01825	01420
+01452	01	01450	鷹栖町	たかすちょう	Takasu Town	鷹栖	たかす	Takasu	35	01826	01450
+01453	01	01450	東神楽町	ひがしかぐらちょう	Higashikagura Town	東神楽	ひがしかぐら	Higashikagura	35	01826	01450
+01454	01	01450	当麻町	とうまちょう	Toma Town	当麻	とうま	Toma	35	01826	01450
+01455	01	01450	比布町	ぴっぷちょう	Pippu Town	比布	ぴっぷ	Pippu	35	01826	01450
+01456	01	01450	愛別町	あいべつちょう	Aibetsu Town	愛別	あいべつ	Aibetsu	35	01826	01450
+01457	01	01450	上川町	かみかわちょう	Kamikawa Town	上川	かみかわ	Kamikawa	35	01826	01450
+01458	01	01450	東川町	ひがしかわちょう	Higashikawa Town	東川	ひがしかわ	Higashikawa	35	01826	01450
+01459	01	01450	美瑛町	びえいちょう	Biei Town	美瑛	びえい	Biei	35	01826	01450
+01460	01	01450	上富良野町	かみふらのちょう	Kamifurano Town	上富良野	かみふらの	Kamifurano	35	01822	01450
+01461	01	01450	中富良野町	なかふらのちょう	Nakafurano Town	中富良野	なかふらの	Nakafurano	35	01822	01450
+01462	01	01450	南富良野町	みなみふらのちょう	Minamifurano Town	南富良野	みなみふらの	Minamifurano	35	01822	01450
+01463	01	01450	占冠村	しむかっぷむら	Shimukappu Village	占冠	しむかっぷ	Shimukappu	36	01827	01450
+01464	01	01450	和寒町	わっさむちょう	Wassamu Town	和寒	わっさむ	Wassamu	35	01828	01450
+01465	01	01450	剣淵町	けんぶちちょう	Kenbuchi Town	剣淵	けんぶち	Kenbuchi	35	01828	01450
+01468	01	01450	下川町	しもかわちょう	Shimokawa Town	下川	しもかわ	Shimokawa	35	01828	01450
+01469	01	01450	美深町	びふかちょう	Bifuka Town	美深	びふか	Bifuka	35	01829	01450
+01470	01	01450	音威子府村	おといねっぷむら	Otoineppu Village	音威子府	おといねっぷ	Otoineppu	36	01829	01450
+01471	01	01450	中川町	なかがわちょう	Nakagawa Town	中川	なかがわ	Nakagawa	35	01829	01450
+01472	01	01450	幌加内町	ほろかないちょう	Horokanai Town	幌加内	ほろかない	Horokanai	35	01825	01450
+01481	01	01480	増毛町	ましけちょう	Mashike Town	増毛	ましけ	Mashike	35	01830	01480
+01482	01	01480	小平町	おびらちょう	Obira Town	小平	おびら	Obira	35	01831	01480
+01483	01	01480	苫前町	とままえちょう	Tomamae Town	苫前	とままえ	Tomamae	35	01832	01480
+01484	01	01480	羽幌町	はぼろちょう	Haboro Town	羽幌	はぼろ	Haboro	35	01832	01480
+01485	01	01480	初山別村	しょさんべつむら	Shosanbetsu Village	初山別	しょさんべつ	Shosanbetsu	36	01832	01480
+01486	01	01480	遠別町	えんべつちょう	Enbetsu Town	遠別	えんべつ	Enbetsu	35	01833	01480
+01487	01	01480	天塩町	てしおちょう	Teshio Town	天塩	てしお	Teshio	35	01833	01480
+01511	01	01510	猿払村	さるふつむら	Sarufutsu Village	猿払	さるふつ	Sarufutsu	36	01834	01510
+01512	01	01510	浜頓別町	はまとんべつちょう	Hamatonbetsu Town	浜頓別	はまとんべつ	Hamatonbetsu	35	01835	01510
+01513	01	01510	中頓別町	なかとんべつちょう	Nakatonbetsu Town	中頓別	なかとんべつ	Nakatonbetsu	35	01835	01510
+01514	01	01510	枝幸町	えさしちょう	Esashi Town	枝幸	えさし	Esashi	35	01835	01510
+01516	01	01510	豊富町	とよとみちょう	Toyotomi Town	豊富	とよとみ	Toyotomi	35	01833	01510
+01517	01	01510	礼文町	れぶんちょう	Rebun Town	礼文	れぶん	Rebun	35	01836	01510
+01518	01	01510	利尻町	りしりちょう	Rishiri Town	利尻	りしり	Rishiri	35	01837	01510
+01519	01	01510	利尻富士町	りしりふじちょう	Rishirifuji Town	利尻富士	りしりふじ	Rishirifuji	35	01837	01510
+01520	01	01510	幌延町	ほろのべちょう	Horonobe Town	幌延	ほろのべ	Horonobe	35	01833	01510
+01543	01	01540	美幌町	びほろちょう	Bihoro Town	美幌	びほろ	Bihoro	35	01838	01540
+01544	01	01540	津別町	つべつちょう	Tsubetsu Town	津別	つべつ	Tsubetsu	35	01838	01540
+01545	01	01540	斜里町	しゃりちょう	Shari Town	斜里	しゃり	Shari	35	01839	01540
+01546	01	01540	清里町	きよさとちょう	Kiyosato Town	清里	きよさと	Kiyosato	35	01839	01540
+01547	01	01540	小清水町	こしみずちょう	Koshimizu Town	小清水	こしみず	Koshimizu	35	01839	01540
+01549	01	01540	訓子府町	くんねっぷちょう	Kunneppu Town	訓子府	くんねっぷ	Kunneppu	35	01840	01540
+01550	01	01540	置戸町	おけとちょう	Oketo Town	置戸	おけと	Oketo	35	01840	01540
+01552	01	01540	佐呂間町	さろまちょう	Saroma Town	佐呂間	さろま	Saroma	35	01840	01540
+01555	01	01540	遠軽町	えんがるちょう	Engaru Town	遠軽	えんがる	Engaru	35	01841	01540
+01559	01	01540	湧別町	ゆうべつちょう	Yubetsu Town	湧別	ゆうべつ	Yubetsu	35	01841	01540
+01560	01	01540	滝上町	たきのうえちょう	Takinoue Town	滝上	たきのうえ	Takinoue	35	01841	01540
+01561	01	01540	興部町	おこっぺちょう	Okoppe Town	興部	おこっぺ	Okoppe	35	01841	01540
+01562	01	01540	西興部村	にしおこっぺむら	Nishiokoppe Village	西興部	にしおこっぺ	Nishiokoppe	36	01841	01540
+01563	01	01540	雄武町	おうむちょう	Omu Town	雄武	おうむ	Omu	35	01841	01540
+01564	01	01540	大空町	おおぞらちょう	Ozora Town	大空	おおぞら	Ozora	35	01838	01540
+01571	01	01570	豊浦町	とようらちょう	Toyoura Town	豊浦	とようら	Toyoura	35	01816	01570
+01575	01	01570	壮瞥町	そうべつちょう	Sobetsu Town	壮瞥	そうべつ	Sobetsu	35	01842	01570
+01578	01	01570	白老町	しらおいちょう	Shiraoi Town	白老	しらおい	Shiraoi	35	01843	01570
+01581	01	01570	厚真町	あつまちょう	Atsuma Town	厚真	あつま	Atsuma	35	01827	01570
+01584	01	01570	洞爺湖町	とうやこちょう	Toyako Town	洞爺湖	とうやこ	Toyako	35	01816	01570
+01585	01	01570	安平町	あびらちょう	Abira Town	安平	あびら	Abira	35	01827	01570
+01586	01	01570	むかわ町	むかわちょう	Mukawa Town	むかわ	むかわ	Mukawa	35	01827	01570
+01601	01	01600	日高町	ひだかちょう	Hidaka Town	日高	ひだか	Hidaka	35	01844	01600
+01602	01	01600	平取町	びらとりちょう	Biratori Town	平取	びらとり	Biratori	35	01844	01600
+01604	01	01600	新冠町	にいかっぷちょう	Niikappu Town	新冠	にいかっぷ	Niikappu	35	01845	01600
+01607	01	01600	浦河町	うらかわちょう	Urakawa Town	浦河	うらかわ	Urakawa	35	01846	01600
+01608	01	01600	様似町	さまにちょう	Samani Town	様似	さまに	Samani	35	01847	01600
+01609	01	01600	えりも町	えりもちょう	Erimo Town	えりも	えりも	Erimo	35	01848	01600
+01610	01	01600	新ひだか町	しんひだかちょう	Shinhidaka Town	新ひだか	しんひだか	Shinhidaka	35	01849	01600
+01631	01	01630	音更町	おとふけちょう	Otofuke Town	音更	おとふけ	Otofuke	35	01850	01630
+01632	01	01630	士幌町	しほろちょう	Shihoro Town	士幌	しほろ	Shihoro	35	01850	01630
+01633	01	01630	上士幌町	かみしほろちょう	Kamishihoro Town	上士幌	かみしほろ	Kamishihoro	35	01850	01630
+01634	01	01630	鹿追町	しかおいちょう	Shikaoi Town	鹿追	しかおい	Shikaoi	35	01850	01630
+01635	01	01630	新得町	しんとくちょう	Shintoku Town	新得	しんとく	Shintoku	35	01851	01630
+01636	01	01630	清水町	しみずちょう	Shimizu Town	清水	しみず	Shimizu	35	01851	01630
+01637	01	01630	芽室町	めむろちょう	Memuro Town	芽室	めむろ	Memuro	35	01852	01630
+01638	01	01630	中札内村	なかさつないむら	Nakasatsunai Village	中札内	なかさつない	Nakasatsunai	36	01852	01630
+01639	01	01630	更別村	さらべつむら	Sarabetsu Village	更別	さらべつ	Sarabetsu	36	01852	01630
+01641	01	01630	大樹町	たいきちょう	Taiki Town	大樹	たいき	Taiki	35	01853	01630
+01642	01	01630	広尾町	ひろおちょう	Hiroo Town	広尾	ひろお	Hiroo	35	01853	01630
+01643	01	01630	幕別町	まくべつちょう	Makubetsu Town	幕別	まくべつ	Makubetsu	35	01854	01630
+01644	01	01630	池田町	いけだちょう	Ikeda Town	池田	いけだ	Ikeda	35	01854	01630
+01645	01	01630	豊頃町	とよころちょう	Toyokoro Town	豊頃	とよころ	Toyokoro	35	01854	01630
+01646	01	01630	本別町	ほんべつちょう	Honbetsu Town	本別	ほんべつ	Honbetsu	35	01854	01630
+01647	01	01630	足寄町	あしょろちょう	Ashoro Town	足寄	あしょろ	Ashoro	35	01855	01630
+01648	01	01630	陸別町	りくべつちょう	Rikubetsu Town	陸別	りくべつ	Rikubetsu	35	01855	01630
+01649	01	01630	浦幌町	うらほろちょう	Urahoro Town	浦幌	うらほろ	Urahoro	35	01856	01630
+01661	01	01660	釧路町	くしろちょう	Kushiro Town	釧路	くしろ	Kushiro	35	01857	01660
+01662	01	01660	厚岸町	あっけしちょう	Akkeshi Town	厚岸	あっけし	Akkeshi	35	01858	01660
+01663	01	01660	浜中町	はまなかちょう	Hamanaka Town	浜中	はまなか	Hamanaka	35	01858	01660
+01664	01	01660	標茶町	しべちゃちょう	Shibecha Town	標茶	しべちゃ	Shibecha	35	01859	01660
+01665	01	01660	弟子屈町	てしかがちょう	Teshikaga Town	弟子屈	てしかが	Teshikaga	35	01859	01660
+01667	01	01660	鶴居村	つるいむら	Tsurui Village	鶴居	つるい	Tsurui	36	01860	01660
+01668	01	01660	白糠町	しらぬかちょう	Shiranuka Town	白糠	しらぬか	Shiranuka	35	01861	01660
+01691	01	01690	別海町	べつかいちょう	Betsukai Town	別海	べつかい	Betsukai	35	01862	01690
+01692	01	01690	中標津町	なかしべつちょう	Nakashibetsu Town	中標津	なかしべつ	Nakashibetsu	35	01863	01690
+01693	01	01690	標津町	しべつちょう	Shibetsu Town	標津	しべつ	Shibetsu	35	01863	01690
+01694	01	01690	羅臼町	らうすちょう	Rausu Town	羅臼	らうす	Rausu	35	01864	01690
+01695	01	01690	色丹村	しこたんむら	Shikotan Village	色丹	しこたん	Shikotan	36	01865	01690
+01696	01	01690	泊村	とまりむら	Tomari Village	泊	とまり	Tomari	36	01866	01690
+01697	01	01690	留夜別村	るよべつむら	Ruyobetsu Village	留夜別	るよべつ	Ruyobetsu	36	01866	01690
+01698	01	01690	留別村	るべつむら	Rubetsu Village	留別	るべつ	Rubetsu	36	01867	01690
+01699	01	01690	紗那村	しゃなむら	Shana Village	紗那	しゃな	Shana	36	01868	01690
+01700	01	01690	蘂取村	しべとろむら	Shibetoro Village	蘂取	しべとろ	Shibetoro	36	01869	01690
+02201	02	02200	青森市	あおもりし	Aomori City	青森	あおもり	Aomori	32		
+02202	02	02200	弘前市	ひろさきし	Hirosaki City	弘前	ひろさき	Hirosaki	32		
+02203	02	02200	八戸市	はちのへし	Hachinohe City	八戸	はちのへ	Hachinohe	32		
+02204	02	02200	黒石市	くろいしし	Kuroishi City	黒石	くろいし	Kuroishi	32		
+02205	02	02200	五所川原市	ごしょがわらし	Goshogawara City	五所川原	ごしょがわら	Goshogawara	32		
+02206	02	02200	十和田市	とわだし	Towada City	十和田	とわだ	Towada	32		
+02207	02	02200	三沢市	みさわし	Misawa City	三沢	みさわ	Misawa	32		
+02208	02	02200	むつ市	むつし	Mutsu City	むつ	むつ	Mutsu	32		
+02209	02	02200	つがる市	つがるし	Tsugaru City	つがる	つがる	Tsugaru	32		
+02210	02	02200	平川市	ひらかわし	Hirakawa City	平川	ひらかわ	Hirakawa	32		
+02301	02	02300	平内町	ひらないまち	Hiranai Town	平内	ひらない	Hiranai	34	02300	
+02303	02	02300	今別町	いまべつまち	Imabetsu Town	今別	いまべつ	Imabetsu	34	02300	
+02304	02	02300	蓬田村	よもぎたむら	Yomogita Village	蓬田	よもぎた	Yomogita	36	02300	
+02307	02	02300	外ヶ浜町	そとがはままち	Sotogahama Town	外ヶ浜	そとがはま	Sotogahama	34	02300	
+02321	02	02320	鰺ヶ沢町	あじがさわまち	Ajigasawa Town	鰺ヶ沢	あじがさわ	Ajigasawa	34	02320	
+02323	02	02320	深浦町	ふかうらまち	Fukaura Town	深浦	ふかうら	Fukaura	34	02320	
+02343	02	02340	西目屋村	にしめやむら	Nishimeya Village	西目屋	にしめや	Nishimeya	36	02340	
+02361	02	02360	藤崎町	ふじさきまち	Fujisaki Town	藤崎	ふじさき	Fujisaki	34	02360	
+02362	02	02360	大鰐町	おおわにまち	Owani Town	大鰐	おおわに	Owani	34	02360	
+02367	02	02360	田舎館村	いなかだてむら	Inakadate Village	田舎館	いなかだて	Inakadate	36	02360	
+02381	02	02380	板柳町	いたやなぎまち	Itayanagi Town	板柳	いたやなぎ	Itayanagi	34	02380	
+02384	02	02380	鶴田町	つるたまち	Tsuruta Town	鶴田	つるた	Tsuruta	34	02380	
+02387	02	02380	中泊町	なかどまりまち	Nakadomari Town	中泊	なかどまり	Nakadomari	34	02380	
+02401	02	02400	野辺地町	のへじまち	Noheji Town	野辺地	のへじ	Noheji	34	02400	
+02402	02	02400	七戸町	しちのへまち	Shichinohe Town	七戸	しちのへ	Shichinohe	34	02400	
+02405	02	02400	六戸町	ろくのへまち	Rokunohe Town	六戸	ろくのへ	Rokunohe	34	02400	
+02406	02	02400	横浜町	よこはままち	Yokohama Town	横浜	よこはま	Yokohama	34	02400	
+02408	02	02400	東北町	とうほくまち	Tohoku Town	東北	とうほく	Tohoku	34	02400	
+02411	02	02400	六ヶ所村	ろっかしょむら	Rokkasho Village	六ヶ所	ろっかしょ	Rokkasho	36	02400	
+02412	02	02400	おいらせ町	おいらせちょう	Oirase Town	おいらせ	おいらせ	Oirase	35	02400	
+02423	02	02420	大間町	おおままち	Oma Town	大間	おおま	Oma	34	02420	
+02424	02	02420	東通村	ひがしどおりむら	Higashidori Village	東通	ひがしどおり	Higashidori	36	02420	
+02425	02	02420	風間浦村	かざまうらむら	Kazamaura Village	風間浦	かざまうら	Kazamaura	36	02420	
+02426	02	02420	佐井村	さいむら	Sai Village	佐井	さい	Sai	36	02420	
+02441	02	02440	三戸町	さんのへまち	Sannohe Town	三戸	さんのへ	Sannohe	34	02440	
+02442	02	02440	五戸町	ごのへまち	Gonohe Town	五戸	ごのへ	Gonohe	34	02440	
+02443	02	02440	田子町	たっこまち	Takko Town	田子	たっこ	Takko	34	02440	
+02445	02	02440	南部町	なんぶちょう	Nanbu Town	南部	なんぶ	Nanbu	35	02440	
+02446	02	02440	階上町	はしかみちょう	Hashikami Town	階上	はしかみ	Hashikami	35	02440	
+02450	02	02440	新郷村	しんごうむら	Shingo Village	新郷	しんごう	Shingo	36	02440	
+03201	03	03200	盛岡市	もりおかし	Morioka City	盛岡	もりおか	Morioka	32		
+03202	03	03200	宮古市	みやこし	Miyako City	宮古	みやこ	Miyako	32		
+03203	03	03200	大船渡市	おおふなとし	Ofunato City	大船渡	おおふなと	Ofunato	32		
+03205	03	03200	花巻市	はなまきし	Hanamaki City	花巻	はなまき	Hanamaki	32		
+03206	03	03200	北上市	きたかみし	Kitakami City	北上	きたかみ	Kitakami	32		
+03207	03	03200	久慈市	くじし	Kuji City	久慈	くじ	Kuji	32		
+03208	03	03200	遠野市	とおのし	Tono City	遠野	とおの	Tono	32		
+03209	03	03200	一関市	いちのせきし	Ichinoseki City	一関	いちのせき	Ichinoseki	32		
+03210	03	03200	陸前高田市	りくぜんたかたし	Rikuzentakata City	陸前高田	りくぜんたかた	Rikuzentakata	32		
+03211	03	03200	釜石市	かまいしし	Kamaishi City	釜石	かまいし	Kamaishi	32		
+03213	03	03200	二戸市	にのへし	Ninohe City	二戸	にのへ	Ninohe	32		
+03214	03	03200	八幡平市	はちまんたいし	Hachimantai City	八幡平	はちまんたい	Hachimantai	32		
+03215	03	03200	奥州市	おうしゅうし	Oshu City	奥州	おうしゅう	Oshu	32		
+03216	03	03200	滝沢市	たきざわし	Takizawa City	滝沢	たきざわ	Takizawa	32		
+03301	03	03300	雫石町	しずくいしちょう	Shizukuishi Town	雫石	しずくいし	Shizukuishi	35	03300	
+03302	03	03300	葛巻町	くずまきまち	Kuzumaki Town	葛巻	くずまき	Kuzumaki	34	03300	
+03303	03	03300	岩手町	いわてまち	Iwate Town	岩手	いわて	Iwate	34	03300	
+03321	03	03320	紫波町	しわちょう	Shiwa Town	紫波	しわ	Shiwa	35	03320	
+03322	03	03320	矢巾町	やはばちょう	Yahaba Town	矢巾	やはば	Yahaba	35	03320	
+03366	03	03360	西和賀町	にしわがまち	Nishiwaga Town	西和賀	にしわが	Nishiwaga	34	03360	
+03381	03	03380	金ケ崎町	かねがさきちょう	Kanegasaki Town	金ケ崎	かねがさき	Kanegasaki	35	03380	
+03402	03	03400	平泉町	ひらいずみちょう	Hiraizumi Town	平泉	ひらいずみ	Hiraizumi	35	03400	
+03441	03	03440	住田町	すみたちょう	Sumita Town	住田	すみた	Sumita	35	03440	
+03461	03	03460	大槌町	おおつちちょう	Otsuchi Town	大槌	おおつち	Otsuchi	35	03460	
+03482	03	03480	山田町	やまだまち	Yamada Town	山田	やまだ	Yamada	34	03480	
+03483	03	03480	岩泉町	いわいずみちょう	Iwaizumi Town	岩泉	いわいずみ	Iwaizumi	35	03480	
+03484	03	03480	田野畑村	たのはたむら	Tanohata Village	田野畑	たのはた	Tanohata	36	03480	
+03485	03	03480	普代村	ふだいむら	Fudai Village	普代	ふだい	Fudai	36	03480	
+03501	03	03500	軽米町	かるまいまち	Karumai Town	軽米	かるまい	Karumai	34	03500	
+03503	03	03500	野田村	のだむら	Noda Village	野田	のだ	Noda	36	03500	
+03506	03	03500	九戸村	くのへむら	Kunohe Village	九戸	くのへ	Kunohe	36	03500	
+03507	03	03500	洋野町	ひろのちょう	Hirono Town	洋野	ひろの	Hirono	35	03500	
+03524	03	03520	一戸町	いちのへまち	Ichinohe Town	一戸	いちのへ	Ichinohe	34	03520	
+04100	04	04100	仙台市	せんだいし	Sendai City	仙台	せんだい	Sendai	31		
+04202	04	04200	石巻市	いしのまきし	Ishinomaki City	石巻	いしのまき	Ishinomaki	32		
+04203	04	04200	塩竈市	しおがまし	Shiogama City	塩竈	しおがま	Shiogama	32		
+04205	04	04200	気仙沼市	けせんぬまし	Kesennuma City	気仙沼	けせんぬま	Kesennuma	32		
+04206	04	04200	白石市	しろいしし	Shiroishi City	白石	しろいし	Shiroishi	32		
+04207	04	04200	名取市	なとりし	Natori City	名取	なとり	Natori	32		
+04208	04	04200	角田市	かくだし	Kakuda City	角田	かくだ	Kakuda	32		
+04209	04	04200	多賀城市	たがじょうし	Tagajo City	多賀城	たがじょう	Tagajo	32		
+04211	04	04200	岩沼市	いわぬまし	Iwanuma City	岩沼	いわぬま	Iwanuma	32		
+04212	04	04200	登米市	とめし	Tome City	登米	とめ	Tome	32		
+04213	04	04200	栗原市	くりはらし	Kurihara City	栗原	くりはら	Kurihara	32		
+04214	04	04200	東松島市	ひがしまつしまし	Higashimatsushima City	東松島	ひがしまつしま	Higashimatsushima	32		
+04215	04	04200	大崎市	おおさきし	Osaki City	大崎	おおさき	Osaki	32		
+04216	04	04200	富谷市	とみやし	Tomiya City	富谷	とみや	Tomiya	32		
+04301	04	04300	蔵王町	ざおうまち	Zao Town	蔵王	ざおう	Zao	34	04300	
+04302	04	04300	七ヶ宿町	しちかしゅくまち	Shichikashuku Town	七ヶ宿	しちかしゅく	Shichikashuku	34	04300	
+04321	04	04320	大河原町	おおがわらまち	Ogawara Town	大河原	おおがわら	Ogawara	34	04320	
+04322	04	04320	村田町	むらたまち	Murata Town	村田	むらた	Murata	34	04320	
+04323	04	04320	柴田町	しばたまち	Shibata Town	柴田	しばた	Shibata	34	04320	
+04324	04	04320	川崎町	かわさきまち	Kawasaki Town	川崎	かわさき	Kawasaki	34	04320	
+04341	04	04340	丸森町	まるもりまち	Marumori Town	丸森	まるもり	Marumori	34	04340	
+04361	04	04360	亘理町	わたりちょう	Watari Town	亘理	わたり	Watari	35	04360	
+04362	04	04360	山元町	やまもとちょう	Yamamoto Town	山元	やまもと	Yamamoto	35	04360	
+04401	04	04400	松島町	まつしままち	Matsushima Town	松島	まつしま	Matsushima	34	04400	
+04404	04	04400	七ヶ浜町	しちがはままち	Shichigahama Town	七ヶ浜	しちがはま	Shichigahama	34	04400	
+04406	04	04400	利府町	りふちょう	Rifu Town	利府	りふ	Rifu	35	04400	
+04421	04	04420	大和町	たいわちょう	Taiwa Town	大和	たいわ	Taiwa	35	04420	
+04422	04	04420	大郷町	おおさとちょう	Osato Town	大郷	おおさと	Osato	35	04420	
+04424	04	04420	大衡村	おおひらむら	Ohira Village	大衡	おおひら	Ohira	36	04420	
+04444	04	04440	色麻町	しかまちょう	Shikama Town	色麻	しかま	Shikama	35	04440	
+04445	04	04440	加美町	かみまち	Kami Town	加美	かみ	Kami	34	04440	
+04501	04	04500	涌谷町	わくやちょう	Wakuya Town	涌谷	わくや	Wakuya	35	04500	
+04505	04	04500	美里町	みさとまち	Misato Town	美里	みさと	Misato	34	04500	
+04581	04	04580	女川町	おながわちょう	Onagawa Town	女川	おながわ	Onagawa	35	04580	
+04606	04	04600	南三陸町	みなみさんりくちょう	Minamisanriku Town	南三陸	みなみさんりく	Minamisanriku	35	04600	
+05201	05	05200	秋田市	あきたし	Akita City	秋田	あきた	Akita	32		
+05202	05	05200	能代市	のしろし	Noshiro City	能代	のしろ	Noshiro	32		
+05203	05	05200	横手市	よこてし	Yokote City	横手	よこて	Yokote	32		
+05204	05	05200	大館市	おおだてし	Odate City	大館	おおだて	Odate	32		
+05206	05	05200	男鹿市	おがし	Oga City	男鹿	おが	Oga	32		
+05207	05	05200	湯沢市	ゆざわし	Yuzawa City	湯沢	ゆざわ	Yuzawa	32		
+05209	05	05200	鹿角市	かづのし	Kazuno City	鹿角	かづの	Kazuno	32		
+05210	05	05200	由利本荘市	ゆりほんじょうし	Yurihonjo City	由利本荘	ゆりほんじょう	Yurihonjo	32		
+05211	05	05200	潟上市	かたがみし	Katagami City	潟上	かたがみ	Katagami	32		
+05212	05	05200	大仙市	だいせんし	Daisen City	大仙	だいせん	Daisen	32		
+05213	05	05200	北秋田市	きたあきたし	Kitaakita City	北秋田	きたあきた	Kitaakita	32		
+05214	05	05200	にかほ市	にかほし	Nikaho City	にかほ	にかほ	Nikaho	32		
+05215	05	05200	仙北市	せんぼくし	Senboku City	仙北	せんぼく	Senboku	32		
+05303	05	05300	小坂町	こさかまち	Kosaka Town	小坂	こさか	Kosaka	34	05300	
+05327	05	05320	上小阿仁村	かみこあにむら	Kamikoani Village	上小阿仁	かみこあに	Kamikoani	36	05320	
+05346	05	05340	藤里町	ふじさとまち	Fujisato Town	藤里	ふじさと	Fujisato	34	05340	
+05348	05	05340	三種町	みたねちょう	Mitane Town	三種	みたね	Mitane	35	05340	
+05349	05	05340	八峰町	はっぽうちょう	Happo Town	八峰	はっぽう	Happo	35	05340	
+05361	05	05360	五城目町	ごじょうめまち	Gojome Town	五城目	ごじょうめ	Gojome	34	05360	
+05363	05	05360	八郎潟町	はちろうがたまち	Hachirogata Town	八郎潟	はちろうがた	Hachirogata	34	05360	
+05366	05	05360	井川町	いかわまち	Ikawa Town	井川	いかわ	Ikawa	34	05360	
+05368	05	05360	大潟村	おおがたむら	Ogata Village	大潟	おおがた	Ogata	36	05360	
+05434	05	05420	美郷町	みさとちょう	Misato Town	美郷	みさと	Misato	35	05420	
+05463	05	05460	羽後町	うごまち	Ugo Town	羽後	うご	Ugo	34	05460	
+05464	05	05460	東成瀬村	ひがしなるせむら	Higashinaruse Village	東成瀬	ひがしなるせ	Higashinaruse	36	05460	
+06201	06	06200	山形市	やまがたし	Yamagata City	山形	やまがた	Yamagata	32		
+06202	06	06200	米沢市	よねざわし	Yonezawa City	米沢	よねざわ	Yonezawa	32		
+06203	06	06200	鶴岡市	つるおかし	Tsuruoka City	鶴岡	つるおか	Tsuruoka	32		
+06204	06	06200	酒田市	さかたし	Sakata City	酒田	さかた	Sakata	32		
+06205	06	06200	新庄市	しんじょうし	Shinjo City	新庄	しんじょう	Shinjo	32		
+06206	06	06200	寒河江市	さがえし	Sagae City	寒河江	さがえ	Sagae	32		
+06207	06	06200	上山市	かみのやまし	Kaminoyama City	上山	かみのやま	Kaminoyama	32		
+06208	06	06200	村山市	むらやまし	Murayama City	村山	むらやま	Murayama	32		
+06209	06	06200	長井市	ながいし	Nagai City	長井	ながい	Nagai	32		
+06210	06	06200	天童市	てんどうし	Tendo City	天童	てんどう	Tendo	32		
+06211	06	06200	東根市	ひがしねし	Higashine City	東根	ひがしね	Higashine	32		
+06212	06	06200	尾花沢市	おばなざわし	Obanazawa City	尾花沢	おばなざわ	Obanazawa	32		
+06213	06	06200	南陽市	なんようし	Nan-yo City	南陽	なんよう	Nan-yo	32		
+06301	06	06300	山辺町	やまのべまち	Yamanobe Town	山辺	やまのべ	Yamanobe	34	06300	
+06302	06	06300	中山町	なかやままち	Nakayama Town	中山	なかやま	Nakayama	34	06300	
+06321	06	06320	河北町	かほくちょう	Kahoku Town	河北	かほく	Kahoku	35	06320	
+06322	06	06320	西川町	にしかわまち	Nishikawa Town	西川	にしかわ	Nishikawa	34	06320	
+06323	06	06320	朝日町	あさひまち	Asahi Town	朝日	あさひ	Asahi	34	06320	
+06324	06	06320	大江町	おおえまち	Oe Town	大江	おおえ	Oe	34	06320	
+06341	06	06340	大石田町	おおいしだまち	Oishida Town	大石田	おおいしだ	Oishida	34	06340	
+06361	06	06360	金山町	かねやままち	Kaneyama Town	金山	かねやま	Kaneyama	34	06360	
+06362	06	06360	最上町	もがみまち	Mogami Town	最上	もがみ	Mogami	34	06360	
+06363	06	06360	舟形町	ふながたまち	Funagata Town	舟形	ふながた	Funagata	34	06360	
+06364	06	06360	真室川町	まむろがわまち	Mamurogawa Town	真室川	まむろがわ	Mamurogawa	34	06360	
+06365	06	06360	大蔵村	おおくらむら	Okura Village	大蔵	おおくら	Okura	36	06360	
+06366	06	06360	鮭川村	さけがわむら	Sakegawa Village	鮭川	さけがわ	Sakegawa	36	06360	
+06367	06	06360	戸沢村	とざわむら	Tozawa Village	戸沢	とざわ	Tozawa	36	06360	
+06381	06	06380	高畠町	たかはたまち	Takahata Town	高畠	たかはた	Takahata	34	06380	
+06382	06	06380	川西町	かわにしまち	Kawanishi Town	川西	かわにし	Kawanishi	34	06380	
+06401	06	06400	小国町	おぐにまち	Oguni Town	小国	おぐに	Oguni	34	06400	
+06402	06	06400	白鷹町	しらたかまち	Shirataka Town	白鷹	しらたか	Shirataka	34	06400	
+06403	06	06400	飯豊町	いいでまち	Iide Town	飯豊	いいで	Iide	34	06400	
+06426	06	06420	三川町	みかわまち	Mikawa Town	三川	みかわ	Mikawa	34	06420	
+06428	06	06420	庄内町	しょうないまち	Shonai Town	庄内	しょうない	Shonai	34	06420	
+06461	06	06460	遊佐町	ゆざまち	Yuza Town	遊佐	ゆざ	Yuza	34	06460	
+07201	07	07200	福島市	ふくしまし	Fukushima City	福島	ふくしま	Fukushima	32		
+07202	07	07200	会津若松市	あいづわかまつし	Aizuwakamatsu City	会津若松	あいづわかまつ	Aizuwakamatsu	32		
+07203	07	07200	郡山市	こおりやまし	Koriyama City	郡山	こおりやま	Koriyama	32		
+07204	07	07200	いわき市	いわきし	Iwaki City	いわき	いわき	Iwaki	32		
+07205	07	07200	白河市	しらかわし	Shirakawa City	白河	しらかわ	Shirakawa	32		
+07207	07	07200	須賀川市	すかがわし	Sukagawa City	須賀川	すかがわ	Sukagawa	32		
+07208	07	07200	喜多方市	きたかたし	Kitakata City	喜多方	きたかた	Kitakata	32		
+07209	07	07200	相馬市	そうまし	Soma City	相馬	そうま	Soma	32		
+07210	07	07200	二本松市	にほんまつし	Nihonmatsu City	二本松	にほんまつ	Nihonmatsu	32		
+07211	07	07200	田村市	たむらし	Tamura City	田村	たむら	Tamura	32		
+07212	07	07200	南相馬市	みなみそうまし	Minamisoma City	南相馬	みなみそうま	Minamisoma	32		
+07213	07	07200	伊達市	だてし	Date City	伊達	だて	Date	32		
+07214	07	07200	本宮市	もとみやし	Motomiya City	本宮	もとみや	Motomiya	32		
+07301	07	07300	桑折町	こおりまち	Kori Town	桑折	こおり	Kori	34	07300	
+07303	07	07300	国見町	くにみまち	Kunimi Town	国見	くにみ	Kunimi	34	07300	
+07308	07	07300	川俣町	かわまたまち	Kawamata Town	川俣	かわまた	Kawamata	34	07300	
+07322	07	07320	大玉村	おおたまむら	Otama Village	大玉	おおたま	Otama	36	07320	
+07342	07	07340	鏡石町	かがみいしまち	Kagamiishi Town	鏡石	かがみいし	Kagamiishi	34	07340	
+07344	07	07340	天栄村	てんえいむら	Ten-ei Village	天栄	てんえい	Ten-ei	36	07340	
+07362	07	07360	下郷町	しもごうまち	Shimogo Town	下郷	しもごう	Shimogo	34	07360	
+07364	07	07360	檜枝岐村	ひのえまたむら	Hinoemata Village	檜枝岐	ひのえまた	Hinoemata	36	07360	
+07367	07	07360	只見町	ただみまち	Tadami Town	只見	ただみ	Tadami	34	07360	
+07368	07	07360	南会津町	みなみあいづまち	Minamiaizu Town	南会津	みなみあいづ	Minamiaizu	34	07360	
+07402	07	07400	北塩原村	きたしおばらむら	Kitashiobara Village	北塩原	きたしおばら	Kitashiobara	36	07400	
+07405	07	07400	西会津町	にしあいづまち	Nishiaizu Town	西会津	にしあいづ	Nishiaizu	34	07400	
+07407	07	07400	磐梯町	ばんだいまち	Bandai Town	磐梯	ばんだい	Bandai	34	07400	
+07408	07	07400	猪苗代町	いなわしろまち	Inawashiro Town	猪苗代	いなわしろ	Inawashiro	34	07400	
+07421	07	07420	会津坂下町	あいづばんげまち	Aizubange Town	会津坂下	あいづばんげ	Aizubange	34	07420	
+07422	07	07420	湯川村	ゆがわむら	Yugawa Village	湯川	ゆがわ	Yugawa	36	07420	
+07423	07	07420	柳津町	やないづまち	Yanaizu Town	柳津	やないづ	Yanaizu	34	07420	
+07444	07	07440	三島町	みしままち	Mishima Town	三島	みしま	Mishima	34	07440	
+07445	07	07440	金山町	かねやままち	Kaneyama Town	金山	かねやま	Kaneyama	34	07440	
+07446	07	07440	昭和村	しょうわむら	Showa Village	昭和	しょうわ	Showa	36	07440	
+07447	07	07440	会津美里町	あいづみさとまち	Aizumisato Town	会津美里	あいづみさと	Aizumisato	34	07440	
+07461	07	07460	西郷村	にしごうむら	Nishigo Village	西郷	にしごう	Nishigo	36	07460	
+07464	07	07460	泉崎村	いずみざきむら	Izumizaki Village	泉崎	いずみざき	Izumizaki	36	07460	
+07465	07	07460	中島村	なかじまむら	Nakajima Village	中島	なかじま	Nakajima	36	07460	
+07466	07	07460	矢吹町	やぶきまち	Yabuki Town	矢吹	やぶき	Yabuki	34	07460	
+07481	07	07480	棚倉町	たなぐらまち	Tanagura Town	棚倉	たなぐら	Tanagura	34	07480	
+07482	07	07480	矢祭町	やまつりまち	Yamatsuri Town	矢祭	やまつり	Yamatsuri	34	07480	
+07483	07	07480	塙町	はなわまち	Hanawa Town	塙	はなわ	Hanawa	34	07480	
+07484	07	07480	鮫川村	さめがわむら	Samegawa Village	鮫川	さめがわ	Samegawa	36	07480	
+07501	07	07500	石川町	いしかわまち	Ishikawa Town	石川	いしかわ	Ishikawa	34	07500	
+07502	07	07500	玉川村	たまかわむら	Tamakawa Village	玉川	たまかわ	Tamakawa	36	07500	
+07503	07	07500	平田村	ひらたむら	Hirata Village	平田	ひらた	Hirata	36	07500	
+07504	07	07500	浅川町	あさかわまち	Asakawa Town	浅川	あさかわ	Asakawa	34	07500	
+07505	07	07500	古殿町	ふるどのまち	Furudono Town	古殿	ふるどの	Furudono	34	07500	
+07521	07	07520	三春町	みはるまち	Miharu Town	三春	みはる	Miharu	34	07520	
+07522	07	07520	小野町	おのまち	Ono Town	小野	おの	Ono	34	07520	
+07541	07	07540	広野町	ひろのまち	Hirono Town	広野	ひろの	Hirono	34	07540	
+07542	07	07540	楢葉町	ならはまち	Naraha Town	楢葉	ならは	Naraha	34	07540	
+07543	07	07540	富岡町	とみおかまち	Tomioka Town	富岡	とみおか	Tomioka	34	07540	
+07544	07	07540	川内村	かわうちむら	Kawauchi Village	川内	かわうち	Kawauchi	36	07540	
+07545	07	07540	大熊町	おおくままち	Okuma Town	大熊	おおくま	Okuma	34	07540	
+07546	07	07540	双葉町	ふたばまち	Futaba Town	双葉	ふたば	Futaba	34	07540	
+07547	07	07540	浪江町	なみえまち	Namie Town	浪江	なみえ	Namie	34	07540	
+07548	07	07540	葛尾村	かつらおむら	Katsurao Village	葛尾	かつらお	Katsurao	36	07540	
+07561	07	07560	新地町	しんちまち	Shinchi Town	新地	しんち	Shinchi	34	07560	
+07564	07	07560	飯舘村	いいたてむら	Iitate Village	飯舘	いいたて	Iitate	36	07560	
+08201	08	08200	水戸市	みとし	Mito City	水戸	みと	Mito	32		
+08202	08	08200	日立市	ひたちし	Hitachi City	日立	ひたち	Hitachi	32		
+08203	08	08200	土浦市	つちうらし	Tsuchiura City	土浦	つちうら	Tsuchiura	32		
+08204	08	08200	古河市	こがし	Koga City	古河	こが	Koga	32		
+08205	08	08200	石岡市	いしおかし	Ishioka City	石岡	いしおか	Ishioka	32		
+08207	08	08200	結城市	ゆうきし	Yuki City	結城	ゆうき	Yuki	32		
+08208	08	08200	龍ケ崎市	りゅうがさきし	Ryugasaki City	龍ケ崎	りゅうがさき	Ryugasaki	32		
+08210	08	08200	下妻市	しもつまし	Shimotsuma City	下妻	しもつま	Shimotsuma	32		
+08211	08	08200	常総市	じょうそうし	Joso City	常総	じょうそう	Joso	32		
+08212	08	08200	常陸太田市	ひたちおおたし	Hitachiota City	常陸太田	ひたちおおた	Hitachiota	32		
+08214	08	08200	高萩市	たかはぎし	Takahagi City	高萩	たかはぎ	Takahagi	32		
+08215	08	08200	北茨城市	きたいばらきし	Kitaibaraki City	北茨城	きたいばらき	Kitaibaraki	32		
+08216	08	08200	笠間市	かさまし	Kasama City	笠間	かさま	Kasama	32		
+08217	08	08200	取手市	とりでし	Toride City	取手	とりで	Toride	32		
+08219	08	08200	牛久市	うしくし	Ushiku City	牛久	うしく	Ushiku	32		
+08220	08	08200	つくば市	つくばし	Tsukuba City	つくば	つくば	Tsukuba	32		
+08221	08	08200	ひたちなか市	ひたちなかし	Hitachinaka City	ひたちなか	ひたちなか	Hitachinaka	32		
+08222	08	08200	鹿嶋市	かしまし	Kashima City	鹿嶋	かしま	Kashima	32		
+08223	08	08200	潮来市	いたこし	Itako City	潮来	いたこ	Itako	32		
+08224	08	08200	守谷市	もりやし	Moriya City	守谷	もりや	Moriya	32		
+08225	08	08200	常陸大宮市	ひたちおおみやし	Hitachiomiya City	常陸大宮	ひたちおおみや	Hitachiomiya	32		
+08226	08	08200	那珂市	なかし	Naka City	那珂	なか	Naka	32		
+08227	08	08200	筑西市	ちくせいし	Chikusei City	筑西	ちくせい	Chikusei	32		
+08228	08	08200	坂東市	ばんどうし	Bando City	坂東	ばんどう	Bando	32		
+08229	08	08200	稲敷市	いなしきし	Inashiki City	稲敷	いなしき	Inashiki	32		
+08230	08	08200	かすみがうら市	かすみがうらし	Kasumigaura City	かすみがうら	かすみがうら	Kasumigaura	32		
+08231	08	08200	桜川市	さくらがわし	Sakuragawa City	桜川	さくらがわ	Sakuragawa	32		
+08232	08	08200	神栖市	かみすし	Kamisu City	神栖	かみす	Kamisu	32		
+08233	08	08200	行方市	なめがたし	Namegata City	行方	なめがた	Namegata	32		
+08234	08	08200	鉾田市	ほこたし	Hokota City	鉾田	ほこた	Hokota	32		
+08235	08	08200	つくばみらい市	つくばみらいし	Tsukubamirai City	つくばみらい	つくばみらい	Tsukubamirai	32		
+08236	08	08200	小美玉市	おみたまし	Omitama City	小美玉	おみたま	Omitama	32		
+08302	08	08300	茨城町	いばらきまち	Ibaraki Town	茨城	いばらき	Ibaraki	34	08300	
+08309	08	08300	大洗町	おおあらいまち	Oarai Town	大洗	おおあらい	Oarai	34	08300	
+08310	08	08300	城里町	しろさとまち	Shirosato Town	城里	しろさと	Shirosato	34	08300	
+08341	08	08340	東海村	とうかいむら	Tokai Village	東海	とうかい	Tokai	36	08340	
+08364	08	08360	大子町	だいごまち	Daigo Town	大子	だいご	Daigo	34	08360	
+08442	08	08440	美浦村	みほむら	Miho Village	美浦	みほ	Miho	36	08440	
+08443	08	08440	阿見町	あみまち	Ami Town	阿見	あみ	Ami	34	08440	
+08447	08	08440	河内町	かわちまち	Kawachi Town	河内	かわち	Kawachi	34	08440	
+08521	08	08520	八千代町	やちよまち	Yachiyo Town	八千代	やちよ	Yachiyo	34	08520	
+08542	08	08540	五霞町	ごかまち	Goka Town	五霞	ごか	Goka	34	08540	
+08546	08	08540	境町	さかいまち	Sakai Town	境	さかい	Sakai	34	08540	
+08564	08	08560	利根町	とねまち	Tone Town	利根	とね	Tone	34	08560	
+09201	09	09200	宇都宮市	うつのみやし	Utsunomiya City	宇都宮	うつのみや	Utsunomiya	32		
+09202	09	09200	足利市	あしかがし	Ashikaga City	足利	あしかが	Ashikaga	32		
+09203	09	09200	栃木市	とちぎし	Tochigi City	栃木	とちぎ	Tochigi	32		
+09204	09	09200	佐野市	さのし	Sano City	佐野	さの	Sano	32		
+09205	09	09200	鹿沼市	かぬまし	Kanuma City	鹿沼	かぬま	Kanuma	32		
+09206	09	09200	日光市	にっこうし	Nikko City	日光	にっこう	Nikko	32		
+09208	09	09200	小山市	おやまし	Oyama City	小山	おやま	Oyama	32		
+09209	09	09200	真岡市	もおかし	Mooka City	真岡	もおか	Mooka	32		
+09210	09	09200	大田原市	おおたわらし	Otawara City	大田原	おおたわら	Otawara	32		
+09211	09	09200	矢板市	やいたし	Yaita City	矢板	やいた	Yaita	32		
+09213	09	09200	那須塩原市	なすしおばらし	Nasushiobara City	那須塩原	なすしおばら	Nasushiobara	32		
+09214	09	09200	さくら市	さくらし	Sakura City	さくら	さくら	Sakura	32		
+09215	09	09200	那須烏山市	なすからすやまし	Nasukarasuyama City	那須烏山	なすからすやま	Nasukarasuyama	32		
+09216	09	09200	下野市	しもつけし	Shimotsuke City	下野	しもつけ	Shimotsuke	32		
+09301	09	09300	上三川町	かみのかわまち	Kaminokawa Town	上三川	かみのかわ	Kaminokawa	34	09300	
+09342	09	09340	益子町	ましこまち	Mashiko Town	益子	ましこ	Mashiko	34	09340	
+09343	09	09340	茂木町	もてぎまち	Motegi Town	茂木	もてぎ	Motegi	34	09340	
+09344	09	09340	市貝町	いちかいまち	Ichikai Town	市貝	いちかい	Ichikai	34	09340	
+09345	09	09340	芳賀町	はがまち	Haga Town	芳賀	はが	Haga	34	09340	
+09361	09	09360	壬生町	みぶまち	Mibu Town	壬生	みぶ	Mibu	34	09360	
+09364	09	09360	野木町	のぎまち	Nogi Town	野木	のぎ	Nogi	34	09360	
+09384	09	09380	塩谷町	しおやまち	Shioya Town	塩谷	しおや	Shioya	34	09380	
+09386	09	09380	高根沢町	たかねざわまち	Takanezawa Town	高根沢	たかねざわ	Takanezawa	34	09380	
+09407	09	09400	那須町	なすまち	Nasu Town	那須	なす	Nasu	34	09400	
+09411	09	09400	那珂川町	なかがわまち	Nakagawa Town	那珂川	なかがわ	Nakagawa	34	09400	
+10201	10	10200	前橋市	まえばしし	Maebashi City	前橋	まえばし	Maebashi	32		
+10202	10	10200	高崎市	たかさきし	Takasaki City	高崎	たかさき	Takasaki	32		
+10203	10	10200	桐生市	きりゅうし	Kiryu City	桐生	きりゅう	Kiryu	32		
+10204	10	10200	伊勢崎市	いせさきし	Isesaki City	伊勢崎	いせさき	Isesaki	32		
+10205	10	10200	太田市	おおたし	Ota City	太田	おおた	Ota	32		
+10206	10	10200	沼田市	ぬまたし	Numata City	沼田	ぬまた	Numata	32		
+10207	10	10200	館林市	たてばやしし	Tatebayashi City	館林	たてばやし	Tatebayashi	32		
+10208	10	10200	渋川市	しぶかわし	Shibukawa City	渋川	しぶかわ	Shibukawa	32		
+10209	10	10200	藤岡市	ふじおかし	Fujioka City	藤岡	ふじおか	Fujioka	32		
+10210	10	10200	富岡市	とみおかし	Tomioka City	富岡	とみおか	Tomioka	32		
+10211	10	10200	安中市	あんなかし	Annaka City	安中	あんなか	Annaka	32		
+10212	10	10200	みどり市	みどりし	Midori City	みどり	みどり	Midori	32		
+10344	10	10340	榛東村	しんとうむら	Shinto Village	榛東	しんとう	Shinto	36	10340	
+10345	10	10340	吉岡町	よしおかまち	Yoshioka Town	吉岡	よしおか	Yoshioka	34	10340	
+10366	10	10360	上野村	うえのむら	Ueno Village	上野	うえの	Ueno	36	10360	
+10367	10	10360	神流町	かんなまち	Kanna Town	神流	かんな	Kanna	34	10360	
+10382	10	10380	下仁田町	しもにたまち	Shimonita Town	下仁田	しもにた	Shimonita	34	10380	
+10383	10	10380	南牧村	なんもくむら	Nanmoku Village	南牧	なんもく	Nanmoku	36	10380	
+10384	10	10380	甘楽町	かんらまち	Kanra Town	甘楽	かんら	Kanra	34	10380	
+10421	10	10420	中之条町	なかのじょうまち	Nakanojo Town	中之条	なかのじょう	Nakanojo	34	10420	
+10424	10	10420	長野原町	ながのはらまち	Naganohara Town	長野原	ながのはら	Naganohara	34	10420	
+10425	10	10420	嬬恋村	つまごいむら	Tsumagoi Village	嬬恋	つまごい	Tsumagoi	36	10420	
+10426	10	10420	草津町	くさつまち	Kusatsu Town	草津	くさつ	Kusatsu	34	10420	
+10428	10	10420	高山村	たかやまむら	Takayama Village	高山	たかやま	Takayama	36	10420	
+10429	10	10420	東吾妻町	ひがしあがつままち	Higashiagatsuma Town	東吾妻	ひがしあがつま	Higashiagatsuma	34	10420	
+10443	10	10440	片品村	かたしなむら	Katashina Village	片品	かたしな	Katashina	36	10440	
+10444	10	10440	川場村	かわばむら	Kawaba Village	川場	かわば	Kawaba	36	10440	
+10448	10	10440	昭和村	しょうわむら	Showa Village	昭和	しょうわ	Showa	36	10440	
+10449	10	10440	みなかみ町	みなかみまち	Minakami Town	みなかみ	みなかみ	Minakami	34	10440	
+10464	10	10460	玉村町	たまむらまち	Tamamura Town	玉村	たまむら	Tamamura	34	10460	
+10521	10	10520	板倉町	いたくらまち	Itakura Town	板倉	いたくら	Itakura	34	10520	
+10522	10	10520	明和町	めいわまち	Meiwa Town	明和	めいわ	Meiwa	34	10520	
+10523	10	10520	千代田町	ちよだまち	Chiyoda Town	千代田	ちよだ	Chiyoda	34	10520	
+10524	10	10520	大泉町	おおいずみまち	Oizumi Town	大泉	おおいずみ	Oizumi	34	10520	
+10525	10	10520	邑楽町	おうらまち	Oura Town	邑楽	おうら	Oura	34	10520	
+11100	11	11100	さいたま市	さいたまし	Saitama City	さいたま	さいたま	Saitama	31		
+11201	11	11200	川越市	かわごえし	Kawagoe City	川越	かわごえ	Kawagoe	32		
+11202	11	11200	熊谷市	くまがやし	Kumagaya City	熊谷	くまがや	Kumagaya	32		
+11203	11	11200	川口市	かわぐちし	Kawaguchi City	川口	かわぐち	Kawaguchi	32		
+11206	11	11200	行田市	ぎょうだし	Gyoda City	行田	ぎょうだ	Gyoda	32		
+11207	11	11200	秩父市	ちちぶし	Chichibu City	秩父	ちちぶ	Chichibu	32		
+11208	11	11200	所沢市	ところざわし	Tokorozawa City	所沢	ところざわ	Tokorozawa	32		
+11209	11	11200	飯能市	はんのうし	Hanno City	飯能	はんのう	Hanno	32		
+11210	11	11200	加須市	かぞし	Kazo City	加須	かぞ	Kazo	32		
+11211	11	11200	本庄市	ほんじょうし	Honjo City	本庄	ほんじょう	Honjo	32		
+11212	11	11200	東松山市	ひがしまつやまし	Higashimatsuyama City	東松山	ひがしまつやま	Higashimatsuyama	32		
+11214	11	11200	春日部市	かすかべし	Kasukabe City	春日部	かすかべ	Kasukabe	32		
+11215	11	11200	狭山市	さやまし	Sayama City	狭山	さやま	Sayama	32		
+11216	11	11200	羽生市	はにゅうし	Hanyu City	羽生	はにゅう	Hanyu	32		
+11217	11	11200	鴻巣市	こうのすし	Konosu City	鴻巣	こうのす	Konosu	32		
+11218	11	11200	深谷市	ふかやし	Fukaya City	深谷	ふかや	Fukaya	32		
+11219	11	11200	上尾市	あげおし	Ageo City	上尾	あげお	Ageo	32		
+11221	11	11200	草加市	そうかし	Soka City	草加	そうか	Soka	32		
+11222	11	11200	越谷市	こしがやし	Koshigaya City	越谷	こしがや	Koshigaya	32		
+11223	11	11200	蕨市	わらびし	Warabi City	蕨	わらび	Warabi	32		
+11224	11	11200	戸田市	とだし	Toda City	戸田	とだ	Toda	32		
+11225	11	11200	入間市	いるまし	Iruma City	入間	いるま	Iruma	32		
+11227	11	11200	朝霞市	あさかし	Asaka City	朝霞	あさか	Asaka	32		
+11228	11	11200	志木市	しきし	Shiki City	志木	しき	Shiki	32		
+11229	11	11200	和光市	わこうし	Wako City	和光	わこう	Wako	32		
+11230	11	11200	新座市	にいざし	Niiza City	新座	にいざ	Niiza	32		
+11231	11	11200	桶川市	おけがわし	Okegawa City	桶川	おけがわ	Okegawa	32		
+11232	11	11200	久喜市	くきし	Kuki City	久喜	くき	Kuki	32		
+11233	11	11200	北本市	きたもとし	Kitamoto City	北本	きたもと	Kitamoto	32		
+11234	11	11200	八潮市	やしおし	Yashio City	八潮	やしお	Yashio	32		
+11235	11	11200	富士見市	ふじみし	Fujimi City	富士見	ふじみ	Fujimi	32		
+11237	11	11200	三郷市	みさとし	Misato City	三郷	みさと	Misato	32		
+11238	11	11200	蓮田市	はすだし	Hasuda City	蓮田	はすだ	Hasuda	32		
+11239	11	11200	坂戸市	さかどし	Sakado City	坂戸	さかど	Sakado	32		
+11240	11	11200	幸手市	さってし	Satte City	幸手	さって	Satte	32		
+11241	11	11200	鶴ヶ島市	つるがしまし	Tsurugashima City	鶴ヶ島	つるがしま	Tsurugashima	32		
+11242	11	11200	日高市	ひだかし	Hidaka City	日高	ひだか	Hidaka	32		
+11243	11	11200	吉川市	よしかわし	Yoshikawa City	吉川	よしかわ	Yoshikawa	32		
+11245	11	11200	ふじみ野市	ふじみのし	Fujimino City	ふじみ野	ふじみの	Fujimino	32		
+11246	11	11200	白岡市	しらおかし	Shiraoka City	白岡	しらおか	Shiraoka	32		
+11301	11	11300	伊奈町	いなまち	Ina Town	伊奈	いな	Ina	34	11300	
+11324	11	11320	三芳町	みよしまち	Miyoshi Town	三芳	みよし	Miyoshi	34	11320	
+11326	11	11320	毛呂山町	もろやままち	Moroyama Town	毛呂山	もろやま	Moroyama	34	11320	
+11327	11	11320	越生町	おごせまち	Ogose Town	越生	おごせ	Ogose	34	11320	
+11341	11	11340	滑川町	なめがわまち	Namegawa Town	滑川	なめがわ	Namegawa	34	11340	
+11342	11	11340	嵐山町	らんざんまち	Ranzan Town	嵐山	らんざん	Ranzan	34	11340	
+11343	11	11340	小川町	おがわまち	Ogawa Town	小川	おがわ	Ogawa	34	11340	
+11346	11	11340	川島町	かわじままち	Kawajima Town	川島	かわじま	Kawajima	34	11340	
+11347	11	11340	吉見町	よしみまち	Yoshimi Town	吉見	よしみ	Yoshimi	34	11340	
+11348	11	11340	鳩山町	はとやままち	Hatoyama Town	鳩山	はとやま	Hatoyama	34	11340	
+11349	11	11340	ときがわ町	ときがわまち	Tokigawa Town	ときがわ	ときがわ	Tokigawa	34	11340	
+11361	11	11360	横瀬町	よこぜまち	Yokoze Town	横瀬	よこぜ	Yokoze	34	11360	
+11362	11	11360	皆野町	みなのまち	Minano Town	皆野	みなの	Minano	34	11360	
+11363	11	11360	長瀞町	ながとろまち	Nagatoro Town	長瀞	ながとろ	Nagatoro	34	11360	
+11365	11	11360	小鹿野町	おがのまち	Ogano Town	小鹿野	おがの	Ogano	34	11360	
+11369	11	11360	東秩父村	ひがしちちぶむら	Higashichichibu Village	東秩父	ひがしちちぶ	Higashichichibu	36	11360	
+11381	11	11380	美里町	みさとまち	Misato Town	美里	みさと	Misato	34	11380	
+11383	11	11380	神川町	かみかわまち	Kamikawa Town	神川	かみかわ	Kamikawa	34	11380	
+11385	11	11380	上里町	かみさとまち	Kamisato Town	上里	かみさと	Kamisato	34	11380	
+11408	11	11400	寄居町	よりいまち	Yorii Town	寄居	よりい	Yorii	34	11400	
+11442	11	11440	宮代町	みやしろまち	Miyashiro Town	宮代	みやしろ	Miyashiro	34	11440	
+11464	11	11460	杉戸町	すぎとまち	Sugito Town	杉戸	すぎと	Sugito	34	11460	
+11465	11	11460	松伏町	まつぶしまち	Matsubushi Town	松伏	まつぶし	Matsubushi	34	11460	
+12100	12	12100	千葉市	ちばし	Chiba City	千葉	ちば	Chiba	31		
+12202	12	12200	銚子市	ちょうしし	Choshi City	銚子	ちょうし	Choshi	32		
+12203	12	12200	市川市	いちかわし	Ichikawa City	市川	いちかわ	Ichikawa	32		
+12204	12	12200	船橋市	ふなばしし	Funabashi City	船橋	ふなばし	Funabashi	32		
+12205	12	12200	館山市	たてやまし	Tateyama City	館山	たてやま	Tateyama	32		
+12206	12	12200	木更津市	きさらづし	Kisarazu City	木更津	きさらづ	Kisarazu	32		
+12207	12	12200	松戸市	まつどし	Matsudo City	松戸	まつど	Matsudo	32		
+12208	12	12200	野田市	のだし	Noda City	野田	のだ	Noda	32		
+12210	12	12200	茂原市	もばらし	Mobara City	茂原	もばら	Mobara	32		
+12211	12	12200	成田市	なりたし	Narita City	成田	なりた	Narita	32		
+12212	12	12200	佐倉市	さくらし	Sakura City	佐倉	さくら	Sakura	32		
+12213	12	12200	東金市	とうがねし	Togane City	東金	とうがね	Togane	32		
+12215	12	12200	旭市	あさひし	Asahi City	旭	あさひ	Asahi	32		
+12216	12	12200	習志野市	ならしのし	Narashino City	習志野	ならしの	Narashino	32		
+12217	12	12200	柏市	かしわし	Kashiwa City	柏	かしわ	Kashiwa	32		
+12218	12	12200	勝浦市	かつうらし	Katsuura City	勝浦	かつうら	Katsuura	32		
+12219	12	12200	市原市	いちはらし	Ichihara City	市原	いちはら	Ichihara	32		
+12220	12	12200	流山市	ながれやまし	Nagareyama City	流山	ながれやま	Nagareyama	32		
+12221	12	12200	八千代市	やちよし	Yachiyo City	八千代	やちよ	Yachiyo	32		
+12222	12	12200	我孫子市	あびこし	Abiko City	我孫子	あびこ	Abiko	32		
+12223	12	12200	鴨川市	かもがわし	Kamogawa City	鴨川	かもがわ	Kamogawa	32		
+12224	12	12200	鎌ケ谷市	かまがやし	Kamagaya City	鎌ケ谷	かまがや	Kamagaya	32		
+12225	12	12200	君津市	きみつし	Kimitsu City	君津	きみつ	Kimitsu	32		
+12226	12	12200	富津市	ふっつし	Futtsu City	富津	ふっつ	Futtsu	32		
+12227	12	12200	浦安市	うらやすし	Urayasu City	浦安	うらやす	Urayasu	32		
+12228	12	12200	四街道市	よつかいどうし	Yotsukaido City	四街道	よつかいどう	Yotsukaido	32		
+12229	12	12200	袖ケ浦市	そでがうらし	Sodegaura City	袖ケ浦	そでがうら	Sodegaura	32		
+12230	12	12200	八街市	やちまたし	Yachimata City	八街	やちまた	Yachimata	32		
+12231	12	12200	印西市	いんざいし	Inzai City	印西	いんざい	Inzai	32		
+12232	12	12200	白井市	しろいし	Shiroi City	白井	しろい	Shiroi	32		
+12233	12	12200	富里市	とみさとし	Tomisato City	富里	とみさと	Tomisato	32		
+12234	12	12200	南房総市	みなみぼうそうし	Minamiboso City	南房総	みなみぼうそう	Minamiboso	32		
+12235	12	12200	匝瑳市	そうさし	Sosa City	匝瑳	そうさ	Sosa	32		
+12236	12	12200	香取市	かとりし	Katori City	香取	かとり	Katori	32		
+12237	12	12200	山武市	さんむし	Sanmu City	山武	さんむ	Sanmu	32		
+12238	12	12200	いすみ市	いすみし	Isumi City	いすみ	いすみ	Isumi	32		
+12239	12	12200	大網白里市	おおあみしらさとし	Oamishirasato City	大網白里	おおあみしらさと	Oamishirasato	32		
+12322	12	12320	酒々井町	しすいまち	Shisui Town	酒々井	しすい	Shisui	34	12320	
+12329	12	12320	栄町	さかえまち	Sakae Town	栄	さかえ	Sakae	34	12320	
+12342	12	12340	神崎町	こうざきまち	Kozaki Town	神崎	こうざき	Kozaki	34	12340	
+12347	12	12340	多古町	たこまち	Tako Town	多古	たこ	Tako	34	12340	
+12349	12	12340	東庄町	とうのしょうまち	Tonosho Town	東庄	とうのしょう	Tonosho	34	12340	
+12403	12	12400	九十九里町	くじゅうくりまち	Kujukuri Town	九十九里	くじゅうくり	Kujukuri	34	12400	
+12409	12	12400	芝山町	しばやままち	Shibayama Town	芝山	しばやま	Shibayama	34	12400	
+12410	12	12400	横芝光町	よこしばひかりまち	Yokoshibahikari Town	横芝光	よこしばひかり	Yokoshibahikari	34	12400	
+12421	12	12420	一宮町	いちのみやまち	Ichinomiya Town	一宮	いちのみや	Ichinomiya	34	12420	
+12422	12	12420	睦沢町	むつざわまち	Mutsuzawa Town	睦沢	むつざわ	Mutsuzawa	34	12420	
+12423	12	12420	長生村	ちょうせいむら	Chosei Village	長生	ちょうせい	Chosei	36	12420	
+12424	12	12420	白子町	しらこまち	Shirako Town	白子	しらこ	Shirako	34	12420	
+12426	12	12420	長柄町	ながらまち	Nagara Town	長柄	ながら	Nagara	34	12420	
+12427	12	12420	長南町	ちょうなんまち	Chonan Town	長南	ちょうなん	Chonan	34	12420	
+12441	12	12440	大多喜町	おおたきまち	Otaki Town	大多喜	おおたき	Otaki	34	12440	
+12443	12	12440	御宿町	おんじゅくまち	Onjuku Town	御宿	おんじゅく	Onjuku	34	12440	
+12463	12	12460	鋸南町	きょなんまち	Kyonan Town	鋸南	きょなん	Kyonan	34	12460	
+13101	13	13100	千代田区	ちよだく	Chiyoda City	千代田	ちよだ	Chiyoda	33		
+13102	13	13100	中央区	ちゅうおうく	Chuo City	中央	ちゅうおう	Chuo	33		
+13103	13	13100	港区	みなとく	Minato City	港	みなと	Minato	33		
+13104	13	13100	新宿区	しんじゅくく	Shinjuku City	新宿	しんじゅく	Shinjuku	33		
+13105	13	13100	文京区	ぶんきょうく	Bunkyo City	文京	ぶんきょう	Bunkyo	33		
+13106	13	13100	台東区	たいとうく	Taito City	台東	たいとう	Taito	33		
+13107	13	13100	墨田区	すみだく	Sumida City	墨田	すみだ	Sumida	33		
+13108	13	13100	江東区	こうとうく	Koto City	江東	こうとう	Koto	33		
+13109	13	13100	品川区	しながわく	Shinagawa City	品川	しながわ	Shinagawa	33		
+13110	13	13100	目黒区	めぐろく	Meguro City	目黒	めぐろ	Meguro	33		
+13111	13	13100	大田区	おおたく	Ota City	大田	おおた	Ota	33		
+13112	13	13100	世田谷区	せたがやく	Setagaya City	世田谷	せたがや	Setagaya	33		
+13113	13	13100	渋谷区	しぶやく	Shibuya City	渋谷	しぶや	Shibuya	33		
+13114	13	13100	中野区	なかのく	Nakano City	中野	なかの	Nakano	33		
+13115	13	13100	杉並区	すぎなみく	Suginami City	杉並	すぎなみ	Suginami	33		
+13116	13	13100	豊島区	としまく	Toshima City	豊島	としま	Toshima	33		
+13117	13	13100	北区	きたく	Kita City	北	きた	Kita	33		
+13118	13	13100	荒川区	あらかわく	Arakawa City	荒川	あらかわ	Arakawa	33		
+13119	13	13100	板橋区	いたばしく	Itabashi City	板橋	いたばし	Itabashi	33		
+13120	13	13100	練馬区	ねりまく	Nerima City	練馬	ねりま	Nerima	33		
+13121	13	13100	足立区	あだちく	Adachi City	足立	あだち	Adachi	33		
+13122	13	13100	葛飾区	かつしかく	Katsushika City	葛飾	かつしか	Katsushika	33		
+13123	13	13100	江戸川区	えどがわく	Edogawa City	江戸川	えどがわ	Edogawa	33		
+13201	13	13200	八王子市	はちおうじし	Hachioji City	八王子	はちおうじ	Hachioji	32		
+13202	13	13200	立川市	たちかわし	Tachikawa City	立川	たちかわ	Tachikawa	32		
+13203	13	13200	武蔵野市	むさしのし	Musashino City	武蔵野	むさしの	Musashino	32		
+13204	13	13200	三鷹市	みたかし	Mitaka City	三鷹	みたか	Mitaka	32		
+13205	13	13200	青梅市	おうめし	Ome City	青梅	おうめ	Ome	32		
+13206	13	13200	府中市	ふちゅうし	Fuchu City	府中	ふちゅう	Fuchu	32		
+13207	13	13200	昭島市	あきしまし	Akishima City	昭島	あきしま	Akishima	32		
+13208	13	13200	調布市	ちょうふし	Chofu City	調布	ちょうふ	Chofu	32		
+13209	13	13200	町田市	まちだし	Machida City	町田	まちだ	Machida	32		
+13210	13	13200	小金井市	こがねいし	Koganei City	小金井	こがねい	Koganei	32		
+13211	13	13200	小平市	こだいらし	Kodaira City	小平	こだいら	Kodaira	32		
+13212	13	13200	日野市	ひのし	Hino City	日野	ひの	Hino	32		
+13213	13	13200	東村山市	ひがしむらやまし	Higashimurayama City	東村山	ひがしむらやま	Higashimurayama	32		
+13214	13	13200	国分寺市	こくぶんじし	Kokubunji City	国分寺	こくぶんじ	Kokubunji	32		
+13215	13	13200	国立市	くにたちし	Kunitachi City	国立	くにたち	Kunitachi	32		
+13218	13	13200	福生市	ふっさし	Fussa City	福生	ふっさ	Fussa	32		
+13219	13	13200	狛江市	こまえし	Komae City	狛江	こまえ	Komae	32		
+13220	13	13200	東大和市	ひがしやまとし	Higashiyamato City	東大和	ひがしやまと	Higashiyamato	32		
+13221	13	13200	清瀬市	きよせし	Kiyose City	清瀬	きよせ	Kiyose	32		
+13222	13	13200	東久留米市	ひがしくるめし	Higashikurume City	東久留米	ひがしくるめ	Higashikurume	32		
+13223	13	13200	武蔵村山市	むさしむらやまし	Musashimurayama City	武蔵村山	むさしむらやま	Musashimurayama	32		
+13224	13	13200	多摩市	たまし	Tama City	多摩	たま	Tama	32		
+13225	13	13200	稲城市	いなぎし	Inagi City	稲城	いなぎ	Inagi	32		
+13227	13	13200	羽村市	はむらし	Hamura City	羽村	はむら	Hamura	32		
+13228	13	13200	あきる野市	あきるのし	Akiruno City	あきる野	あきるの	Akiruno	32		
+13229	13	13200	西東京市	にしとうきょうし	Nishitokyo City	西東京	にしとうきょう	Nishitokyo	32		
+13303	13	13300	瑞穂町	みずほまち	Mizuho Town	瑞穂	みずほ	Mizuho	34	13300	
+13305	13	13300	日の出町	ひのでまち	Hinode Town	日の出	ひので	Hinode	34	13300	
+13307	13	13300	檜原村	ひのはらむら	Hinohara Village	檜原	ひのはら	Hinohara	36	13300	
+13308	13	13300	奥多摩町	おくたままち	Okutama Town	奥多摩	おくたま	Okutama	34	13300	
+13361	13	13360	大島町	おおしままち	Oshima Town	大島	おおしま	Oshima	34		13360
+13362	13	13360	利島村	としまむら	Toshima Village	利島	としま	Toshima	36		13360
+13363	13	13360	新島村	にいじまむら	Niijima Village	新島	にいじま	Niijima	36		13360
+13364	13	13360	神津島村	こうづしまむら	Kozushima Village	神津島	こうづしま	Kozushima	36		13360
+13381	13	13380	三宅村	みやけむら	Miyake Village	三宅	みやけ	Miyake	36		13380
+13382	13	13380	御蔵島村	みくらじまむら	Mikurajima Village	御蔵島	みくらじま	Mikurajima	36		13380
+13401	13	13400	八丈町	はちじょうまち	Hachijo Town	八丈	はちじょう	Hachijo	34		13400
+13402	13	13400	青ヶ島村	あおがしまむら	Aogashima Village	青ヶ島	あおがしま	Aogashima	36		13400
+13421	13	13420	小笠原村	おがさわらむら	Ogasawara Village	小笠原	おがさわら	Ogasawara	36		13420
+14100	14	14100	横浜市	よこはまし	Yokohama City	横浜	よこはま	Yokohama	31		
+14130	14	14130	川崎市	かわさきし	Kawasaki City	川崎	かわさき	Kawasaki	31		
+14150	14	14150	相模原市	さがみはらし	Sagamihara City	相模原	さがみはら	Sagamihara	31		
+14201	14	14200	横須賀市	よこすかし	Yokosuka City	横須賀	よこすか	Yokosuka	32		
+14203	14	14200	平塚市	ひらつかし	Hiratsuka City	平塚	ひらつか	Hiratsuka	32		
+14204	14	14200	鎌倉市	かまくらし	Kamakura City	鎌倉	かまくら	Kamakura	32		
+14205	14	14200	藤沢市	ふじさわし	Fujisawa City	藤沢	ふじさわ	Fujisawa	32		
+14206	14	14200	小田原市	おだわらし	Odawara City	小田原	おだわら	Odawara	32		
+14207	14	14200	茅ヶ崎市	ちがさきし	Chigasaki City	茅ヶ崎	ちがさき	Chigasaki	32		
+14208	14	14200	逗子市	ずしし	Zushi City	逗子	ずし	Zushi	32		
+14210	14	14200	三浦市	みうらし	Miura City	三浦	みうら	Miura	32		
+14211	14	14200	秦野市	はだのし	Hadano City	秦野	はだの	Hadano	32		
+14212	14	14200	厚木市	あつぎし	Atsugi City	厚木	あつぎ	Atsugi	32		
+14213	14	14200	大和市	やまとし	Yamato City	大和	やまと	Yamato	32		
+14214	14	14200	伊勢原市	いせはらし	Isehara City	伊勢原	いせはら	Isehara	32		
+14215	14	14200	海老名市	えびなし	Ebina City	海老名	えびな	Ebina	32		
+14216	14	14200	座間市	ざまし	Zama City	座間	ざま	Zama	32		
+14217	14	14200	南足柄市	みなみあしがらし	Minamiashigara City	南足柄	みなみあしがら	Minamiashigara	32		
+14218	14	14200	綾瀬市	あやせし	Ayase City	綾瀬	あやせ	Ayase	32		
+14301	14	14300	葉山町	はやままち	Hayama Town	葉山	はやま	Hayama	34	14300	
+14321	14	14320	寒川町	さむかわまち	Samukawa Town	寒川	さむかわ	Samukawa	34	14320	
+14341	14	14340	大磯町	おおいそまち	Oiso Town	大磯	おおいそ	Oiso	34	14340	
+14342	14	14340	二宮町	にのみやまち	Ninomiya Town	二宮	にのみや	Ninomiya	34	14340	
+14361	14	14360	中井町	なかいまち	Nakai Town	中井	なかい	Nakai	34	14360	
+14362	14	14360	大井町	おおいまち	Oi Town	大井	おおい	Oi	34	14360	
+14363	14	14360	松田町	まつだまち	Matsuda Town	松田	まつだ	Matsuda	34	14360	
+14364	14	14360	山北町	やまきたまち	Yamakita Town	山北	やまきた	Yamakita	34	14360	
+14366	14	14360	開成町	かいせいまち	Kaisei Town	開成	かいせい	Kaisei	34	14360	
+14382	14	14380	箱根町	はこねまち	Hakone Town	箱根	はこね	Hakone	34	14380	
+14383	14	14380	真鶴町	まなづるまち	Manazuru Town	真鶴	まなづる	Manazuru	34	14380	
+14384	14	14380	湯河原町	ゆがわらまち	Yugawara Town	湯河原	ゆがわら	Yugawara	34	14380	
+14401	14	14400	愛川町	あいかわまち	Aikawa Town	愛川	あいかわ	Aikawa	34	14400	
+14402	14	14400	清川村	きよかわむら	Kiyokawa Village	清川	きよかわ	Kiyokawa	36	14400	
+15100	15	15100	新潟市	にいがたし	Niigata City	新潟	にいがた	Niigata	31		
+15202	15	15200	長岡市	ながおかし	Nagaoka City	長岡	ながおか	Nagaoka	32		
+15204	15	15200	三条市	さんじょうし	Sanjo City	三条	さんじょう	Sanjo	32		
+15205	15	15200	柏崎市	かしわざきし	Kashiwazaki City	柏崎	かしわざき	Kashiwazaki	32		
+15206	15	15200	新発田市	しばたし	Shibata City	新発田	しばた	Shibata	32		
+15208	15	15200	小千谷市	おぢやし	Ojiya City	小千谷	おぢや	Ojiya	32		
+15209	15	15200	加茂市	かもし	Kamo City	加茂	かも	Kamo	32		
+15210	15	15200	十日町市	とおかまちし	Tokamachi City	十日町	とおかまち	Tokamachi	32		
+15211	15	15200	見附市	みつけし	Mitsuke City	見附	みつけ	Mitsuke	32		
+15212	15	15200	村上市	むらかみし	Murakami City	村上	むらかみ	Murakami	32		
+15213	15	15200	燕市	つばめし	Tsubame City	燕	つばめ	Tsubame	32		
+15216	15	15200	糸魚川市	いといがわし	Itoigawa City	糸魚川	いといがわ	Itoigawa	32		
+15217	15	15200	妙高市	みょうこうし	Myoko City	妙高	みょうこう	Myoko	32		
+15218	15	15200	五泉市	ごせんし	Gosen City	五泉	ごせん	Gosen	32		
+15222	15	15200	上越市	じょうえつし	Joetsu City	上越	じょうえつ	Joetsu	32		
+15223	15	15200	阿賀野市	あがのし	Agano City	阿賀野	あがの	Agano	32		
+15224	15	15200	佐渡市	さどし	Sado City	佐渡	さど	Sado	32		
+15225	15	15200	魚沼市	うおぬまし	Uonuma City	魚沼	うおぬま	Uonuma	32		
+15226	15	15200	南魚沼市	みなみうおぬまし	Minamiuonuma City	南魚沼	みなみうおぬま	Minamiuonuma	32		
+15227	15	15200	胎内市	たいないし	Tainai City	胎内	たいない	Tainai	32		
+15307	15	15300	聖籠町	せいろうまち	Seiro Town	聖籠	せいろう	Seiro	34	15300	
+15342	15	15340	弥彦村	やひこむら	Yahiko Village	弥彦	やひこ	Yahiko	36	15340	
+15361	15	15360	田上町	たがみまち	Tagami Town	田上	たがみ	Tagami	34	15360	
+15385	15	15380	阿賀町	あがまち	Aga Town	阿賀	あが	Aga	34	15380	
+15405	15	15400	出雲崎町	いずもざきまち	Izumozaki Town	出雲崎	いずもざき	Izumozaki	34	15400	
+15461	15	15460	湯沢町	ゆざわまち	Yuzawa Town	湯沢	ゆざわ	Yuzawa	34	15460	
+15482	15	15480	津南町	つなんまち	Tsunan Town	津南	つなん	Tsunan	34	15480	
+15504	15	15500	刈羽村	かりわむら	Kariwa Village	刈羽	かりわ	Kariwa	36	15500	
+15581	15	15580	関川村	せきかわむら	Sekikawa Village	関川	せきかわ	Sekikawa	36	15580	
+15586	15	15580	粟島浦村	あわしまうらむら	Awashimaura Village	粟島浦	あわしまうら	Awashimaura	36	15580	
+16201	16	16200	富山市	とやまし	Toyama City	富山	とやま	Toyama	32		
+16202	16	16200	高岡市	たかおかし	Takaoka City	高岡	たかおか	Takaoka	32		
+16204	16	16200	魚津市	うおづし	Uozu City	魚津	うおづ	Uozu	32		
+16205	16	16200	氷見市	ひみし	Himi City	氷見	ひみ	Himi	32		
+16206	16	16200	滑川市	なめりかわし	Namerikawa City	滑川	なめりかわ	Namerikawa	32		
+16207	16	16200	黒部市	くろべし	Kurobe City	黒部	くろべ	Kurobe	32		
+16208	16	16200	砺波市	となみし	Tonami City	砺波	となみ	Tonami	32		
+16209	16	16200	小矢部市	おやべし	Oyabe City	小矢部	おやべ	Oyabe	32		
+16210	16	16200	南砺市	なんとし	Nanto City	南砺	なんと	Nanto	32		
+16211	16	16200	射水市	いみずし	Imizu City	射水	いみず	Imizu	32		
+16321	16	16320	舟橋村	ふなはしむら	Funahashi Village	舟橋	ふなはし	Funahashi	36	16320	
+16322	16	16320	上市町	かみいちまち	Kamiichi Town	上市	かみいち	Kamiichi	34	16320	
+16323	16	16320	立山町	たてやままち	Tateyama Town	立山	たてやま	Tateyama	34	16320	
+16342	16	16340	入善町	にゅうぜんまち	Nyuzen Town	入善	にゅうぜん	Nyuzen	34	16340	
+16343	16	16340	朝日町	あさひまち	Asahi Town	朝日	あさひ	Asahi	34	16340	
+17201	17	17200	金沢市	かなざわし	Kanazawa City	金沢	かなざわ	Kanazawa	32		
+17202	17	17200	七尾市	ななおし	Nanao City	七尾	ななお	Nanao	32		
+17203	17	17200	小松市	こまつし	Komatsu City	小松	こまつ	Komatsu	32		
+17204	17	17200	輪島市	わじまし	Wajima City	輪島	わじま	Wajima	32		
+17205	17	17200	珠洲市	すずし	Suzu City	珠洲	すず	Suzu	32		
+17206	17	17200	加賀市	かがし	Kaga City	加賀	かが	Kaga	32		
+17207	17	17200	羽咋市	はくいし	Hakui City	羽咋	はくい	Hakui	32		
+17209	17	17200	かほく市	かほくし	Kahoku City	かほく	かほく	Kahoku	32		
+17210	17	17200	白山市	はくさんし	Hakusan City	白山	はくさん	Hakusan	32		
+17211	17	17200	能美市	のみし	Nomi City	能美	のみ	Nomi	32		
+17212	17	17200	野々市市	ののいちし	Nonoichi City	野々市	ののいち	Nonoichi	32		
+17324	17	17320	川北町	かわきたまち	Kawakita Town	川北	かわきた	Kawakita	34	17320	
+17361	17	17360	津幡町	つばたまち	Tsubata Town	津幡	つばた	Tsubata	34	17360	
+17365	17	17360	内灘町	うちなだまち	Uchinada Town	内灘	うちなだ	Uchinada	34	17360	
+17384	17	17380	志賀町	しかまち	Shika Town	志賀	しか	Shika	34	17380	
+17386	17	17380	宝達志水町	ほうだつしみずちょう	Hodatsushimizu Town	宝達志水	ほうだつしみず	Hodatsushimizu	35	17380	
+17407	17	17400	中能登町	なかのとまち	Nakanoto Town	中能登	なかのと	Nakanoto	34	17400	
+17461	17	17460	穴水町	あなみずまち	Anamizu Town	穴水	あなみず	Anamizu	34	17460	
+17463	17	17460	能登町	のとちょう	Noto Town	能登	のと	Noto	35	17460	
+18201	18	18200	福井市	ふくいし	Fukui City	福井	ふくい	Fukui	32		
+18202	18	18200	敦賀市	つるがし	Tsuruga City	敦賀	つるが	Tsuruga	32		
+18204	18	18200	小浜市	おばまし	Obama City	小浜	おばま	Obama	32		
+18205	18	18200	大野市	おおのし	Ono City	大野	おおの	Ono	32		
+18206	18	18200	勝山市	かつやまし	Katsuyama City	勝山	かつやま	Katsuyama	32		
+18207	18	18200	鯖江市	さばえし	Sabae City	鯖江	さばえ	Sabae	32		
+18208	18	18200	あわら市	あわらし	Awara City	あわら	あわら	Awara	32		
+18209	18	18200	越前市	えちぜんし	Echizen City	越前	えちぜん	Echizen	32		
+18210	18	18200	坂井市	さかいし	Sakai City	坂井	さかい	Sakai	32		
+18322	18	18320	永平寺町	えいへいじちょう	Eiheiji Town	永平寺	えいへいじ	Eiheiji	35	18320	
+18382	18	18380	池田町	いけだちょう	Ikeda Town	池田	いけだ	Ikeda	35	18380	
+18404	18	18400	南越前町	みなみえちぜんちょう	Minamiechizen Town	南越前	みなみえちぜん	Minamiechizen	35	18400	
+18423	18	18420	越前町	えちぜんちょう	Echizen Town	越前	えちぜん	Echizen	35	18420	
+18442	18	18440	美浜町	みはまちょう	Mihama Town	美浜	みはま	Mihama	35	18440	
+18481	18	18480	高浜町	たかはまちょう	Takahama Town	高浜	たかはま	Takahama	35	18480	
+18483	18	18480	おおい町	おおいちょう	Oi Town	おおい	おおい	Oi	35	18480	
+18501	18	18500	若狭町	わかさちょう	Wakasa Town	若狭	わかさ	Wakasa	35	18500	
+19201	19	19200	甲府市	こうふし	Kofu City	甲府	こうふ	Kofu	32		
+19202	19	19200	富士吉田市	ふじよしだし	Fujiyoshida City	富士吉田	ふじよしだ	Fujiyoshida	32		
+19204	19	19200	都留市	つるし	Tsuru City	都留	つる	Tsuru	32		
+19205	19	19200	山梨市	やまなしし	Yamanashi City	山梨	やまなし	Yamanashi	32		
+19206	19	19200	大月市	おおつきし	Otsuki City	大月	おおつき	Otsuki	32		
+19207	19	19200	韮崎市	にらさきし	Nirasaki City	韮崎	にらさき	Nirasaki	32		
+19208	19	19200	南アルプス市	みなみあるぷすし	Minami-Alps City	南アルプス	みなみあるぷす	Minami-Alps	32		
+19209	19	19200	北杜市	ほくとし	Hokuto City	北杜	ほくと	Hokuto	32		
+19210	19	19200	甲斐市	かいし	Kai City	甲斐	かい	Kai	32		
+19211	19	19200	笛吹市	ふえふきし	Fuefuki City	笛吹	ふえふき	Fuefuki	32		
+19212	19	19200	上野原市	うえのはらし	Uenohara City	上野原	うえのはら	Uenohara	32		
+19213	19	19200	甲州市	こうしゅうし	Koshu City	甲州	こうしゅう	Koshu	32		
+19214	19	19200	中央市	ちゅうおうし	Chuo City	中央	ちゅうおう	Chuo	32		
+19346	19	19340	市川三郷町	いちかわみさとちょう	Ichikawamisato Town	市川三郷	いちかわみさと	Ichikawamisato	35	19340	
+19364	19	19360	早川町	はやかわちょう	Hayakawa Town	早川	はやかわ	Hayakawa	35	19360	
+19365	19	19360	身延町	みのぶちょう	Minobu Town	身延	みのぶ	Minobu	35	19360	
+19366	19	19360	南部町	なんぶちょう	Nanbu Town	南部	なんぶ	Nanbu	35	19360	
+19368	19	19360	富士川町	ふじかわちょう	Fujikawa Town	富士川	ふじかわ	Fujikawa	35	19360	
+19384	19	19380	昭和町	しょうわちょう	Showa Town	昭和	しょうわ	Showa	35	19380	
+19422	19	19420	道志村	どうしむら	Doshi Village	道志	どうし	Doshi	36	19420	
+19423	19	19420	西桂町	にしかつらちょう	Nishikatsura Town	西桂	にしかつら	Nishikatsura	35	19420	
+19424	19	19420	忍野村	おしのむら	Oshino Village	忍野	おしの	Oshino	36	19420	
+19425	19	19420	山中湖村	やまなかこむら	Yamanakako Village	山中湖	やまなかこ	Yamanakako	36	19420	
+19429	19	19420	鳴沢村	なるさわむら	Narusawa Village	鳴沢	なるさわ	Narusawa	36	19420	
+19430	19	19420	富士河口湖町	ふじかわぐちこまち	Fujikawaguchiko Town	富士河口湖	ふじかわぐちこ	Fujikawaguchiko	34	19420	
+19442	19	19440	小菅村	こすげむら	Kosuge Village	小菅	こすげ	Kosuge	36	19440	
+19443	19	19440	丹波山村	たばやまむら	Tabayama Village	丹波山	たばやま	Tabayama	36	19440	
+20201	20	20200	長野市	ながのし	Nagano City	長野	ながの	Nagano	32		
+20202	20	20200	松本市	まつもとし	Matsumoto City	松本	まつもと	Matsumoto	32		
+20203	20	20200	上田市	うえだし	Ueda City	上田	うえだ	Ueda	32		
+20204	20	20200	岡谷市	おかやし	Okaya City	岡谷	おかや	Okaya	32		
+20205	20	20200	飯田市	いいだし	Iida City	飯田	いいだ	Iida	32		
+20206	20	20200	諏訪市	すわし	Suwa City	諏訪	すわ	Suwa	32		
+20207	20	20200	須坂市	すざかし	Suzaka City	須坂	すざか	Suzaka	32		
+20208	20	20200	小諸市	こもろし	Komoro City	小諸	こもろ	Komoro	32		
+20209	20	20200	伊那市	いなし	Ina City	伊那	いな	Ina	32		
+20210	20	20200	駒ヶ根市	こまがねし	Komagane City	駒ヶ根	こまがね	Komagane	32		
+20211	20	20200	中野市	なかのし	Nakano City	中野	なかの	Nakano	32		
+20212	20	20200	大町市	おおまちし	Omachi City	大町	おおまち	Omachi	32		
+20213	20	20200	飯山市	いいやまし	Iiyama City	飯山	いいやま	Iiyama	32		
+20214	20	20200	茅野市	ちのし	Chino City	茅野	ちの	Chino	32		
+20215	20	20200	塩尻市	しおじりし	Shiojiri City	塩尻	しおじり	Shiojiri	32		
+20217	20	20200	佐久市	さくし	Saku City	佐久	さく	Saku	32		
+20218	20	20200	千曲市	ちくまし	Chikuma City	千曲	ちくま	Chikuma	32		
+20219	20	20200	東御市	とうみし	Tomi City	東御	とうみ	Tomi	32		
+20220	20	20200	安曇野市	あづみのし	Azumino City	安曇野	あづみの	Azumino	32		
+20303	20	20300	小海町	こうみまち	Koumi Town	小海	こうみ	Koumi	34	20300	
+20304	20	20300	川上村	かわかみむら	Kawakami Village	川上	かわかみ	Kawakami	36	20300	
+20305	20	20300	南牧村	みなみまきむら	Minamimaki Village	南牧	みなみまき	Minamimaki	36	20300	
+20306	20	20300	南相木村	みなみあいきむら	Minamiaiki Village	南相木	みなみあいき	Minamiaiki	36	20300	
+20307	20	20300	北相木村	きたあいきむら	Kitaaiki Village	北相木	きたあいき	Kitaaiki	36	20300	
+20309	20	20300	佐久穂町	さくほまち	Sakuho Town	佐久穂	さくほ	Sakuho	34	20300	
+20321	20	20320	軽井沢町	かるいざわまち	Karuizawa Town	軽井沢	かるいざわ	Karuizawa	34	20320	
+20323	20	20320	御代田町	みよたまち	Miyota Town	御代田	みよた	Miyota	34	20320	
+20324	20	20320	立科町	たてしなまち	Tateshina Town	立科	たてしな	Tateshina	34	20320	
+20349	20	20340	青木村	あおきむら	Aoki Village	青木	あおき	Aoki	36	20340	
+20350	20	20340	長和町	ながわまち	Nagawa Town	長和	ながわ	Nagawa	34	20340	
+20361	20	20360	下諏訪町	しもすわまち	Shimosuwa Town	下諏訪	しもすわ	Shimosuwa	34	20360	
+20362	20	20360	富士見町	ふじみまち	Fujimi Town	富士見	ふじみ	Fujimi	34	20360	
+20363	20	20360	原村	はらむら	Hara Village	原	はら	Hara	36	20360	
+20382	20	20380	辰野町	たつのまち	Tatsuno Town	辰野	たつの	Tatsuno	34	20380	
+20383	20	20380	箕輪町	みのわまち	Minowa Town	箕輪	みのわ	Minowa	34	20380	
+20384	20	20380	飯島町	いいじままち	Iijima Town	飯島	いいじま	Iijima	34	20380	
+20385	20	20380	南箕輪村	みなみみのわむら	Minamiminowa Village	南箕輪	みなみみのわ	Minamiminowa	36	20380	
+20386	20	20380	中川村	なかがわむら	Nakagawa Village	中川	なかがわ	Nakagawa	36	20380	
+20388	20	20380	宮田村	みやだむら	Miyada Village	宮田	みやだ	Miyada	36	20380	
+20402	20	20400	松川町	まつかわまち	Matsukawa Town	松川	まつかわ	Matsukawa	34	20400	
+20403	20	20400	高森町	たかもりまち	Takamori Town	高森	たかもり	Takamori	34	20400	
+20404	20	20400	阿南町	あなんちょう	Anan Town	阿南	あなん	Anan	35	20400	
+20407	20	20400	阿智村	あちむら	Achi Village	阿智	あち	Achi	36	20400	
+20409	20	20400	平谷村	ひらやむら	Hiraya Village	平谷	ひらや	Hiraya	36	20400	
+20410	20	20400	根羽村	ねばむら	Neba Village	根羽	ねば	Neba	36	20400	
+20411	20	20400	下條村	しもじょうむら	Shimojo Village	下條	しもじょう	Shimojo	36	20400	
+20412	20	20400	売木村	うるぎむら	Urugi Village	売木	うるぎ	Urugi	36	20400	
+20413	20	20400	天龍村	てんりゅうむら	Tenryu Village	天龍	てんりゅう	Tenryu	36	20400	
+20414	20	20400	泰阜村	やすおかむら	Yasuoka Village	泰阜	やすおか	Yasuoka	36	20400	
+20415	20	20400	喬木村	たかぎむら	Takagi Village	喬木	たかぎ	Takagi	36	20400	
+20416	20	20400	豊丘村	とよおかむら	Toyooka Village	豊丘	とよおか	Toyooka	36	20400	
+20417	20	20400	大鹿村	おおしかむら	Oshika Village	大鹿	おおしか	Oshika	36	20400	
+20422	20	20420	上松町	あげまつまち	Agematsu Town	上松	あげまつ	Agematsu	34	20420	
+20423	20	20420	南木曽町	なぎそまち	Nagiso Town	南木曽	なぎそ	Nagiso	34	20420	
+20425	20	20420	木祖村	きそむら	Kiso Village	木祖	きそ	Kiso	36	20420	
+20429	20	20420	王滝村	おうたきむら	Otaki Village	王滝	おうたき	Otaki	36	20420	
+20430	20	20420	大桑村	おおくわむら	Okuwa Village	大桑	おおくわ	Okuwa	36	20420	
+20432	20	20420	木曽町	きそまち	Kiso Town	木曽	きそ	Kiso	34	20420	
+20446	20	20440	麻績村	おみむら	Omi Village	麻績	おみ	Omi	36	20440	
+20448	20	20440	生坂村	いくさかむら	Ikusaka Village	生坂	いくさか	Ikusaka	36	20440	
+20450	20	20440	山形村	やまがたむら	Yamagata Village	山形	やまがた	Yamagata	36	20440	
+20451	20	20440	朝日村	あさひむら	Asahi Village	朝日	あさひ	Asahi	36	20440	
+20452	20	20440	筑北村	ちくほくむら	Chikuhoku Village	筑北	ちくほく	Chikuhoku	36	20440	
+20481	20	20480	池田町	いけだまち	Ikeda Town	池田	いけだ	Ikeda	34	20480	
+20482	20	20480	松川村	まつかわむら	Matsukawa Village	松川	まつかわ	Matsukawa	36	20480	
+20485	20	20480	白馬村	はくばむら	Hakuba Village	白馬	はくば	Hakuba	36	20480	
+20486	20	20480	小谷村	おたりむら	Otari Village	小谷	おたり	Otari	36	20480	
+20521	20	20520	坂城町	さかきまち	Sakaki Town	坂城	さかき	Sakaki	34	20520	
+20541	20	20540	小布施町	おぶせまち	Obuse Town	小布施	おぶせ	Obuse	34	20540	
+20543	20	20540	高山村	たかやまむら	Takayama Village	高山	たかやま	Takayama	36	20540	
+20561	20	20560	山ノ内町	やまのうちまち	Yamanouchi Town	山ノ内	やまのうち	Yamanouchi	34	20560	
+20562	20	20560	木島平村	きじまだいらむら	Kijimadaira Village	木島平	きじまだいら	Kijimadaira	36	20560	
+20563	20	20560	野沢温泉村	のざわおんせんむら	Nozawaonsen Village	野沢温泉	のざわおんせん	Nozawaonsen	36	20560	
+20583	20	20580	信濃町	しなのまち	Shinano Town	信濃	しなの	Shinano	34	20580	
+20588	20	20580	小川村	おがわむら	Ogawa Village	小川	おがわ	Ogawa	36	20580	
+20590	20	20580	飯綱町	いいづなまち	Iizuna Town	飯綱	いいづな	Iizuna	34	20580	
+20602	20	20600	栄村	さかえむら	Sakae Village	栄	さかえ	Sakae	36	20600	
+21201	21	21200	岐阜市	ぎふし	Gifu City	岐阜	ぎふ	Gifu	32		
+21202	21	21200	大垣市	おおがきし	Ogaki City	大垣	おおがき	Ogaki	32		
+21203	21	21200	高山市	たかやまし	Takayama City	高山	たかやま	Takayama	32		
+21204	21	21200	多治見市	たじみし	Tajimi City	多治見	たじみ	Tajimi	32		
+21205	21	21200	関市	せきし	Seki City	関	せき	Seki	32		
+21206	21	21200	中津川市	なかつがわし	Nakatsugawa City	中津川	なかつがわ	Nakatsugawa	32		
+21207	21	21200	美濃市	みのし	Mino City	美濃	みの	Mino	32		
+21208	21	21200	瑞浪市	みずなみし	Mizunami City	瑞浪	みずなみ	Mizunami	32		
+21209	21	21200	羽島市	はしまし	Hashima City	羽島	はしま	Hashima	32		
+21210	21	21200	恵那市	えなし	Ena City	恵那	えな	Ena	32		
+21211	21	21200	美濃加茂市	みのかもし	Minokamo City	美濃加茂	みのかも	Minokamo	32		
+21212	21	21200	土岐市	ときし	Toki City	土岐	とき	Toki	32		
+21213	21	21200	各務原市	かかみがはらし	Kakamigahara City	各務原	かかみがはら	Kakamigahara	32		
+21214	21	21200	可児市	かにし	Kani City	可児	かに	Kani	32		
+21215	21	21200	山県市	やまがたし	Yamagata City	山県	やまがた	Yamagata	32		
+21216	21	21200	瑞穂市	みずほし	Mizuho City	瑞穂	みずほ	Mizuho	32		
+21217	21	21200	飛騨市	ひだし	Hida City	飛騨	ひだ	Hida	32		
+21218	21	21200	本巣市	もとすし	Motosu City	本巣	もとす	Motosu	32		
+21219	21	21200	郡上市	ぐじょうし	Gujo City	郡上	ぐじょう	Gujo	32		
+21220	21	21200	下呂市	げろし	Gero City	下呂	げろ	Gero	32		
+21221	21	21200	海津市	かいづし	Kaizu City	海津	かいづ	Kaizu	32		
+21302	21	21300	岐南町	ぎなんちょう	Ginan Town	岐南	ぎなん	Ginan	35	21300	
+21303	21	21300	笠松町	かさまつちょう	Kasamatsu Town	笠松	かさまつ	Kasamatsu	35	21300	
+21341	21	21340	養老町	ようろうちょう	Yoro Town	養老	ようろう	Yoro	35	21340	
+21361	21	21360	垂井町	たるいちょう	Tarui Town	垂井	たるい	Tarui	35	21360	
+21362	21	21360	関ケ原町	せきがはらちょう	Sekigahara Town	関ケ原	せきがはら	Sekigahara	35	21360	
+21381	21	21380	神戸町	ごうどちょう	Godo Town	神戸	ごうど	Godo	35	21380	
+21382	21	21380	輪之内町	わのうちちょう	Wanouchi Town	輪之内	わのうち	Wanouchi	35	21380	
+21383	21	21380	安八町	あんぱちちょう	Anpachi Town	安八	あんぱち	Anpachi	35	21380	
+21401	21	21400	揖斐川町	いびがわちょう	Ibigawa Town	揖斐川	いびがわ	Ibigawa	35	21400	
+21403	21	21400	大野町	おおのちょう	Ono Town	大野	おおの	Ono	35	21400	
+21404	21	21400	池田町	いけだちょう	Ikeda Town	池田	いけだ	Ikeda	35	21400	
+21421	21	21420	北方町	きたがたちょう	Kitagata Town	北方	きたがた	Kitagata	35	21420	
+21501	21	21500	坂祝町	さかほぎちょう	Sakahogi Town	坂祝	さかほぎ	Sakahogi	35	21500	
+21502	21	21500	富加町	とみかちょう	Tomika Town	富加	とみか	Tomika	35	21500	
+21503	21	21500	川辺町	かわべちょう	Kawabe Town	川辺	かわべ	Kawabe	35	21500	
+21504	21	21500	七宗町	ひちそうちょう	Hichiso Town	七宗	ひちそう	Hichiso	35	21500	
+21505	21	21500	八百津町	やおつちょう	Yaotsu Town	八百津	やおつ	Yaotsu	35	21500	
+21506	21	21500	白川町	しらかわちょう	Shirakawa Town	白川	しらかわ	Shirakawa	35	21500	
+21507	21	21500	東白川村	ひがししらかわむら	Higashishirakawa Village	東白川	ひがししらかわ	Higashishirakawa	36	21500	
+21521	21	21520	御嵩町	みたけちょう	Mitake Town	御嵩	みたけ	Mitake	35	21520	
+21604	21	21600	白川村	しらかわむら	Shirakawa Village	白川	しらかわ	Shirakawa	36	21600	
+22100	22	22100	静岡市	しずおかし	Shizuoka City	静岡	しずおか	Shizuoka	31		
+22130	22	22130	浜松市	はままつし	Hamamatsu City	浜松	はままつ	Hamamatsu	31		
+22203	22	22200	沼津市	ぬまづし	Numazu City	沼津	ぬまづ	Numazu	32		
+22205	22	22200	熱海市	あたみし	Atami City	熱海	あたみ	Atami	32		
+22206	22	22200	三島市	みしまし	Mishima City	三島	みしま	Mishima	32		
+22207	22	22200	富士宮市	ふじのみやし	Fujinomiya City	富士宮	ふじのみや	Fujinomiya	32		
+22208	22	22200	伊東市	いとうし	Ito City	伊東	いとう	Ito	32		
+22209	22	22200	島田市	しまだし	Shimada City	島田	しまだ	Shimada	32		
+22210	22	22200	富士市	ふじし	Fuji City	富士	ふじ	Fuji	32		
+22211	22	22200	磐田市	いわたし	Iwata City	磐田	いわた	Iwata	32		
+22212	22	22200	焼津市	やいづし	Yaizu City	焼津	やいづ	Yaizu	32		
+22213	22	22200	掛川市	かけがわし	Kakegawa City	掛川	かけがわ	Kakegawa	32		
+22214	22	22200	藤枝市	ふじえだし	Fujieda City	藤枝	ふじえだ	Fujieda	32		
+22215	22	22200	御殿場市	ごてんばし	Gotenba City	御殿場	ごてんば	Gotenba	32		
+22216	22	22200	袋井市	ふくろいし	Fukuroi City	袋井	ふくろい	Fukuroi	32		
+22219	22	22200	下田市	しもだし	Shimoda City	下田	しもだ	Shimoda	32		
+22220	22	22200	裾野市	すそのし	Susono City	裾野	すその	Susono	32		
+22221	22	22200	湖西市	こさいし	Kosai City	湖西	こさい	Kosai	32		
+22222	22	22200	伊豆市	いずし	Izu City	伊豆	いず	Izu	32		
+22223	22	22200	御前崎市	おまえざきし	Omaezaki City	御前崎	おまえざき	Omaezaki	32		
+22224	22	22200	菊川市	きくがわし	Kikugawa City	菊川	きくがわ	Kikugawa	32		
+22225	22	22200	伊豆の国市	いずのくにし	Izunokuni City	伊豆の国	いずのくに	Izunokuni	32		
+22226	22	22200	牧之原市	まきのはらし	Makinohara City	牧之原	まきのはら	Makinohara	32		
+22301	22	22300	東伊豆町	ひがしいずちょう	Higashiizu Town	東伊豆	ひがしいず	Higashiizu	35	22300	
+22302	22	22300	河津町	かわづちょう	Kawazu Town	河津	かわづ	Kawazu	35	22300	
+22304	22	22300	南伊豆町	みなみいずちょう	Minamiizu Town	南伊豆	みなみいず	Minamiizu	35	22300	
+22305	22	22300	松崎町	まつざきちょう	Matsuzaki Town	松崎	まつざき	Matsuzaki	35	22300	
+22306	22	22300	西伊豆町	にしいずちょう	Nishiizu Town	西伊豆	にしいず	Nishiizu	35	22300	
+22325	22	22320	函南町	かんなみちょう	Kannami Town	函南	かんなみ	Kannami	35	22320	
+22341	22	22340	清水町	しみずちょう	Shimizu Town	清水	しみず	Shimizu	35	22340	
+22342	22	22340	長泉町	ながいずみちょう	Nagaizumi Town	長泉	ながいずみ	Nagaizumi	35	22340	
+22344	22	22340	小山町	おやまちょう	Oyama Town	小山	おやま	Oyama	35	22340	
+22424	22	22420	吉田町	よしだちょう	Yoshida Town	吉田	よしだ	Yoshida	35	22420	
+22429	22	22420	川根本町	かわねほんちょう	Kawanehon Town	川根本	かわねほん	Kawanehon	35	22420	
+22461	22	22460	森町	もりまち	Mori Town	森	もり	Mori	34	22460	
+23100	23	23100	名古屋市	なごやし	Nagoya City	名古屋	なごや	Nagoya	31		
+23201	23	23200	豊橋市	とよはしし	Toyohashi City	豊橋	とよはし	Toyohashi	32		
+23202	23	23200	岡崎市	おかざきし	Okazaki City	岡崎	おかざき	Okazaki	32		
+23203	23	23200	一宮市	いちのみやし	Ichinomiya City	一宮	いちのみや	Ichinomiya	32		
+23204	23	23200	瀬戸市	せとし	Seto City	瀬戸	せと	Seto	32		
+23205	23	23200	半田市	はんだし	Handa City	半田	はんだ	Handa	32		
+23206	23	23200	春日井市	かすがいし	Kasugai City	春日井	かすがい	Kasugai	32		
+23207	23	23200	豊川市	とよかわし	Toyokawa City	豊川	とよかわ	Toyokawa	32		
+23208	23	23200	津島市	つしまし	Tsushima City	津島	つしま	Tsushima	32		
+23209	23	23200	碧南市	へきなんし	Hekinan City	碧南	へきなん	Hekinan	32		
+23210	23	23200	刈谷市	かりやし	Kariya City	刈谷	かりや	Kariya	32		
+23211	23	23200	豊田市	とよたし	Toyota City	豊田	とよた	Toyota	32		
+23212	23	23200	安城市	あんじょうし	Anjo City	安城	あんじょう	Anjo	32		
+23213	23	23200	西尾市	にしおし	Nishio City	西尾	にしお	Nishio	32		
+23214	23	23200	蒲郡市	がまごおりし	Gamagori City	蒲郡	がまごおり	Gamagori	32		
+23215	23	23200	犬山市	いぬやまし	Inuyama City	犬山	いぬやま	Inuyama	32		
+23216	23	23200	常滑市	とこなめし	Tokoname City	常滑	とこなめ	Tokoname	32		
+23217	23	23200	江南市	こうなんし	Konan City	江南	こうなん	Konan	32		
+23219	23	23200	小牧市	こまきし	Komaki City	小牧	こまき	Komaki	32		
+23220	23	23200	稲沢市	いなざわし	Inazawa City	稲沢	いなざわ	Inazawa	32		
+23221	23	23200	新城市	しんしろし	Shinshiro City	新城	しんしろ	Shinshiro	32		
+23222	23	23200	東海市	とうかいし	Tokai City	東海	とうかい	Tokai	32		
+23223	23	23200	大府市	おおぶし	Obu City	大府	おおぶ	Obu	32		
+23224	23	23200	知多市	ちたし	Chita City	知多	ちた	Chita	32		
+23225	23	23200	知立市	ちりゅうし	Chiryu City	知立	ちりゅう	Chiryu	32		
+23226	23	23200	尾張旭市	おわりあさひし	Owariasahi City	尾張旭	おわりあさひ	Owariasahi	32		
+23227	23	23200	高浜市	たかはまし	Takahama City	高浜	たかはま	Takahama	32		
+23228	23	23200	岩倉市	いわくらし	Iwakura City	岩倉	いわくら	Iwakura	32		
+23229	23	23200	豊明市	とよあけし	Toyoake City	豊明	とよあけ	Toyoake	32		
+23230	23	23200	日進市	にっしんし	Nisshin City	日進	にっしん	Nisshin	32		
+23231	23	23200	田原市	たはらし	Tahara City	田原	たはら	Tahara	32		
+23232	23	23200	愛西市	あいさいし	Aisai City	愛西	あいさい	Aisai	32		
+23233	23	23200	清須市	きよすし	Kiyosu City	清須	きよす	Kiyosu	32		
+23234	23	23200	北名古屋市	きたなごやし	Kitanagoya City	北名古屋	きたなごや	Kitanagoya	32		
+23235	23	23200	弥富市	やとみし	Yatomi City	弥富	やとみ	Yatomi	32		
+23236	23	23200	みよし市	みよしし	Miyoshi City	みよし	みよし	Miyoshi	32		
+23237	23	23200	あま市	あまし	Ama City	あま	あま	Ama	32		
+23238	23	23200	長久手市	ながくてし	Nagakute City	長久手	ながくて	Nagakute	32		
+23302	23	23300	東郷町	とうごうちょう	Togo Town	東郷	とうごう	Togo	35	23300	
+23342	23	23340	豊山町	とよやまちょう	Toyoyama Town	豊山	とよやま	Toyoyama	35	23340	
+23361	23	23360	大口町	おおぐちちょう	Oguchi Town	大口	おおぐち	Oguchi	35	23360	
+23362	23	23360	扶桑町	ふそうちょう	Fuso Town	扶桑	ふそう	Fuso	35	23360	
+23424	23	23420	大治町	おおはるちょう	Oharu Town	大治	おおはる	Oharu	35	23420	
+23425	23	23420	蟹江町	かにえちょう	Kanie Town	蟹江	かにえ	Kanie	35	23420	
+23427	23	23420	飛島村	とびしまむら	Tobishima Village	飛島	とびしま	Tobishima	36	23420	
+23441	23	23440	阿久比町	あぐいちょう	Agui Town	阿久比	あぐい	Agui	35	23440	
+23442	23	23440	東浦町	ひがしうらちょう	Higashiura Town	東浦	ひがしうら	Higashiura	35	23440	
+23445	23	23440	南知多町	みなみちたちょう	Minamichita Town	南知多	みなみちた	Minamichita	35	23440	
+23446	23	23440	美浜町	みはまちょう	Mihama Town	美浜	みはま	Mihama	35	23440	
+23447	23	23440	武豊町	たけとよちょう	Taketoyo Town	武豊	たけとよ	Taketoyo	35	23440	
+23501	23	23500	幸田町	こうたちょう	Kota Town	幸田	こうた	Kota	35	23500	
+23561	23	23560	設楽町	したらちょう	Shitara Town	設楽	したら	Shitara	35	23560	
+23562	23	23560	東栄町	とうえいちょう	Toei Town	東栄	とうえい	Toei	35	23560	
+23563	23	23560	豊根村	とよねむら	Toyone Village	豊根	とよね	Toyone	36	23560	
+24201	24	24200	津市	つし	Tsu City	津	つ	Tsu	32		
+24202	24	24200	四日市市	よっかいちし	Yokkaichi City	四日市	よっかいち	Yokkaichi	32		
+24203	24	24200	伊勢市	いせし	Ise City	伊勢	いせ	Ise	32		
+24204	24	24200	松阪市	まつさかし	Matsusaka City	松阪	まつさか	Matsusaka	32		
+24205	24	24200	桑名市	くわなし	Kuwana City	桑名	くわな	Kuwana	32		
+24207	24	24200	鈴鹿市	すずかし	Suzuka City	鈴鹿	すずか	Suzuka	32		
+24208	24	24200	名張市	なばりし	Nabari City	名張	なばり	Nabari	32		
+24209	24	24200	尾鷲市	おわせし	Owase City	尾鷲	おわせ	Owase	32		
+24210	24	24200	亀山市	かめやまし	Kameyama City	亀山	かめやま	Kameyama	32		
+24211	24	24200	鳥羽市	とばし	Toba City	鳥羽	とば	Toba	32		
+24212	24	24200	熊野市	くまのし	Kumano City	熊野	くまの	Kumano	32		
+24214	24	24200	いなべ市	いなべし	Inabe City	いなべ	いなべ	Inabe	32		
+24215	24	24200	志摩市	しまし	Shima City	志摩	しま	Shima	32		
+24216	24	24200	伊賀市	いがし	Iga City	伊賀	いが	Iga	32		
+24303	24	24300	木曽岬町	きそさきちょう	Kisosaki Town	木曽岬	きそさき	Kisosaki	35	24300	
+24324	24	24320	東員町	とういんちょう	Toin Town	東員	とういん	Toin	35	24320	
+24341	24	24340	菰野町	こものちょう	Komono Town	菰野	こもの	Komono	35	24340	
+24343	24	24340	朝日町	あさひちょう	Asahi Town	朝日	あさひ	Asahi	35	24340	
+24344	24	24340	川越町	かわごえちょう	Kawagoe Town	川越	かわごえ	Kawagoe	35	24340	
+24441	24	24440	多気町	たきちょう	Taki Town	多気	たき	Taki	35	24440	
+24442	24	24440	明和町	めいわちょう	Meiwa Town	明和	めいわ	Meiwa	35	24440	
+24443	24	24440	大台町	おおだいちょう	Odai Town	大台	おおだい	Odai	35	24440	
+24461	24	24460	玉城町	たまきちょう	Tamaki Town	玉城	たまき	Tamaki	35	24460	
+24470	24	24460	度会町	わたらいちょう	Watarai Town	度会	わたらい	Watarai	35	24460	
+24471	24	24460	大紀町	たいきちょう	Taiki Town	大紀	たいき	Taiki	35	24460	
+24472	24	24460	南伊勢町	みなみいせちょう	Minamiise Town	南伊勢	みなみいせ	Minamiise	35	24460	
+24543	24	24540	紀北町	きほくちょう	Kihoku Town	紀北	きほく	Kihoku	35	24540	
+24561	24	24560	御浜町	みはまちょう	Mihama Town	御浜	みはま	Mihama	35	24560	
+24562	24	24560	紀宝町	きほうちょう	Kiho Town	紀宝	きほう	Kiho	35	24560	
+25201	25	25200	大津市	おおつし	Otsu City	大津	おおつ	Otsu	32		
+25202	25	25200	彦根市	ひこねし	Hikone City	彦根	ひこね	Hikone	32		
+25203	25	25200	長浜市	ながはまし	Nagahama City	長浜	ながはま	Nagahama	32		
+25204	25	25200	近江八幡市	おうみはちまんし	Omihachiman City	近江八幡	おうみはちまん	Omihachiman	32		
+25206	25	25200	草津市	くさつし	Kusatsu City	草津	くさつ	Kusatsu	32		
+25207	25	25200	守山市	もりやまし	Moriyama City	守山	もりやま	Moriyama	32		
+25208	25	25200	栗東市	りっとうし	Ritto City	栗東	りっとう	Ritto	32		
+25209	25	25200	甲賀市	こうかし	Koka City	甲賀	こうか	Koka	32		
+25210	25	25200	野洲市	やすし	Yasu City	野洲	やす	Yasu	32		
+25211	25	25200	湖南市	こなんし	Konan City	湖南	こなん	Konan	32		
+25212	25	25200	高島市	たかしまし	Takashima City	高島	たかしま	Takashima	32		
+25213	25	25200	東近江市	ひがしおうみし	Higashiomi City	東近江	ひがしおうみ	Higashiomi	32		
+25214	25	25200	米原市	まいばらし	Maibara City	米原	まいばら	Maibara	32		
+25383	25	25380	日野町	ひのちょう	Hino Town	日野	ひの	Hino	35	25380	
+25384	25	25380	竜王町	りゅうおうちょう	Ryuo Town	竜王	りゅうおう	Ryuo	35	25380	
+25425	25	25420	愛荘町	あいしょうちょう	Aisho Town	愛荘	あいしょう	Aisho	35	25420	
+25441	25	25440	豊郷町	とよさとちょう	Toyosato Town	豊郷	とよさと	Toyosato	35	25440	
+25442	25	25440	甲良町	こうらちょう	Koura Town	甲良	こうら	Koura	35	25440	
+25443	25	25440	多賀町	たがちょう	Taga Town	多賀	たが	Taga	35	25440	
+26100	26	26100	京都市	きょうとし	Kyoto City	京都	きょうと	Kyoto	31		
+26201	26	26200	福知山市	ふくちやまし	Fukuchiyama City	福知山	ふくちやま	Fukuchiyama	32		
+26202	26	26200	舞鶴市	まいづるし	Maizuru City	舞鶴	まいづる	Maizuru	32		
+26203	26	26200	綾部市	あやべし	Ayabe City	綾部	あやべ	Ayabe	32		
+26204	26	26200	宇治市	うじし	Uji City	宇治	うじ	Uji	32		
+26205	26	26200	宮津市	みやづし	Miyazu City	宮津	みやづ	Miyazu	32		
+26206	26	26200	亀岡市	かめおかし	Kameoka City	亀岡	かめおか	Kameoka	32		
+26207	26	26200	城陽市	じょうようし	Joyo City	城陽	じょうよう	Joyo	32		
+26208	26	26200	向日市	むこうし	Muko City	向日	むこう	Muko	32		
+26209	26	26200	長岡京市	ながおかきょうし	Nagaokakyo City	長岡京	ながおかきょう	Nagaokakyo	32		
+26210	26	26200	八幡市	やわたし	Yawata City	八幡	やわた	Yawata	32		
+26211	26	26200	京田辺市	きょうたなべし	Kyotanabe City	京田辺	きょうたなべ	Kyotanabe	32		
+26212	26	26200	京丹後市	きょうたんごし	Kyotango City	京丹後	きょうたんご	Kyotango	32		
+26213	26	26200	南丹市	なんたんし	Nantan City	南丹	なんたん	Nantan	32		
+26214	26	26200	木津川市	きづがわし	Kizugawa City	木津川	きづがわ	Kizugawa	32		
+26303	26	26300	大山崎町	おおやまざきちょう	Oyamazaki Town	大山崎	おおやまざき	Oyamazaki	35	26300	
+26322	26	26320	久御山町	くみやまちょう	Kumiyama Town	久御山	くみやま	Kumiyama	35	26320	
+26343	26	26340	井手町	いでちょう	Ide Town	井手	いで	Ide	35	26340	
+26344	26	26340	宇治田原町	うじたわらちょう	Ujitawara Town	宇治田原	うじたわら	Ujitawara	35	26340	
+26364	26	26360	笠置町	かさぎちょう	Kasagi Town	笠置	かさぎ	Kasagi	35	26360	
+26365	26	26360	和束町	わづかちょう	Wazuka Town	和束	わづか	Wazuka	35	26360	
+26366	26	26360	精華町	せいかちょう	Seika Town	精華	せいか	Seika	35	26360	
+26367	26	26360	南山城村	みなみやましろむら	Minamiyamashiro Village	南山城	みなみやましろ	Minamiyamashiro	36	26360	
+26407	26	26400	京丹波町	きょうたんばちょう	Kyotanba Town	京丹波	きょうたんば	Kyotanba	35	26400	
+26463	26	26460	伊根町	いねちょう	Ine Town	伊根	いね	Ine	35	26460	
+26465	26	26460	与謝野町	よさのちょう	Yosano Town	与謝野	よさの	Yosano	35	26460	
+27100	27	27100	大阪市	おおさかし	Osaka City	大阪	おおさか	Osaka	31		
+27140	27	27140	堺市	さかいし	Sakai City	堺	さかい	Sakai	31		
+27202	27	27200	岸和田市	きしわだし	Kishiwada City	岸和田	きしわだ	Kishiwada	32		
+27203	27	27200	豊中市	とよなかし	Toyonaka City	豊中	とよなか	Toyonaka	32		
+27204	27	27200	池田市	いけだし	Ikeda City	池田	いけだ	Ikeda	32		
+27205	27	27200	吹田市	すいたし	Suita City	吹田	すいた	Suita	32		
+27206	27	27200	泉大津市	いずみおおつし	Izumiotsu City	泉大津	いずみおおつ	Izumiotsu	32		
+27207	27	27200	高槻市	たかつきし	Takatsuki City	高槻	たかつき	Takatsuki	32		
+27208	27	27200	貝塚市	かいづかし	Kaizuka City	貝塚	かいづか	Kaizuka	32		
+27209	27	27200	守口市	もりぐちし	Moriguchi City	守口	もりぐち	Moriguchi	32		
+27210	27	27200	枚方市	ひらかたし	Hirakata City	枚方	ひらかた	Hirakata	32		
+27211	27	27200	茨木市	いばらきし	Ibaraki City	茨木	いばらき	Ibaraki	32		
+27212	27	27200	八尾市	やおし	Yao City	八尾	やお	Yao	32		
+27213	27	27200	泉佐野市	いずみさのし	Izumisano City	泉佐野	いずみさの	Izumisano	32		
+27214	27	27200	富田林市	とんだばやしし	Tondabayashi City	富田林	とんだばやし	Tondabayashi	32		
+27215	27	27200	寝屋川市	ねやがわし	Neyagawa City	寝屋川	ねやがわ	Neyagawa	32		
+27216	27	27200	河内長野市	かわちながのし	Kawachinagano City	河内長野	かわちながの	Kawachinagano	32		
+27217	27	27200	松原市	まつばらし	Matsubara City	松原	まつばら	Matsubara	32		
+27218	27	27200	大東市	だいとうし	Daito City	大東	だいとう	Daito	32		
+27219	27	27200	和泉市	いずみし	Izumi City	和泉	いずみ	Izumi	32		
+27220	27	27200	箕面市	みのおし	Minoo City	箕面	みのお	Minoo	32		
+27221	27	27200	柏原市	かしわらし	Kashiwara City	柏原	かしわら	Kashiwara	32		
+27222	27	27200	羽曳野市	はびきのし	Habikino City	羽曳野	はびきの	Habikino	32		
+27223	27	27200	門真市	かどまし	Kadoma City	門真	かどま	Kadoma	32		
+27224	27	27200	摂津市	せっつし	Settsu City	摂津	せっつ	Settsu	32		
+27225	27	27200	高石市	たかいしし	Takaishi City	高石	たかいし	Takaishi	32		
+27226	27	27200	藤井寺市	ふじいでらし	Fujiidera City	藤井寺	ふじいでら	Fujiidera	32		
+27227	27	27200	東大阪市	ひがしおおさかし	Higashiosaka City	東大阪	ひがしおおさか	Higashiosaka	32		
+27228	27	27200	泉南市	せんなんし	Sennan City	泉南	せんなん	Sennan	32		
+27229	27	27200	四條畷市	しじょうなわてし	Shijonawate City	四條畷	しじょうなわて	Shijonawate	32		
+27230	27	27200	交野市	かたのし	Katano City	交野	かたの	Katano	32		
+27231	27	27200	大阪狭山市	おおさかさやまし	Osakasayama City	大阪狭山	おおさかさやま	Osakasayama	32		
+27232	27	27200	阪南市	はんなんし	Hannan City	阪南	はんなん	Hannan	32		
+27301	27	27300	島本町	しまもとちょう	Shimamoto Town	島本	しまもと	Shimamoto	35	27300	
+27321	27	27320	豊能町	とよのちょう	Toyono Town	豊能	とよの	Toyono	35	27320	
+27322	27	27320	能勢町	のせちょう	Nose Town	能勢	のせ	Nose	35	27320	
+27341	27	27340	忠岡町	ただおかちょう	Tadaoka Town	忠岡	ただおか	Tadaoka	35	27340	
+27361	27	27360	熊取町	くまとりちょう	Kumatori Town	熊取	くまとり	Kumatori	35	27360	
+27362	27	27360	田尻町	たじりちょう	Tajiri Town	田尻	たじり	Tajiri	35	27360	
+27366	27	27360	岬町	みさきちょう	Misaki Town	岬	みさき	Misaki	35	27360	
+27381	27	27380	太子町	たいしちょう	Taishi Town	太子	たいし	Taishi	35	27380	
+27382	27	27380	河南町	かなんちょう	Kanan Town	河南	かなん	Kanan	35	27380	
+27383	27	27380	千早赤阪村	ちはやあかさかむら	Chihayaakasaka Village	千早赤阪	ちはやあかさか	Chihayaakasaka	36	27380	
+28100	28	28100	神戸市	こうべし	Kobe City	神戸	こうべ	Kobe	31		
+28201	28	28200	姫路市	ひめじし	Himeji City	姫路	ひめじ	Himeji	32		
+28202	28	28200	尼崎市	あまがさきし	Amagasaki City	尼崎	あまがさき	Amagasaki	32		
+28203	28	28200	明石市	あかしし	Akashi City	明石	あかし	Akashi	32		
+28204	28	28200	西宮市	にしのみやし	Nishinomiya City	西宮	にしのみや	Nishinomiya	32		
+28205	28	28200	洲本市	すもとし	Sumoto City	洲本	すもと	Sumoto	32		
+28206	28	28200	芦屋市	あしやし	Ashiya City	芦屋	あしや	Ashiya	32		
+28207	28	28200	伊丹市	いたみし	Itami City	伊丹	いたみ	Itami	32		
+28208	28	28200	相生市	あいおいし	Aioi City	相生	あいおい	Aioi	32		
+28209	28	28200	豊岡市	とよおかし	Toyooka City	豊岡	とよおか	Toyooka	32		
+28210	28	28200	加古川市	かこがわし	Kakogawa City	加古川	かこがわ	Kakogawa	32		
+28212	28	28200	赤穂市	あこうし	Ako City	赤穂	あこう	Ako	32		
+28213	28	28200	西脇市	にしわきし	Nishiwaki City	西脇	にしわき	Nishiwaki	32		
+28214	28	28200	宝塚市	たからづかし	Takarazuka City	宝塚	たからづか	Takarazuka	32		
+28215	28	28200	三木市	みきし	Miki City	三木	みき	Miki	32		
+28216	28	28200	高砂市	たかさごし	Takasago City	高砂	たかさご	Takasago	32		
+28217	28	28200	川西市	かわにしし	Kawanishi City	川西	かわにし	Kawanishi	32		
+28218	28	28200	小野市	おのし	Ono City	小野	おの	Ono	32		
+28219	28	28200	三田市	さんだし	Sanda City	三田	さんだ	Sanda	32		
+28220	28	28200	加西市	かさいし	Kasai City	加西	かさい	Kasai	32		
+28221	28	28200	丹波篠山市	たんばささやまし	Tanbasasayama City	丹波篠山	たんばささやま	Tanbasasayama	32		
+28222	28	28200	養父市	やぶし	Yabu City	養父	やぶ	Yabu	32		
+28223	28	28200	丹波市	たんばし	Tanba City	丹波	たんば	Tanba	32		
+28224	28	28200	南あわじ市	みなみあわじし	Minamiawaji City	南あわじ	みなみあわじ	Minamiawaji	32		
+28225	28	28200	朝来市	あさごし	Asago City	朝来	あさご	Asago	32		
+28226	28	28200	淡路市	あわじし	Awaji City	淡路	あわじ	Awaji	32		
+28227	28	28200	宍粟市	しそうし	Shiso City	宍粟	しそう	Shiso	32		
+28228	28	28200	加東市	かとうし	Kato City	加東	かとう	Kato	32		
+28229	28	28200	たつの市	たつのし	Tatsuno City	たつの	たつの	Tatsuno	32		
+28301	28	28300	猪名川町	いながわちょう	Inagawa Town	猪名川	いながわ	Inagawa	35	28300	
+28365	28	28360	多可町	たかちょう	Taka Town	多可	たか	Taka	35	28360	
+28381	28	28380	稲美町	いなみちょう	Inami Town	稲美	いなみ	Inami	35	28380	
+28382	28	28380	播磨町	はりまちょう	Harima Town	播磨	はりま	Harima	35	28380	
+28442	28	28440	市川町	いちかわちょう	Ichikawa Town	市川	いちかわ	Ichikawa	35	28440	
+28443	28	28440	福崎町	ふくさきちょう	Fukusaki Town	福崎	ふくさき	Fukusaki	35	28440	
+28446	28	28440	神河町	かみかわちょう	Kamikawa Town	神河	かみかわ	Kamikawa	35	28440	
+28464	28	28460	太子町	たいしちょう	Taishi Town	太子	たいし	Taishi	35	28460	
+28481	28	28480	上郡町	かみごおりちょう	Kamigori Town	上郡	かみごおり	Kamigori	35	28480	
+28501	28	28500	佐用町	さようちょう	Sayo Town	佐用	さよう	Sayo	35	28500	
+28585	28	28580	香美町	かみちょう	Kami Town	香美	かみ	Kami	35	28580	
+28586	28	28580	新温泉町	しんおんせんちょう	Shin-onsen Town	新温泉	しんおんせん	Shin-onsen	35	28580	
+29201	29	29200	奈良市	ならし	Nara City	奈良	なら	Nara	32		
+29202	29	29200	大和高田市	やまとたかだし	Yamatotakada City	大和高田	やまとたかだ	Yamatotakada	32		
+29203	29	29200	大和郡山市	やまとこおりやまし	Yamatokoriyama City	大和郡山	やまとこおりやま	Yamatokoriyama	32		
+29204	29	29200	天理市	てんりし	Tenri City	天理	てんり	Tenri	32		
+29205	29	29200	橿原市	かしはらし	Kashihara City	橿原	かしはら	Kashihara	32		
+29206	29	29200	桜井市	さくらいし	Sakurai City	桜井	さくらい	Sakurai	32		
+29207	29	29200	五條市	ごじょうし	Gojo City	五條	ごじょう	Gojo	32		
+29208	29	29200	御所市	ごせし	Gose City	御所	ごせ	Gose	32		
+29209	29	29200	生駒市	いこまし	Ikoma City	生駒	いこま	Ikoma	32		
+29210	29	29200	香芝市	かしばし	Kashiba City	香芝	かしば	Kashiba	32		
+29211	29	29200	葛城市	かつらぎし	Katsuragi City	葛城	かつらぎ	Katsuragi	32		
+29212	29	29200	宇陀市	うだし	Uda City	宇陀	うだ	Uda	32		
+29322	29	29320	山添村	やまぞえむら	Yamazoe Village	山添	やまぞえ	Yamazoe	36	29320	
+29342	29	29340	平群町	へぐりちょう	Heguri Town	平群	へぐり	Heguri	35	29340	
+29343	29	29340	三郷町	さんごうちょう	Sango Town	三郷	さんごう	Sango	35	29340	
+29344	29	29340	斑鳩町	いかるがちょう	Ikaruga Town	斑鳩	いかるが	Ikaruga	35	29340	
+29345	29	29340	安堵町	あんどちょう	Ando Town	安堵	あんど	Ando	35	29340	
+29361	29	29360	川西町	かわにしちょう	Kawanishi Town	川西	かわにし	Kawanishi	35	29360	
+29362	29	29360	三宅町	みやけちょう	Miyake Town	三宅	みやけ	Miyake	35	29360	
+29363	29	29360	田原本町	たわらもとちょう	Tawaramoto Town	田原本	たわらもと	Tawaramoto	35	29360	
+29385	29	29380	曽爾村	そにむら	Soni Village	曽爾	そに	Soni	36	29380	
+29386	29	29380	御杖村	みつえむら	Mitsue Village	御杖	みつえ	Mitsue	36	29380	
+29401	29	29400	高取町	たかとりちょう	Takatori Town	高取	たかとり	Takatori	35	29400	
+29402	29	29400	明日香村	あすかむら	Asuka Village	明日香	あすか	Asuka	36	29400	
+29424	29	29420	上牧町	かんまきちょう	Kanmaki Town	上牧	かんまき	Kanmaki	35	29420	
+29425	29	29420	王寺町	おうじちょう	Oji Town	王寺	おうじ	Oji	35	29420	
+29426	29	29420	広陵町	こうりょうちょう	Koryo Town	広陵	こうりょう	Koryo	35	29420	
+29427	29	29420	河合町	かわいちょう	Kawai Town	河合	かわい	Kawai	35	29420	
+29441	29	29440	吉野町	よしのちょう	Yoshino Town	吉野	よしの	Yoshino	35	29440	
+29442	29	29440	大淀町	おおよどちょう	Oyodo Town	大淀	おおよど	Oyodo	35	29440	
+29443	29	29440	下市町	しもいちちょう	Shimoichi Town	下市	しもいち	Shimoichi	35	29440	
+29444	29	29440	黒滝村	くろたきむら	Kurotaki Village	黒滝	くろたき	Kurotaki	36	29440	
+29446	29	29440	天川村	てんかわむら	Tenkawa Village	天川	てんかわ	Tenkawa	36	29440	
+29447	29	29440	野迫川村	のせがわむら	Nosegawa Village	野迫川	のせがわ	Nosegawa	36	29440	
+29449	29	29440	十津川村	とつかわむら	Totsukawa Village	十津川	とつかわ	Totsukawa	36	29440	
+29450	29	29440	下北山村	しもきたやまむら	Shimokitayama Village	下北山	しもきたやま	Shimokitayama	36	29440	
+29451	29	29440	上北山村	かみきたやまむら	Kamikitayama Village	上北山	かみきたやま	Kamikitayama	36	29440	
+29452	29	29440	川上村	かわかみむら	Kawakami Village	川上	かわかみ	Kawakami	36	29440	
+29453	29	29440	東吉野村	ひがしよしのむら	Higashiyoshino Village	東吉野	ひがしよしの	Higashiyoshino	36	29440	
+30201	30	30200	和歌山市	わかやまし	Wakayama City	和歌山	わかやま	Wakayama	32		
+30202	30	30200	海南市	かいなんし	Kainan City	海南	かいなん	Kainan	32		
+30203	30	30200	橋本市	はしもとし	Hashimoto City	橋本	はしもと	Hashimoto	32		
+30204	30	30200	有田市	ありだし	Arida City	有田	ありだ	Arida	32		
+30205	30	30200	御坊市	ごぼうし	Gobo City	御坊	ごぼう	Gobo	32		
+30206	30	30200	田辺市	たなべし	Tanabe City	田辺	たなべ	Tanabe	32		
+30207	30	30200	新宮市	しんぐうし	Shingu City	新宮	しんぐう	Shingu	32		
+30208	30	30200	紀の川市	きのかわし	Kinokawa City	紀の川	きのかわ	Kinokawa	32		
+30209	30	30200	岩出市	いわでし	Iwade City	岩出	いわで	Iwade	32		
+30304	30	30300	紀美野町	きみのちょう	Kimino Town	紀美野	きみの	Kimino	35	30300	
+30341	30	30340	かつらぎ町	かつらぎちょう	Katsuragi Town	かつらぎ	かつらぎ	Katsuragi	35	30340	
+30343	30	30340	九度山町	くどやまちょう	Kudoyama Town	九度山	くどやま	Kudoyama	35	30340	
+30344	30	30340	高野町	こうやちょう	Koya Town	高野	こうや	Koya	35	30340	
+30361	30	30360	湯浅町	ゆあさちょう	Yuasa Town	湯浅	ゆあさ	Yuasa	35	30360	
+30362	30	30360	広川町	ひろがわちょう	Hirogawa Town	広川	ひろがわ	Hirogawa	35	30360	
+30366	30	30360	有田川町	ありだがわちょう	Aridagawa Town	有田川	ありだがわ	Aridagawa	35	30360	
+30381	30	30380	美浜町	みはまちょう	Mihama Town	美浜	みはま	Mihama	35	30380	
+30382	30	30380	日高町	ひだかちょう	Hidaka Town	日高	ひだか	Hidaka	35	30380	
+30383	30	30380	由良町	ゆらちょう	Yura Town	由良	ゆら	Yura	35	30380	
+30390	30	30380	印南町	いなみちょう	Inami Town	印南	いなみ	Inami	35	30380	
+30391	30	30380	みなべ町	みなべちょう	Minabe Town	みなべ	みなべ	Minabe	35	30380	
+30392	30	30380	日高川町	ひだかがわちょう	Hidakagawa Town	日高川	ひだかがわ	Hidakagawa	35	30380	
+30401	30	30400	白浜町	しらはまちょう	Shirahama Town	白浜	しらはま	Shirahama	35	30400	
+30404	30	30400	上富田町	かみとんだちょう	Kamitonda Town	上富田	かみとんだ	Kamitonda	35	30400	
+30406	30	30400	すさみ町	すさみちょう	Susami Town	すさみ	すさみ	Susami	35	30400	
+30421	30	30420	那智勝浦町	なちかつうらちょう	Nachikatsuura Town	那智勝浦	なちかつうら	Nachikatsuura	35	30420	
+30422	30	30420	太地町	たいじちょう	Taiji Town	太地	たいじ	Taiji	35	30420	
+30424	30	30420	古座川町	こざがわちょう	Kozagawa Town	古座川	こざがわ	Kozagawa	35	30420	
+30427	30	30420	北山村	きたやまむら	Kitayama Village	北山	きたやま	Kitayama	36	30420	
+30428	30	30420	串本町	くしもとちょう	Kushimoto Town	串本	くしもと	Kushimoto	35	30420	
+31201	31	31200	鳥取市	とっとりし	Tottori City	鳥取	とっとり	Tottori	32		
+31202	31	31200	米子市	よなごし	Yonago City	米子	よなご	Yonago	32		
+31203	31	31200	倉吉市	くらよしし	Kurayoshi City	倉吉	くらよし	Kurayoshi	32		
+31204	31	31200	境港市	さかいみなとし	Sakaiminato City	境港	さかいみなと	Sakaiminato	32		
+31302	31	31300	岩美町	いわみちょう	Iwami Town	岩美	いわみ	Iwami	35	31300	
+31325	31	31320	若桜町	わかさちょう	Wakasa Town	若桜	わかさ	Wakasa	35	31320	
+31328	31	31320	智頭町	ちづちょう	Chizu Town	智頭	ちづ	Chizu	35	31320	
+31329	31	31320	八頭町	やずちょう	Yazu Town	八頭	やず	Yazu	35	31320	
+31364	31	31360	三朝町	みささちょう	Misasa Town	三朝	みささ	Misasa	35	31360	
+31370	31	31360	湯梨浜町	ゆりはまちょう	Yurihama Town	湯梨浜	ゆりはま	Yurihama	35	31360	
+31371	31	31360	琴浦町	ことうらちょう	Kotoura Town	琴浦	ことうら	Kotoura	35	31360	
+31372	31	31360	北栄町	ほくえいちょう	Hokuei Town	北栄	ほくえい	Hokuei	35	31360	
+31384	31	31380	日吉津村	ひえづそん	Hiezu Village	日吉津	ひえづ	Hiezu	37	31380	
+31386	31	31380	大山町	だいせんちょう	Daisen Town	大山	だいせん	Daisen	35	31380	
+31389	31	31380	南部町	なんぶちょう	Nanbu Town	南部	なんぶ	Nanbu	35	31380	
+31390	31	31380	伯耆町	ほうきちょう	Hoki Town	伯耆	ほうき	Hoki	35	31380	
+31401	31	31400	日南町	にちなんちょう	Nichinan Town	日南	にちなん	Nichinan	35	31400	
+31402	31	31400	日野町	ひのちょう	Hino Town	日野	ひの	Hino	35	31400	
+31403	31	31400	江府町	こうふちょう	Kofu Town	江府	こうふ	Kofu	35	31400	
+32201	32	32200	松江市	まつえし	Matsue City	松江	まつえ	Matsue	32		
+32202	32	32200	浜田市	はまだし	Hamada City	浜田	はまだ	Hamada	32		
+32203	32	32200	出雲市	いずもし	Izumo City	出雲	いずも	Izumo	32		
+32204	32	32200	益田市	ますだし	Masuda City	益田	ますだ	Masuda	32		
+32205	32	32200	大田市	おおだし	Oda City	大田	おおだ	Oda	32		
+32206	32	32200	安来市	やすぎし	Yasugi City	安来	やすぎ	Yasugi	32		
+32207	32	32200	江津市	ごうつし	Gotsu City	江津	ごうつ	Gotsu	32		
+32209	32	32200	雲南市	うんなんし	Unnan City	雲南	うんなん	Unnan	32		
+32343	32	32340	奥出雲町	おくいずもちょう	Okuizumo Town	奥出雲	おくいずも	Okuizumo	35	32340	
+32386	32	32380	飯南町	いいなんちょう	Iinan Town	飯南	いいなん	Iinan	35	32380	
+32441	32	32440	川本町	かわもとまち	Kawamoto Town	川本	かわもと	Kawamoto	34	32440	
+32448	32	32440	美郷町	みさとちょう	Misato Town	美郷	みさと	Misato	35	32440	
+32449	32	32440	邑南町	おおなんちょう	Onan Town	邑南	おおなん	Onan	35	32440	
+32501	32	32500	津和野町	つわのちょう	Tsuwano Town	津和野	つわの	Tsuwano	35	32500	
+32505	32	32500	吉賀町	よしかちょう	Yoshika Town	吉賀	よしか	Yoshika	35	32500	
+32525	32	32520	海士町	あまちょう	Ama Town	海士	あま	Ama	35	32520	
+32526	32	32520	西ノ島町	にしのしまちょう	Nishinoshima Town	西ノ島	にしのしま	Nishinoshima	35	32520	
+32527	32	32520	知夫村	ちぶむら	Chibu Village	知夫	ちぶ	Chibu	36	32520	
+32528	32	32520	隠岐の島町	おきのしまちょう	Okinoshima Town	隠岐の島	おきのしま	Okinoshima	35	32520	
+33100	33	33100	岡山市	おかやまし	Okayama City	岡山	おかやま	Okayama	31		
+33202	33	33200	倉敷市	くらしきし	Kurashiki City	倉敷	くらしき	Kurashiki	32		
+33203	33	33200	津山市	つやまし	Tsuyama City	津山	つやま	Tsuyama	32		
+33204	33	33200	玉野市	たまのし	Tamano City	玉野	たまの	Tamano	32		
+33205	33	33200	笠岡市	かさおかし	Kasaoka City	笠岡	かさおか	Kasaoka	32		
+33207	33	33200	井原市	いばらし	Ibara City	井原	いばら	Ibara	32		
+33208	33	33200	総社市	そうじゃし	Soja City	総社	そうじゃ	Soja	32		
+33209	33	33200	高梁市	たかはしし	Takahashi City	高梁	たかはし	Takahashi	32		
+33210	33	33200	新見市	にいみし	Niimi City	新見	にいみ	Niimi	32		
+33211	33	33200	備前市	びぜんし	Bizen City	備前	びぜん	Bizen	32		
+33212	33	33200	瀬戸内市	せとうちし	Setouchi City	瀬戸内	せとうち	Setouchi	32		
+33213	33	33200	赤磐市	あかいわし	Akaiwa City	赤磐	あかいわ	Akaiwa	32		
+33214	33	33200	真庭市	まにわし	Maniwa City	真庭	まにわ	Maniwa	32		
+33215	33	33200	美作市	みまさかし	Mimasaka City	美作	みまさか	Mimasaka	32		
+33216	33	33200	浅口市	あさくちし	Asakuchi City	浅口	あさくち	Asakuchi	32		
+33346	33	33340	和気町	わけちょう	Wake Town	和気	わけ	Wake	35	33340	
+33423	33	33420	早島町	はやしまちょう	Hayashima Town	早島	はやしま	Hayashima	35	33420	
+33445	33	33440	里庄町	さとしょうちょう	Satosho Town	里庄	さとしょう	Satosho	35	33440	
+33461	33	33460	矢掛町	やかげちょう	Yakage Town	矢掛	やかげ	Yakage	35	33460	
+33586	33	33580	新庄村	しんじょうそん	Shinjo Village	新庄	しんじょう	Shinjo	37	33580	
+33606	33	33600	鏡野町	かがみのちょう	Kagamino Town	鏡野	かがみの	Kagamino	35	33600	
+33622	33	33620	勝央町	しょうおうちょう	Shoo Town	勝央	しょうおう	Shoo	35	33620	
+33623	33	33620	奈義町	なぎちょう	Nagi Town	奈義	なぎ	Nagi	35	33620	
+33643	33	33640	西粟倉村	にしあわくらそん	Nishiawakura Village	西粟倉	にしあわくら	Nishiawakura	37	33640	
+33663	33	33660	久米南町	くめなんちょう	Kumenan Town	久米南	くめなん	Kumenan	35	33660	
+33666	33	33660	美咲町	みさきちょう	Misaki Town	美咲	みさき	Misaki	35	33660	
+33681	33	33680	吉備中央町	きびちゅうおうちょう	Kibichuo Town	吉備中央	きびちゅうおう	Kibichuo	35	33680	
+34100	34	34100	広島市	ひろしまし	Hiroshima City	広島	ひろしま	Hiroshima	31		
+34202	34	34200	呉市	くれし	Kure City	呉	くれ	Kure	32		
+34203	34	34200	竹原市	たけはらし	Takehara City	竹原	たけはら	Takehara	32		
+34204	34	34200	三原市	みはらし	Mihara City	三原	みはら	Mihara	32		
+34205	34	34200	尾道市	おのみちし	Onomichi City	尾道	おのみち	Onomichi	32		
+34207	34	34200	福山市	ふくやまし	Fukuyama City	福山	ふくやま	Fukuyama	32		
+34208	34	34200	府中市	ふちゅうし	Fuchu City	府中	ふちゅう	Fuchu	32		
+34209	34	34200	三次市	みよしし	Miyoshi City	三次	みよし	Miyoshi	32		
+34210	34	34200	庄原市	しょうばらし	Shobara City	庄原	しょうばら	Shobara	32		
+34211	34	34200	大竹市	おおたけし	Otake City	大竹	おおたけ	Otake	32		
+34212	34	34200	東広島市	ひがしひろしまし	Higashihiroshima City	東広島	ひがしひろしま	Higashihiroshima	32		
+34213	34	34200	廿日市市	はつかいちし	Hatsukaichi City	廿日市	はつかいち	Hatsukaichi	32		
+34214	34	34200	安芸高田市	あきたかたし	Akitakata City	安芸高田	あきたかた	Akitakata	32		
+34215	34	34200	江田島市	えたじまし	Etajima City	江田島	えたじま	Etajima	32		
+34302	34	34300	府中町	ふちゅうちょう	Fuchu Town	府中	ふちゅう	Fuchu	35	34300	
+34304	34	34300	海田町	かいたちょう	Kaita Town	海田	かいた	Kaita	35	34300	
+34307	34	34300	熊野町	くまのちょう	Kumano Town	熊野	くまの	Kumano	35	34300	
+34309	34	34300	坂町	さかちょう	Saka Town	坂	さか	Saka	35	34300	
+34368	34	34360	安芸太田町	あきおおたちょう	Akiota Town	安芸太田	あきおおた	Akiota	35	34360	
+34369	34	34360	北広島町	きたひろしまちょう	Kitahiroshima Town	北広島	きたひろしま	Kitahiroshima	35	34360	
+34431	34	34420	大崎上島町	おおさきかみじまちょう	Osakikamijima Town	大崎上島	おおさきかみじま	Osakikamijima	35	34420	
+34462	34	34460	世羅町	せらちょう	Sera Town	世羅	せら	Sera	35	34460	
+34545	34	34540	神石高原町	じんせきこうげんちょう	Jinsekikogen Town	神石高原	じんせきこうげん	Jinsekikogen	35	34540	
+35201	35	35200	下関市	しものせきし	Shimonoseki City	下関	しものせき	Shimonoseki	32		
+35202	35	35200	宇部市	うべし	Ube City	宇部	うべ	Ube	32		
+35203	35	35200	山口市	やまぐちし	Yamaguchi City	山口	やまぐち	Yamaguchi	32		
+35204	35	35200	萩市	はぎし	Hagi City	萩	はぎ	Hagi	32		
+35206	35	35200	防府市	ほうふし	Hofu City	防府	ほうふ	Hofu	32		
+35207	35	35200	下松市	くだまつし	Kudamatsu City	下松	くだまつ	Kudamatsu	32		
+35208	35	35200	岩国市	いわくにし	Iwakuni City	岩国	いわくに	Iwakuni	32		
+35210	35	35200	光市	ひかりし	Hikari City	光	ひかり	Hikari	32		
+35211	35	35200	長門市	ながとし	Nagato City	長門	ながと	Nagato	32		
+35212	35	35200	柳井市	やないし	Yanai City	柳井	やない	Yanai	32		
+35213	35	35200	美祢市	みねし	Mine City	美祢	みね	Mine	32		
+35215	35	35200	周南市	しゅうなんし	Shunan City	周南	しゅうなん	Shunan	32		
+35216	35	35200	山陽小野田市	さんようおのだし	Sanyo-Onoda City	山陽小野田	さんようおのだ	Sanyo-Onoda	32		
+35305	35	35300	周防大島町	すおうおおしまちょう	Suooshima Town	周防大島	すおうおおしま	Suooshima	35	35300	
+35321	35	35320	和木町	わきちょう	Waki Town	和木	わき	Waki	35	35320	
+35341	35	35340	上関町	かみのせきちょう	Kaminoseki Town	上関	かみのせき	Kaminoseki	35	35340	
+35343	35	35340	田布施町	たぶせちょう	Tabuse Town	田布施	たぶせ	Tabuse	35	35340	
+35344	35	35340	平生町	ひらおちょう	Hirao Town	平生	ひらお	Hirao	35	35340	
+35502	35	35500	阿武町	あぶちょう	Abu Town	阿武	あぶ	Abu	35	35500	
+36201	36	36200	徳島市	とくしまし	Tokushima City	徳島	とくしま	Tokushima	32		
+36202	36	36200	鳴門市	なるとし	Naruto City	鳴門	なると	Naruto	32		
+36203	36	36200	小松島市	こまつしまし	Komatsushima City	小松島	こまつしま	Komatsushima	32		
+36204	36	36200	阿南市	あなんし	Anan City	阿南	あなん	Anan	32		
+36205	36	36200	吉野川市	よしのがわし	Yoshinogawa City	吉野川	よしのがわ	Yoshinogawa	32		
+36206	36	36200	阿波市	あわし	Awa City	阿波	あわ	Awa	32		
+36207	36	36200	美馬市	みまし	Mima City	美馬	みま	Mima	32		
+36208	36	36200	三好市	みよしし	Miyoshi City	三好	みよし	Miyoshi	32		
+36301	36	36300	勝浦町	かつうらちょう	Katsuura Town	勝浦	かつうら	Katsuura	35	36300	
+36302	36	36300	上勝町	かみかつちょう	Kamikatsu Town	上勝	かみかつ	Kamikatsu	35	36300	
+36321	36	36320	佐那河内村	さなごうちそん	Sanagochi Village	佐那河内	さなごうち	Sanagochi	37	36320	
+36341	36	36340	石井町	いしいちょう	Ishii Town	石井	いしい	Ishii	35	36340	
+36342	36	36340	神山町	かみやまちょう	Kamiyama Town	神山	かみやま	Kamiyama	35	36340	
+36368	36	36360	那賀町	なかちょう	Naka Town	那賀	なか	Naka	35	36360	
+36383	36	36380	牟岐町	むぎちょう	Mugi Town	牟岐	むぎ	Mugi	35	36380	
+36387	36	36380	美波町	みなみちょう	Minami Town	美波	みなみ	Minami	35	36380	
+36388	36	36380	海陽町	かいようちょう	Kaiyo Town	海陽	かいよう	Kaiyo	35	36380	
+36401	36	36400	松茂町	まつしげちょう	Matsushige Town	松茂	まつしげ	Matsushige	35	36400	
+36402	36	36400	北島町	きたじまちょう	Kitajima Town	北島	きたじま	Kitajima	35	36400	
+36403	36	36400	藍住町	あいずみちょう	Aizumi Town	藍住	あいずみ	Aizumi	35	36400	
+36404	36	36400	板野町	いたのちょう	Itano Town	板野	いたの	Itano	35	36400	
+36405	36	36400	上板町	かみいたちょう	Kamiita Town	上板	かみいた	Kamiita	35	36400	
+36468	36	36460	つるぎ町	つるぎちょう	Tsurugi Town	つるぎ	つるぎ	Tsurugi	35	36460	
+36489	36	36480	東みよし町	ひがしみよしちょう	Higashimiyoshi Town	東みよし	ひがしみよし	Higashimiyoshi	35	36480	
+37201	37	37200	高松市	たかまつし	Takamatsu City	高松	たかまつ	Takamatsu	32		
+37202	37	37200	丸亀市	まるがめし	Marugame City	丸亀	まるがめ	Marugame	32		
+37203	37	37200	坂出市	さかいでし	Sakaide City	坂出	さかいで	Sakaide	32		
+37204	37	37200	善通寺市	ぜんつうじし	Zentsuji City	善通寺	ぜんつうじ	Zentsuji	32		
+37205	37	37200	観音寺市	かんおんじし	Kan-onji City	観音寺	かんおんじ	Kan-onji	32		
+37206	37	37200	さぬき市	さぬきし	Sanuki City	さぬき	さぬき	Sanuki	32		
+37207	37	37200	東かがわ市	ひがしかがわし	Higashikagawa City	東かがわ	ひがしかがわ	Higashikagawa	32		
+37208	37	37200	三豊市	みとよし	Mitoyo City	三豊	みとよ	Mitoyo	32		
+37322	37	37320	土庄町	とのしょうちょう	Tonosho Town	土庄	とのしょう	Tonosho	35	37320	
+37324	37	37320	小豆島町	しょうどしまちょう	Shodoshima Town	小豆島	しょうどしま	Shodoshima	35	37320	
+37341	37	37340	三木町	みきちょう	Miki Town	三木	みき	Miki	35	37340	
+37364	37	37360	直島町	なおしまちょう	Naoshima Town	直島	なおしま	Naoshima	35	37360	
+37386	37	37380	宇多津町	うたづちょう	Utazu Town	宇多津	うたづ	Utazu	35	37380	
+37387	37	37380	綾川町	あやがわちょう	Ayagawa Town	綾川	あやがわ	Ayagawa	35	37380	
+37403	37	37400	琴平町	ことひらちょう	Kotohira Town	琴平	ことひら	Kotohira	35	37400	
+37404	37	37400	多度津町	たどつちょう	Tadotsu Town	多度津	たどつ	Tadotsu	35	37400	
+37406	37	37400	まんのう町	まんのうちょう	Manno Town	まんのう	まんのう	Manno	35	37400	
+38201	38	38200	松山市	まつやまし	Matsuyama City	松山	まつやま	Matsuyama	32		
+38202	38	38200	今治市	いまばりし	Imabari City	今治	いまばり	Imabari	32		
+38203	38	38200	宇和島市	うわじまし	Uwajima City	宇和島	うわじま	Uwajima	32		
+38204	38	38200	八幡浜市	やわたはまし	Yawatahama City	八幡浜	やわたはま	Yawatahama	32		
+38205	38	38200	新居浜市	にいはまし	Niihama City	新居浜	にいはま	Niihama	32		
+38206	38	38200	西条市	さいじょうし	Saijo City	西条	さいじょう	Saijo	32		
+38207	38	38200	大洲市	おおずし	Ozu City	大洲	おおず	Ozu	32		
+38210	38	38200	伊予市	いよし	Iyo City	伊予	いよ	Iyo	32		
+38213	38	38200	四国中央市	しこくちゅうおうし	Shikokuchuo City	四国中央	しこくちゅうおう	Shikokuchuo	32		
+38214	38	38200	西予市	せいよし	Seiyo City	西予	せいよ	Seiyo	32		
+38215	38	38200	東温市	とうおんし	Toon City	東温	とうおん	Toon	32		
+38356	38	38340	上島町	かみじまちょう	Kamijima Town	上島	かみじま	Kamijima	35	38340	
+38386	38	38380	久万高原町	くまこうげんちょう	Kumakogen Town	久万高原	くまこうげん	Kumakogen	35	38380	
+38401	38	38400	松前町	まさきちょう	Masaki Town	松前	まさき	Masaki	35	38400	
+38402	38	38400	砥部町	とべちょう	Tobe Town	砥部	とべ	Tobe	35	38400	
+38422	38	38420	内子町	うちこちょう	Uchiko Town	内子	うちこ	Uchiko	35	38420	
+38442	38	38440	伊方町	いかたちょう	Ikata Town	伊方	いかた	Ikata	35	38440	
+38484	38	38480	松野町	まつのちょう	Matsuno Town	松野	まつの	Matsuno	35	38480	
+38488	38	38480	鬼北町	きほくちょう	Kihoku Town	鬼北	きほく	Kihoku	35	38480	
+38506	38	38500	愛南町	あいなんちょう	Ainan Town	愛南	あいなん	Ainan	35	38500	
+39201	39	39200	高知市	こうちし	Kochi City	高知	こうち	Kochi	32		
+39202	39	39200	室戸市	むろとし	Muroto City	室戸	むろと	Muroto	32		
+39203	39	39200	安芸市	あきし	Aki City	安芸	あき	Aki	32		
+39204	39	39200	南国市	なんこくし	Nankoku City	南国	なんこく	Nankoku	32		
+39205	39	39200	土佐市	とさし	Tosa City	土佐	とさ	Tosa	32		
+39206	39	39200	須崎市	すさきし	Susaki City	須崎	すさき	Susaki	32		
+39208	39	39200	宿毛市	すくもし	Sukumo City	宿毛	すくも	Sukumo	32		
+39209	39	39200	土佐清水市	とさしみずし	Tosashimizu City	土佐清水	とさしみず	Tosashimizu	32		
+39210	39	39200	四万十市	しまんとし	Shimanto City	四万十	しまんと	Shimanto	32		
+39211	39	39200	香南市	こうなんし	Konan City	香南	こうなん	Konan	32		
+39212	39	39200	香美市	かみし	Kami City	香美	かみ	Kami	32		
+39301	39	39300	東洋町	とうようちょう	Toyo Town	東洋	とうよう	Toyo	35	39300	
+39302	39	39300	奈半利町	なはりちょう	Nahari Town	奈半利	なはり	Nahari	35	39300	
+39303	39	39300	田野町	たのちょう	Tano Town	田野	たの	Tano	35	39300	
+39304	39	39300	安田町	やすだちょう	Yasuda Town	安田	やすだ	Yasuda	35	39300	
+39305	39	39300	北川村	きたがわむら	Kitagawa Village	北川	きたがわ	Kitagawa	36	39300	
+39306	39	39300	馬路村	うまじむら	Umaji Village	馬路	うまじ	Umaji	36	39300	
+39307	39	39300	芸西村	げいせいむら	Geisei Village	芸西	げいせい	Geisei	36	39300	
+39341	39	39340	本山町	もとやまちょう	Motoyama Town	本山	もとやま	Motoyama	35	39340	
+39344	39	39340	大豊町	おおとよちょう	Otoyo Town	大豊	おおとよ	Otoyo	35	39340	
+39363	39	39360	土佐町	とさちょう	Tosa Town	土佐	とさ	Tosa	35	39360	
+39364	39	39360	大川村	おおかわむら	Okawa Village	大川	おおかわ	Okawa	36	39360	
+39386	39	39380	いの町	いのちょう	Ino Town	いの	いの	Ino	35	39380	
+39387	39	39380	仁淀川町	によどがわちょう	Niyodogawa Town	仁淀川	によどがわ	Niyodogawa	35	39380	
+39401	39	39400	中土佐町	なかとさちょう	Nakatosa Town	中土佐	なかとさ	Nakatosa	35	39400	
+39402	39	39400	佐川町	さかわちょう	Sakawa Town	佐川	さかわ	Sakawa	35	39400	
+39403	39	39400	越知町	おちちょう	Ochi Town	越知	おち	Ochi	35	39400	
+39405	39	39400	檮原町	ゆすはらちょう	Yusuhara Town	檮原	ゆすはら	Yusuhara	35	39400	
+39410	39	39400	日高村	ひだかむら	Hidaka Village	日高	ひだか	Hidaka	36	39400	
+39411	39	39400	津野町	つのちょう	Tsuno Town	津野	つの	Tsuno	35	39400	
+39412	39	39400	四万十町	しまんとちょう	Shimanto Town	四万十	しまんと	Shimanto	35	39400	
+39424	39	39420	大月町	おおつきちょう	Otsuki Town	大月	おおつき	Otsuki	35	39420	
+39427	39	39420	三原村	みはらむら	Mihara Village	三原	みはら	Mihara	36	39420	
+39428	39	39420	黒潮町	くろしおちょう	Kuroshio Town	黒潮	くろしお	Kuroshio	35	39420	
+40100	40	40100	北九州市	きたきゅうしゅうし	Kitakyushu City	北九州	きたきゅうしゅう	Kitakyushu	31		
+40130	40	40130	福岡市	ふくおかし	Fukuoka City	福岡	ふくおか	Fukuoka	31		
+40202	40	40200	大牟田市	おおむたし	Omuta City	大牟田	おおむた	Omuta	32		
+40203	40	40200	久留米市	くるめし	Kurume City	久留米	くるめ	Kurume	32		
+40204	40	40200	直方市	のおがたし	Nogata City	直方	のおがた	Nogata	32		
+40205	40	40200	飯塚市	いいづかし	Iizuka City	飯塚	いいづか	Iizuka	32		
+40206	40	40200	田川市	たがわし	Tagawa City	田川	たがわ	Tagawa	32		
+40207	40	40200	柳川市	やながわし	Yanagawa City	柳川	やながわ	Yanagawa	32		
+40210	40	40200	八女市	やめし	Yame City	八女	やめ	Yame	32		
+40211	40	40200	筑後市	ちくごし	Chikugo City	筑後	ちくご	Chikugo	32		
+40212	40	40200	大川市	おおかわし	Okawa City	大川	おおかわ	Okawa	32		
+40213	40	40200	行橋市	ゆくはしし	Yukuhashi City	行橋	ゆくはし	Yukuhashi	32		
+40214	40	40200	豊前市	ぶぜんし	Buzen City	豊前	ぶぜん	Buzen	32		
+40215	40	40200	中間市	なかまし	Nakama City	中間	なかま	Nakama	32		
+40216	40	40200	小郡市	おごおりし	Ogori City	小郡	おごおり	Ogori	32		
+40217	40	40200	筑紫野市	ちくしのし	Chikushino City	筑紫野	ちくしの	Chikushino	32		
+40218	40	40200	春日市	かすがし	Kasuga City	春日	かすが	Kasuga	32		
+40219	40	40200	大野城市	おおのじょうし	Onojo City	大野城	おおのじょう	Onojo	32		
+40220	40	40200	宗像市	むなかたし	Munakata City	宗像	むなかた	Munakata	32		
+40221	40	40200	太宰府市	だざいふし	Dazaifu City	太宰府	だざいふ	Dazaifu	32		
+40223	40	40200	古賀市	こがし	Koga City	古賀	こが	Koga	32		
+40224	40	40200	福津市	ふくつし	Fukutsu City	福津	ふくつ	Fukutsu	32		
+40225	40	40200	うきは市	うきはし	Ukiha City	うきは	うきは	Ukiha	32		
+40226	40	40200	宮若市	みやわかし	Miyawaka City	宮若	みやわか	Miyawaka	32		
+40227	40	40200	嘉麻市	かまし	Kama City	嘉麻	かま	Kama	32		
+40228	40	40200	朝倉市	あさくらし	Asakura City	朝倉	あさくら	Asakura	32		
+40229	40	40200	みやま市	みやまし	Miyama City	みやま	みやま	Miyama	32		
+40230	40	40200	糸島市	いとしまし	Itoshima City	糸島	いとしま	Itoshima	32		
+40231	40	40200	那珂川市	なかがわし	Nakagawa City	那珂川	なかがわ	Nakagawa	32		
+40341	40	40340	宇美町	うみまち	Umi Town	宇美	うみ	Umi	34	40340	
+40342	40	40340	篠栗町	ささぐりまち	Sasaguri Town	篠栗	ささぐり	Sasaguri	34	40340	
+40343	40	40340	志免町	しめまち	Shime Town	志免	しめ	Shime	34	40340	
+40344	40	40340	須恵町	すえまち	Sue Town	須恵	すえ	Sue	34	40340	
+40345	40	40340	新宮町	しんぐうまち	Shingu Town	新宮	しんぐう	Shingu	34	40340	
+40348	40	40340	久山町	ひさやままち	Hisayama Town	久山	ひさやま	Hisayama	34	40340	
+40349	40	40340	粕屋町	かすやまち	Kasuya Town	粕屋	かすや	Kasuya	34	40340	
+40381	40	40380	芦屋町	あしやまち	Ashiya Town	芦屋	あしや	Ashiya	34	40380	
+40382	40	40380	水巻町	みずまきまち	Mizumaki Town	水巻	みずまき	Mizumaki	34	40380	
+40383	40	40380	岡垣町	おかがきまち	Okagaki Town	岡垣	おかがき	Okagaki	34	40380	
+40384	40	40380	遠賀町	おんがちょう	Onga Town	遠賀	おんが	Onga	35	40380	
+40401	40	40400	小竹町	こたけまち	Kotake Town	小竹	こたけ	Kotake	34	40400	
+40402	40	40400	鞍手町	くらてまち	Kurate Town	鞍手	くらて	Kurate	34	40400	
+40421	40	40420	桂川町	けいせんまち	Keisen Town	桂川	けいせん	Keisen	34	40420	
+40447	40	40440	筑前町	ちくぜんまち	Chikuzen Town	筑前	ちくぜん	Chikuzen	34	40440	
+40448	40	40440	東峰村	とうほうむら	Toho Village	東峰	とうほう	Toho	36	40440	
+40503	40	40500	大刀洗町	たちあらいまち	Tachiarai Town	大刀洗	たちあらい	Tachiarai	34	40500	
+40522	40	40520	大木町	おおきまち	Oki Town	大木	おおき	Oki	34	40520	
+40544	40	40540	広川町	ひろかわまち	Hirokawa Town	広川	ひろかわ	Hirokawa	34	40540	
+40601	40	40600	香春町	かわらまち	Kawara Town	香春	かわら	Kawara	34	40600	
+40602	40	40600	添田町	そえだまち	Soeda Town	添田	そえだ	Soeda	34	40600	
+40604	40	40600	糸田町	いとだまち	Itoda Town	糸田	いとだ	Itoda	34	40600	
+40605	40	40600	川崎町	かわさきまち	Kawasaki Town	川崎	かわさき	Kawasaki	34	40600	
+40608	40	40600	大任町	おおとうまち	Oto Town	大任	おおとう	Oto	34	40600	
+40609	40	40600	赤村	あかむら	Aka Village	赤	あか	Aka	36	40600	
+40610	40	40600	福智町	ふくちまち	Fukuchi Town	福智	ふくち	Fukuchi	34	40600	
+40621	40	40620	苅田町	かんだまち	Kanda Town	苅田	かんだ	Kanda	34	40620	
+40625	40	40620	みやこ町	みやこまち	Miyako Town	みやこ	みやこ	Miyako	34	40620	
+40642	40	40640	吉富町	よしとみまち	Yoshitomi Town	吉富	よしとみ	Yoshitomi	34	40640	
+40646	40	40640	上毛町	こうげまち	Koge Town	上毛	こうげ	Koge	34	40640	
+40647	40	40640	築上町	ちくじょうまち	Chikujo Town	築上	ちくじょう	Chikujo	34	40640	
+41201	41	41200	佐賀市	さがし	Saga City	佐賀	さが	Saga	32		
+41202	41	41200	唐津市	からつし	Karatsu City	唐津	からつ	Karatsu	32		
+41203	41	41200	鳥栖市	とすし	Tosu City	鳥栖	とす	Tosu	32		
+41204	41	41200	多久市	たくし	Taku City	多久	たく	Taku	32		
+41205	41	41200	伊万里市	いまりし	Imari City	伊万里	いまり	Imari	32		
+41206	41	41200	武雄市	たけおし	Takeo City	武雄	たけお	Takeo	32		
+41207	41	41200	鹿島市	かしまし	Kashima City	鹿島	かしま	Kashima	32		
+41208	41	41200	小城市	おぎし	Ogi City	小城	おぎ	Ogi	32		
+41209	41	41200	嬉野市	うれしのし	Ureshino City	嬉野	うれしの	Ureshino	32		
+41210	41	41200	神埼市	かんざきし	Kanzaki City	神埼	かんざき	Kanzaki	32		
+41327	41	41320	吉野ヶ里町	よしのがりちょう	Yoshinogari Town	吉野ヶ里	よしのがり	Yoshinogari	35	41320	
+41341	41	41340	基山町	きやまちょう	Kiyama Town	基山	きやま	Kiyama	35	41340	
+41345	41	41340	上峰町	かみみねちょう	Kamimine Town	上峰	かみみね	Kamimine	35	41340	
+41346	41	41340	みやき町	みやきちょう	Miyaki Town	みやき	みやき	Miyaki	35	41340	
+41387	41	41380	玄海町	げんかいちょう	Genkai Town	玄海	げんかい	Genkai	35	41380	
+41401	41	41400	有田町	ありたちょう	Arita Town	有田	ありた	Arita	35	41400	
+41423	41	41420	大町町	おおまちちょう	Omachi Town	大町	おおまち	Omachi	35	41420	
+41424	41	41420	江北町	こうほくまち	Kohoku Town	江北	こうほく	Kohoku	34	41420	
+41425	41	41420	白石町	しろいしちょう	Shiroishi Town	白石	しろいし	Shiroishi	35	41420	
+41441	41	41440	太良町	たらちょう	Tara Town	太良	たら	Tara	35	41440	
+42201	42	42200	長崎市	ながさきし	Nagasaki City	長崎	ながさき	Nagasaki	32		
+42202	42	42200	佐世保市	させぼし	Sasebo City	佐世保	させぼ	Sasebo	32		
+42203	42	42200	島原市	しまばらし	Shimabara City	島原	しまばら	Shimabara	32		
+42204	42	42200	諫早市	いさはやし	Isahaya City	諫早	いさはや	Isahaya	32		
+42205	42	42200	大村市	おおむらし	Omura City	大村	おおむら	Omura	32		
+42207	42	42200	平戸市	ひらどし	Hirado City	平戸	ひらど	Hirado	32		
+42208	42	42200	松浦市	まつうらし	Matsuura City	松浦	まつうら	Matsuura	32		
+42209	42	42200	対馬市	つしまし	Tsushima City	対馬	つしま	Tsushima	32		
+42210	42	42200	壱岐市	いきし	Iki City	壱岐	いき	Iki	32		
+42211	42	42200	五島市	ごとうし	Goto City	五島	ごとう	Goto	32		
+42212	42	42200	西海市	さいかいし	Saikai City	西海	さいかい	Saikai	32		
+42213	42	42200	雲仙市	うんぜんし	Unzen City	雲仙	うんぜん	Unzen	32		
+42214	42	42200	南島原市	みなみしまばらし	Minamishimabara City	南島原	みなみしまばら	Minamishimabara	32		
+42307	42	42300	長与町	ながよちょう	Nagayo Town	長与	ながよ	Nagayo	35	42300	
+42308	42	42300	時津町	とぎつちょう	Togitsu Town	時津	とぎつ	Togitsu	35	42300	
+42321	42	42320	東彼杵町	ひがしそのぎちょう	Higashisonogi Town	東彼杵	ひがしそのぎ	Higashisonogi	35	42320	
+42322	42	42320	川棚町	かわたなちょう	Kawatana Town	川棚	かわたな	Kawatana	35	42320	
+42323	42	42320	波佐見町	はさみちょう	Hasami Town	波佐見	はさみ	Hasami	35	42320	
+42383	42	42380	小値賀町	おぢかちょう	Ojika Town	小値賀	おぢか	Ojika	35	42380	
+42391	42	42380	佐々町	さざちょう	Saza Town	佐々	さざ	Saza	35	42380	
+42411	42	42400	新上五島町	しんかみごとうちょう	Shinkamigoto Town	新上五島	しんかみごとう	Shinkamigoto	35	42400	
+43100	43	43100	熊本市	くまもとし	Kumamoto City	熊本	くまもと	Kumamoto	31		
+43202	43	43200	八代市	やつしろし	Yatsushiro City	八代	やつしろ	Yatsushiro	32		
+43203	43	43200	人吉市	ひとよしし	Hitoyoshi City	人吉	ひとよし	Hitoyoshi	32		
+43204	43	43200	荒尾市	あらおし	Arao City	荒尾	あらお	Arao	32		
+43205	43	43200	水俣市	みなまたし	Minamata City	水俣	みなまた	Minamata	32		
+43206	43	43200	玉名市	たまなし	Tamana City	玉名	たまな	Tamana	32		
+43208	43	43200	山鹿市	やまがし	Yamaga City	山鹿	やまが	Yamaga	32		
+43210	43	43200	菊池市	きくちし	Kikuchi City	菊池	きくち	Kikuchi	32		
+43211	43	43200	宇土市	うとし	Uto City	宇土	うと	Uto	32		
+43212	43	43200	上天草市	かみあまくさし	Kamiamakusa City	上天草	かみあまくさ	Kamiamakusa	32		
+43213	43	43200	宇城市	うきし	Uki City	宇城	うき	Uki	32		
+43214	43	43200	阿蘇市	あそし	Aso City	阿蘇	あそ	Aso	32		
+43215	43	43200	天草市	あまくさし	Amakusa City	天草	あまくさ	Amakusa	32		
+43216	43	43200	合志市	こうしし	Koshi City	合志	こうし	Koshi	32		
+43348	43	43340	美里町	みさとまち	Misato Town	美里	みさと	Misato	34	43340	
+43364	43	43360	玉東町	ぎょくとうまち	Gyokuto Town	玉東	ぎょくとう	Gyokuto	34	43360	
+43367	43	43360	南関町	なんかんまち	Nankan Town	南関	なんかん	Nankan	34	43360	
+43368	43	43360	長洲町	ながすまち	Nagasu Town	長洲	ながす	Nagasu	34	43360	
+43369	43	43360	和水町	なごみまち	Nagomi Town	和水	なごみ	Nagomi	34	43360	
+43403	43	43400	大津町	おおづまち	Ozu Town	大津	おおづ	Ozu	34	43400	
+43404	43	43400	菊陽町	きくようまち	Kikuyo Town	菊陽	きくよう	Kikuyo	34	43400	
+43423	43	43420	南小国町	みなみおぐにまち	Minamioguni Town	南小国	みなみおぐに	Minamioguni	34	43420	
+43424	43	43420	小国町	おぐにまち	Oguni Town	小国	おぐに	Oguni	34	43420	
+43425	43	43420	産山村	うぶやまむら	Ubuyama Village	産山	うぶやま	Ubuyama	36	43420	
+43428	43	43420	高森町	たかもりまち	Takamori Town	高森	たかもり	Takamori	34	43420	
+43432	43	43420	西原村	にしはらむら	Nishihara Village	西原	にしはら	Nishihara	36	43420	
+43433	43	43420	南阿蘇村	みなみあそむら	Minamiaso Village	南阿蘇	みなみあそ	Minamiaso	36	43420	
+43441	43	43440	御船町	みふねまち	Mifune Town	御船	みふね	Mifune	34	43440	
+43442	43	43440	嘉島町	かしままち	Kashima Town	嘉島	かしま	Kashima	34	43440	
+43443	43	43440	益城町	ましきまち	Mashiki Town	益城	ましき	Mashiki	34	43440	
+43444	43	43440	甲佐町	こうさまち	Kosa Town	甲佐	こうさ	Kosa	34	43440	
+43447	43	43440	山都町	やまとちょう	Yamato Town	山都	やまと	Yamato	35	43440	
+43468	43	43460	氷川町	ひかわちょう	Hikawa Town	氷川	ひかわ	Hikawa	35	43460	
+43482	43	43480	芦北町	あしきたまち	Ashikita Town	芦北	あしきた	Ashikita	34	43480	
+43484	43	43480	津奈木町	つなぎまち	Tsunagi Town	津奈木	つなぎ	Tsunagi	34	43480	
+43501	43	43500	錦町	にしきまち	Nishiki Town	錦	にしき	Nishiki	34	43500	
+43505	43	43500	多良木町	たらぎまち	Taragi Town	多良木	たらぎ	Taragi	34	43500	
+43506	43	43500	湯前町	ゆのまえまち	Yunomae Town	湯前	ゆのまえ	Yunomae	34	43500	
+43507	43	43500	水上村	みずかみむら	Mizukami Village	水上	みずかみ	Mizukami	36	43500	
+43510	43	43500	相良村	さがらむら	Sagara Village	相良	さがら	Sagara	36	43500	
+43511	43	43500	五木村	いつきむら	Itsuki Village	五木	いつき	Itsuki	36	43500	
+43512	43	43500	山江村	やまえむら	Yamae Village	山江	やまえ	Yamae	36	43500	
+43513	43	43500	球磨村	くまむら	Kuma Village	球磨	くま	Kuma	36	43500	
+43514	43	43500	あさぎり町	あさぎりちょう	Asagiri Town	あさぎり	あさぎり	Asagiri	35	43500	
+43531	43	43520	苓北町	れいほくまち	Reihoku Town	苓北	れいほく	Reihoku	34	43520	
+44201	44	44200	大分市	おおいたし	Oita City	大分	おおいた	Oita	32		
+44202	44	44200	別府市	べっぷし	Beppu City	別府	べっぷ	Beppu	32		
+44203	44	44200	中津市	なかつし	Nakatsu City	中津	なかつ	Nakatsu	32		
+44204	44	44200	日田市	ひたし	Hita City	日田	ひた	Hita	32		
+44205	44	44200	佐伯市	さいきし	Saiki City	佐伯	さいき	Saiki	32		
+44206	44	44200	臼杵市	うすきし	Usuki City	臼杵	うすき	Usuki	32		
+44207	44	44200	津久見市	つくみし	Tsukumi City	津久見	つくみ	Tsukumi	32		
+44208	44	44200	竹田市	たけたし	Taketa City	竹田	たけた	Taketa	32		
+44209	44	44200	豊後高田市	ぶんごたかだし	Bungotakada City	豊後高田	ぶんごたかだ	Bungotakada	32		
+44210	44	44200	杵築市	きつきし	Kitsuki City	杵築	きつき	Kitsuki	32		
+44211	44	44200	宇佐市	うさし	Usa City	宇佐	うさ	Usa	32		
+44212	44	44200	豊後大野市	ぶんごおおのし	Bungoono City	豊後大野	ぶんごおおの	Bungoono	32		
+44213	44	44200	由布市	ゆふし	Yufu City	由布	ゆふ	Yufu	32		
+44214	44	44200	国東市	くにさきし	Kunisaki City	国東	くにさき	Kunisaki	32		
+44322	44	44320	姫島村	ひめしまむら	Himeshima Village	姫島	ひめしま	Himeshima	36	44320	
+44341	44	44340	日出町	ひじまち	Hiji Town	日出	ひじ	Hiji	34	44340	
+44461	44	44460	九重町	ここのえまち	Kokonoe Town	九重	ここのえ	Kokonoe	34	44460	
+44462	44	44460	玖珠町	くすまち	Kusu Town	玖珠	くす	Kusu	34	44460	
+45201	45	45200	宮崎市	みやざきし	Miyazaki City	宮崎	みやざき	Miyazaki	32		
+45202	45	45200	都城市	みやこのじょうし	Miyakonojo City	都城	みやこのじょう	Miyakonojo	32		
+45203	45	45200	延岡市	のべおかし	Nobeoka City	延岡	のべおか	Nobeoka	32		
+45204	45	45200	日南市	にちなんし	Nichinan City	日南	にちなん	Nichinan	32		
+45205	45	45200	小林市	こばやしし	Kobayashi City	小林	こばやし	Kobayashi	32		
+45206	45	45200	日向市	ひゅうがし	Hyuga City	日向	ひゅうが	Hyuga	32		
+45207	45	45200	串間市	くしまし	Kushima City	串間	くしま	Kushima	32		
+45208	45	45200	西都市	さいとし	Saito City	西都	さいと	Saito	32		
+45209	45	45200	えびの市	えびのし	Ebino City	えびの	えびの	Ebino	32		
+45341	45	45340	三股町	みまたちょう	Mimata Town	三股	みまた	Mimata	35	45340	
+45361	45	45360	高原町	たかはるちょう	Takaharu Town	高原	たかはる	Takaharu	35	45360	
+45382	45	45380	国富町	くにとみちょう	Kunitomi Town	国富	くにとみ	Kunitomi	35	45380	
+45383	45	45380	綾町	あやちょう	Aya Town	綾	あや	Aya	35	45380	
+45401	45	45400	高鍋町	たかなべちょう	Takanabe Town	高鍋	たかなべ	Takanabe	35	45400	
+45402	45	45400	新富町	しんとみちょう	Shintomi Town	新富	しんとみ	Shintomi	35	45400	
+45403	45	45400	西米良村	にしめらそん	Nishimera Village	西米良	にしめら	Nishimera	37	45400	
+45404	45	45400	木城町	きじょうちょう	Kijo Town	木城	きじょう	Kijo	35	45400	
+45405	45	45400	川南町	かわみなみちょう	Kawaminami Town	川南	かわみなみ	Kawaminami	35	45400	
+45406	45	45400	都農町	つのちょう	Tsuno Town	都農	つの	Tsuno	35	45400	
+45421	45	45420	門川町	かどがわちょう	Kadogawa Town	門川	かどがわ	Kadogawa	35	45420	
+45429	45	45420	諸塚村	もろつかそん	Morotsuka Village	諸塚	もろつか	Morotsuka	37	45420	
+45430	45	45420	椎葉村	しいばそん	Shiiba Village	椎葉	しいば	Shiiba	37	45420	
+45431	45	45420	美郷町	みさとちょう	Misato Town	美郷	みさと	Misato	35	45420	
+45441	45	45440	高千穂町	たかちほちょう	Takachiho Town	高千穂	たかちほ	Takachiho	35	45440	
+45442	45	45440	日之影町	ひのかげちょう	Hinokage Town	日之影	ひのかげ	Hinokage	35	45440	
+45443	45	45440	五ヶ瀬町	ごかせちょう	Gokase Town	五ヶ瀬	ごかせ	Gokase	35	45440	
+46201	46	46200	鹿児島市	かごしまし	Kagoshima City	鹿児島	かごしま	Kagoshima	32		
+46203	46	46200	鹿屋市	かのやし	Kanoya City	鹿屋	かのや	Kanoya	32		
+46204	46	46200	枕崎市	まくらざきし	Makurazaki City	枕崎	まくらざき	Makurazaki	32		
+46206	46	46200	阿久根市	あくねし	Akune City	阿久根	あくね	Akune	32		
+46208	46	46200	出水市	いずみし	Izumi City	出水	いずみ	Izumi	32		
+46210	46	46200	指宿市	いぶすきし	Ibusuki City	指宿	いぶすき	Ibusuki	32		
+46213	46	46200	西之表市	にしのおもてし	Nishinoomote City	西之表	にしのおもて	Nishinoomote	32		
+46214	46	46200	垂水市	たるみずし	Tarumizu City	垂水	たるみず	Tarumizu	32		
+46215	46	46200	薩摩川内市	さつませんだいし	Satsumasendai City	薩摩川内	さつませんだい	Satsumasendai	32		
+46216	46	46200	日置市	ひおきし	Hioki City	日置	ひおき	Hioki	32		
+46217	46	46200	曽於市	そおし	Soo City	曽於	そお	Soo	32		
+46218	46	46200	霧島市	きりしまし	Kirishima City	霧島	きりしま	Kirishima	32		
+46219	46	46200	いちき串木野市	いちきくしきのし	Ichikikushikino City	いちき串木野	いちきくしきの	Ichikikushikino	32		
+46220	46	46200	南さつま市	みなみさつまし	Minamisatsuma City	南さつま	みなみさつま	Minamisatsuma	32		
+46221	46	46200	志布志市	しぶしし	Shibushi City	志布志	しぶし	Shibushi	32		
+46222	46	46200	奄美市	あまみし	Amami City	奄美	あまみ	Amami	32		
+46223	46	46200	南九州市	みなみきゅうしゅうし	Minamikyushu City	南九州	みなみきゅうしゅう	Minamikyushu	32		
+46224	46	46200	伊佐市	いさし	Isa City	伊佐	いさ	Isa	32		
+46225	46	46200	姶良市	あいらし	Aira City	姶良	あいら	Aira	32		
+46303	46	46300	三島村	みしまむら	Mishima Village	三島	みしま	Mishima	36	46300	
+46304	46	46300	十島村	としまむら	Toshima Village	十島	としま	Toshima	36	46300	
+46392	46	46380	さつま町	さつまちょう	Satsuma Town	さつま	さつま	Satsuma	35	46380	
+46404	46	46400	長島町	ながしまちょう	Nagashima Town	長島	ながしま	Nagashima	35	46400	
+46452	46	46440	湧水町	ゆうすいちょう	Yusui Town	湧水	ゆうすい	Yusui	35	46440	
+46468	46	46460	大崎町	おおさきちょう	Osaki Town	大崎	おおさき	Osaki	35	46460	
+46482	46	46480	東串良町	ひがしくしらちょう	Higashikushira Town	東串良	ひがしくしら	Higashikushira	35	46480	
+46490	46	46480	錦江町	きんこうちょう	Kinko Town	錦江	きんこう	Kinko	35	46480	
+46491	46	46480	南大隅町	みなみおおすみちょう	Minamiosumi Town	南大隅	みなみおおすみ	Minamiosumi	35	46480	
+46492	46	46480	肝付町	きもつきちょう	Kimotsuki Town	肝付	きもつき	Kimotsuki	35	46480	
+46501	46	46500	中種子町	なかたねちょう	Nakatane Town	中種子	なかたね	Nakatane	35	46500	
+46502	46	46500	南種子町	みなみたねちょう	Minamitane Town	南種子	みなみたね	Minamitane	35	46500	
+46505	46	46500	屋久島町	やくしまちょう	Yakushima Town	屋久島	やくしま	Yakushima	35	46500	
+46523	46	46520	大和村	やまとそん	Yamato Village	大和	やまと	Yamato	37	46520	
+46524	46	46520	宇検村	うけんそん	Uken Village	宇検	うけん	Uken	37	46520	
+46525	46	46520	瀬戸内町	せとうちちょう	Setouchi Town	瀬戸内	せとうち	Setouchi	35	46520	
+46527	46	46520	龍郷町	たつごうちょう	Tatsugo Town	龍郷	たつごう	Tatsugo	35	46520	
+46529	46	46520	喜界町	きかいちょう	Kikai Town	喜界	きかい	Kikai	35	46520	
+46530	46	46520	徳之島町	とくのしまちょう	Tokunoshima Town	徳之島	とくのしま	Tokunoshima	35	46520	
+46531	46	46520	天城町	あまぎちょう	Amagi Town	天城	あまぎ	Amagi	35	46520	
+46532	46	46520	伊仙町	いせんちょう	Isen Town	伊仙	いせん	Isen	35	46520	
+46533	46	46520	和泊町	わどまりちょう	Wadomari Town	和泊	わどまり	Wadomari	35	46520	
+46534	46	46520	知名町	ちなちょう	China Town	知名	ちな	China	35	46520	
+46535	46	46520	与論町	よろんちょう	Yoron Town	与論	よろん	Yoron	35	46520	
+47201	47	47200	那覇市	なはし	Naha City	那覇	なは	Naha	32		
+47205	47	47200	宜野湾市	ぎのわんし	Ginowan City	宜野湾	ぎのわん	Ginowan	32		
+47207	47	47200	石垣市	いしがきし	Ishigaki City	石垣	いしがき	Ishigaki	32		
+47208	47	47200	浦添市	うらそえし	Urasoe City	浦添	うらそえ	Urasoe	32		
+47209	47	47200	名護市	なごし	Nago City	名護	なご	Nago	32		
+47210	47	47200	糸満市	いとまんし	Itoman City	糸満	いとまん	Itoman	32		
+47211	47	47200	沖縄市	おきなわし	Okinawa City	沖縄	おきなわ	Okinawa	32		
+47212	47	47200	豊見城市	とみぐすくし	Tomigusuku City	豊見城	とみぐすく	Tomigusuku	32		
+47213	47	47200	うるま市	うるまし	Uruma City	うるま	うるま	Uruma	32		
+47214	47	47200	宮古島市	みやこじまし	Miyakojima City	宮古島	みやこじま	Miyakojima	32		
+47215	47	47200	南城市	なんじょうし	Nanjo City	南城	なんじょう	Nanjo	32		
+47301	47	47300	国頭村	くにがみそん	Kunigami Village	国頭	くにがみ	Kunigami	37	47300	
+47302	47	47300	大宜味村	おおぎみそん	Ogimi Village	大宜味	おおぎみ	Ogimi	37	47300	
+47303	47	47300	東村	ひがしそん	Higashi Village	東	ひがし	Higashi	37	47300	
+47306	47	47300	今帰仁村	なきじんそん	Nakijin Village	今帰仁	なきじん	Nakijin	37	47300	
+47308	47	47300	本部町	もとぶちょう	Motobu Town	本部	もとぶ	Motobu	35	47300	
+47311	47	47300	恩納村	おんなそん	Onna Village	恩納	おんな	Onna	37	47300	
+47313	47	47300	宜野座村	ぎのざそん	Ginoza Village	宜野座	ぎのざ	Ginoza	37	47300	
+47314	47	47300	金武町	きんちょう	Kin Town	金武	きん	Kin	35	47300	
+47315	47	47300	伊江村	いえそん	Ie Village	伊江	いえ	Ie	37	47300	
+47324	47	47320	読谷村	よみたんそん	Yomitan Village	読谷	よみたん	Yomitan	37	47320	
+47325	47	47320	嘉手納町	かでなちょう	Kadena Town	嘉手納	かでな	Kadena	35	47320	
+47326	47	47320	北谷町	ちゃたんちょう	Chatan Town	北谷	ちゃたん	Chatan	35	47320	
+47327	47	47320	北中城村	きたなかぐすくそん	Kitanakagusuku Village	北中城	きたなかぐすく	Kitanakagusuku	37	47320	
+47328	47	47320	中城村	なかぐすくそん	Nakagusuku Village	中城	なかぐすく	Nakagusuku	37	47320	
+47329	47	47320	西原町	にしはらちょう	Nishihara Town	西原	にしはら	Nishihara	35	47320	
+47348	47	47340	与那原町	よなばるちょう	Yonabaru Town	与那原	よなばる	Yonabaru	35	47340	
+47350	47	47340	南風原町	はえばるちょう	Haebaru Town	南風原	はえばる	Haebaru	35	47340	
+47353	47	47340	渡嘉敷村	とかしきそん	Tokashiki Village	渡嘉敷	とかしき	Tokashiki	37	47340	
+47354	47	47340	座間味村	ざまみそん	Zamami Village	座間味	ざまみ	Zamami	37	47340	
+47355	47	47340	粟国村	あぐにそん	Aguni Village	粟国	あぐに	Aguni	37	47340	
+47356	47	47340	渡名喜村	となきそん	Tonaki Village	渡名喜	となき	Tonaki	37	47340	
+47357	47	47340	南大東村	みなみだいとうそん	Minamidaito Village	南大東	みなみだいとう	Minamidaito	37	47340	
+47358	47	47340	北大東村	きただいとうそん	Kitadaito Village	北大東	きただいとう	Kitadaito	37	47340	
+47359	47	47340	伊平屋村	いへやそん	Iheya Village	伊平屋	いへや	Iheya	37	47340	
+47360	47	47340	伊是名村	いぜなそん	Izena Village	伊是名	いぜな	Izena	37	47340	
+47361	47	47340	久米島町	くめじまちょう	Kumejima Town	久米島	くめじま	Kumejima	35	47340	
+47362	47	47340	八重瀬町	やえせちょう	Yaese Town	八重瀬	やえせ	Yaese	35	47340	
+47375	47	47370	多良間村	たらまそん	Tarama Village	多良間	たらま	Tarama	37	47370	
+47381	47	47380	竹富町	たけとみちょう	Taketomi Town	竹富	たけとみ	Taketomi	35	47380	
+47382	47	47380	与那国町	よなぐにちょう	Yonaguni Town	与那国	よなぐに	Yonaguni	35	47380	
