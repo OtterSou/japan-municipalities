@@ -1,5 +1,5 @@
 layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	type	county	subpref
-1	01100	01			札幌市	さっぽろし	Sapporo City	札幌	さっぽろ	Sapporo	21		
+1	01000	01			北海道	ほっかいどう	Hokkaido Prefecture	北海道	ほっかいどう	Hokkaido	12		
 2	01100	01			札幌市	さっぽろし	Sapporo City	札幌	さっぽろ	Sapporo	21		
 3	01100	01	01100		札幌市	さっぽろし	Sapporo City	札幌	さっぽろ	Sapporo	31		01300
 4	01101	01		01100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41		
@@ -12,7 +12,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	01108	01		01100	厚別区	あつべつく	Atsubetsu Ward	厚別	あつべつ	Atsubetsu	41		
 4	01109	01		01100	手稲区	ていねく	Teine Ward	手稲	ていね	Teine	41		
 4	01110	01		01100	清田区	きよたく	Kiyota Ward	清田	きよた	Kiyota	41		
-1	01200	01			市部	しぶ	City Area				23		
 2	01200	01			市部	しぶ	City Area				23		
 3	01202	01	01200		函館市	はこだてし	Hakodate City	函館	はこだて	Hakodate	32		01330
 3	01203	01	01200		小樽市	おたるし	Otaru City	小樽	おたる	Otaru	32		01390
@@ -48,11 +47,9 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01234	01	01200		北広島市	きたひろしまし	Kitahiroshima City	北広島	きたひろしま	Kitahiroshima	32		01300
 3	01235	01	01200		石狩市	いしかりし	Ishikari City	石狩	いしかり	Ishikari	32		01300
 3	01236	01	01200		北斗市	ほくとし	Hokuto City	北斗	ほくと	Hokuto	32		01330
-1	01300	01			石狩振興局	いしかりしんこうきょく	Ishikari Subprefectural Bureau	石狩	いしかり	Ishikari	26		
 2	01300	01			石狩振興局	いしかりしんこうきょく	Ishikari Subprefectural Bureau	石狩	いしかり	Ishikari	26		
 3	01303	01	01300		当別町	とうべつちょう	Tobetsu Town	当別	とうべつ	Tobetsu	35	01801	01300
 3	01304	01	01300		新篠津村	しんしのつむら	Shinshinotsu Village	新篠津	しんしのつ	Shinshinotsu	36	01801	01300
-1	01330	01			渡島総合振興局	おしまそうごうしんこうきょく	Oshima General Subprefectural Bureau	渡島	おしま	Oshima	25		
 2	01330	01			渡島総合振興局	おしまそうごうしんこうきょく	Oshima General Subprefectural Bureau	渡島	おしま	Oshima	25		
 3	01331	01	01330		松前町	まつまえちょう	Matsumae Town	松前	まつまえ	Matsumae	35	01802	01330
 3	01332	01	01330		福島町	ふくしまちょう	Fukushima Town	福島	ふくしま	Fukushima	35	01802	01330
@@ -63,7 +60,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01345	01	01330		森町	もりまち	Mori Town	森	もり	Mori	34	01805	01330
 3	01346	01	01330		八雲町	やくもちょう	Yakumo Town	八雲	やくも	Yakumo	35	01806	01330
 3	01347	01	01330		長万部町	おしゃまんべちょう	Oshamanbe Town	長万部	おしゃまんべ	Oshamanbe	35	01807	01330
-1	01360	01			檜山振興局	ひやましんこうきょく	Hiyama Subprefectural Bureau	檜山	ひやま	Hiyama	26		
 2	01360	01			檜山振興局	ひやましんこうきょく	Hiyama Subprefectural Bureau	檜山	ひやま	Hiyama	26		
 3	01361	01	01360		江差町	えさしちょう	Esashi Town	江差	えさし	Esashi	35	01808	01360
 3	01362	01	01360		上ノ国町	かみのくにちょう	Kaminokuni Town	上ノ国	かみのくに	Kaminokuni	35	01808	01360
@@ -72,7 +68,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01367	01	01360		奥尻町	おくしりちょう	Okushiri Town	奥尻	おくしり	Okushiri	35	01810	01360
 3	01370	01	01360		今金町	いまかねちょう	Imakane Town	今金	いまかね	Imakane	35	01811	01360
 3	01371	01	01360		せたな町	せたなちょう	Setana Town	せたな	せたな	Setana	35	01812	01360
-1	01390	01			後志総合振興局	しりべしそうごうしんこうきょく	Shiribeshi General Subprefectural Bureau	後志	しりべし	Shiribeshi	25		
 2	01390	01			後志総合振興局	しりべしそうごうしんこうきょく	Shiribeshi General Subprefectural Bureau	後志	しりべし	Shiribeshi	25		
 3	01391	01	01390		島牧村	しままきむら	Shimamaki Village	島牧	しままき	Shimamaki	36	01813	01390
 3	01392	01	01390		寿都町	すっつちょう	Suttsu Town	寿都	すっつ	Suttsu	35	01814	01390
@@ -93,7 +88,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01407	01	01390		仁木町	にきちょう	Niki Town	仁木	にき	Niki	35	01821	01390
 3	01408	01	01390		余市町	よいちちょう	Yoichi Town	余市	よいち	Yoichi	35	01821	01390
 3	01409	01	01390		赤井川村	あかいがわむら	Akaigawa Village	赤井川	あかいがわ	Akaigawa	36	01821	01390
-1	01420	01			空知総合振興局	そらちそうごうしんこうきょく	Sorachi General Subprefectural Bureau	空知	そらち	Sorachi	25		
 2	01420	01			空知総合振興局	そらちそうごうしんこうきょく	Sorachi General Subprefectural Bureau	空知	そらち	Sorachi	25		
 3	01423	01	01420		南幌町	なんぽろちょう	Nanporo Town	南幌	なんぽろ	Nanporo	35	01822	01420
 3	01424	01	01420		奈井江町	ないえちょう	Naie Town	奈井江	ないえ	Naie	35	01822	01420
@@ -109,7 +103,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01436	01	01420		雨竜町	うりゅうちょう	Uryu Town	雨竜	うりゅう	Uryu	35	01825	01420
 3	01437	01	01420		北竜町	ほくりゅうちょう	Hokuryu Town	北竜	ほくりゅう	Hokuryu	35	01825	01420
 3	01438	01	01420		沼田町	ぬまたちょう	Numata Town	沼田	ぬまた	Numata	35	01825	01420
-1	01450	01			上川総合振興局	かみかわそうごうしんこうきょく	Kamikawa General Subprefectural Bureau	上川	かみかわ	Kamikawa	25		
 2	01450	01			上川総合振興局	かみかわそうごうしんこうきょく	Kamikawa General Subprefectural Bureau	上川	かみかわ	Kamikawa	25		
 3	01452	01	01450		鷹栖町	たかすちょう	Takasu Town	鷹栖	たかす	Takasu	35	01826	01450
 3	01453	01	01450		東神楽町	ひがしかぐらちょう	Higashikagura Town	東神楽	ひがしかぐら	Higashikagura	35	01826	01450
@@ -130,7 +123,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01470	01	01450		音威子府村	おといねっぷむら	Otoineppu Village	音威子府	おといねっぷ	Otoineppu	36	01829	01450
 3	01471	01	01450		中川町	なかがわちょう	Nakagawa Town	中川	なかがわ	Nakagawa	35	01829	01450
 3	01472	01	01450		幌加内町	ほろかないちょう	Horokanai Town	幌加内	ほろかない	Horokanai	35	01825	01450
-1	01480	01			留萌振興局	るもいしんこうきょく	Rumoi Subprefectural Bureau	留萌	るもい	Rumoi	26		
 2	01480	01			留萌振興局	るもいしんこうきょく	Rumoi Subprefectural Bureau	留萌	るもい	Rumoi	26		
 3	01481	01	01480		増毛町	ましけちょう	Mashike Town	増毛	ましけ	Mashike	35	01830	01480
 3	01482	01	01480		小平町	おびらちょう	Obira Town	小平	おびら	Obira	35	01831	01480
@@ -139,7 +131,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01485	01	01480		初山別村	しょさんべつむら	Shosanbetsu Village	初山別	しょさんべつ	Shosanbetsu	36	01832	01480
 3	01486	01	01480		遠別町	えんべつちょう	Enbetsu Town	遠別	えんべつ	Enbetsu	35	01833	01480
 3	01487	01	01480		天塩町	てしおちょう	Teshio Town	天塩	てしお	Teshio	35	01833	01480
-1	01510	01			宗谷総合振興局	そうやそうごうしんこうきょく	Soya General Subprefectural Bureau	宗谷	そうや	Soya	25		
 2	01510	01			宗谷総合振興局	そうやそうごうしんこうきょく	Soya General Subprefectural Bureau	宗谷	そうや	Soya	25		
 3	01511	01	01510		猿払村	さるふつむら	Sarufutsu Village	猿払	さるふつ	Sarufutsu	36	01834	01510
 3	01512	01	01510		浜頓別町	はまとんべつちょう	Hamatonbetsu Town	浜頓別	はまとんべつ	Hamatonbetsu	35	01835	01510
@@ -150,7 +141,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01518	01	01510		利尻町	りしりちょう	Rishiri Town	利尻	りしり	Rishiri	35	01837	01510
 3	01519	01	01510		利尻富士町	りしりふじちょう	Rishirifuji Town	利尻富士	りしりふじ	Rishirifuji	35	01837	01510
 3	01520	01	01510		幌延町	ほろのべちょう	Horonobe Town	幌延	ほろのべ	Horonobe	35	01833	01510
-1	01540	01			オホーツク総合振興局	おほーつくそうごうしんこうきょく	Okhotsk General Subprefectural Bureau	オホーツク	おほーつく	Okhotsk	25		
 2	01540	01			オホーツク総合振興局	おほーつくそうごうしんこうきょく	Okhotsk General Subprefectural Bureau	オホーツク	おほーつく	Okhotsk	25		
 3	01543	01	01540		美幌町	びほろちょう	Bihoro Town	美幌	びほろ	Bihoro	35	01838	01540
 3	01544	01	01540		津別町	つべつちょう	Tsubetsu Town	津別	つべつ	Tsubetsu	35	01838	01540
@@ -167,7 +157,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01562	01	01540		西興部村	にしおこっぺむら	Nishiokoppe Village	西興部	にしおこっぺ	Nishiokoppe	36	01841	01540
 3	01563	01	01540		雄武町	おうむちょう	Omu Town	雄武	おうむ	Omu	35	01841	01540
 3	01564	01	01540		大空町	おおぞらちょう	Ozora Town	大空	おおぞら	Ozora	35	01838	01540
-1	01570	01			胆振総合振興局	いぶりそうごうしんこうきょく	Iburi General Subprefectural Bureau	胆振	いぶり	Iburi	25		
 2	01570	01			胆振総合振興局	いぶりそうごうしんこうきょく	Iburi General Subprefectural Bureau	胆振	いぶり	Iburi	25		
 3	01571	01	01570		豊浦町	とようらちょう	Toyoura Town	豊浦	とようら	Toyoura	35	01816	01570
 3	01575	01	01570		壮瞥町	そうべつちょう	Sobetsu Town	壮瞥	そうべつ	Sobetsu	35	01842	01570
@@ -176,7 +165,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01584	01	01570		洞爺湖町	とうやこちょう	Toyako Town	洞爺湖	とうやこ	Toyako	35	01816	01570
 3	01585	01	01570		安平町	あびらちょう	Abira Town	安平	あびら	Abira	35	01827	01570
 3	01586	01	01570		むかわ町	むかわちょう	Mukawa Town	むかわ	むかわ	Mukawa	35	01827	01570
-1	01600	01			日高振興局	ひだかしんこうきょく	Hidaka Subprefectural Bureau	日高	ひだか	Hidaka	26		
 2	01600	01			日高振興局	ひだかしんこうきょく	Hidaka Subprefectural Bureau	日高	ひだか	Hidaka	26		
 3	01601	01	01600		日高町	ひだかちょう	Hidaka Town	日高	ひだか	Hidaka	35	01844	01600
 3	01602	01	01600		平取町	びらとりちょう	Biratori Town	平取	びらとり	Biratori	35	01844	01600
@@ -185,7 +173,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01608	01	01600		様似町	さまにちょう	Samani Town	様似	さまに	Samani	35	01847	01600
 3	01609	01	01600		えりも町	えりもちょう	Erimo Town	えりも	えりも	Erimo	35	01848	01600
 3	01610	01	01600		新ひだか町	しんひだかちょう	Shinhidaka Town	新ひだか	しんひだか	Shinhidaka	35	01849	01600
-1	01630	01			十勝総合振興局	とかちそうごうしんこうきょく	Tokachi General Subprefectural Bureau	十勝	とかち	Tokachi	25		
 2	01630	01			十勝総合振興局	とかちそうごうしんこうきょく	Tokachi General Subprefectural Bureau	十勝	とかち	Tokachi	25		
 3	01631	01	01630		音更町	おとふけちょう	Otofuke Town	音更	おとふけ	Otofuke	35	01850	01630
 3	01632	01	01630		士幌町	しほろちょう	Shihoro Town	士幌	しほろ	Shihoro	35	01850	01630
@@ -205,7 +192,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01647	01	01630		足寄町	あしょろちょう	Ashoro Town	足寄	あしょろ	Ashoro	35	01855	01630
 3	01648	01	01630		陸別町	りくべつちょう	Rikubetsu Town	陸別	りくべつ	Rikubetsu	35	01855	01630
 3	01649	01	01630		浦幌町	うらほろちょう	Urahoro Town	浦幌	うらほろ	Urahoro	35	01856	01630
-1	01660	01			釧路総合振興局	くしろそうごうしんこうきょく	Kushiro General Subprefectural Bureau	釧路	くしろ	Kushiro	25		
 2	01660	01			釧路総合振興局	くしろそうごうしんこうきょく	Kushiro General Subprefectural Bureau	釧路	くしろ	Kushiro	25		
 3	01661	01	01660		釧路町	くしろちょう	Kushiro Town	釧路	くしろ	Kushiro	35	01857	01660
 3	01662	01	01660		厚岸町	あっけしちょう	Akkeshi Town	厚岸	あっけし	Akkeshi	35	01858	01660
@@ -214,7 +200,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01665	01	01660		弟子屈町	てしかがちょう	Teshikaga Town	弟子屈	てしかが	Teshikaga	35	01859	01660
 3	01667	01	01660		鶴居村	つるいむら	Tsurui Village	鶴居	つるい	Tsurui	36	01860	01660
 3	01668	01	01660		白糠町	しらぬかちょう	Shiranuka Town	白糠	しらぬか	Shiranuka	35	01861	01660
-1	01690	01			根室振興局	ねむろしんこうきょく	Nemuro Subprefectural Bureau	根室	ねむろ	Nemuro	26		
 2	01690	01			根室振興局	ねむろしんこうきょく	Nemuro Subprefectural Bureau	根室	ねむろ	Nemuro	26		
 3	01691	01	01690		別海町	べつかいちょう	Betsukai Town	別海	べつかい	Betsukai	35	01862	01690
 3	01692	01	01690		中標津町	なかしべつちょう	Nakashibetsu Town	中標津	なかしべつ	Nakashibetsu	35	01863	01690
@@ -226,145 +211,76 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01698	01	01690		留別村	るべつむら	Rubetsu Village	留別	るべつ	Rubetsu	36	01867	01690
 3	01699	01	01690		紗那村	しゃなむら	Shana Village	紗那	しゃな	Shana	36	01868	01690
 3	01700	01	01690		蘂取村	しべとろむら	Shibetoro Village	蘂取	しべとろ	Shibetoro	36	01869	01690
-1	01801	01			石狩郡	いしかりぐん	Ishikari County	石狩	いしかり	Ishikari	24		
 2	01801	01			石狩郡	いしかりぐん	Ishikari County	石狩	いしかり	Ishikari	24		
-1	01802	01			松前郡	まつまえぐん	Matsumae County	松前	まつまえ	Matsumae	24		
 2	01802	01			松前郡	まつまえぐん	Matsumae County	松前	まつまえ	Matsumae	24		
-1	01803	01			上磯郡	かみいそぐん	Kamiiso County	上磯	かみいそ	Kamiiso	24		
 2	01803	01			上磯郡	かみいそぐん	Kamiiso County	上磯	かみいそ	Kamiiso	24		
-1	01804	01			亀田郡	かめだぐん	Kameda County	亀田	かめだ	Kameda	24		
 2	01804	01			亀田郡	かめだぐん	Kameda County	亀田	かめだ	Kameda	24		
-1	01805	01			茅部郡	かやべぐん	Kayabe County	茅部	かやべ	Kayabe	24		
 2	01805	01			茅部郡	かやべぐん	Kayabe County	茅部	かやべ	Kayabe	24		
-1	01806	01			二海郡	ふたみぐん	Futami County	二海	ふたみ	Futami	24		
 2	01806	01			二海郡	ふたみぐん	Futami County	二海	ふたみ	Futami	24		
-1	01807	01			山越郡	やまこしぐん	Yamakoshi County	山越	やまこし	Yamakoshi	24		
 2	01807	01			山越郡	やまこしぐん	Yamakoshi County	山越	やまこし	Yamakoshi	24		
-1	01808	01			檜山郡	ひやまぐん	Hiyama County	檜山	ひやま	Hiyama	24		
 2	01808	01			檜山郡	ひやまぐん	Hiyama County	檜山	ひやま	Hiyama	24		
-1	01809	01			爾志郡	にしぐん	Nishi County	爾志	にし	Nishi	24		
 2	01809	01			爾志郡	にしぐん	Nishi County	爾志	にし	Nishi	24		
-1	01810	01			奥尻郡	おくしりぐん	Okushiri County	奥尻	おくしり	Okushiri	24		
 2	01810	01			奥尻郡	おくしりぐん	Okushiri County	奥尻	おくしり	Okushiri	24		
-1	01811	01			瀬棚郡	せたなぐん	Setana County	瀬棚	せたな	Setana	24		
 2	01811	01			瀬棚郡	せたなぐん	Setana County	瀬棚	せたな	Setana	24		
-1	01812	01			久遠郡	くどうぐん	Kudo County	久遠	くどう	Kudo	24		
 2	01812	01			久遠郡	くどうぐん	Kudo County	久遠	くどう	Kudo	24		
-1	01813	01			島牧郡	しままきぐん	Shimamaki County	島牧	しままき	Shimamaki	24		
 2	01813	01			島牧郡	しままきぐん	Shimamaki County	島牧	しままき	Shimamaki	24		
-1	01814	01			寿都郡	すっつぐん	Suttsu County	寿都	すっつ	Suttsu	24		
 2	01814	01			寿都郡	すっつぐん	Suttsu County	寿都	すっつ	Suttsu	24		
-1	01815	01			磯谷郡	いそやぐん	Isoya County	磯谷	いそや	Isoya	24		
 2	01815	01			磯谷郡	いそやぐん	Isoya County	磯谷	いそや	Isoya	24		
-1	01816	01			虻田郡	あぶたぐん	Abuta County	虻田	あぶた	Abuta	24		
 2	01816	01			虻田郡	あぶたぐん	Abuta County	虻田	あぶた	Abuta	24		
-1	01817	01			岩内郡	いわないぐん	Iwanai County	岩内	いわない	Iwanai	24		
 2	01817	01			岩内郡	いわないぐん	Iwanai County	岩内	いわない	Iwanai	24		
-1	01818	01			古宇郡	ふるうぐん	Furuu County	古宇	ふるう	Furuu	24		
 2	01818	01			古宇郡	ふるうぐん	Furuu County	古宇	ふるう	Furuu	24		
-1	01819	01			積丹郡	しゃこたんぐん	Shakotan County	積丹	しゃこたん	Shakotan	24		
 2	01819	01			積丹郡	しゃこたんぐん	Shakotan County	積丹	しゃこたん	Shakotan	24		
-1	01820	01			古平郡	ふるびらぐん	Furubira County	古平	ふるびら	Furubira	24		
 2	01820	01			古平郡	ふるびらぐん	Furubira County	古平	ふるびら	Furubira	24		
-1	01821	01			余市郡	よいちぐん	Yoichi County	余市	よいち	Yoichi	24		
 2	01821	01			余市郡	よいちぐん	Yoichi County	余市	よいち	Yoichi	24		
-1	01822	01			空知郡	そらちぐん	Sorachi County	空知	そらち	Sorachi	24		
 2	01822	01			空知郡	そらちぐん	Sorachi County	空知	そらち	Sorachi	24		
-1	01823	01			夕張郡	ゆうばりぐん	Yubari County	夕張	ゆうばり	Yubari	24		
 2	01823	01			夕張郡	ゆうばりぐん	Yubari County	夕張	ゆうばり	Yubari	24		
-1	01824	01			樺戸郡	かばとぐん	Kabato County	樺戸	かばと	Kabato	24		
 2	01824	01			樺戸郡	かばとぐん	Kabato County	樺戸	かばと	Kabato	24		
-1	01825	01			雨竜郡	うりゅうぐん	Uryu County	雨竜	うりゅう	Uryu	24		
 2	01825	01			雨竜郡	うりゅうぐん	Uryu County	雨竜	うりゅう	Uryu	24		
-1	01826	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
 2	01826	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
-1	01827	01			勇払郡	ゆうふつぐん	Yufutsu County	勇払	ゆうふつ	Yufutsu	24		
 2	01827	01			勇払郡	ゆうふつぐん	Yufutsu County	勇払	ゆうふつ	Yufutsu	24		
-1	01828	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
 2	01828	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
-1	01829	01			中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24		
 2	01829	01			中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24		
-1	01830	01			増毛郡	ましけぐん	Mashike County	増毛	ましけ	Mashike	24		
 2	01830	01			増毛郡	ましけぐん	Mashike County	増毛	ましけ	Mashike	24		
-1	01831	01			留萌郡	るもいぐん	Rumoi County	留萌	るもい	Rumoi	24		
 2	01831	01			留萌郡	るもいぐん	Rumoi County	留萌	るもい	Rumoi	24		
-1	01832	01			苫前郡	とままえぐん	Tomamae County	苫前	とままえ	Tomamae	24		
 2	01832	01			苫前郡	とままえぐん	Tomamae County	苫前	とままえ	Tomamae	24		
-1	01833	01			天塩郡	てしおぐん	Teshio County	天塩	てしお	Teshio	24		
 2	01833	01			天塩郡	てしおぐん	Teshio County	天塩	てしお	Teshio	24		
-1	01834	01			宗谷郡	そうやぐん	Soya County	宗谷	そうや	Soya	24		
 2	01834	01			宗谷郡	そうやぐん	Soya County	宗谷	そうや	Soya	24		
-1	01835	01			枝幸郡	えさしぐん	Esashi County	枝幸	えさし	Esashi	24		
 2	01835	01			枝幸郡	えさしぐん	Esashi County	枝幸	えさし	Esashi	24		
-1	01836	01			礼文郡	れぶんぐん	Rebun County	礼文	れぶん	Rebun	24		
 2	01836	01			礼文郡	れぶんぐん	Rebun County	礼文	れぶん	Rebun	24		
-1	01837	01			利尻郡	りしりぐん	Rishiri County	利尻	りしり	Rishiri	24		
 2	01837	01			利尻郡	りしりぐん	Rishiri County	利尻	りしり	Rishiri	24		
-1	01838	01			網走郡	あばしりぐん	Abashiri County	網走	あばしり	Abashiri	24		
 2	01838	01			網走郡	あばしりぐん	Abashiri County	網走	あばしり	Abashiri	24		
-1	01839	01			斜里郡	しゃりぐん	Shari County	斜里	しゃり	Shari	24		
 2	01839	01			斜里郡	しゃりぐん	Shari County	斜里	しゃり	Shari	24		
-1	01840	01			常呂郡	ところぐん	Tokoro County	常呂	ところ	Tokoro	24		
 2	01840	01			常呂郡	ところぐん	Tokoro County	常呂	ところ	Tokoro	24		
-1	01841	01			紋別郡	もんべつぐん	Monbetsu County	紋別	もんべつ	Monbetsu	24		
 2	01841	01			紋別郡	もんべつぐん	Monbetsu County	紋別	もんべつ	Monbetsu	24		
-1	01842	01			有珠郡	うすぐん	Usu County	有珠	うす	Usu	24		
 2	01842	01			有珠郡	うすぐん	Usu County	有珠	うす	Usu	24		
-1	01843	01			白老郡	しらおいぐん	Shiraoi County	白老	しらおい	Shiraoi	24		
 2	01843	01			白老郡	しらおいぐん	Shiraoi County	白老	しらおい	Shiraoi	24		
-1	01844	01			沙流郡	さるぐん	Saru County	沙流	さる	Saru	24		
 2	01844	01			沙流郡	さるぐん	Saru County	沙流	さる	Saru	24		
-1	01845	01			新冠郡	にいかっぷぐん	Niikappu County	新冠	にいかっぷ	Niikappu	24		
 2	01845	01			新冠郡	にいかっぷぐん	Niikappu County	新冠	にいかっぷ	Niikappu	24		
-1	01846	01			浦河郡	うらかわぐん	Urakawa County	浦河	うらかわ	Urakawa	24		
 2	01846	01			浦河郡	うらかわぐん	Urakawa County	浦河	うらかわ	Urakawa	24		
-1	01847	01			様似郡	さまにぐん	Samani County	様似	さまに	Samani	24		
 2	01847	01			様似郡	さまにぐん	Samani County	様似	さまに	Samani	24		
-1	01848	01			幌泉郡	ほろいずみぐん	Horoizumi County	幌泉	ほろいずみ	Horoizumi	24		
 2	01848	01			幌泉郡	ほろいずみぐん	Horoizumi County	幌泉	ほろいずみ	Horoizumi	24		
-1	01849	01			日高郡	ひだかぐん	Hidaka County	日高	ひだか	Hidaka	24		
 2	01849	01			日高郡	ひだかぐん	Hidaka County	日高	ひだか	Hidaka	24		
-1	01850	01			河東郡	かとうぐん	Kato County	河東	かとう	Kato	24		
 2	01850	01			河東郡	かとうぐん	Kato County	河東	かとう	Kato	24		
-1	01851	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
 2	01851	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
-1	01852	01			河西郡	かさいぐん	Kasai County	河西	かさい	Kasai	24		
 2	01852	01			河西郡	かさいぐん	Kasai County	河西	かさい	Kasai	24		
-1	01853	01			広尾郡	ひろおぐん	Hiroo County	広尾	ひろお	Hiroo	24		
 2	01853	01			広尾郡	ひろおぐん	Hiroo County	広尾	ひろお	Hiroo	24		
-1	01854	01			中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24		
 2	01854	01			中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24		
-1	01855	01			足寄郡	あしょろぐん	Ashoro County	足寄	あしょろ	Ashoro	24		
 2	01855	01			足寄郡	あしょろぐん	Ashoro County	足寄	あしょろ	Ashoro	24		
-1	01856	01			十勝郡	とかちぐん	Tokachi County	十勝	とかち	Tokachi	24		
 2	01856	01			十勝郡	とかちぐん	Tokachi County	十勝	とかち	Tokachi	24		
-1	01857	01			釧路郡	くしろぐん	Kushiro County	釧路	くしろ	Kushiro	24		
 2	01857	01			釧路郡	くしろぐん	Kushiro County	釧路	くしろ	Kushiro	24		
-1	01858	01			厚岸郡	あっけしぐん	Akkeshi County	厚岸	あっけし	Akkeshi	24		
 2	01858	01			厚岸郡	あっけしぐん	Akkeshi County	厚岸	あっけし	Akkeshi	24		
-1	01859	01			川上郡	かわかみぐん	Kawakami County	川上	かわかみ	Kawakami	24		
 2	01859	01			川上郡	かわかみぐん	Kawakami County	川上	かわかみ	Kawakami	24		
-1	01860	01			阿寒郡	あかんぐん	Akan County	阿寒	あかん	Akan	24		
 2	01860	01			阿寒郡	あかんぐん	Akan County	阿寒	あかん	Akan	24		
-1	01861	01			白糠郡	しらぬかぐん	Shiranuka County	白糠	しらぬか	Shiranuka	24		
 2	01861	01			白糠郡	しらぬかぐん	Shiranuka County	白糠	しらぬか	Shiranuka	24		
-1	01862	01			野付郡	のつけぐん	Notsuke County	野付	のつけ	Notsuke	24		
 2	01862	01			野付郡	のつけぐん	Notsuke County	野付	のつけ	Notsuke	24		
-1	01863	01			標津郡	しべつぐん	Shibetsu County	標津	しべつ	Shibetsu	24		
 2	01863	01			標津郡	しべつぐん	Shibetsu County	標津	しべつ	Shibetsu	24		
-1	01864	01			目梨郡	めなしぐん	Menashi County	目梨	めなし	Menashi	24		
 2	01864	01			目梨郡	めなしぐん	Menashi County	目梨	めなし	Menashi	24		
-1	01865	01			色丹郡	しこたんぐん	Shikotan County	色丹	しこたん	Shikotan	24		
 2	01865	01			色丹郡	しこたんぐん	Shikotan County	色丹	しこたん	Shikotan	24		
-1	01866	01			国後郡	くなしりぐん	Kunashiri County	国後	くなしり	Kunashiri	24		
 2	01866	01			国後郡	くなしりぐん	Kunashiri County	国後	くなしり	Kunashiri	24		
-1	01867	01			択捉郡	えとろふぐん	Etorofu County	択捉	えとろふ	Etorofu	24		
 2	01867	01			択捉郡	えとろふぐん	Etorofu County	択捉	えとろふ	Etorofu	24		
-1	01868	01			紗那郡	しゃなぐん	Shana County	紗那	しゃな	Shana	24		
 2	01868	01			紗那郡	しゃなぐん	Shana County	紗那	しゃな	Shana	24		
-1	01869	01			蘂取郡	しべとろぐん	Shibetoro County	蘂取	しべとろ	Shibetoro	24		
 2	01869	01			蘂取郡	しべとろぐん	Shibetoro County	蘂取	しべとろ	Shibetoro	24		
-1	02200	02			市部	しぶ	City Area				23		
+1	02000	02			青森県	あおもりけん	Aomori Prefecture	青森	あおもり	Aomori	14		
 2	02200	02			市部	しぶ	City Area				23		
 3	02201	02	02200		青森市	あおもりし	Aomori City	青森	あおもり	Aomori	32		
 3	02202	02	02200		弘前市	ひろさきし	Hirosaki City	弘前	ひろさき	Hirosaki	32		
@@ -376,30 +292,24 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	02208	02	02200		むつ市	むつし	Mutsu City	むつ	むつ	Mutsu	32		
 3	02209	02	02200		つがる市	つがるし	Tsugaru City	つがる	つがる	Tsugaru	32		
 3	02210	02	02200		平川市	ひらかわし	Hirakawa City	平川	ひらかわ	Hirakawa	32		
-1	02300	02			東津軽郡	ひがしつがるぐん	Higashitsugaru County	東津軽	ひがしつがる	Higashitsugaru	24		
 2	02300	02			東津軽郡	ひがしつがるぐん	Higashitsugaru County	東津軽	ひがしつがる	Higashitsugaru	24		
 3	02301	02	02300		平内町	ひらないまち	Hiranai Town	平内	ひらない	Hiranai	34	02300	
 3	02303	02	02300		今別町	いまべつまち	Imabetsu Town	今別	いまべつ	Imabetsu	34	02300	
 3	02304	02	02300		蓬田村	よもぎたむら	Yomogita Village	蓬田	よもぎた	Yomogita	36	02300	
 3	02307	02	02300		外ヶ浜町	そとがはままち	Sotogahama Town	外ヶ浜	そとがはま	Sotogahama	34	02300	
-1	02320	02			西津軽郡	にしつがるぐん	Nishitsugaru County	西津軽	にしつがる	Nishitsugaru	24		
 2	02320	02			西津軽郡	にしつがるぐん	Nishitsugaru County	西津軽	にしつがる	Nishitsugaru	24		
 3	02321	02	02320		鰺ヶ沢町	あじがさわまち	Ajigasawa Town	鰺ヶ沢	あじがさわ	Ajigasawa	34	02320	
 3	02323	02	02320		深浦町	ふかうらまち	Fukaura Town	深浦	ふかうら	Fukaura	34	02320	
-1	02340	02			中津軽郡	なかつがるぐん	Nakatsugaru County	中津軽	なかつがる	Nakatsugaru	24		
 2	02340	02			中津軽郡	なかつがるぐん	Nakatsugaru County	中津軽	なかつがる	Nakatsugaru	24		
 3	02343	02	02340		西目屋村	にしめやむら	Nishimeya Village	西目屋	にしめや	Nishimeya	36	02340	
-1	02360	02			南津軽郡	みなみつがるぐん	Minamitsugaru County	南津軽	みなみつがる	Minamitsugaru	24		
 2	02360	02			南津軽郡	みなみつがるぐん	Minamitsugaru County	南津軽	みなみつがる	Minamitsugaru	24		
 3	02361	02	02360		藤崎町	ふじさきまち	Fujisaki Town	藤崎	ふじさき	Fujisaki	34	02360	
 3	02362	02	02360		大鰐町	おおわにまち	Owani Town	大鰐	おおわに	Owani	34	02360	
 3	02367	02	02360		田舎館村	いなかだてむら	Inakadate Village	田舎館	いなかだて	Inakadate	36	02360	
-1	02380	02			北津軽郡	きたつがるぐん	Kitatsugaru County	北津軽	きたつがる	Kitatsugaru	24		
 2	02380	02			北津軽郡	きたつがるぐん	Kitatsugaru County	北津軽	きたつがる	Kitatsugaru	24		
 3	02381	02	02380		板柳町	いたやなぎまち	Itayanagi Town	板柳	いたやなぎ	Itayanagi	34	02380	
 3	02384	02	02380		鶴田町	つるたまち	Tsuruta Town	鶴田	つるた	Tsuruta	34	02380	
 3	02387	02	02380		中泊町	なかどまりまち	Nakadomari Town	中泊	なかどまり	Nakadomari	34	02380	
-1	02400	02			上北郡	かみきたぐん	Kamikita County	上北	かみきた	Kamikita	24		
 2	02400	02			上北郡	かみきたぐん	Kamikita County	上北	かみきた	Kamikita	24		
 3	02401	02	02400		野辺地町	のへじまち	Noheji Town	野辺地	のへじ	Noheji	34	02400	
 3	02402	02	02400		七戸町	しちのへまち	Shichinohe Town	七戸	しちのへ	Shichinohe	34	02400	
@@ -408,13 +318,11 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	02408	02	02400		東北町	とうほくまち	Tohoku Town	東北	とうほく	Tohoku	34	02400	
 3	02411	02	02400		六ヶ所村	ろっかしょむら	Rokkasho Village	六ヶ所	ろっかしょ	Rokkasho	36	02400	
 3	02412	02	02400		おいらせ町	おいらせちょう	Oirase Town	おいらせ	おいらせ	Oirase	35	02400	
-1	02420	02			下北郡	しもきたぐん	Shimokita County	下北	しもきた	Shimokita	24		
 2	02420	02			下北郡	しもきたぐん	Shimokita County	下北	しもきた	Shimokita	24		
 3	02423	02	02420		大間町	おおままち	Oma Town	大間	おおま	Oma	34	02420	
 3	02424	02	02420		東通村	ひがしどおりむら	Higashidori Village	東通	ひがしどおり	Higashidori	36	02420	
 3	02425	02	02420		風間浦村	かざまうらむら	Kazamaura Village	風間浦	かざまうら	Kazamaura	36	02420	
 3	02426	02	02420		佐井村	さいむら	Sai Village	佐井	さい	Sai	36	02420	
-1	02440	02			三戸郡	さんのへぐん	Sannohe County	三戸	さんのへ	Sannohe	24		
 2	02440	02			三戸郡	さんのへぐん	Sannohe County	三戸	さんのへ	Sannohe	24		
 3	02441	02	02440		三戸町	さんのへまち	Sannohe Town	三戸	さんのへ	Sannohe	34	02440	
 3	02442	02	02440		五戸町	ごのへまち	Gonohe Town	五戸	ごのへ	Gonohe	34	02440	
@@ -422,7 +330,7 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	02445	02	02440		南部町	なんぶちょう	Nanbu Town	南部	なんぶ	Nanbu	35	02440	
 3	02446	02	02440		階上町	はしかみちょう	Hashikami Town	階上	はしかみ	Hashikami	35	02440	
 3	02450	02	02440		新郷村	しんごうむら	Shingo Village	新郷	しんごう	Shingo	36	02440	
-1	03200	03			市部	しぶ	City Area				23		
+1	03000	03			岩手県	いわてけん	Iwate Prefecture	岩手	いわて	Iwate	14		
 2	03200	03			市部	しぶ	City Area				23		
 3	03201	03	03200		盛岡市	もりおかし	Morioka City	盛岡	もりおか	Morioka	32		
 3	03202	03	03200		宮古市	みやこし	Miyako City	宮古	みやこ	Miyako	32		
@@ -438,46 +346,36 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	03214	03	03200		八幡平市	はちまんたいし	Hachimantai City	八幡平	はちまんたい	Hachimantai	32		
 3	03215	03	03200		奥州市	おうしゅうし	Oshu City	奥州	おうしゅう	Oshu	32		
 3	03216	03	03200		滝沢市	たきざわし	Takizawa City	滝沢	たきざわ	Takizawa	32		
-1	03300	03			岩手郡	いわてぐん	Iwate County	岩手	いわて	Iwate	24		
 2	03300	03			岩手郡	いわてぐん	Iwate County	岩手	いわて	Iwate	24		
 3	03301	03	03300		雫石町	しずくいしちょう	Shizukuishi Town	雫石	しずくいし	Shizukuishi	35	03300	
 3	03302	03	03300		葛巻町	くずまきまち	Kuzumaki Town	葛巻	くずまき	Kuzumaki	34	03300	
 3	03303	03	03300		岩手町	いわてまち	Iwate Town	岩手	いわて	Iwate	34	03300	
-1	03320	03			紫波郡	しわぐん	Shiwa County	紫波	しわ	Shiwa	24		
 2	03320	03			紫波郡	しわぐん	Shiwa County	紫波	しわ	Shiwa	24		
 3	03321	03	03320		紫波町	しわちょう	Shiwa Town	紫波	しわ	Shiwa	35	03320	
 3	03322	03	03320		矢巾町	やはばちょう	Yahaba Town	矢巾	やはば	Yahaba	35	03320	
-1	03360	03			和賀郡	わがぐん	Waga County	和賀	わが	Waga	24		
 2	03360	03			和賀郡	わがぐん	Waga County	和賀	わが	Waga	24		
 3	03366	03	03360		西和賀町	にしわがまち	Nishiwaga Town	西和賀	にしわが	Nishiwaga	34	03360	
-1	03380	03			胆沢郡	いさわぐん	Isawa County	胆沢	いさわ	Isawa	24		
 2	03380	03			胆沢郡	いさわぐん	Isawa County	胆沢	いさわ	Isawa	24		
 3	03381	03	03380		金ケ崎町	かねがさきちょう	Kanegasaki Town	金ケ崎	かねがさき	Kanegasaki	35	03380	
-1	03400	03			西磐井郡	にしいわいぐん	Nishiiwai County	西磐井	にしいわい	Nishiiwai	24		
 2	03400	03			西磐井郡	にしいわいぐん	Nishiiwai County	西磐井	にしいわい	Nishiiwai	24		
 3	03402	03	03400		平泉町	ひらいずみちょう	Hiraizumi Town	平泉	ひらいずみ	Hiraizumi	35	03400	
-1	03440	03			気仙郡	けせんぐん	Kesen County	気仙	けせん	Kesen	24		
 2	03440	03			気仙郡	けせんぐん	Kesen County	気仙	けせん	Kesen	24		
 3	03441	03	03440		住田町	すみたちょう	Sumita Town	住田	すみた	Sumita	35	03440	
-1	03460	03			上閉伊郡	かみへいぐん	Kamihei County	上閉伊	かみへい	Kamihei	24		
 2	03460	03			上閉伊郡	かみへいぐん	Kamihei County	上閉伊	かみへい	Kamihei	24		
 3	03461	03	03460		大槌町	おおつちちょう	Otsuchi Town	大槌	おおつち	Otsuchi	35	03460	
-1	03480	03			下閉伊郡	しもへいぐん	Shimohei County	下閉伊	しもへい	Shimohei	24		
 2	03480	03			下閉伊郡	しもへいぐん	Shimohei County	下閉伊	しもへい	Shimohei	24		
 3	03482	03	03480		山田町	やまだまち	Yamada Town	山田	やまだ	Yamada	34	03480	
 3	03483	03	03480		岩泉町	いわいずみちょう	Iwaizumi Town	岩泉	いわいずみ	Iwaizumi	35	03480	
 3	03484	03	03480		田野畑村	たのはたむら	Tanohata Village	田野畑	たのはた	Tanohata	36	03480	
 3	03485	03	03480		普代村	ふだいむら	Fudai Village	普代	ふだい	Fudai	36	03480	
-1	03500	03			九戸郡	くのへぐん	Kunohe County	九戸	くのへ	Kunohe	24		
 2	03500	03			九戸郡	くのへぐん	Kunohe County	九戸	くのへ	Kunohe	24		
 3	03501	03	03500		軽米町	かるまいまち	Karumai Town	軽米	かるまい	Karumai	34	03500	
 3	03503	03	03500		野田村	のだむら	Noda Village	野田	のだ	Noda	36	03500	
 3	03506	03	03500		九戸村	くのへむら	Kunohe Village	九戸	くのへ	Kunohe	36	03500	
 3	03507	03	03500		洋野町	ひろのちょう	Hirono Town	洋野	ひろの	Hirono	35	03500	
-1	03520	03			二戸郡	にのへぐん	Ninohe County	二戸	にのへ	Ninohe	24		
 2	03520	03			二戸郡	にのへぐん	Ninohe County	二戸	にのへ	Ninohe	24		
 3	03524	03	03520		一戸町	いちのへまち	Ichinohe Town	一戸	いちのへ	Ichinohe	34	03520	
-1	04100	04			仙台市	せんだいし	Sendai City	仙台	せんだい	Sendai	21		
+1	04000	04			宮城県	みやぎけん	Miyagi Prefecture	宮城	みやぎ	Miyagi	14		
 2	04100	04			仙台市	せんだいし	Sendai City	仙台	せんだい	Sendai	21		
 3	04100	04	04100		仙台市	せんだいし	Sendai City	仙台	せんだい	Sendai	31		
 4	04101	04		04100	青葉区	あおばく	Aoba Ward	青葉	あおば	Aoba	41		
@@ -485,7 +383,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	04103	04		04100	若林区	わかばやしく	Wakabayashi Ward	若林	わかばやし	Wakabayashi	41		
 4	04104	04		04100	太白区	たいはくく	Taihaku Ward	太白	たいはく	Taihaku	41		
 4	04105	04		04100	泉区	いずみく	Izumi Ward	泉	いずみ	Izumi	41		
-1	04200	04			市部	しぶ	City Area				23		
 2	04200	04			市部	しぶ	City Area				23		
 3	04202	04	04200		石巻市	いしのまきし	Ishinomaki City	石巻	いしのまき	Ishinomaki	32		
 3	04203	04	04200		塩竈市	しおがまし	Shiogama City	塩竈	しおがま	Shiogama	32		
@@ -500,48 +397,38 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	04214	04	04200		東松島市	ひがしまつしまし	Higashimatsushima City	東松島	ひがしまつしま	Higashimatsushima	32		
 3	04215	04	04200		大崎市	おおさきし	Osaki City	大崎	おおさき	Osaki	32		
 3	04216	04	04200		富谷市	とみやし	Tomiya City	富谷	とみや	Tomiya	32		
-1	04300	04			刈田郡	かったぐん	Katta County	刈田	かった	Katta	24		
 2	04300	04			刈田郡	かったぐん	Katta County	刈田	かった	Katta	24		
 3	04301	04	04300		蔵王町	ざおうまち	Zao Town	蔵王	ざおう	Zao	34	04300	
 3	04302	04	04300		七ヶ宿町	しちかしゅくまち	Shichikashuku Town	七ヶ宿	しちかしゅく	Shichikashuku	34	04300	
-1	04320	04			柴田郡	しばたぐん	Shibata County	柴田	しばた	Shibata	24		
 2	04320	04			柴田郡	しばたぐん	Shibata County	柴田	しばた	Shibata	24		
 3	04321	04	04320		大河原町	おおがわらまち	Ogawara Town	大河原	おおがわら	Ogawara	34	04320	
 3	04322	04	04320		村田町	むらたまち	Murata Town	村田	むらた	Murata	34	04320	
 3	04323	04	04320		柴田町	しばたまち	Shibata Town	柴田	しばた	Shibata	34	04320	
 3	04324	04	04320		川崎町	かわさきまち	Kawasaki Town	川崎	かわさき	Kawasaki	34	04320	
-1	04340	04			伊具郡	いぐぐん	Igu County	伊具	いぐ	Igu	24		
 2	04340	04			伊具郡	いぐぐん	Igu County	伊具	いぐ	Igu	24		
 3	04341	04	04340		丸森町	まるもりまち	Marumori Town	丸森	まるもり	Marumori	34	04340	
-1	04360	04			亘理郡	わたりぐん	Watari County	亘理	わたり	Watari	24		
 2	04360	04			亘理郡	わたりぐん	Watari County	亘理	わたり	Watari	24		
 3	04361	04	04360		亘理町	わたりちょう	Watari Town	亘理	わたり	Watari	35	04360	
 3	04362	04	04360		山元町	やまもとちょう	Yamamoto Town	山元	やまもと	Yamamoto	35	04360	
-1	04400	04			宮城郡	みやぎぐん	Miyagi County	宮城	みやぎ	Miyagi	24		
 2	04400	04			宮城郡	みやぎぐん	Miyagi County	宮城	みやぎ	Miyagi	24		
 3	04401	04	04400		松島町	まつしままち	Matsushima Town	松島	まつしま	Matsushima	34	04400	
 3	04404	04	04400		七ヶ浜町	しちがはままち	Shichigahama Town	七ヶ浜	しちがはま	Shichigahama	34	04400	
 3	04406	04	04400		利府町	りふちょう	Rifu Town	利府	りふ	Rifu	35	04400	
-1	04420	04			黒川郡	くろかわぐん	Kurokawa County	黒川	くろかわ	Kurokawa	24		
 2	04420	04			黒川郡	くろかわぐん	Kurokawa County	黒川	くろかわ	Kurokawa	24		
 3	04421	04	04420		大和町	たいわちょう	Taiwa Town	大和	たいわ	Taiwa	35	04420	
 3	04422	04	04420		大郷町	おおさとちょう	Osato Town	大郷	おおさと	Osato	35	04420	
 3	04424	04	04420		大衡村	おおひらむら	Ohira Village	大衡	おおひら	Ohira	36	04420	
-1	04440	04			加美郡	かみぐん	Kami County	加美	かみ	Kami	24		
 2	04440	04			加美郡	かみぐん	Kami County	加美	かみ	Kami	24		
 3	04444	04	04440		色麻町	しかまちょう	Shikama Town	色麻	しかま	Shikama	35	04440	
 3	04445	04	04440		加美町	かみまち	Kami Town	加美	かみ	Kami	34	04440	
-1	04500	04			遠田郡	とおだぐん	Toda County	遠田	とおだ	Toda	24		
 2	04500	04			遠田郡	とおだぐん	Toda County	遠田	とおだ	Toda	24		
 3	04501	04	04500		涌谷町	わくやちょう	Wakuya Town	涌谷	わくや	Wakuya	35	04500	
 3	04505	04	04500		美里町	みさとまち	Misato Town	美里	みさと	Misato	34	04500	
-1	04580	04			牡鹿郡	おしかぐん	Oshika County	牡鹿	おしか	Oshika	24		
 2	04580	04			牡鹿郡	おしかぐん	Oshika County	牡鹿	おしか	Oshika	24		
 3	04581	04	04580		女川町	おながわちょう	Onagawa Town	女川	おながわ	Onagawa	35	04580	
-1	04600	04			本吉郡	もとよしぐん	Motoyoshi County	本吉	もとよし	Motoyoshi	24		
 2	04600	04			本吉郡	もとよしぐん	Motoyoshi County	本吉	もとよし	Motoyoshi	24		
 3	04606	04	04600		南三陸町	みなみさんりくちょう	Minamisanriku Town	南三陸	みなみさんりく	Minamisanriku	35	04600	
-1	05200	05			市部	しぶ	City Area				23		
+1	05000	05			秋田県	あきたけん	Akita Prefecture	秋田	あきた	Akita	14		
 2	05200	05			市部	しぶ	City Area				23		
 3	05201	05	05200		秋田市	あきたし	Akita City	秋田	あきた	Akita	32		
 3	05202	05	05200		能代市	のしろし	Noshiro City	能代	のしろ	Noshiro	32		
@@ -556,31 +443,25 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	05213	05	05200		北秋田市	きたあきたし	Kitaakita City	北秋田	きたあきた	Kitaakita	32		
 3	05214	05	05200		にかほ市	にかほし	Nikaho City	にかほ	にかほ	Nikaho	32		
 3	05215	05	05200		仙北市	せんぼくし	Senboku City	仙北	せんぼく	Senboku	32		
-1	05300	05			鹿角郡	かづのぐん	Kazuno County	鹿角	かづの	Kazuno	24		
 2	05300	05			鹿角郡	かづのぐん	Kazuno County	鹿角	かづの	Kazuno	24		
 3	05303	05	05300		小坂町	こさかまち	Kosaka Town	小坂	こさか	Kosaka	34	05300	
-1	05320	05			北秋田郡	きたあきたぐん	Kitaakita County	北秋田	きたあきた	Kitaakita	24		
 2	05320	05			北秋田郡	きたあきたぐん	Kitaakita County	北秋田	きたあきた	Kitaakita	24		
 3	05327	05	05320		上小阿仁村	かみこあにむら	Kamikoani Village	上小阿仁	かみこあに	Kamikoani	36	05320	
-1	05340	05			山本郡	やまもとぐん	Yamamoto County	山本	やまもと	Yamamoto	24		
 2	05340	05			山本郡	やまもとぐん	Yamamoto County	山本	やまもと	Yamamoto	24		
 3	05346	05	05340		藤里町	ふじさとまち	Fujisato Town	藤里	ふじさと	Fujisato	34	05340	
 3	05348	05	05340		三種町	みたねちょう	Mitane Town	三種	みたね	Mitane	35	05340	
 3	05349	05	05340		八峰町	はっぽうちょう	Happo Town	八峰	はっぽう	Happo	35	05340	
-1	05360	05			南秋田郡	みなみあきたぐん	Minamiakita County	南秋田	みなみあきた	Minamiakita	24		
 2	05360	05			南秋田郡	みなみあきたぐん	Minamiakita County	南秋田	みなみあきた	Minamiakita	24		
 3	05361	05	05360		五城目町	ごじょうめまち	Gojome Town	五城目	ごじょうめ	Gojome	34	05360	
 3	05363	05	05360		八郎潟町	はちろうがたまち	Hachirogata Town	八郎潟	はちろうがた	Hachirogata	34	05360	
 3	05366	05	05360		井川町	いかわまち	Ikawa Town	井川	いかわ	Ikawa	34	05360	
 3	05368	05	05360		大潟村	おおがたむら	Ogata Village	大潟	おおがた	Ogata	36	05360	
-1	05420	05			仙北郡	せんぼくぐん	Senboku County	仙北	せんぼく	Senboku	24		
 2	05420	05			仙北郡	せんぼくぐん	Senboku County	仙北	せんぼく	Senboku	24		
 3	05434	05	05420		美郷町	みさとちょう	Misato Town	美郷	みさと	Misato	35	05420	
-1	05460	05			雄勝郡	おがちぐん	Ogachi County	雄勝	おがち	Ogachi	24		
 2	05460	05			雄勝郡	おがちぐん	Ogachi County	雄勝	おがち	Ogachi	24		
 3	05463	05	05460		羽後町	うごまち	Ugo Town	羽後	うご	Ugo	34	05460	
 3	05464	05	05460		東成瀬村	ひがしなるせむら	Higashinaruse Village	東成瀬	ひがしなるせ	Higashinaruse	36	05460	
-1	06200	06			市部	しぶ	City Area				23		
+1	06000	06			山形県	やまがたけん	Yamagata Prefecture	山形	やまがた	Yamagata	14		
 2	06200	06			市部	しぶ	City Area				23		
 3	06201	06	06200		山形市	やまがたし	Yamagata City	山形	やまがた	Yamagata	32		
 3	06202	06	06200		米沢市	よねざわし	Yonezawa City	米沢	よねざわ	Yonezawa	32		
@@ -595,20 +476,16 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	06211	06	06200		東根市	ひがしねし	Higashine City	東根	ひがしね	Higashine	32		
 3	06212	06	06200		尾花沢市	おばなざわし	Obanazawa City	尾花沢	おばなざわ	Obanazawa	32		
 3	06213	06	06200		南陽市	なんようし	Nan-yo City	南陽	なんよう	Nan-yo	32		
-1	06300	06			東村山郡	ひがしむらやまぐん	Higashimurayama County	東村山	ひがしむらやま	Higashimurayama	24		
 2	06300	06			東村山郡	ひがしむらやまぐん	Higashimurayama County	東村山	ひがしむらやま	Higashimurayama	24		
 3	06301	06	06300		山辺町	やまのべまち	Yamanobe Town	山辺	やまのべ	Yamanobe	34	06300	
 3	06302	06	06300		中山町	なかやままち	Nakayama Town	中山	なかやま	Nakayama	34	06300	
-1	06320	06			西村山郡	にしむらやまぐん	Nishimurayama County	西村山	にしむらやま	Nishimurayama	24		
 2	06320	06			西村山郡	にしむらやまぐん	Nishimurayama County	西村山	にしむらやま	Nishimurayama	24		
 3	06321	06	06320		河北町	かほくちょう	Kahoku Town	河北	かほく	Kahoku	35	06320	
 3	06322	06	06320		西川町	にしかわまち	Nishikawa Town	西川	にしかわ	Nishikawa	34	06320	
 3	06323	06	06320		朝日町	あさひまち	Asahi Town	朝日	あさひ	Asahi	34	06320	
 3	06324	06	06320		大江町	おおえまち	Oe Town	大江	おおえ	Oe	34	06320	
-1	06340	06			北村山郡	きたむらやまぐん	Kitamurayama County	北村山	きたむらやま	Kitamurayama	24		
 2	06340	06			北村山郡	きたむらやまぐん	Kitamurayama County	北村山	きたむらやま	Kitamurayama	24		
 3	06341	06	06340		大石田町	おおいしだまち	Oishida Town	大石田	おおいしだ	Oishida	34	06340	
-1	06360	06			最上郡	もがみぐん	Mogami County	最上	もがみ	Mogami	24		
 2	06360	06			最上郡	もがみぐん	Mogami County	最上	もがみ	Mogami	24		
 3	06361	06	06360		金山町	かねやままち	Kaneyama Town	金山	かねやま	Kaneyama	34	06360	
 3	06362	06	06360		最上町	もがみまち	Mogami Town	最上	もがみ	Mogami	34	06360	
@@ -617,23 +494,19 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	06365	06	06360		大蔵村	おおくらむら	Okura Village	大蔵	おおくら	Okura	36	06360	
 3	06366	06	06360		鮭川村	さけがわむら	Sakegawa Village	鮭川	さけがわ	Sakegawa	36	06360	
 3	06367	06	06360		戸沢村	とざわむら	Tozawa Village	戸沢	とざわ	Tozawa	36	06360	
-1	06380	06			東置賜郡	ひがしおきたまぐん	Higashiokitama County	東置賜	ひがしおきたま	Higashiokitama	24		
 2	06380	06			東置賜郡	ひがしおきたまぐん	Higashiokitama County	東置賜	ひがしおきたま	Higashiokitama	24		
 3	06381	06	06380		高畠町	たかはたまち	Takahata Town	高畠	たかはた	Takahata	34	06380	
 3	06382	06	06380		川西町	かわにしまち	Kawanishi Town	川西	かわにし	Kawanishi	34	06380	
-1	06400	06			西置賜郡	にしおきたまぐん	Nishiokitama County	西置賜	にしおきたま	Nishiokitama	24		
 2	06400	06			西置賜郡	にしおきたまぐん	Nishiokitama County	西置賜	にしおきたま	Nishiokitama	24		
 3	06401	06	06400		小国町	おぐにまち	Oguni Town	小国	おぐに	Oguni	34	06400	
 3	06402	06	06400		白鷹町	しらたかまち	Shirataka Town	白鷹	しらたか	Shirataka	34	06400	
 3	06403	06	06400		飯豊町	いいでまち	Iide Town	飯豊	いいで	Iide	34	06400	
-1	06420	06			東田川郡	ひがしたがわぐん	Higashitagawa County	東田川	ひがしたがわ	Higashitagawa	24		
 2	06420	06			東田川郡	ひがしたがわぐん	Higashitagawa County	東田川	ひがしたがわ	Higashitagawa	24		
 3	06426	06	06420		三川町	みかわまち	Mikawa Town	三川	みかわ	Mikawa	34	06420	
 3	06428	06	06420		庄内町	しょうないまち	Shonai Town	庄内	しょうない	Shonai	34	06420	
-1	06460	06			飽海郡	あくみぐん	Akumi County	飽海	あくみ	Akumi	24		
 2	06460	06			飽海郡	あくみぐん	Akumi County	飽海	あくみ	Akumi	24		
 3	06461	06	06460		遊佐町	ゆざまち	Yuza Town	遊佐	ゆざ	Yuza	34	06460	
-1	07200	07			市部	しぶ	City Area				23		
+1	07000	07			福島県	ふくしまけん	Fukushima Prefecture	福島	ふくしま	Fukushima	14		
 2	07200	07			市部	しぶ	City Area				23		
 3	07201	07	07200		福島市	ふくしまし	Fukushima City	福島	ふくしま	Fukushima	32		
 3	07202	07	07200		会津若松市	あいづわかまつし	Aizuwakamatsu City	会津若松	あいづわかまつ	Aizuwakamatsu	32		
@@ -648,65 +521,53 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	07212	07	07200		南相馬市	みなみそうまし	Minamisoma City	南相馬	みなみそうま	Minamisoma	32		
 3	07213	07	07200		伊達市	だてし	Date City	伊達	だて	Date	32		
 3	07214	07	07200		本宮市	もとみやし	Motomiya City	本宮	もとみや	Motomiya	32		
-1	07300	07			伊達郡	だてぐん	Date County	伊達	だて	Date	24		
 2	07300	07			伊達郡	だてぐん	Date County	伊達	だて	Date	24		
 3	07301	07	07300		桑折町	こおりまち	Kori Town	桑折	こおり	Kori	34	07300	
 3	07303	07	07300		国見町	くにみまち	Kunimi Town	国見	くにみ	Kunimi	34	07300	
 3	07308	07	07300		川俣町	かわまたまち	Kawamata Town	川俣	かわまた	Kawamata	34	07300	
-1	07320	07			安達郡	あだちぐん	Adachi County	安達	あだち	Adachi	24		
 2	07320	07			安達郡	あだちぐん	Adachi County	安達	あだち	Adachi	24		
 3	07322	07	07320		大玉村	おおたまむら	Otama Village	大玉	おおたま	Otama	36	07320	
-1	07340	07			岩瀬郡	いわせぐん	Iwase County	岩瀬	いわせ	Iwase	24		
 2	07340	07			岩瀬郡	いわせぐん	Iwase County	岩瀬	いわせ	Iwase	24		
 3	07342	07	07340		鏡石町	かがみいしまち	Kagamiishi Town	鏡石	かがみいし	Kagamiishi	34	07340	
 3	07344	07	07340		天栄村	てんえいむら	Ten-ei Village	天栄	てんえい	Ten-ei	36	07340	
-1	07360	07			南会津郡	みなみあいづぐん	Minamiaizu County	南会津	みなみあいづ	Minamiaizu	24		
 2	07360	07			南会津郡	みなみあいづぐん	Minamiaizu County	南会津	みなみあいづ	Minamiaizu	24		
 3	07362	07	07360		下郷町	しもごうまち	Shimogo Town	下郷	しもごう	Shimogo	34	07360	
 3	07364	07	07360		檜枝岐村	ひのえまたむら	Hinoemata Village	檜枝岐	ひのえまた	Hinoemata	36	07360	
 3	07367	07	07360		只見町	ただみまち	Tadami Town	只見	ただみ	Tadami	34	07360	
 3	07368	07	07360		南会津町	みなみあいづまち	Minamiaizu Town	南会津	みなみあいづ	Minamiaizu	34	07360	
-1	07400	07			耶麻郡	やまぐん	Yama County	耶麻	やま	Yama	24		
 2	07400	07			耶麻郡	やまぐん	Yama County	耶麻	やま	Yama	24		
 3	07402	07	07400		北塩原村	きたしおばらむら	Kitashiobara Village	北塩原	きたしおばら	Kitashiobara	36	07400	
 3	07405	07	07400		西会津町	にしあいづまち	Nishiaizu Town	西会津	にしあいづ	Nishiaizu	34	07400	
 3	07407	07	07400		磐梯町	ばんだいまち	Bandai Town	磐梯	ばんだい	Bandai	34	07400	
 3	07408	07	07400		猪苗代町	いなわしろまち	Inawashiro Town	猪苗代	いなわしろ	Inawashiro	34	07400	
-1	07420	07			河沼郡	かわぬまぐん	Kawanuma County	河沼	かわぬま	Kawanuma	24		
 2	07420	07			河沼郡	かわぬまぐん	Kawanuma County	河沼	かわぬま	Kawanuma	24		
 3	07421	07	07420		会津坂下町	あいづばんげまち	Aizubange Town	会津坂下	あいづばんげ	Aizubange	34	07420	
 3	07422	07	07420		湯川村	ゆがわむら	Yugawa Village	湯川	ゆがわ	Yugawa	36	07420	
 3	07423	07	07420		柳津町	やないづまち	Yanaizu Town	柳津	やないづ	Yanaizu	34	07420	
-1	07440	07			大沼郡	おおぬまぐん	Onuma County	大沼	おおぬま	Onuma	24		
 2	07440	07			大沼郡	おおぬまぐん	Onuma County	大沼	おおぬま	Onuma	24		
 3	07444	07	07440		三島町	みしままち	Mishima Town	三島	みしま	Mishima	34	07440	
 3	07445	07	07440		金山町	かねやままち	Kaneyama Town	金山	かねやま	Kaneyama	34	07440	
 3	07446	07	07440		昭和村	しょうわむら	Showa Village	昭和	しょうわ	Showa	36	07440	
 3	07447	07	07440		会津美里町	あいづみさとまち	Aizumisato Town	会津美里	あいづみさと	Aizumisato	34	07440	
-1	07460	07			西白河郡	にししらかわぐん	Nishishirakawa County	西白河	にししらかわ	Nishishirakawa	24		
 2	07460	07			西白河郡	にししらかわぐん	Nishishirakawa County	西白河	にししらかわ	Nishishirakawa	24		
 3	07461	07	07460		西郷村	にしごうむら	Nishigo Village	西郷	にしごう	Nishigo	36	07460	
 3	07464	07	07460		泉崎村	いずみざきむら	Izumizaki Village	泉崎	いずみざき	Izumizaki	36	07460	
 3	07465	07	07460		中島村	なかじまむら	Nakajima Village	中島	なかじま	Nakajima	36	07460	
 3	07466	07	07460		矢吹町	やぶきまち	Yabuki Town	矢吹	やぶき	Yabuki	34	07460	
-1	07480	07			東白川郡	ひがししらかわぐん	Higashishirakawa County	東白川	ひがししらかわ	Higashishirakawa	24		
 2	07480	07			東白川郡	ひがししらかわぐん	Higashishirakawa County	東白川	ひがししらかわ	Higashishirakawa	24		
 3	07481	07	07480		棚倉町	たなぐらまち	Tanagura Town	棚倉	たなぐら	Tanagura	34	07480	
 3	07482	07	07480		矢祭町	やまつりまち	Yamatsuri Town	矢祭	やまつり	Yamatsuri	34	07480	
 3	07483	07	07480		塙町	はなわまち	Hanawa Town	塙	はなわ	Hanawa	34	07480	
 3	07484	07	07480		鮫川村	さめがわむら	Samegawa Village	鮫川	さめがわ	Samegawa	36	07480	
-1	07500	07			石川郡	いしかわぐん	Ishikawa County	石川	いしかわ	Ishikawa	24		
 2	07500	07			石川郡	いしかわぐん	Ishikawa County	石川	いしかわ	Ishikawa	24		
 3	07501	07	07500		石川町	いしかわまち	Ishikawa Town	石川	いしかわ	Ishikawa	34	07500	
 3	07502	07	07500		玉川村	たまかわむら	Tamakawa Village	玉川	たまかわ	Tamakawa	36	07500	
 3	07503	07	07500		平田村	ひらたむら	Hirata Village	平田	ひらた	Hirata	36	07500	
 3	07504	07	07500		浅川町	あさかわまち	Asakawa Town	浅川	あさかわ	Asakawa	34	07500	
 3	07505	07	07500		古殿町	ふるどのまち	Furudono Town	古殿	ふるどの	Furudono	34	07500	
-1	07520	07			田村郡	たむらぐん	Tamura County	田村	たむら	Tamura	24		
 2	07520	07			田村郡	たむらぐん	Tamura County	田村	たむら	Tamura	24		
 3	07521	07	07520		三春町	みはるまち	Miharu Town	三春	みはる	Miharu	34	07520	
 3	07522	07	07520		小野町	おのまち	Ono Town	小野	おの	Ono	34	07520	
-1	07540	07			双葉郡	ふたばぐん	Futaba County	双葉	ふたば	Futaba	24		
 2	07540	07			双葉郡	ふたばぐん	Futaba County	双葉	ふたば	Futaba	24		
 3	07541	07	07540		広野町	ひろのまち	Hirono Town	広野	ひろの	Hirono	34	07540	
 3	07542	07	07540		楢葉町	ならはまち	Naraha Town	楢葉	ならは	Naraha	34	07540	
@@ -716,11 +577,10 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	07546	07	07540		双葉町	ふたばまち	Futaba Town	双葉	ふたば	Futaba	34	07540	
 3	07547	07	07540		浪江町	なみえまち	Namie Town	浪江	なみえ	Namie	34	07540	
 3	07548	07	07540		葛尾村	かつらおむら	Katsurao Village	葛尾	かつらお	Katsurao	36	07540	
-1	07560	07			相馬郡	そうまぐん	Soma County	相馬	そうま	Soma	24		
 2	07560	07			相馬郡	そうまぐん	Soma County	相馬	そうま	Soma	24		
 3	07561	07	07560		新地町	しんちまち	Shinchi Town	新地	しんち	Shinchi	34	07560	
 3	07564	07	07560		飯舘村	いいたてむら	Iitate Village	飯舘	いいたて	Iitate	36	07560	
-1	08200	08			市部	しぶ	City Area				23		
+1	08000	08			茨城県	いばらきけん	Ibaraki Prefecture	茨城	いばらき	Ibaraki	14		
 2	08200	08			市部	しぶ	City Area				23		
 3	08201	08	08200		水戸市	みとし	Mito City	水戸	みと	Mito	32		
 3	08202	08	08200		日立市	ひたちし	Hitachi City	日立	ひたち	Hitachi	32		
@@ -754,33 +614,26 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	08234	08	08200		鉾田市	ほこたし	Hokota City	鉾田	ほこた	Hokota	32		
 3	08235	08	08200		つくばみらい市	つくばみらいし	Tsukubamirai City	つくばみらい	つくばみらい	Tsukubamirai	32		
 3	08236	08	08200		小美玉市	おみたまし	Omitama City	小美玉	おみたま	Omitama	32		
-1	08300	08			東茨城郡	ひがしいばらきぐん	Higashiibaraki County	東茨城	ひがしいばらき	Higashiibaraki	24		
 2	08300	08			東茨城郡	ひがしいばらきぐん	Higashiibaraki County	東茨城	ひがしいばらき	Higashiibaraki	24		
 3	08302	08	08300		茨城町	いばらきまち	Ibaraki Town	茨城	いばらき	Ibaraki	34	08300	
 3	08309	08	08300		大洗町	おおあらいまち	Oarai Town	大洗	おおあらい	Oarai	34	08300	
 3	08310	08	08300		城里町	しろさとまち	Shirosato Town	城里	しろさと	Shirosato	34	08300	
-1	08340	08			那珂郡	なかぐん	Naka County	那珂	なか	Naka	24		
 2	08340	08			那珂郡	なかぐん	Naka County	那珂	なか	Naka	24		
 3	08341	08	08340		東海村	とうかいむら	Tokai Village	東海	とうかい	Tokai	36	08340	
-1	08360	08			久慈郡	くじぐん	Kuji County	久慈	くじ	Kuji	24		
 2	08360	08			久慈郡	くじぐん	Kuji County	久慈	くじ	Kuji	24		
 3	08364	08	08360		大子町	だいごまち	Daigo Town	大子	だいご	Daigo	34	08360	
-1	08440	08			稲敷郡	いなしきぐん	Inashiki County	稲敷	いなしき	Inashiki	24		
 2	08440	08			稲敷郡	いなしきぐん	Inashiki County	稲敷	いなしき	Inashiki	24		
 3	08442	08	08440		美浦村	みほむら	Miho Village	美浦	みほ	Miho	36	08440	
 3	08443	08	08440		阿見町	あみまち	Ami Town	阿見	あみ	Ami	34	08440	
 3	08447	08	08440		河内町	かわちまち	Kawachi Town	河内	かわち	Kawachi	34	08440	
-1	08520	08			結城郡	ゆうきぐん	Yuki County	結城	ゆうき	Yuki	24		
 2	08520	08			結城郡	ゆうきぐん	Yuki County	結城	ゆうき	Yuki	24		
 3	08521	08	08520		八千代町	やちよまち	Yachiyo Town	八千代	やちよ	Yachiyo	34	08520	
-1	08540	08			猿島郡	さしまぐん	Sashima County	猿島	さしま	Sashima	24		
 2	08540	08			猿島郡	さしまぐん	Sashima County	猿島	さしま	Sashima	24		
 3	08542	08	08540		五霞町	ごかまち	Goka Town	五霞	ごか	Goka	34	08540	
 3	08546	08	08540		境町	さかいまち	Sakai Town	境	さかい	Sakai	34	08540	
-1	08560	08			北相馬郡	きたそうまぐん	Kitasoma County	北相馬	きたそうま	Kitasoma	24		
 2	08560	08			北相馬郡	きたそうまぐん	Kitasoma County	北相馬	きたそうま	Kitasoma	24		
 3	08564	08	08560		利根町	とねまち	Tone Town	利根	とね	Tone	34	08560	
-1	09200	09			市部	しぶ	City Area				23		
+1	09000	09			栃木県	とちぎけん	Tochigi Prefecture	栃木	とちぎ	Tochigi	14		
 2	09200	09			市部	しぶ	City Area				23		
 3	09201	09	09200		宇都宮市	うつのみやし	Utsunomiya City	宇都宮	うつのみや	Utsunomiya	32		
 3	09202	09	09200		足利市	あしかがし	Ashikaga City	足利	あしかが	Ashikaga	32		
@@ -796,28 +649,23 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	09214	09	09200		さくら市	さくらし	Sakura City	さくら	さくら	Sakura	32		
 3	09215	09	09200		那須烏山市	なすからすやまし	Nasukarasuyama City	那須烏山	なすからすやま	Nasukarasuyama	32		
 3	09216	09	09200		下野市	しもつけし	Shimotsuke City	下野	しもつけ	Shimotsuke	32		
-1	09300	09			河内郡	かわちぐん	Kawachi County	河内	かわち	Kawachi	24		
 2	09300	09			河内郡	かわちぐん	Kawachi County	河内	かわち	Kawachi	24		
 3	09301	09	09300		上三川町	かみのかわまち	Kaminokawa Town	上三川	かみのかわ	Kaminokawa	34	09300	
-1	09340	09			芳賀郡	はがぐん	Haga County	芳賀	はが	Haga	24		
 2	09340	09			芳賀郡	はがぐん	Haga County	芳賀	はが	Haga	24		
 3	09342	09	09340		益子町	ましこまち	Mashiko Town	益子	ましこ	Mashiko	34	09340	
 3	09343	09	09340		茂木町	もてぎまち	Motegi Town	茂木	もてぎ	Motegi	34	09340	
 3	09344	09	09340		市貝町	いちかいまち	Ichikai Town	市貝	いちかい	Ichikai	34	09340	
 3	09345	09	09340		芳賀町	はがまち	Haga Town	芳賀	はが	Haga	34	09340	
-1	09360	09			下都賀郡	しもつがぐん	Shimotsuga County	下都賀	しもつが	Shimotsuga	24		
 2	09360	09			下都賀郡	しもつがぐん	Shimotsuga County	下都賀	しもつが	Shimotsuga	24		
 3	09361	09	09360		壬生町	みぶまち	Mibu Town	壬生	みぶ	Mibu	34	09360	
 3	09364	09	09360		野木町	のぎまち	Nogi Town	野木	のぎ	Nogi	34	09360	
-1	09380	09			塩谷郡	しおやぐん	Shioya County	塩谷	しおや	Shioya	24		
 2	09380	09			塩谷郡	しおやぐん	Shioya County	塩谷	しおや	Shioya	24		
 3	09384	09	09380		塩谷町	しおやまち	Shioya Town	塩谷	しおや	Shioya	34	09380	
 3	09386	09	09380		高根沢町	たかねざわまち	Takanezawa Town	高根沢	たかねざわ	Takanezawa	34	09380	
-1	09400	09			那須郡	なすぐん	Nasu County	那須	なす	Nasu	24		
 2	09400	09			那須郡	なすぐん	Nasu County	那須	なす	Nasu	24		
 3	09407	09	09400		那須町	なすまち	Nasu Town	那須	なす	Nasu	34	09400	
 3	09411	09	09400		那珂川町	なかがわまち	Nakagawa Town	那珂川	なかがわ	Nakagawa	34	09400	
-1	10200	10			市部	しぶ	City Area				23		
+1	10000	10			群馬県	ぐんまけん	Gunma Prefecture	群馬	ぐんま	Gunma	14		
 2	10200	10			市部	しぶ	City Area				23		
 3	10201	10	10200		前橋市	まえばしし	Maebashi City	前橋	まえばし	Maebashi	32		
 3	10202	10	10200		高崎市	たかさきし	Takasaki City	高崎	たかさき	Takasaki	32		
@@ -831,20 +679,16 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	10210	10	10200		富岡市	とみおかし	Tomioka City	富岡	とみおか	Tomioka	32		
 3	10211	10	10200		安中市	あんなかし	Annaka City	安中	あんなか	Annaka	32		
 3	10212	10	10200		みどり市	みどりし	Midori City	みどり	みどり	Midori	32		
-1	10340	10			北群馬郡	きたぐんまぐん	Kitagunma County	北群馬	きたぐんま	Kitagunma	24		
 2	10340	10			北群馬郡	きたぐんまぐん	Kitagunma County	北群馬	きたぐんま	Kitagunma	24		
 3	10344	10	10340		榛東村	しんとうむら	Shinto Village	榛東	しんとう	Shinto	36	10340	
 3	10345	10	10340		吉岡町	よしおかまち	Yoshioka Town	吉岡	よしおか	Yoshioka	34	10340	
-1	10360	10			多野郡	たのぐん	Tano County	多野	たの	Tano	24		
 2	10360	10			多野郡	たのぐん	Tano County	多野	たの	Tano	24		
 3	10366	10	10360		上野村	うえのむら	Ueno Village	上野	うえの	Ueno	36	10360	
 3	10367	10	10360		神流町	かんなまち	Kanna Town	神流	かんな	Kanna	34	10360	
-1	10380	10			甘楽郡	かんらぐん	Kanra County	甘楽	かんら	Kanra	24		
 2	10380	10			甘楽郡	かんらぐん	Kanra County	甘楽	かんら	Kanra	24		
 3	10382	10	10380		下仁田町	しもにたまち	Shimonita Town	下仁田	しもにた	Shimonita	34	10380	
 3	10383	10	10380		南牧村	なんもくむら	Nanmoku Village	南牧	なんもく	Nanmoku	36	10380	
 3	10384	10	10380		甘楽町	かんらまち	Kanra Town	甘楽	かんら	Kanra	34	10380	
-1	10420	10			吾妻郡	あがつまぐん	Agatsuma County	吾妻	あがつま	Agatsuma	24		
 2	10420	10			吾妻郡	あがつまぐん	Agatsuma County	吾妻	あがつま	Agatsuma	24		
 3	10421	10	10420		中之条町	なかのじょうまち	Nakanojo Town	中之条	なかのじょう	Nakanojo	34	10420	
 3	10424	10	10420		長野原町	ながのはらまち	Naganohara Town	長野原	ながのはら	Naganohara	34	10420	
@@ -852,23 +696,20 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	10426	10	10420		草津町	くさつまち	Kusatsu Town	草津	くさつ	Kusatsu	34	10420	
 3	10428	10	10420		高山村	たかやまむら	Takayama Village	高山	たかやま	Takayama	36	10420	
 3	10429	10	10420		東吾妻町	ひがしあがつままち	Higashiagatsuma Town	東吾妻	ひがしあがつま	Higashiagatsuma	34	10420	
-1	10440	10			利根郡	とねぐん	Tone County	利根	とね	Tone	24		
 2	10440	10			利根郡	とねぐん	Tone County	利根	とね	Tone	24		
 3	10443	10	10440		片品村	かたしなむら	Katashina Village	片品	かたしな	Katashina	36	10440	
 3	10444	10	10440		川場村	かわばむら	Kawaba Village	川場	かわば	Kawaba	36	10440	
 3	10448	10	10440		昭和村	しょうわむら	Showa Village	昭和	しょうわ	Showa	36	10440	
 3	10449	10	10440		みなかみ町	みなかみまち	Minakami Town	みなかみ	みなかみ	Minakami	34	10440	
-1	10460	10			佐波郡	さわぐん	Sawa County	佐波	さわ	Sawa	24		
 2	10460	10			佐波郡	さわぐん	Sawa County	佐波	さわ	Sawa	24		
 3	10464	10	10460		玉村町	たまむらまち	Tamamura Town	玉村	たまむら	Tamamura	34	10460	
-1	10520	10			邑楽郡	おうらぐん	Ora County	邑楽	おうら	Ora	24		
 2	10520	10			邑楽郡	おうらぐん	Ora County	邑楽	おうら	Ora	24		
 3	10521	10	10520		板倉町	いたくらまち	Itakura Town	板倉	いたくら	Itakura	34	10520	
 3	10522	10	10520		明和町	めいわまち	Meiwa Town	明和	めいわ	Meiwa	34	10520	
 3	10523	10	10520		千代田町	ちよだまち	Chiyoda Town	千代田	ちよだ	Chiyoda	34	10520	
 3	10524	10	10520		大泉町	おおいずみまち	Oizumi Town	大泉	おおいずみ	Oizumi	34	10520	
 3	10525	10	10520		邑楽町	おうらまち	Oura Town	邑楽	おうら	Oura	34	10520	
-1	11100	11			さいたま市	さいたまし	Saitama City	さいたま	さいたま	Saitama	21		
+1	11000	11			埼玉県	さいたまけん	Saitama Prefecture	埼玉	さいたま	Saitama	14		
 2	11100	11			さいたま市	さいたまし	Saitama City	さいたま	さいたま	Saitama	21		
 3	11100	11	11100		さいたま市	さいたまし	Saitama City	さいたま	さいたま	Saitama	31		
 4	11101	11		11100	西区	にしく	Nishi Ward	西	にし	Nishi	41		
@@ -881,7 +722,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	11108	11		11100	南区	みなみく	Minami Ward	南	みなみ	Minami	41		
 4	11109	11		11100	緑区	みどりく	Midori Ward	緑	みどり	Midori	41		
 4	11110	11		11100	岩槻区	いわつきく	Iwatsuki Ward	岩槻	いわつき	Iwatsuki	41		
-1	11200	11			市部	しぶ	City Area				23		
 2	11200	11			市部	しぶ	City Area				23		
 3	11201	11	11200		川越市	かわごえし	Kawagoe City	川越	かわごえ	Kawagoe	32		
 3	11202	11	11200		熊谷市	くまがやし	Kumagaya City	熊谷	くまがや	Kumagaya	32		
@@ -922,15 +762,12 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	11243	11	11200		吉川市	よしかわし	Yoshikawa City	吉川	よしかわ	Yoshikawa	32		
 3	11245	11	11200		ふじみ野市	ふじみのし	Fujimino City	ふじみ野	ふじみの	Fujimino	32		
 3	11246	11	11200		白岡市	しらおかし	Shiraoka City	白岡	しらおか	Shiraoka	32		
-1	11300	11			北足立郡	きたあだちぐん	Kitaadachi County	北足立	きたあだち	Kitaadachi	24		
 2	11300	11			北足立郡	きたあだちぐん	Kitaadachi County	北足立	きたあだち	Kitaadachi	24		
 3	11301	11	11300		伊奈町	いなまち	Ina Town	伊奈	いな	Ina	34	11300	
-1	11320	11			入間郡	いるまぐん	Iruma County	入間	いるま	Iruma	24		
 2	11320	11			入間郡	いるまぐん	Iruma County	入間	いるま	Iruma	24		
 3	11324	11	11320		三芳町	みよしまち	Miyoshi Town	三芳	みよし	Miyoshi	34	11320	
 3	11326	11	11320		毛呂山町	もろやままち	Moroyama Town	毛呂山	もろやま	Moroyama	34	11320	
 3	11327	11	11320		越生町	おごせまち	Ogose Town	越生	おごせ	Ogose	34	11320	
-1	11340	11			比企郡	ひきぐん	Hiki County	比企	ひき	Hiki	24		
 2	11340	11			比企郡	ひきぐん	Hiki County	比企	ひき	Hiki	24		
 3	11341	11	11340		滑川町	なめがわまち	Namegawa Town	滑川	なめがわ	Namegawa	34	11340	
 3	11342	11	11340		嵐山町	らんざんまち	Ranzan Town	嵐山	らんざん	Ranzan	34	11340	
@@ -939,29 +776,24 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	11347	11	11340		吉見町	よしみまち	Yoshimi Town	吉見	よしみ	Yoshimi	34	11340	
 3	11348	11	11340		鳩山町	はとやままち	Hatoyama Town	鳩山	はとやま	Hatoyama	34	11340	
 3	11349	11	11340		ときがわ町	ときがわまち	Tokigawa Town	ときがわ	ときがわ	Tokigawa	34	11340	
-1	11360	11			秩父郡	ちちぶぐん	Chichibu County	秩父	ちちぶ	Chichibu	24		
 2	11360	11			秩父郡	ちちぶぐん	Chichibu County	秩父	ちちぶ	Chichibu	24		
 3	11361	11	11360		横瀬町	よこぜまち	Yokoze Town	横瀬	よこぜ	Yokoze	34	11360	
 3	11362	11	11360		皆野町	みなのまち	Minano Town	皆野	みなの	Minano	34	11360	
 3	11363	11	11360		長瀞町	ながとろまち	Nagatoro Town	長瀞	ながとろ	Nagatoro	34	11360	
 3	11365	11	11360		小鹿野町	おがのまち	Ogano Town	小鹿野	おがの	Ogano	34	11360	
 3	11369	11	11360		東秩父村	ひがしちちぶむら	Higashichichibu Village	東秩父	ひがしちちぶ	Higashichichibu	36	11360	
-1	11380	11			児玉郡	こだまぐん	Kodama County	児玉	こだま	Kodama	24		
 2	11380	11			児玉郡	こだまぐん	Kodama County	児玉	こだま	Kodama	24		
 3	11381	11	11380		美里町	みさとまち	Misato Town	美里	みさと	Misato	34	11380	
 3	11383	11	11380		神川町	かみかわまち	Kamikawa Town	神川	かみかわ	Kamikawa	34	11380	
 3	11385	11	11380		上里町	かみさとまち	Kamisato Town	上里	かみさと	Kamisato	34	11380	
-1	11400	11			大里郡	おおさとぐん	Osato County	大里	おおさと	Osato	24		
 2	11400	11			大里郡	おおさとぐん	Osato County	大里	おおさと	Osato	24		
 3	11408	11	11400		寄居町	よりいまち	Yorii Town	寄居	よりい	Yorii	34	11400	
-1	11440	11			南埼玉郡	みなみさいたまぐん	Minamisaitama County	南埼玉	みなみさいたま	Minamisaitama	24		
 2	11440	11			南埼玉郡	みなみさいたまぐん	Minamisaitama County	南埼玉	みなみさいたま	Minamisaitama	24		
 3	11442	11	11440		宮代町	みやしろまち	Miyashiro Town	宮代	みやしろ	Miyashiro	34	11440	
-1	11460	11			北葛飾郡	きたかつしかぐん	Kitakatsushika County	北葛飾	きたかつしか	Kitakatsushika	24		
 2	11460	11			北葛飾郡	きたかつしかぐん	Kitakatsushika County	北葛飾	きたかつしか	Kitakatsushika	24		
 3	11464	11	11460		杉戸町	すぎとまち	Sugito Town	杉戸	すぎと	Sugito	34	11460	
 3	11465	11	11460		松伏町	まつぶしまち	Matsubushi Town	松伏	まつぶし	Matsubushi	34	11460	
-1	12100	12			千葉市	ちばし	Chiba City	千葉	ちば	Chiba	21		
+1	12000	12			千葉県	ちばけん	Chiba Prefecture	千葉	ちば	Chiba	14		
 2	12100	12			千葉市	ちばし	Chiba City	千葉	ちば	Chiba	21		
 3	12100	12	12100		千葉市	ちばし	Chiba City	千葉	ちば	Chiba	31		
 4	12101	12		12100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41		
@@ -970,7 +802,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	12104	12		12100	若葉区	わかばく	Wakaba Ward	若葉	わかば	Wakaba	41		
 4	12105	12		12100	緑区	みどりく	Midori Ward	緑	みどり	Midori	41		
 4	12106	12		12100	美浜区	みはまく	Mihama Ward	美浜	みはま	Mihama	41		
-1	12200	12			市部	しぶ	City Area				23		
 2	12200	12			市部	しぶ	City Area				23		
 3	12202	12	12200		銚子市	ちょうしし	Choshi City	銚子	ちょうし	Choshi	32		
 3	12203	12	12200		市川市	いちかわし	Ichikawa City	市川	いちかわ	Ichikawa	32		
@@ -1008,21 +839,17 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	12237	12	12200		山武市	さんむし	Sanmu City	山武	さんむ	Sanmu	32		
 3	12238	12	12200		いすみ市	いすみし	Isumi City	いすみ	いすみ	Isumi	32		
 3	12239	12	12200		大網白里市	おおあみしらさとし	Oamishirasato City	大網白里	おおあみしらさと	Oamishirasato	32		
-1	12320	12			印旛郡	いんばぐん	Inba County	印旛	いんば	Inba	24		
 2	12320	12			印旛郡	いんばぐん	Inba County	印旛	いんば	Inba	24		
 3	12322	12	12320		酒々井町	しすいまち	Shisui Town	酒々井	しすい	Shisui	34	12320	
 3	12329	12	12320		栄町	さかえまち	Sakae Town	栄	さかえ	Sakae	34	12320	
-1	12340	12			香取郡	かとりぐん	Katori County	香取	かとり	Katori	24		
 2	12340	12			香取郡	かとりぐん	Katori County	香取	かとり	Katori	24		
 3	12342	12	12340		神崎町	こうざきまち	Kozaki Town	神崎	こうざき	Kozaki	34	12340	
 3	12347	12	12340		多古町	たこまち	Tako Town	多古	たこ	Tako	34	12340	
 3	12349	12	12340		東庄町	とうのしょうまち	Tonosho Town	東庄	とうのしょう	Tonosho	34	12340	
-1	12400	12			山武郡	さんぶぐん	Sanbu County	山武	さんぶ	Sanbu	24		
 2	12400	12			山武郡	さんぶぐん	Sanbu County	山武	さんぶ	Sanbu	24		
 3	12403	12	12400		九十九里町	くじゅうくりまち	Kujukuri Town	九十九里	くじゅうくり	Kujukuri	34	12400	
 3	12409	12	12400		芝山町	しばやままち	Shibayama Town	芝山	しばやま	Shibayama	34	12400	
 3	12410	12	12400		横芝光町	よこしばひかりまち	Yokoshibahikari Town	横芝光	よこしばひかり	Yokoshibahikari	34	12400	
-1	12420	12			長生郡	ちょうせいぐん	Chosei County	長生	ちょうせい	Chosei	24		
 2	12420	12			長生郡	ちょうせいぐん	Chosei County	長生	ちょうせい	Chosei	24		
 3	12421	12	12420		一宮町	いちのみやまち	Ichinomiya Town	一宮	いちのみや	Ichinomiya	34	12420	
 3	12422	12	12420		睦沢町	むつざわまち	Mutsuzawa Town	睦沢	むつざわ	Mutsuzawa	34	12420	
@@ -1030,14 +857,12 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	12424	12	12420		白子町	しらこまち	Shirako Town	白子	しらこ	Shirako	34	12420	
 3	12426	12	12420		長柄町	ながらまち	Nagara Town	長柄	ながら	Nagara	34	12420	
 3	12427	12	12420		長南町	ちょうなんまち	Chonan Town	長南	ちょうなん	Chonan	34	12420	
-1	12440	12			夷隅郡	いすみぐん	Isumi County	夷隅	いすみ	Isumi	24		
 2	12440	12			夷隅郡	いすみぐん	Isumi County	夷隅	いすみ	Isumi	24		
 3	12441	12	12440		大多喜町	おおたきまち	Otaki Town	大多喜	おおたき	Otaki	34	12440	
 3	12443	12	12440		御宿町	おんじゅくまち	Onjuku Town	御宿	おんじゅく	Onjuku	34	12440	
-1	12460	12			安房郡	あわぐん	Awa County	安房	あわ	Awa	24		
 2	12460	12			安房郡	あわぐん	Awa County	安房	あわ	Awa	24		
 3	12463	12	12460		鋸南町	きょなんまち	Kyonan Town	鋸南	きょなん	Kyonan	34	12460	
-1	13100	13			特別区部	とくべつくぶ	Special Ward Area				22		
+1	13000	13			東京都	とうきょうと	Tokyo Metropolis	東京	とうきょう	Tokyo	11		
 2	13100	13			特別区部	とくべつくぶ	Special Ward Area				22		
 3	13101	13	13100		千代田区	ちよだく	Chiyoda City	千代田	ちよだ	Chiyoda	33		
 3	13102	13	13100		中央区	ちゅうおうく	Chuo City	中央	ちゅうおう	Chuo	33		
@@ -1062,7 +887,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	13121	13	13100		足立区	あだちく	Adachi City	足立	あだち	Adachi	33		
 3	13122	13	13100		葛飾区	かつしかく	Katsushika City	葛飾	かつしか	Katsushika	33		
 3	13123	13	13100		江戸川区	えどがわく	Edogawa City	江戸川	えどがわ	Edogawa	33		
-1	13200	13			市部	しぶ	City Area				23		
 2	13200	13			市部	しぶ	City Area				23		
 3	13201	13	13200		八王子市	はちおうじし	Hachioji City	八王子	はちおうじ	Hachioji	32		
 3	13202	13	13200		立川市	たちかわし	Tachikawa City	立川	たちかわ	Tachikawa	32		
@@ -1090,30 +914,25 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	13227	13	13200		羽村市	はむらし	Hamura City	羽村	はむら	Hamura	32		
 3	13228	13	13200		あきる野市	あきるのし	Akiruno City	あきる野	あきるの	Akiruno	32		
 3	13229	13	13200		西東京市	にしとうきょうし	Nishitokyo City	西東京	にしとうきょう	Nishitokyo	32		
-1	13300	13			西多摩郡	にしたまぐん	Nishitama County	西多摩	にしたま	Nishitama	24		
 2	13300	13			西多摩郡	にしたまぐん	Nishitama County	西多摩	にしたま	Nishitama	24		
 3	13303	13	13300		瑞穂町	みずほまち	Mizuho Town	瑞穂	みずほ	Mizuho	34	13300	
 3	13305	13	13300		日の出町	ひのでまち	Hinode Town	日の出	ひので	Hinode	34	13300	
 3	13307	13	13300		檜原村	ひのはらむら	Hinohara Village	檜原	ひのはら	Hinohara	36	13300	
 3	13308	13	13300		奥多摩町	おくたままち	Okutama Town	奥多摩	おくたま	Okutama	34	13300	
-1	13360	13			大島支庁	おおしましちょう	Oshima Branch Office	大島	おおしま	Oshima	27		
 2	13360	13			大島支庁	おおしましちょう	Oshima Branch Office	大島	おおしま	Oshima	27		
 3	13361	13	13360		大島町	おおしままち	Oshima Town	大島	おおしま	Oshima	34		13360
 3	13362	13	13360		利島村	としまむら	Toshima Village	利島	としま	Toshima	36		13360
 3	13363	13	13360		新島村	にいじまむら	Niijima Village	新島	にいじま	Niijima	36		13360
 3	13364	13	13360		神津島村	こうづしまむら	Kozushima Village	神津島	こうづしま	Kozushima	36		13360
-1	13380	13			三宅支庁	みやけしちょう	Miyake Branch Office	三宅	みやけ	Miyake	27		
 2	13380	13			三宅支庁	みやけしちょう	Miyake Branch Office	三宅	みやけ	Miyake	27		
 3	13381	13	13380		三宅村	みやけむら	Miyake Village	三宅	みやけ	Miyake	36		13380
 3	13382	13	13380		御蔵島村	みくらじまむら	Mikurajima Village	御蔵島	みくらじま	Mikurajima	36		13380
-1	13400	13			八丈支庁	はちじょうしちょう	Hachijo Branch Office	八丈	はちじょう	Hachijo	27		
 2	13400	13			八丈支庁	はちじょうしちょう	Hachijo Branch Office	八丈	はちじょう	Hachijo	27		
 3	13401	13	13400		八丈町	はちじょうまち	Hachijo Town	八丈	はちじょう	Hachijo	34		13400
 3	13402	13	13400		青ヶ島村	あおがしまむら	Aogashima Village	青ヶ島	あおがしま	Aogashima	36		13400
-1	13420	13			小笠原支庁	おがさわらしちょう	Ogasawara Branch Office	小笠原	おがさわら	Ogasawara	27		
 2	13420	13			小笠原支庁	おがさわらしちょう	Ogasawara Branch Office	小笠原	おがさわら	Ogasawara	27		
 3	13421	13	13420		小笠原村	おがさわらむら	Ogasawara Village	小笠原	おがさわら	Ogasawara	36		13420
-1	14100	14			横浜市	よこはまし	Yokohama City	横浜	よこはま	Yokohama	21		
+1	14000	14			神奈川県	かながわけん	Kanagawa Prefecture	神奈川	かながわ	Kanagawa	14		
 2	14100	14			横浜市	よこはまし	Yokohama City	横浜	よこはま	Yokohama	21		
 3	14100	14	14100		横浜市	よこはまし	Yokohama City	横浜	よこはま	Yokohama	31		
 4	14101	14		14100	鶴見区	つるみく	Tsurumi Ward	鶴見	つるみ	Tsurumi	41		
@@ -1134,7 +953,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	14116	14		14100	泉区	いずみく	Izumi Ward	泉	いずみ	Izumi	41		
 4	14117	14		14100	青葉区	あおばく	Aoba Ward	青葉	あおば	Aoba	41		
 4	14118	14		14100	都筑区	つづきく	Tsuzuki Ward	都筑	つづき	Tsuzuki	41		
-1	14130	14			川崎市	かわさきし	Kawasaki City	川崎	かわさき	Kawasaki	21		
 2	14130	14			川崎市	かわさきし	Kawasaki City	川崎	かわさき	Kawasaki	21		
 3	14130	14	14130		川崎市	かわさきし	Kawasaki City	川崎	かわさき	Kawasaki	31		
 4	14131	14		14130	川崎区	かわさきく	Kawasaki Ward	川崎	かわさき	Kawasaki	41		
@@ -1144,13 +962,11 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	14135	14		14130	多摩区	たまく	Tama Ward	多摩	たま	Tama	41		
 4	14136	14		14130	宮前区	みやまえく	Miyamae Ward	宮前	みやまえ	Miyamae	41		
 4	14137	14		14130	麻生区	あさおく	Asao Ward	麻生	あさお	Asao	41		
-1	14150	14			相模原市	さがみはらし	Sagamihara City	相模原	さがみはら	Sagamihara	21		
 2	14150	14			相模原市	さがみはらし	Sagamihara City	相模原	さがみはら	Sagamihara	21		
 3	14150	14	14150		相模原市	さがみはらし	Sagamihara City	相模原	さがみはら	Sagamihara	31		
 4	14151	14		14150	緑区	みどりく	Midori Ward	緑	みどり	Midori	41		
 4	14152	14		14150	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41		
 4	14153	14		14150	南区	みなみく	Minami Ward	南	みなみ	Minami	41		
-1	14200	14			市部	しぶ	City Area				23		
 2	14200	14			市部	しぶ	City Area				23		
 3	14201	14	14200		横須賀市	よこすかし	Yokosuka City	横須賀	よこすか	Yokosuka	32		
 3	14203	14	14200		平塚市	ひらつかし	Hiratsuka City	平塚	ひらつか	Hiratsuka	32		
@@ -1168,33 +984,27 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	14216	14	14200		座間市	ざまし	Zama City	座間	ざま	Zama	32		
 3	14217	14	14200		南足柄市	みなみあしがらし	Minamiashigara City	南足柄	みなみあしがら	Minamiashigara	32		
 3	14218	14	14200		綾瀬市	あやせし	Ayase City	綾瀬	あやせ	Ayase	32		
-1	14300	14			三浦郡	みうらぐん	Miura County	三浦	みうら	Miura	24		
 2	14300	14			三浦郡	みうらぐん	Miura County	三浦	みうら	Miura	24		
 3	14301	14	14300		葉山町	はやままち	Hayama Town	葉山	はやま	Hayama	34	14300	
-1	14320	14			高座郡	こうざぐん	Koza County	高座	こうざ	Koza	24		
 2	14320	14			高座郡	こうざぐん	Koza County	高座	こうざ	Koza	24		
 3	14321	14	14320		寒川町	さむかわまち	Samukawa Town	寒川	さむかわ	Samukawa	34	14320	
-1	14340	14			中郡	なかぐん	Naka County	中	なか	Naka	24		
 2	14340	14			中郡	なかぐん	Naka County	中	なか	Naka	24		
 3	14341	14	14340		大磯町	おおいそまち	Oiso Town	大磯	おおいそ	Oiso	34	14340	
 3	14342	14	14340		二宮町	にのみやまち	Ninomiya Town	二宮	にのみや	Ninomiya	34	14340	
-1	14360	14			足柄上郡	あしがらかみぐん	Ashigarakami County	足柄上	あしがらかみ	Ashigarakami	24		
 2	14360	14			足柄上郡	あしがらかみぐん	Ashigarakami County	足柄上	あしがらかみ	Ashigarakami	24		
 3	14361	14	14360		中井町	なかいまち	Nakai Town	中井	なかい	Nakai	34	14360	
 3	14362	14	14360		大井町	おおいまち	Oi Town	大井	おおい	Oi	34	14360	
 3	14363	14	14360		松田町	まつだまち	Matsuda Town	松田	まつだ	Matsuda	34	14360	
 3	14364	14	14360		山北町	やまきたまち	Yamakita Town	山北	やまきた	Yamakita	34	14360	
 3	14366	14	14360		開成町	かいせいまち	Kaisei Town	開成	かいせい	Kaisei	34	14360	
-1	14380	14			足柄下郡	あしがらしもぐん	Ashigarashimo County	足柄下	あしがらしも	Ashigarashimo	24		
 2	14380	14			足柄下郡	あしがらしもぐん	Ashigarashimo County	足柄下	あしがらしも	Ashigarashimo	24		
 3	14382	14	14380		箱根町	はこねまち	Hakone Town	箱根	はこね	Hakone	34	14380	
 3	14383	14	14380		真鶴町	まなづるまち	Manazuru Town	真鶴	まなづる	Manazuru	34	14380	
 3	14384	14	14380		湯河原町	ゆがわらまち	Yugawara Town	湯河原	ゆがわら	Yugawara	34	14380	
-1	14400	14			愛甲郡	あいこうぐん	Aiko County	愛甲	あいこう	Aiko	24		
 2	14400	14			愛甲郡	あいこうぐん	Aiko County	愛甲	あいこう	Aiko	24		
 3	14401	14	14400		愛川町	あいかわまち	Aikawa Town	愛川	あいかわ	Aikawa	34	14400	
 3	14402	14	14400		清川村	きよかわむら	Kiyokawa Village	清川	きよかわ	Kiyokawa	36	14400	
-1	15100	15			新潟市	にいがたし	Niigata City	新潟	にいがた	Niigata	21		
+1	15000	15			新潟県	にいがたけん	Niigata Prefecture	新潟	にいがた	Niigata	14		
 2	15100	15			新潟市	にいがたし	Niigata City	新潟	にいがた	Niigata	21		
 3	15100	15	15100		新潟市	にいがたし	Niigata City	新潟	にいがた	Niigata	31		
 4	15101	15		15100	北区	きたく	Kita Ward	北	きた	Kita	41		
@@ -1205,7 +1015,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	15106	15		15100	南区	みなみく	Minami Ward	南	みなみ	Minami	41		
 4	15107	15		15100	西区	にしく	Nishi Ward	西	にし	Nishi	41		
 4	15108	15		15100	西蒲区	にしかんく	Nishikan Ward	西蒲	にしかん	Nishikan	41		
-1	15200	15			市部	しぶ	City Area				23		
 2	15200	15			市部	しぶ	City Area				23		
 3	15202	15	15200		長岡市	ながおかし	Nagaoka City	長岡	ながおか	Nagaoka	32		
 3	15204	15	15200		三条市	さんじょうし	Sanjo City	三条	さんじょう	Sanjo	32		
@@ -1226,35 +1035,26 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	15225	15	15200		魚沼市	うおぬまし	Uonuma City	魚沼	うおぬま	Uonuma	32		
 3	15226	15	15200		南魚沼市	みなみうおぬまし	Minamiuonuma City	南魚沼	みなみうおぬま	Minamiuonuma	32		
 3	15227	15	15200		胎内市	たいないし	Tainai City	胎内	たいない	Tainai	32		
-1	15300	15			北蒲原郡	きたかんばらぐん	Kitakanbara County	北蒲原	きたかんばら	Kitakanbara	24		
 2	15300	15			北蒲原郡	きたかんばらぐん	Kitakanbara County	北蒲原	きたかんばら	Kitakanbara	24		
 3	15307	15	15300		聖籠町	せいろうまち	Seiro Town	聖籠	せいろう	Seiro	34	15300	
-1	15340	15			西蒲原郡	にしかんばらぐん	Nishikanbara County	西蒲原	にしかんばら	Nishikanbara	24		
 2	15340	15			西蒲原郡	にしかんばらぐん	Nishikanbara County	西蒲原	にしかんばら	Nishikanbara	24		
 3	15342	15	15340		弥彦村	やひこむら	Yahiko Village	弥彦	やひこ	Yahiko	36	15340	
-1	15360	15			南蒲原郡	みなみかんばらぐん	Minamikanbara County	南蒲原	みなみかんばら	Minamikanbara	24		
 2	15360	15			南蒲原郡	みなみかんばらぐん	Minamikanbara County	南蒲原	みなみかんばら	Minamikanbara	24		
 3	15361	15	15360		田上町	たがみまち	Tagami Town	田上	たがみ	Tagami	34	15360	
-1	15380	15			東蒲原郡	ひがしかんばらぐん	Higashikanbara County	東蒲原	ひがしかんばら	Higashikanbara	24		
 2	15380	15			東蒲原郡	ひがしかんばらぐん	Higashikanbara County	東蒲原	ひがしかんばら	Higashikanbara	24		
 3	15385	15	15380		阿賀町	あがまち	Aga Town	阿賀	あが	Aga	34	15380	
-1	15400	15			三島郡	さんとうぐん	Santo County	三島	さんとう	Santo	24		
 2	15400	15			三島郡	さんとうぐん	Santo County	三島	さんとう	Santo	24		
 3	15405	15	15400		出雲崎町	いずもざきまち	Izumozaki Town	出雲崎	いずもざき	Izumozaki	34	15400	
-1	15460	15			南魚沼郡	みなみうおぬまぐん	Minamiuonuma County	南魚沼	みなみうおぬま	Minamiuonuma	24		
 2	15460	15			南魚沼郡	みなみうおぬまぐん	Minamiuonuma County	南魚沼	みなみうおぬま	Minamiuonuma	24		
 3	15461	15	15460		湯沢町	ゆざわまち	Yuzawa Town	湯沢	ゆざわ	Yuzawa	34	15460	
-1	15480	15			中魚沼郡	なかうおぬまぐん	Nakauonuma County	中魚沼	なかうおぬま	Nakauonuma	24		
 2	15480	15			中魚沼郡	なかうおぬまぐん	Nakauonuma County	中魚沼	なかうおぬま	Nakauonuma	24		
 3	15482	15	15480		津南町	つなんまち	Tsunan Town	津南	つなん	Tsunan	34	15480	
-1	15500	15			刈羽郡	かりわぐん	Kariwa County	刈羽	かりわ	Kariwa	24		
 2	15500	15			刈羽郡	かりわぐん	Kariwa County	刈羽	かりわ	Kariwa	24		
 3	15504	15	15500		刈羽村	かりわむら	Kariwa Village	刈羽	かりわ	Kariwa	36	15500	
-1	15580	15			岩船郡	いわふねぐん	Iwafune County	岩船	いわふね	Iwafune	24		
 2	15580	15			岩船郡	いわふねぐん	Iwafune County	岩船	いわふね	Iwafune	24		
 3	15581	15	15580		関川村	せきかわむら	Sekikawa Village	関川	せきかわ	Sekikawa	36	15580	
 3	15586	15	15580		粟島浦村	あわしまうらむら	Awashimaura Village	粟島浦	あわしまうら	Awashimaura	36	15580	
-1	16200	16			市部	しぶ	City Area				23		
+1	16000	16			富山県	とやまけん	Toyama Prefecture	富山	とやま	Toyama	14		
 2	16200	16			市部	しぶ	City Area				23		
 3	16201	16	16200		富山市	とやまし	Toyama City	富山	とやま	Toyama	32		
 3	16202	16	16200		高岡市	たかおかし	Takaoka City	高岡	たかおか	Takaoka	32		
@@ -1266,16 +1066,14 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	16209	16	16200		小矢部市	おやべし	Oyabe City	小矢部	おやべ	Oyabe	32		
 3	16210	16	16200		南砺市	なんとし	Nanto City	南砺	なんと	Nanto	32		
 3	16211	16	16200		射水市	いみずし	Imizu City	射水	いみず	Imizu	32		
-1	16320	16			中新川郡	なかにいかわぐん	Nakaniikawa County	中新川	なかにいかわ	Nakaniikawa	24		
 2	16320	16			中新川郡	なかにいかわぐん	Nakaniikawa County	中新川	なかにいかわ	Nakaniikawa	24		
 3	16321	16	16320		舟橋村	ふなはしむら	Funahashi Village	舟橋	ふなはし	Funahashi	36	16320	
 3	16322	16	16320		上市町	かみいちまち	Kamiichi Town	上市	かみいち	Kamiichi	34	16320	
 3	16323	16	16320		立山町	たてやままち	Tateyama Town	立山	たてやま	Tateyama	34	16320	
-1	16340	16			下新川郡	しもにいかわぐん	Shimoniikawa County	下新川	しもにいかわ	Shimoniikawa	24		
 2	16340	16			下新川郡	しもにいかわぐん	Shimoniikawa County	下新川	しもにいかわ	Shimoniikawa	24		
 3	16342	16	16340		入善町	にゅうぜんまち	Nyuzen Town	入善	にゅうぜん	Nyuzen	34	16340	
 3	16343	16	16340		朝日町	あさひまち	Asahi Town	朝日	あさひ	Asahi	34	16340	
-1	17200	17			市部	しぶ	City Area				23		
+1	17000	17			石川県	いしかわけん	Ishikawa Prefecture	石川	いしかわ	Ishikawa	14		
 2	17200	17			市部	しぶ	City Area				23		
 3	17201	17	17200		金沢市	かなざわし	Kanazawa City	金沢	かなざわ	Kanazawa	32		
 3	17202	17	17200		七尾市	ななおし	Nanao City	七尾	ななお	Nanao	32		
@@ -1288,25 +1086,20 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	17210	17	17200		白山市	はくさんし	Hakusan City	白山	はくさん	Hakusan	32		
 3	17211	17	17200		能美市	のみし	Nomi City	能美	のみ	Nomi	32		
 3	17212	17	17200		野々市市	ののいちし	Nonoichi City	野々市	ののいち	Nonoichi	32		
-1	17320	17			能美郡	のみぐん	Nomi County	能美	のみ	Nomi	24		
 2	17320	17			能美郡	のみぐん	Nomi County	能美	のみ	Nomi	24		
 3	17324	17	17320		川北町	かわきたまち	Kawakita Town	川北	かわきた	Kawakita	34	17320	
-1	17360	17			河北郡	かほくぐん	Kahoku County	河北	かほく	Kahoku	24		
 2	17360	17			河北郡	かほくぐん	Kahoku County	河北	かほく	Kahoku	24		
 3	17361	17	17360		津幡町	つばたまち	Tsubata Town	津幡	つばた	Tsubata	34	17360	
 3	17365	17	17360		内灘町	うちなだまち	Uchinada Town	内灘	うちなだ	Uchinada	34	17360	
-1	17380	17			羽咋郡	はくいぐん	Hakui County	羽咋	はくい	Hakui	24		
 2	17380	17			羽咋郡	はくいぐん	Hakui County	羽咋	はくい	Hakui	24		
 3	17384	17	17380		志賀町	しかまち	Shika Town	志賀	しか	Shika	34	17380	
 3	17386	17	17380		宝達志水町	ほうだつしみずちょう	Hodatsushimizu Town	宝達志水	ほうだつしみず	Hodatsushimizu	35	17380	
-1	17400	17			鹿島郡	かしまぐん	Kashima County	鹿島	かしま	Kashima	24		
 2	17400	17			鹿島郡	かしまぐん	Kashima County	鹿島	かしま	Kashima	24		
 3	17407	17	17400		中能登町	なかのとまち	Nakanoto Town	中能登	なかのと	Nakanoto	34	17400	
-1	17460	17			鳳珠郡	ほうすぐん	Hosu County	鳳珠	ほうす	Hosu	24		
 2	17460	17			鳳珠郡	ほうすぐん	Hosu County	鳳珠	ほうす	Hosu	24		
 3	17461	17	17460		穴水町	あなみずまち	Anamizu Town	穴水	あなみず	Anamizu	34	17460	
 3	17463	17	17460		能登町	のとちょう	Noto Town	能登	のと	Noto	35	17460	
-1	18200	18			市部	しぶ	City Area				23		
+1	18000	18			福井県	ふくいけん	Fukui Prefecture	福井	ふくい	Fukui	14		
 2	18200	18			市部	しぶ	City Area				23		
 3	18201	18	18200		福井市	ふくいし	Fukui City	福井	ふくい	Fukui	32		
 3	18202	18	18200		敦賀市	つるがし	Tsuruga City	敦賀	つるが	Tsuruga	32		
@@ -1317,29 +1110,22 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	18208	18	18200		あわら市	あわらし	Awara City	あわら	あわら	Awara	32		
 3	18209	18	18200		越前市	えちぜんし	Echizen City	越前	えちぜん	Echizen	32		
 3	18210	18	18200		坂井市	さかいし	Sakai City	坂井	さかい	Sakai	32		
-1	18320	18			吉田郡	よしだぐん	Yoshida County	吉田	よしだ	Yoshida	24		
 2	18320	18			吉田郡	よしだぐん	Yoshida County	吉田	よしだ	Yoshida	24		
 3	18322	18	18320		永平寺町	えいへいじちょう	Eiheiji Town	永平寺	えいへいじ	Eiheiji	35	18320	
-1	18380	18			今立郡	いまだてぐん	Imadate County	今立	いまだて	Imadate	24		
 2	18380	18			今立郡	いまだてぐん	Imadate County	今立	いまだて	Imadate	24		
 3	18382	18	18380		池田町	いけだちょう	Ikeda Town	池田	いけだ	Ikeda	35	18380	
-1	18400	18			南条郡	なんじょうぐん	Nanjo County	南条	なんじょう	Nanjo	24		
 2	18400	18			南条郡	なんじょうぐん	Nanjo County	南条	なんじょう	Nanjo	24		
 3	18404	18	18400		南越前町	みなみえちぜんちょう	Minamiechizen Town	南越前	みなみえちぜん	Minamiechizen	35	18400	
-1	18420	18			丹生郡	にゅうぐん	Nyu County	丹生	にゅう	Nyu	24		
 2	18420	18			丹生郡	にゅうぐん	Nyu County	丹生	にゅう	Nyu	24		
 3	18423	18	18420		越前町	えちぜんちょう	Echizen Town	越前	えちぜん	Echizen	35	18420	
-1	18440	18			三方郡	みかたぐん	Mikata County	三方	みかた	Mikata	24		
 2	18440	18			三方郡	みかたぐん	Mikata County	三方	みかた	Mikata	24		
 3	18442	18	18440		美浜町	みはまちょう	Mihama Town	美浜	みはま	Mihama	35	18440	
-1	18480	18			大飯郡	おおいぐん	Oi County	大飯	おおい	Oi	24		
 2	18480	18			大飯郡	おおいぐん	Oi County	大飯	おおい	Oi	24		
 3	18481	18	18480		高浜町	たかはまちょう	Takahama Town	高浜	たかはま	Takahama	35	18480	
 3	18483	18	18480		おおい町	おおいちょう	Oi Town	おおい	おおい	Oi	35	18480	
-1	18500	18			三方上中郡	みかたかみなかぐん	Mikatakaminaka County	三方上中	みかたかみなか	Mikatakaminaka	24		
 2	18500	18			三方上中郡	みかたかみなかぐん	Mikatakaminaka County	三方上中	みかたかみなか	Mikatakaminaka	24		
 3	18501	18	18500		若狭町	わかさちょう	Wakasa Town	若狭	わかさ	Wakasa	35	18500	
-1	19200	19			市部	しぶ	City Area				23		
+1	19000	19			山梨県	やまなしけん	Yamanashi Prefecture	山梨	やまなし	Yamanashi	14		
 2	19200	19			市部	しぶ	City Area				23		
 3	19201	19	19200		甲府市	こうふし	Kofu City	甲府	こうふ	Kofu	32		
 3	19202	19	19200		富士吉田市	ふじよしだし	Fujiyoshida City	富士吉田	ふじよしだ	Fujiyoshida	32		
@@ -1354,19 +1140,15 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	19212	19	19200		上野原市	うえのはらし	Uenohara City	上野原	うえのはら	Uenohara	32		
 3	19213	19	19200		甲州市	こうしゅうし	Koshu City	甲州	こうしゅう	Koshu	32		
 3	19214	19	19200		中央市	ちゅうおうし	Chuo City	中央	ちゅうおう	Chuo	32		
-1	19340	19			西八代郡	にしやつしろぐん	Nishiyatsushiro County	西八代	にしやつしろ	Nishiyatsushiro	24		
 2	19340	19			西八代郡	にしやつしろぐん	Nishiyatsushiro County	西八代	にしやつしろ	Nishiyatsushiro	24		
 3	19346	19	19340		市川三郷町	いちかわみさとちょう	Ichikawamisato Town	市川三郷	いちかわみさと	Ichikawamisato	35	19340	
-1	19360	19			南巨摩郡	みなみこまぐん	Minamikoma County	南巨摩	みなみこま	Minamikoma	24		
 2	19360	19			南巨摩郡	みなみこまぐん	Minamikoma County	南巨摩	みなみこま	Minamikoma	24		
 3	19364	19	19360		早川町	はやかわちょう	Hayakawa Town	早川	はやかわ	Hayakawa	35	19360	
 3	19365	19	19360		身延町	みのぶちょう	Minobu Town	身延	みのぶ	Minobu	35	19360	
 3	19366	19	19360		南部町	なんぶちょう	Nanbu Town	南部	なんぶ	Nanbu	35	19360	
 3	19368	19	19360		富士川町	ふじかわちょう	Fujikawa Town	富士川	ふじかわ	Fujikawa	35	19360	
-1	19380	19			中巨摩郡	なかこまぐん	Nakakoma County	中巨摩	なかこま	Nakakoma	24		
 2	19380	19			中巨摩郡	なかこまぐん	Nakakoma County	中巨摩	なかこま	Nakakoma	24		
 3	19384	19	19380		昭和町	しょうわちょう	Showa Town	昭和	しょうわ	Showa	35	19380	
-1	19420	19			南都留郡	みなみつるぐん	Minamitsuru County	南都留	みなみつる	Minamitsuru	24		
 2	19420	19			南都留郡	みなみつるぐん	Minamitsuru County	南都留	みなみつる	Minamitsuru	24		
 3	19422	19	19420		道志村	どうしむら	Doshi Village	道志	どうし	Doshi	36	19420	
 3	19423	19	19420		西桂町	にしかつらちょう	Nishikatsura Town	西桂	にしかつら	Nishikatsura	35	19420	
@@ -1374,11 +1156,10 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	19425	19	19420		山中湖村	やまなかこむら	Yamanakako Village	山中湖	やまなかこ	Yamanakako	36	19420	
 3	19429	19	19420		鳴沢村	なるさわむら	Narusawa Village	鳴沢	なるさわ	Narusawa	36	19420	
 3	19430	19	19420		富士河口湖町	ふじかわぐちこまち	Fujikawaguchiko Town	富士河口湖	ふじかわぐちこ	Fujikawaguchiko	34	19420	
-1	19440	19			北都留郡	きたつるぐん	Kitatsuru County	北都留	きたつる	Kitatsuru	24		
 2	19440	19			北都留郡	きたつるぐん	Kitatsuru County	北都留	きたつる	Kitatsuru	24		
 3	19442	19	19440		小菅村	こすげむら	Kosuge Village	小菅	こすげ	Kosuge	36	19440	
 3	19443	19	19440		丹波山村	たばやまむら	Tabayama Village	丹波山	たばやま	Tabayama	36	19440	
-1	20200	20			市部	しぶ	City Area				23		
+1	20000	20			長野県	ながのけん	Nagano Prefecture	長野	ながの	Nagano	14		
 2	20200	20			市部	しぶ	City Area				23		
 3	20201	20	20200		長野市	ながのし	Nagano City	長野	ながの	Nagano	32		
 3	20202	20	20200		松本市	まつもとし	Matsumoto City	松本	まつもと	Matsumoto	32		
@@ -1399,7 +1180,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	20218	20	20200		千曲市	ちくまし	Chikuma City	千曲	ちくま	Chikuma	32		
 3	20219	20	20200		東御市	とうみし	Tomi City	東御	とうみ	Tomi	32		
 3	20220	20	20200		安曇野市	あづみのし	Azumino City	安曇野	あづみの	Azumino	32		
-1	20300	20			南佐久郡	みなみさくぐん	Minamisaku County	南佐久	みなみさく	Minamisaku	24		
 2	20300	20			南佐久郡	みなみさくぐん	Minamisaku County	南佐久	みなみさく	Minamisaku	24		
 3	20303	20	20300		小海町	こうみまち	Koumi Town	小海	こうみ	Koumi	34	20300	
 3	20304	20	20300		川上村	かわかみむら	Kawakami Village	川上	かわかみ	Kawakami	36	20300	
@@ -1407,21 +1187,17 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	20306	20	20300		南相木村	みなみあいきむら	Minamiaiki Village	南相木	みなみあいき	Minamiaiki	36	20300	
 3	20307	20	20300		北相木村	きたあいきむら	Kitaaiki Village	北相木	きたあいき	Kitaaiki	36	20300	
 3	20309	20	20300		佐久穂町	さくほまち	Sakuho Town	佐久穂	さくほ	Sakuho	34	20300	
-1	20320	20			北佐久郡	きたさくぐん	Kitasaku County	北佐久	きたさく	Kitasaku	24		
 2	20320	20			北佐久郡	きたさくぐん	Kitasaku County	北佐久	きたさく	Kitasaku	24		
 3	20321	20	20320		軽井沢町	かるいざわまち	Karuizawa Town	軽井沢	かるいざわ	Karuizawa	34	20320	
 3	20323	20	20320		御代田町	みよたまち	Miyota Town	御代田	みよた	Miyota	34	20320	
 3	20324	20	20320		立科町	たてしなまち	Tateshina Town	立科	たてしな	Tateshina	34	20320	
-1	20340	20			小県郡	ちいさがたぐん	Chiisagata County	小県	ちいさがた	Chiisagata	24		
 2	20340	20			小県郡	ちいさがたぐん	Chiisagata County	小県	ちいさがた	Chiisagata	24		
 3	20349	20	20340		青木村	あおきむら	Aoki Village	青木	あおき	Aoki	36	20340	
 3	20350	20	20340		長和町	ながわまち	Nagawa Town	長和	ながわ	Nagawa	34	20340	
-1	20360	20			諏訪郡	すわぐん	Suwa County	諏訪	すわ	Suwa	24		
 2	20360	20			諏訪郡	すわぐん	Suwa County	諏訪	すわ	Suwa	24		
 3	20361	20	20360		下諏訪町	しもすわまち	Shimosuwa Town	下諏訪	しもすわ	Shimosuwa	34	20360	
 3	20362	20	20360		富士見町	ふじみまち	Fujimi Town	富士見	ふじみ	Fujimi	34	20360	
 3	20363	20	20360		原村	はらむら	Hara Village	原	はら	Hara	36	20360	
-1	20380	20			上伊那郡	かみいなぐん	Kamiina County	上伊那	かみいな	Kamiina	24		
 2	20380	20			上伊那郡	かみいなぐん	Kamiina County	上伊那	かみいな	Kamiina	24		
 3	20382	20	20380		辰野町	たつのまち	Tatsuno Town	辰野	たつの	Tatsuno	34	20380	
 3	20383	20	20380		箕輪町	みのわまち	Minowa Town	箕輪	みのわ	Minowa	34	20380	
@@ -1429,7 +1205,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	20385	20	20380		南箕輪村	みなみみのわむら	Minamiminowa Village	南箕輪	みなみみのわ	Minamiminowa	36	20380	
 3	20386	20	20380		中川村	なかがわむら	Nakagawa Village	中川	なかがわ	Nakagawa	36	20380	
 3	20388	20	20380		宮田村	みやだむら	Miyada Village	宮田	みやだ	Miyada	36	20380	
-1	20400	20			下伊那郡	しもいなぐん	Shimoina County	下伊那	しもいな	Shimoina	24		
 2	20400	20			下伊那郡	しもいなぐん	Shimoina County	下伊那	しもいな	Shimoina	24		
 3	20402	20	20400		松川町	まつかわまち	Matsukawa Town	松川	まつかわ	Matsukawa	34	20400	
 3	20403	20	20400		高森町	たかもりまち	Takamori Town	高森	たかもり	Takamori	34	20400	
@@ -1444,7 +1219,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	20415	20	20400		喬木村	たかぎむら	Takagi Village	喬木	たかぎ	Takagi	36	20400	
 3	20416	20	20400		豊丘村	とよおかむら	Toyooka Village	豊丘	とよおか	Toyooka	36	20400	
 3	20417	20	20400		大鹿村	おおしかむら	Oshika Village	大鹿	おおしか	Oshika	36	20400	
-1	20420	20			木曽郡	きそぐん	Kiso County	木曽	きそ	Kiso	24		
 2	20420	20			木曽郡	きそぐん	Kiso County	木曽	きそ	Kiso	24		
 3	20422	20	20420		上松町	あげまつまち	Agematsu Town	上松	あげまつ	Agematsu	34	20420	
 3	20423	20	20420		南木曽町	なぎそまち	Nagiso Town	南木曽	なぎそ	Nagiso	34	20420	
@@ -1452,40 +1226,33 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	20429	20	20420		王滝村	おうたきむら	Otaki Village	王滝	おうたき	Otaki	36	20420	
 3	20430	20	20420		大桑村	おおくわむら	Okuwa Village	大桑	おおくわ	Okuwa	36	20420	
 3	20432	20	20420		木曽町	きそまち	Kiso Town	木曽	きそ	Kiso	34	20420	
-1	20440	20			東筑摩郡	ひがしちくまぐん	Higashichikuma County	東筑摩	ひがしちくま	Higashichikuma	24		
 2	20440	20			東筑摩郡	ひがしちくまぐん	Higashichikuma County	東筑摩	ひがしちくま	Higashichikuma	24		
 3	20446	20	20440		麻績村	おみむら	Omi Village	麻績	おみ	Omi	36	20440	
 3	20448	20	20440		生坂村	いくさかむら	Ikusaka Village	生坂	いくさか	Ikusaka	36	20440	
 3	20450	20	20440		山形村	やまがたむら	Yamagata Village	山形	やまがた	Yamagata	36	20440	
 3	20451	20	20440		朝日村	あさひむら	Asahi Village	朝日	あさひ	Asahi	36	20440	
 3	20452	20	20440		筑北村	ちくほくむら	Chikuhoku Village	筑北	ちくほく	Chikuhoku	36	20440	
-1	20480	20			北安曇郡	きたあづみぐん	Kitaazumi County	北安曇	きたあづみ	Kitaazumi	24		
 2	20480	20			北安曇郡	きたあづみぐん	Kitaazumi County	北安曇	きたあづみ	Kitaazumi	24		
 3	20481	20	20480		池田町	いけだまち	Ikeda Town	池田	いけだ	Ikeda	34	20480	
 3	20482	20	20480		松川村	まつかわむら	Matsukawa Village	松川	まつかわ	Matsukawa	36	20480	
 3	20485	20	20480		白馬村	はくばむら	Hakuba Village	白馬	はくば	Hakuba	36	20480	
 3	20486	20	20480		小谷村	おたりむら	Otari Village	小谷	おたり	Otari	36	20480	
-1	20520	20			埴科郡	はにしなぐん	Hanishina County	埴科	はにしな	Hanishina	24		
 2	20520	20			埴科郡	はにしなぐん	Hanishina County	埴科	はにしな	Hanishina	24		
 3	20521	20	20520		坂城町	さかきまち	Sakaki Town	坂城	さかき	Sakaki	34	20520	
-1	20540	20			上高井郡	かみたかいぐん	Kamitakai County	上高井	かみたかい	Kamitakai	24		
 2	20540	20			上高井郡	かみたかいぐん	Kamitakai County	上高井	かみたかい	Kamitakai	24		
 3	20541	20	20540		小布施町	おぶせまち	Obuse Town	小布施	おぶせ	Obuse	34	20540	
 3	20543	20	20540		高山村	たかやまむら	Takayama Village	高山	たかやま	Takayama	36	20540	
-1	20560	20			下高井郡	しもたかいぐん	Shimotakai County	下高井	しもたかい	Shimotakai	24		
 2	20560	20			下高井郡	しもたかいぐん	Shimotakai County	下高井	しもたかい	Shimotakai	24		
 3	20561	20	20560		山ノ内町	やまのうちまち	Yamanouchi Town	山ノ内	やまのうち	Yamanouchi	34	20560	
 3	20562	20	20560		木島平村	きじまだいらむら	Kijimadaira Village	木島平	きじまだいら	Kijimadaira	36	20560	
 3	20563	20	20560		野沢温泉村	のざわおんせんむら	Nozawaonsen Village	野沢温泉	のざわおんせん	Nozawaonsen	36	20560	
-1	20580	20			上水内郡	かみみのちぐん	Kamiminochi County	上水内	かみみのち	Kamiminochi	24		
 2	20580	20			上水内郡	かみみのちぐん	Kamiminochi County	上水内	かみみのち	Kamiminochi	24		
 3	20583	20	20580		信濃町	しなのまち	Shinano Town	信濃	しなの	Shinano	34	20580	
 3	20588	20	20580		小川村	おがわむら	Ogawa Village	小川	おがわ	Ogawa	36	20580	
 3	20590	20	20580		飯綱町	いいづなまち	Iizuna Town	飯綱	いいづな	Iizuna	34	20580	
-1	20600	20			下水内郡	しもみのちぐん	Shimominochi County	下水内	しもみのち	Shimominochi	24		
 2	20600	20			下水内郡	しもみのちぐん	Shimominochi County	下水内	しもみのち	Shimominochi	24		
 3	20602	20	20600		栄村	さかえむら	Sakae Village	栄	さかえ	Sakae	36	20600	
-1	21200	21			市部	しぶ	City Area				23		
+1	21000	21			岐阜県	ぎふけん	Gifu Prefecture	岐阜	ぎふ	Gifu	14		
 2	21200	21			市部	しぶ	City Area				23		
 3	21201	21	21200		岐阜市	ぎふし	Gifu City	岐阜	ぎふ	Gifu	32		
 3	21202	21	21200		大垣市	おおがきし	Ogaki City	大垣	おおがき	Ogaki	32		
@@ -1508,31 +1275,24 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	21219	21	21200		郡上市	ぐじょうし	Gujo City	郡上	ぐじょう	Gujo	32		
 3	21220	21	21200		下呂市	げろし	Gero City	下呂	げろ	Gero	32		
 3	21221	21	21200		海津市	かいづし	Kaizu City	海津	かいづ	Kaizu	32		
-1	21300	21			羽島郡	はしまぐん	Hashima County	羽島	はしま	Hashima	24		
 2	21300	21			羽島郡	はしまぐん	Hashima County	羽島	はしま	Hashima	24		
 3	21302	21	21300		岐南町	ぎなんちょう	Ginan Town	岐南	ぎなん	Ginan	35	21300	
 3	21303	21	21300		笠松町	かさまつちょう	Kasamatsu Town	笠松	かさまつ	Kasamatsu	35	21300	
-1	21340	21			養老郡	ようろうぐん	Yoro County	養老	ようろう	Yoro	24		
 2	21340	21			養老郡	ようろうぐん	Yoro County	養老	ようろう	Yoro	24		
 3	21341	21	21340		養老町	ようろうちょう	Yoro Town	養老	ようろう	Yoro	35	21340	
-1	21360	21			不破郡	ふわぐん	Fuwa County	不破	ふわ	Fuwa	24		
 2	21360	21			不破郡	ふわぐん	Fuwa County	不破	ふわ	Fuwa	24		
 3	21361	21	21360		垂井町	たるいちょう	Tarui Town	垂井	たるい	Tarui	35	21360	
 3	21362	21	21360		関ケ原町	せきがはらちょう	Sekigahara Town	関ケ原	せきがはら	Sekigahara	35	21360	
-1	21380	21			安八郡	あんぱちぐん	Anpachi County	安八	あんぱち	Anpachi	24		
 2	21380	21			安八郡	あんぱちぐん	Anpachi County	安八	あんぱち	Anpachi	24		
 3	21381	21	21380		神戸町	ごうどちょう	Godo Town	神戸	ごうど	Godo	35	21380	
 3	21382	21	21380		輪之内町	わのうちちょう	Wanouchi Town	輪之内	わのうち	Wanouchi	35	21380	
 3	21383	21	21380		安八町	あんぱちちょう	Anpachi Town	安八	あんぱち	Anpachi	35	21380	
-1	21400	21			揖斐郡	いびぐん	Ibi County	揖斐	いび	Ibi	24		
 2	21400	21			揖斐郡	いびぐん	Ibi County	揖斐	いび	Ibi	24		
 3	21401	21	21400		揖斐川町	いびがわちょう	Ibigawa Town	揖斐川	いびがわ	Ibigawa	35	21400	
 3	21403	21	21400		大野町	おおのちょう	Ono Town	大野	おおの	Ono	35	21400	
 3	21404	21	21400		池田町	いけだちょう	Ikeda Town	池田	いけだ	Ikeda	35	21400	
-1	21420	21			本巣郡	もとすぐん	Motosu County	本巣	もとす	Motosu	24		
 2	21420	21			本巣郡	もとすぐん	Motosu County	本巣	もとす	Motosu	24		
 3	21421	21	21420		北方町	きたがたちょう	Kitagata Town	北方	きたがた	Kitagata	35	21420	
-1	21500	21			加茂郡	かもぐん	Kamo County	加茂	かも	Kamo	24		
 2	21500	21			加茂郡	かもぐん	Kamo County	加茂	かも	Kamo	24		
 3	21501	21	21500		坂祝町	さかほぎちょう	Sakahogi Town	坂祝	さかほぎ	Sakahogi	35	21500	
 3	21502	21	21500		富加町	とみかちょう	Tomika Town	富加	とみか	Tomika	35	21500	
@@ -1541,19 +1301,16 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	21505	21	21500		八百津町	やおつちょう	Yaotsu Town	八百津	やおつ	Yaotsu	35	21500	
 3	21506	21	21500		白川町	しらかわちょう	Shirakawa Town	白川	しらかわ	Shirakawa	35	21500	
 3	21507	21	21500		東白川村	ひがししらかわむら	Higashishirakawa Village	東白川	ひがししらかわ	Higashishirakawa	36	21500	
-1	21520	21			可児郡	かにぐん	Kani County	可児	かに	Kani	24		
 2	21520	21			可児郡	かにぐん	Kani County	可児	かに	Kani	24		
 3	21521	21	21520		御嵩町	みたけちょう	Mitake Town	御嵩	みたけ	Mitake	35	21520	
-1	21600	21			大野郡	おおのぐん	Ono County	大野	おおの	Ono	24		
 2	21600	21			大野郡	おおのぐん	Ono County	大野	おおの	Ono	24		
 3	21604	21	21600		白川村	しらかわむら	Shirakawa Village	白川	しらかわ	Shirakawa	36	21600	
-1	22100	22			静岡市	しずおかし	Shizuoka City	静岡	しずおか	Shizuoka	21		
+1	22000	22			静岡県	しずおかけん	Shizuoka Prefecture	静岡	しずおか	Shizuoka	14		
 2	22100	22			静岡市	しずおかし	Shizuoka City	静岡	しずおか	Shizuoka	21		
 3	22100	22	22100		静岡市	しずおかし	Shizuoka City	静岡	しずおか	Shizuoka	31		
 4	22101	22		22100	葵区	あおいく	Aoi Ward	葵	あおい	Aoi	41		
 4	22102	22		22100	駿河区	するがく	Suruga Ward	駿河	するが	Suruga	41		
 4	22103	22		22100	清水区	しみずく	Shimizu Ward	清水	しみず	Shimizu	41		
-1	22130	22			浜松市	はままつし	Hamamatsu City	浜松	はままつ	Hamamatsu	21		
 2	22130	22			浜松市	はままつし	Hamamatsu City	浜松	はままつ	Hamamatsu	21		
 3	22130	22	22130		浜松市	はままつし	Hamamatsu City	浜松	はままつ	Hamamatsu	31		
 4	22131	22		22130	中区	なかく	Naka Ward	中	なか	Naka	41		
@@ -1563,7 +1320,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	22135	22		22130	北区	きたく	Kita Ward	北	きた	Kita	41		
 4	22136	22		22130	浜北区	はまきたく	Hamakita Ward	浜北	はまきた	Hamakita	41		
 4	22137	22		22130	天竜区	てんりゅうく	Tenryu Ward	天竜	てんりゅう	Tenryu	41		
-1	22200	22			市部	しぶ	City Area				23		
 2	22200	22			市部	しぶ	City Area				23		
 3	22203	22	22200		沼津市	ぬまづし	Numazu City	沼津	ぬまづ	Numazu	32		
 3	22205	22	22200		熱海市	あたみし	Atami City	熱海	あたみ	Atami	32		
@@ -1586,29 +1342,24 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	22224	22	22200		菊川市	きくがわし	Kikugawa City	菊川	きくがわ	Kikugawa	32		
 3	22225	22	22200		伊豆の国市	いずのくにし	Izunokuni City	伊豆の国	いずのくに	Izunokuni	32		
 3	22226	22	22200		牧之原市	まきのはらし	Makinohara City	牧之原	まきのはら	Makinohara	32		
-1	22300	22			賀茂郡	かもぐん	Kamo County	賀茂	かも	Kamo	24		
 2	22300	22			賀茂郡	かもぐん	Kamo County	賀茂	かも	Kamo	24		
 3	22301	22	22300		東伊豆町	ひがしいずちょう	Higashiizu Town	東伊豆	ひがしいず	Higashiizu	35	22300	
 3	22302	22	22300		河津町	かわづちょう	Kawazu Town	河津	かわづ	Kawazu	35	22300	
 3	22304	22	22300		南伊豆町	みなみいずちょう	Minamiizu Town	南伊豆	みなみいず	Minamiizu	35	22300	
 3	22305	22	22300		松崎町	まつざきちょう	Matsuzaki Town	松崎	まつざき	Matsuzaki	35	22300	
 3	22306	22	22300		西伊豆町	にしいずちょう	Nishiizu Town	西伊豆	にしいず	Nishiizu	35	22300	
-1	22320	22			田方郡	たがたぐん	Tagata County	田方	たがた	Tagata	24		
 2	22320	22			田方郡	たがたぐん	Tagata County	田方	たがた	Tagata	24		
 3	22325	22	22320		函南町	かんなみちょう	Kannami Town	函南	かんなみ	Kannami	35	22320	
-1	22340	22			駿東郡	すんとうぐん	Sunto County	駿東	すんとう	Sunto	24		
 2	22340	22			駿東郡	すんとうぐん	Sunto County	駿東	すんとう	Sunto	24		
 3	22341	22	22340		清水町	しみずちょう	Shimizu Town	清水	しみず	Shimizu	35	22340	
 3	22342	22	22340		長泉町	ながいずみちょう	Nagaizumi Town	長泉	ながいずみ	Nagaizumi	35	22340	
 3	22344	22	22340		小山町	おやまちょう	Oyama Town	小山	おやま	Oyama	35	22340	
-1	22420	22			榛原郡	はいばらぐん	Haibara County	榛原	はいばら	Haibara	24		
 2	22420	22			榛原郡	はいばらぐん	Haibara County	榛原	はいばら	Haibara	24		
 3	22424	22	22420		吉田町	よしだちょう	Yoshida Town	吉田	よしだ	Yoshida	35	22420	
 3	22429	22	22420		川根本町	かわねほんちょう	Kawanehon Town	川根本	かわねほん	Kawanehon	35	22420	
-1	22460	22			周智郡	しゅうちぐん	Shuchi County	周智	しゅうち	Shuchi	24		
 2	22460	22			周智郡	しゅうちぐん	Shuchi County	周智	しゅうち	Shuchi	24		
 3	22461	22	22460		森町	もりまち	Mori Town	森	もり	Mori	34	22460	
-1	23100	23			名古屋市	なごやし	Nagoya City	名古屋	なごや	Nagoya	21		
+1	23000	23			愛知県	あいちけん	Aichi Prefecture	愛知	あいち	Aichi	14		
 2	23100	23			名古屋市	なごやし	Nagoya City	名古屋	なごや	Nagoya	21		
 3	23100	23	23100		名古屋市	なごやし	Nagoya City	名古屋	なごや	Nagoya	31		
 4	23101	23		23100	千種区	ちくさく	Chikusa Ward	千種	ちくさ	Chikusa	41		
@@ -1627,7 +1378,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	23114	23		23100	緑区	みどりく	Midori Ward	緑	みどり	Midori	41		
 4	23115	23		23100	名東区	めいとうく	Meito Ward	名東	めいとう	Meito	41		
 4	23116	23		23100	天白区	てんぱくく	Tenpaku Ward	天白	てんぱく	Tenpaku	41		
-1	23200	23			市部	しぶ	City Area				23		
 2	23200	23			市部	しぶ	City Area				23		
 3	23201	23	23200		豊橋市	とよはしし	Toyohashi City	豊橋	とよはし	Toyohashi	32		
 3	23202	23	23200		岡崎市	おかざきし	Okazaki City	岡崎	おかざき	Okazaki	32		
@@ -1666,37 +1416,30 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	23236	23	23200		みよし市	みよしし	Miyoshi City	みよし	みよし	Miyoshi	32		
 3	23237	23	23200		あま市	あまし	Ama City	あま	あま	Ama	32		
 3	23238	23	23200		長久手市	ながくてし	Nagakute City	長久手	ながくて	Nagakute	32		
-1	23300	23			愛知郡	あいちぐん	Aichi County	愛知	あいち	Aichi	24		
 2	23300	23			愛知郡	あいちぐん	Aichi County	愛知	あいち	Aichi	24		
 3	23302	23	23300		東郷町	とうごうちょう	Togo Town	東郷	とうごう	Togo	35	23300	
-1	23340	23			西春日井郡	にしかすがいぐん	Nishikasugai County	西春日井	にしかすがい	Nishikasugai	24		
 2	23340	23			西春日井郡	にしかすがいぐん	Nishikasugai County	西春日井	にしかすがい	Nishikasugai	24		
 3	23342	23	23340		豊山町	とよやまちょう	Toyoyama Town	豊山	とよやま	Toyoyama	35	23340	
-1	23360	23			丹羽郡	にわぐん	Niwa County	丹羽	にわ	Niwa	24		
 2	23360	23			丹羽郡	にわぐん	Niwa County	丹羽	にわ	Niwa	24		
 3	23361	23	23360		大口町	おおぐちちょう	Oguchi Town	大口	おおぐち	Oguchi	35	23360	
 3	23362	23	23360		扶桑町	ふそうちょう	Fuso Town	扶桑	ふそう	Fuso	35	23360	
-1	23420	23			海部郡	あまぐん	Ama County	海部	あま	Ama	24		
 2	23420	23			海部郡	あまぐん	Ama County	海部	あま	Ama	24		
 3	23424	23	23420		大治町	おおはるちょう	Oharu Town	大治	おおはる	Oharu	35	23420	
 3	23425	23	23420		蟹江町	かにえちょう	Kanie Town	蟹江	かにえ	Kanie	35	23420	
 3	23427	23	23420		飛島村	とびしまむら	Tobishima Village	飛島	とびしま	Tobishima	36	23420	
-1	23440	23			知多郡	ちたぐん	Chita County	知多	ちた	Chita	24		
 2	23440	23			知多郡	ちたぐん	Chita County	知多	ちた	Chita	24		
 3	23441	23	23440		阿久比町	あぐいちょう	Agui Town	阿久比	あぐい	Agui	35	23440	
 3	23442	23	23440		東浦町	ひがしうらちょう	Higashiura Town	東浦	ひがしうら	Higashiura	35	23440	
 3	23445	23	23440		南知多町	みなみちたちょう	Minamichita Town	南知多	みなみちた	Minamichita	35	23440	
 3	23446	23	23440		美浜町	みはまちょう	Mihama Town	美浜	みはま	Mihama	35	23440	
 3	23447	23	23440		武豊町	たけとよちょう	Taketoyo Town	武豊	たけとよ	Taketoyo	35	23440	
-1	23500	23			額田郡	ぬかたぐん	Nukata County	額田	ぬかた	Nukata	24		
 2	23500	23			額田郡	ぬかたぐん	Nukata County	額田	ぬかた	Nukata	24		
 3	23501	23	23500		幸田町	こうたちょう	Kota Town	幸田	こうた	Kota	35	23500	
-1	23560	23			北設楽郡	きたしたらぐん	Kitashitara County	北設楽	きたしたら	Kitashitara	24		
 2	23560	23			北設楽郡	きたしたらぐん	Kitashitara County	北設楽	きたしたら	Kitashitara	24		
 3	23561	23	23560		設楽町	したらちょう	Shitara Town	設楽	したら	Shitara	35	23560	
 3	23562	23	23560		東栄町	とうえいちょう	Toei Town	東栄	とうえい	Toei	35	23560	
 3	23563	23	23560		豊根村	とよねむら	Toyone Village	豊根	とよね	Toyone	36	23560	
-1	24200	24			市部	しぶ	City Area				23		
+1	24000	24			三重県	みえけん	Mie Prefecture	三重	みえ	Mie	14		
 2	24200	24			市部	しぶ	City Area				23		
 3	24201	24	24200		津市	つし	Tsu City	津	つ	Tsu	32		
 3	24202	24	24200		四日市市	よっかいちし	Yokkaichi City	四日市	よっかいち	Yokkaichi	32		
@@ -1712,36 +1455,29 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	24214	24	24200		いなべ市	いなべし	Inabe City	いなべ	いなべ	Inabe	32		
 3	24215	24	24200		志摩市	しまし	Shima City	志摩	しま	Shima	32		
 3	24216	24	24200		伊賀市	いがし	Iga City	伊賀	いが	Iga	32		
-1	24300	24			桑名郡	くわなぐん	Kuwana County	桑名	くわな	Kuwana	24		
 2	24300	24			桑名郡	くわなぐん	Kuwana County	桑名	くわな	Kuwana	24		
 3	24303	24	24300		木曽岬町	きそさきちょう	Kisosaki Town	木曽岬	きそさき	Kisosaki	35	24300	
-1	24320	24			員弁郡	いなべぐん	Inabe County	員弁	いなべ	Inabe	24		
 2	24320	24			員弁郡	いなべぐん	Inabe County	員弁	いなべ	Inabe	24		
 3	24324	24	24320		東員町	とういんちょう	Toin Town	東員	とういん	Toin	35	24320	
-1	24340	24			三重郡	みえぐん	Mie County	三重	みえ	Mie	24		
 2	24340	24			三重郡	みえぐん	Mie County	三重	みえ	Mie	24		
 3	24341	24	24340		菰野町	こものちょう	Komono Town	菰野	こもの	Komono	35	24340	
 3	24343	24	24340		朝日町	あさひちょう	Asahi Town	朝日	あさひ	Asahi	35	24340	
 3	24344	24	24340		川越町	かわごえちょう	Kawagoe Town	川越	かわごえ	Kawagoe	35	24340	
-1	24440	24			多気郡	たきぐん	Taki County	多気	たき	Taki	24		
 2	24440	24			多気郡	たきぐん	Taki County	多気	たき	Taki	24		
 3	24441	24	24440		多気町	たきちょう	Taki Town	多気	たき	Taki	35	24440	
 3	24442	24	24440		明和町	めいわちょう	Meiwa Town	明和	めいわ	Meiwa	35	24440	
 3	24443	24	24440		大台町	おおだいちょう	Odai Town	大台	おおだい	Odai	35	24440	
-1	24460	24			度会郡	わたらいぐん	Watarai County	度会	わたらい	Watarai	24		
 2	24460	24			度会郡	わたらいぐん	Watarai County	度会	わたらい	Watarai	24		
 3	24461	24	24460		玉城町	たまきちょう	Tamaki Town	玉城	たまき	Tamaki	35	24460	
 3	24470	24	24460		度会町	わたらいちょう	Watarai Town	度会	わたらい	Watarai	35	24460	
 3	24471	24	24460		大紀町	たいきちょう	Taiki Town	大紀	たいき	Taiki	35	24460	
 3	24472	24	24460		南伊勢町	みなみいせちょう	Minamiise Town	南伊勢	みなみいせ	Minamiise	35	24460	
-1	24540	24			北牟婁郡	きたむろぐん	Kitamuro County	北牟婁	きたむろ	Kitamuro	24		
 2	24540	24			北牟婁郡	きたむろぐん	Kitamuro County	北牟婁	きたむろ	Kitamuro	24		
 3	24543	24	24540		紀北町	きほくちょう	Kihoku Town	紀北	きほく	Kihoku	35	24540	
-1	24560	24			南牟婁郡	みなみむろぐん	Minamimuro County	南牟婁	みなみむろ	Minamimuro	24		
 2	24560	24			南牟婁郡	みなみむろぐん	Minamimuro County	南牟婁	みなみむろ	Minamimuro	24		
 3	24561	24	24560		御浜町	みはまちょう	Mihama Town	御浜	みはま	Mihama	35	24560	
 3	24562	24	24560		紀宝町	きほうちょう	Kiho Town	紀宝	きほう	Kiho	35	24560	
-1	25200	25			市部	しぶ	City Area				23		
+1	25000	25			滋賀県	しがけん	Shiga Prefecture	滋賀	しが	Shiga	14		
 2	25200	25			市部	しぶ	City Area				23		
 3	25201	25	25200		大津市	おおつし	Otsu City	大津	おおつ	Otsu	32		
 3	25202	25	25200		彦根市	ひこねし	Hikone City	彦根	ひこね	Hikone	32		
@@ -1756,19 +1492,16 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	25212	25	25200		高島市	たかしまし	Takashima City	高島	たかしま	Takashima	32		
 3	25213	25	25200		東近江市	ひがしおうみし	Higashiomi City	東近江	ひがしおうみ	Higashiomi	32		
 3	25214	25	25200		米原市	まいばらし	Maibara City	米原	まいばら	Maibara	32		
-1	25380	25			蒲生郡	がもうぐん	Gamo County	蒲生	がもう	Gamo	24		
 2	25380	25			蒲生郡	がもうぐん	Gamo County	蒲生	がもう	Gamo	24		
 3	25383	25	25380		日野町	ひのちょう	Hino Town	日野	ひの	Hino	35	25380	
 3	25384	25	25380		竜王町	りゅうおうちょう	Ryuo Town	竜王	りゅうおう	Ryuo	35	25380	
-1	25420	25			愛知郡	えちぐん	Echi County	愛知	えち	Echi	24		
 2	25420	25			愛知郡	えちぐん	Echi County	愛知	えち	Echi	24		
 3	25425	25	25420		愛荘町	あいしょうちょう	Aisho Town	愛荘	あいしょう	Aisho	35	25420	
-1	25440	25			犬上郡	いぬかみぐん	Inukami County	犬上	いぬかみ	Inukami	24		
 2	25440	25			犬上郡	いぬかみぐん	Inukami County	犬上	いぬかみ	Inukami	24		
 3	25441	25	25440		豊郷町	とよさとちょう	Toyosato Town	豊郷	とよさと	Toyosato	35	25440	
 3	25442	25	25440		甲良町	こうらちょう	Koura Town	甲良	こうら	Koura	35	25440	
 3	25443	25	25440		多賀町	たがちょう	Taga Town	多賀	たが	Taga	35	25440	
-1	26100	26			京都市	きょうとし	Kyoto City	京都	きょうと	Kyoto	21		
+1	26000	26			京都府	きょうとふ	Kyoto Prefecture	京都	きょうと	Kyoto	13		
 2	26100	26			京都市	きょうとし	Kyoto City	京都	きょうと	Kyoto	21		
 3	26100	26	26100		京都市	きょうとし	Kyoto City	京都	きょうと	Kyoto	31		
 4	26101	26		26100	北区	きたく	Kita Ward	北	きた	Kita	41		
@@ -1782,7 +1515,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	26109	26		26100	伏見区	ふしみく	Fushimi Ward	伏見	ふしみ	Fushimi	41		
 4	26110	26		26100	山科区	やましなく	Yamashina Ward	山科	やましな	Yamashina	41		
 4	26111	26		26100	西京区	にしきょうく	Nishikyo Ward	西京	にしきょう	Nishikyo	41		
-1	26200	26			市部	しぶ	City Area				23		
 2	26200	26			市部	しぶ	City Area				23		
 3	26201	26	26200		福知山市	ふくちやまし	Fukuchiyama City	福知山	ふくちやま	Fukuchiyama	32		
 3	26202	26	26200		舞鶴市	まいづるし	Maizuru City	舞鶴	まいづる	Maizuru	32		
@@ -1798,30 +1530,24 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	26212	26	26200		京丹後市	きょうたんごし	Kyotango City	京丹後	きょうたんご	Kyotango	32		
 3	26213	26	26200		南丹市	なんたんし	Nantan City	南丹	なんたん	Nantan	32		
 3	26214	26	26200		木津川市	きづがわし	Kizugawa City	木津川	きづがわ	Kizugawa	32		
-1	26300	26			乙訓郡	おとくにぐん	Otokuni County	乙訓	おとくに	Otokuni	24		
 2	26300	26			乙訓郡	おとくにぐん	Otokuni County	乙訓	おとくに	Otokuni	24		
 3	26303	26	26300		大山崎町	おおやまざきちょう	Oyamazaki Town	大山崎	おおやまざき	Oyamazaki	35	26300	
-1	26320	26			久世郡	くせぐん	Kuse County	久世	くせ	Kuse	24		
 2	26320	26			久世郡	くせぐん	Kuse County	久世	くせ	Kuse	24		
 3	26322	26	26320		久御山町	くみやまちょう	Kumiyama Town	久御山	くみやま	Kumiyama	35	26320	
-1	26340	26			綴喜郡	つづきぐん	Tsuzuki County	綴喜	つづき	Tsuzuki	24		
 2	26340	26			綴喜郡	つづきぐん	Tsuzuki County	綴喜	つづき	Tsuzuki	24		
 3	26343	26	26340		井手町	いでちょう	Ide Town	井手	いで	Ide	35	26340	
 3	26344	26	26340		宇治田原町	うじたわらちょう	Ujitawara Town	宇治田原	うじたわら	Ujitawara	35	26340	
-1	26360	26			相楽郡	そうらくぐん	Soraku County	相楽	そうらく	Soraku	24		
 2	26360	26			相楽郡	そうらくぐん	Soraku County	相楽	そうらく	Soraku	24		
 3	26364	26	26360		笠置町	かさぎちょう	Kasagi Town	笠置	かさぎ	Kasagi	35	26360	
 3	26365	26	26360		和束町	わづかちょう	Wazuka Town	和束	わづか	Wazuka	35	26360	
 3	26366	26	26360		精華町	せいかちょう	Seika Town	精華	せいか	Seika	35	26360	
 3	26367	26	26360		南山城村	みなみやましろむら	Minamiyamashiro Village	南山城	みなみやましろ	Minamiyamashiro	36	26360	
-1	26400	26			船井郡	ふないぐん	Funai County	船井	ふない	Funai	24		
 2	26400	26			船井郡	ふないぐん	Funai County	船井	ふない	Funai	24		
 3	26407	26	26400		京丹波町	きょうたんばちょう	Kyotanba Town	京丹波	きょうたんば	Kyotanba	35	26400	
-1	26460	26			与謝郡	よさぐん	Yosa County	与謝	よさ	Yosa	24		
 2	26460	26			与謝郡	よさぐん	Yosa County	与謝	よさ	Yosa	24		
 3	26463	26	26460		伊根町	いねちょう	Ine Town	伊根	いね	Ine	35	26460	
 3	26465	26	26460		与謝野町	よさのちょう	Yosano Town	与謝野	よさの	Yosano	35	26460	
-1	27100	27			大阪市	おおさかし	Osaka City	大阪	おおさか	Osaka	21		
+1	27000	27			大阪府	おおさかふ	Osaka Prefecture	大阪	おおさか	Osaka	13		
 2	27100	27			大阪市	おおさかし	Osaka City	大阪	おおさか	Osaka	21		
 3	27100	27	27100		大阪市	おおさかし	Osaka City	大阪	おおさか	Osaka	31		
 4	27102	27		27100	都島区	みやこじまく	Miyakojima Ward	都島	みやこじま	Miyakojima	41		
@@ -1848,7 +1574,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	27126	27		27100	平野区	ひらのく	Hirano Ward	平野	ひらの	Hirano	41		
 4	27127	27		27100	北区	きたく	Kita Ward	北	きた	Kita	41		
 4	27128	27		27100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41		
-1	27140	27			堺市	さかいし	Sakai City	堺	さかい	Sakai	21		
 2	27140	27			堺市	さかいし	Sakai City	堺	さかい	Sakai	21		
 3	27140	27	27140		堺市	さかいし	Sakai City	堺	さかい	Sakai	31		
 4	27141	27		27140	堺区	さかいく	Sakai Ward	堺	さかい	Sakai	41		
@@ -1858,7 +1583,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	27145	27		27140	南区	みなみく	Minami Ward	南	みなみ	Minami	41		
 4	27146	27		27140	北区	きたく	Kita Ward	北	きた	Kita	41		
 4	27147	27		27140	美原区	みはらく	Mihara Ward	美原	みはら	Mihara	41		
-1	27200	27			市部	しぶ	City Area				23		
 2	27200	27			市部	しぶ	City Area				23		
 3	27202	27	27200		岸和田市	きしわだし	Kishiwada City	岸和田	きしわだ	Kishiwada	32		
 3	27203	27	27200		豊中市	とよなかし	Toyonaka City	豊中	とよなか	Toyonaka	32		
@@ -1891,27 +1615,22 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	27230	27	27200		交野市	かたのし	Katano City	交野	かたの	Katano	32		
 3	27231	27	27200		大阪狭山市	おおさかさやまし	Osakasayama City	大阪狭山	おおさかさやま	Osakasayama	32		
 3	27232	27	27200		阪南市	はんなんし	Hannan City	阪南	はんなん	Hannan	32		
-1	27300	27			三島郡	みしまぐん	Mishima County	三島	みしま	Mishima	24		
 2	27300	27			三島郡	みしまぐん	Mishima County	三島	みしま	Mishima	24		
 3	27301	27	27300		島本町	しまもとちょう	Shimamoto Town	島本	しまもと	Shimamoto	35	27300	
-1	27320	27			豊能郡	とよのぐん	Toyono County	豊能	とよの	Toyono	24		
 2	27320	27			豊能郡	とよのぐん	Toyono County	豊能	とよの	Toyono	24		
 3	27321	27	27320		豊能町	とよのちょう	Toyono Town	豊能	とよの	Toyono	35	27320	
 3	27322	27	27320		能勢町	のせちょう	Nose Town	能勢	のせ	Nose	35	27320	
-1	27340	27			泉北郡	せんぼくぐん	Senboku County	泉北	せんぼく	Senboku	24		
 2	27340	27			泉北郡	せんぼくぐん	Senboku County	泉北	せんぼく	Senboku	24		
 3	27341	27	27340		忠岡町	ただおかちょう	Tadaoka Town	忠岡	ただおか	Tadaoka	35	27340	
-1	27360	27			泉南郡	せんなんぐん	Sennan County	泉南	せんなん	Sennan	24		
 2	27360	27			泉南郡	せんなんぐん	Sennan County	泉南	せんなん	Sennan	24		
 3	27361	27	27360		熊取町	くまとりちょう	Kumatori Town	熊取	くまとり	Kumatori	35	27360	
 3	27362	27	27360		田尻町	たじりちょう	Tajiri Town	田尻	たじり	Tajiri	35	27360	
 3	27366	27	27360		岬町	みさきちょう	Misaki Town	岬	みさき	Misaki	35	27360	
-1	27380	27			南河内郡	みなみかわちぐん	Minamikawachi County	南河内	みなみかわち	Minamikawachi	24		
 2	27380	27			南河内郡	みなみかわちぐん	Minamikawachi County	南河内	みなみかわち	Minamikawachi	24		
 3	27381	27	27380		太子町	たいしちょう	Taishi Town	太子	たいし	Taishi	35	27380	
 3	27382	27	27380		河南町	かなんちょう	Kanan Town	河南	かなん	Kanan	35	27380	
 3	27383	27	27380		千早赤阪村	ちはやあかさかむら	Chihayaakasaka Village	千早赤阪	ちはやあかさか	Chihayaakasaka	36	27380	
-1	28100	28			神戸市	こうべし	Kobe City	神戸	こうべ	Kobe	21		
+1	28000	28			兵庫県	ひょうごけん	Hyogo Prefecture	兵庫	ひょうご	Hyogo	14		
 2	28100	28			神戸市	こうべし	Kobe City	神戸	こうべ	Kobe	21		
 3	28100	28	28100		神戸市	こうべし	Kobe City	神戸	こうべ	Kobe	31		
 4	28101	28		28100	東灘区	ひがしなだく	Higashinada Ward	東灘	ひがしなだ	Higashinada	41		
@@ -1923,7 +1642,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	28109	28		28100	北区	きたく	Kita Ward	北	きた	Kita	41		
 4	28110	28		28100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41		
 4	28111	28		28100	西区	にしく	Nishi Ward	西	にし	Nishi	41		
-1	28200	28			市部	しぶ	City Area				23		
 2	28200	28			市部	しぶ	City Area				23		
 3	28201	28	28200		姫路市	ひめじし	Himeji City	姫路	ひめじ	Himeji	32		
 3	28202	28	28200		尼崎市	あまがさきし	Amagasaki City	尼崎	あまがさき	Amagasaki	32		
@@ -1953,35 +1671,27 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	28227	28	28200		宍粟市	しそうし	Shiso City	宍粟	しそう	Shiso	32		
 3	28228	28	28200		加東市	かとうし	Kato City	加東	かとう	Kato	32		
 3	28229	28	28200		たつの市	たつのし	Tatsuno City	たつの	たつの	Tatsuno	32		
-1	28300	28			川辺郡	かわべぐん	Kawabe County	川辺	かわべ	Kawabe	24		
 2	28300	28			川辺郡	かわべぐん	Kawabe County	川辺	かわべ	Kawabe	24		
 3	28301	28	28300		猪名川町	いながわちょう	Inagawa Town	猪名川	いながわ	Inagawa	35	28300	
-1	28360	28			多可郡	たかぐん	Taka County	多可	たか	Taka	24		
 2	28360	28			多可郡	たかぐん	Taka County	多可	たか	Taka	24		
 3	28365	28	28360		多可町	たかちょう	Taka Town	多可	たか	Taka	35	28360	
-1	28380	28			加古郡	かこぐん	Kako County	加古	かこ	Kako	24		
 2	28380	28			加古郡	かこぐん	Kako County	加古	かこ	Kako	24		
 3	28381	28	28380		稲美町	いなみちょう	Inami Town	稲美	いなみ	Inami	35	28380	
 3	28382	28	28380		播磨町	はりまちょう	Harima Town	播磨	はりま	Harima	35	28380	
-1	28440	28			神崎郡	かんざきぐん	Kanzaki County	神崎	かんざき	Kanzaki	24		
 2	28440	28			神崎郡	かんざきぐん	Kanzaki County	神崎	かんざき	Kanzaki	24		
 3	28442	28	28440		市川町	いちかわちょう	Ichikawa Town	市川	いちかわ	Ichikawa	35	28440	
 3	28443	28	28440		福崎町	ふくさきちょう	Fukusaki Town	福崎	ふくさき	Fukusaki	35	28440	
 3	28446	28	28440		神河町	かみかわちょう	Kamikawa Town	神河	かみかわ	Kamikawa	35	28440	
-1	28460	28			揖保郡	いぼぐん	Ibo County	揖保	いぼ	Ibo	24		
 2	28460	28			揖保郡	いぼぐん	Ibo County	揖保	いぼ	Ibo	24		
 3	28464	28	28460		太子町	たいしちょう	Taishi Town	太子	たいし	Taishi	35	28460	
-1	28480	28			赤穂郡	あこうぐん	Ako County	赤穂	あこう	Ako	24		
 2	28480	28			赤穂郡	あこうぐん	Ako County	赤穂	あこう	Ako	24		
 3	28481	28	28480		上郡町	かみごおりちょう	Kamigori Town	上郡	かみごおり	Kamigori	35	28480	
-1	28500	28			佐用郡	さようぐん	Sayo County	佐用	さよう	Sayo	24		
 2	28500	28			佐用郡	さようぐん	Sayo County	佐用	さよう	Sayo	24		
 3	28501	28	28500		佐用町	さようちょう	Sayo Town	佐用	さよう	Sayo	35	28500	
-1	28580	28			美方郡	みかたぐん	Mikata County	美方	みかた	Mikata	24		
 2	28580	28			美方郡	みかたぐん	Mikata County	美方	みかた	Mikata	24		
 3	28585	28	28580		香美町	かみちょう	Kami Town	香美	かみ	Kami	35	28580	
 3	28586	28	28580		新温泉町	しんおんせんちょう	Shin-onsen Town	新温泉	しんおんせん	Shin-onsen	35	28580	
-1	29200	29			市部	しぶ	City Area				23		
+1	29000	29			奈良県	ならけん	Nara Prefecture	奈良	なら	Nara	14		
 2	29200	29			市部	しぶ	City Area				23		
 3	29201	29	29200		奈良市	ならし	Nara City	奈良	なら	Nara	32		
 3	29202	29	29200		大和高田市	やまとたかだし	Yamatotakada City	大和高田	やまとたかだ	Yamatotakada	32		
@@ -1995,35 +1705,28 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	29210	29	29200		香芝市	かしばし	Kashiba City	香芝	かしば	Kashiba	32		
 3	29211	29	29200		葛城市	かつらぎし	Katsuragi City	葛城	かつらぎ	Katsuragi	32		
 3	29212	29	29200		宇陀市	うだし	Uda City	宇陀	うだ	Uda	32		
-1	29320	29			山辺郡	やまべぐん	Yamabe County	山辺	やまべ	Yamabe	24		
 2	29320	29			山辺郡	やまべぐん	Yamabe County	山辺	やまべ	Yamabe	24		
 3	29322	29	29320		山添村	やまぞえむら	Yamazoe Village	山添	やまぞえ	Yamazoe	36	29320	
-1	29340	29			生駒郡	いこまぐん	Ikoma County	生駒	いこま	Ikoma	24		
 2	29340	29			生駒郡	いこまぐん	Ikoma County	生駒	いこま	Ikoma	24		
 3	29342	29	29340		平群町	へぐりちょう	Heguri Town	平群	へぐり	Heguri	35	29340	
 3	29343	29	29340		三郷町	さんごうちょう	Sango Town	三郷	さんごう	Sango	35	29340	
 3	29344	29	29340		斑鳩町	いかるがちょう	Ikaruga Town	斑鳩	いかるが	Ikaruga	35	29340	
 3	29345	29	29340		安堵町	あんどちょう	Ando Town	安堵	あんど	Ando	35	29340	
-1	29360	29			磯城郡	しきぐん	Shiki County	磯城	しき	Shiki	24		
 2	29360	29			磯城郡	しきぐん	Shiki County	磯城	しき	Shiki	24		
 3	29361	29	29360		川西町	かわにしちょう	Kawanishi Town	川西	かわにし	Kawanishi	35	29360	
 3	29362	29	29360		三宅町	みやけちょう	Miyake Town	三宅	みやけ	Miyake	35	29360	
 3	29363	29	29360		田原本町	たわらもとちょう	Tawaramoto Town	田原本	たわらもと	Tawaramoto	35	29360	
-1	29380	29			宇陀郡	うだぐん	Uda County	宇陀	うだ	Uda	24		
 2	29380	29			宇陀郡	うだぐん	Uda County	宇陀	うだ	Uda	24		
 3	29385	29	29380		曽爾村	そにむら	Soni Village	曽爾	そに	Soni	36	29380	
 3	29386	29	29380		御杖村	みつえむら	Mitsue Village	御杖	みつえ	Mitsue	36	29380	
-1	29400	29			高市郡	たかいちぐん	Takaichi County	高市	たかいち	Takaichi	24		
 2	29400	29			高市郡	たかいちぐん	Takaichi County	高市	たかいち	Takaichi	24		
 3	29401	29	29400		高取町	たかとりちょう	Takatori Town	高取	たかとり	Takatori	35	29400	
 3	29402	29	29400		明日香村	あすかむら	Asuka Village	明日香	あすか	Asuka	36	29400	
-1	29420	29			北葛城郡	きたかつらぎぐん	Kitakatsuragi County	北葛城	きたかつらぎ	Kitakatsuragi	24		
 2	29420	29			北葛城郡	きたかつらぎぐん	Kitakatsuragi County	北葛城	きたかつらぎ	Kitakatsuragi	24		
 3	29424	29	29420		上牧町	かんまきちょう	Kanmaki Town	上牧	かんまき	Kanmaki	35	29420	
 3	29425	29	29420		王寺町	おうじちょう	Oji Town	王寺	おうじ	Oji	35	29420	
 3	29426	29	29420		広陵町	こうりょうちょう	Koryo Town	広陵	こうりょう	Koryo	35	29420	
 3	29427	29	29420		河合町	かわいちょう	Kawai Town	河合	かわい	Kawai	35	29420	
-1	29440	29			吉野郡	よしのぐん	Yoshino County	吉野	よしの	Yoshino	24		
 2	29440	29			吉野郡	よしのぐん	Yoshino County	吉野	よしの	Yoshino	24		
 3	29441	29	29440		吉野町	よしのちょう	Yoshino Town	吉野	よしの	Yoshino	35	29440	
 3	29442	29	29440		大淀町	おおよどちょう	Oyodo Town	大淀	おおよど	Oyodo	35	29440	
@@ -2036,7 +1739,7 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	29451	29	29440		上北山村	かみきたやまむら	Kamikitayama Village	上北山	かみきたやま	Kamikitayama	36	29440	
 3	29452	29	29440		川上村	かわかみむら	Kawakami Village	川上	かわかみ	Kawakami	36	29440	
 3	29453	29	29440		東吉野村	ひがしよしのむら	Higashiyoshino Village	東吉野	ひがしよしの	Higashiyoshino	36	29440	
-1	30200	30			市部	しぶ	City Area				23		
+1	30000	30			和歌山県	わかやまけん	Wakayama Prefecture	和歌山	わかやま	Wakayama	14		
 2	30200	30			市部	しぶ	City Area				23		
 3	30201	30	30200		和歌山市	わかやまし	Wakayama City	和歌山	わかやま	Wakayama	32		
 3	30202	30	30200		海南市	かいなんし	Kainan City	海南	かいなん	Kainan	32		
@@ -2047,20 +1750,16 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	30207	30	30200		新宮市	しんぐうし	Shingu City	新宮	しんぐう	Shingu	32		
 3	30208	30	30200		紀の川市	きのかわし	Kinokawa City	紀の川	きのかわ	Kinokawa	32		
 3	30209	30	30200		岩出市	いわでし	Iwade City	岩出	いわで	Iwade	32		
-1	30300	30			海草郡	かいそうぐん	Kaiso County	海草	かいそう	Kaiso	24		
 2	30300	30			海草郡	かいそうぐん	Kaiso County	海草	かいそう	Kaiso	24		
 3	30304	30	30300		紀美野町	きみのちょう	Kimino Town	紀美野	きみの	Kimino	35	30300	
-1	30340	30			伊都郡	いとぐん	Ito County	伊都	いと	Ito	24		
 2	30340	30			伊都郡	いとぐん	Ito County	伊都	いと	Ito	24		
 3	30341	30	30340		かつらぎ町	かつらぎちょう	Katsuragi Town	かつらぎ	かつらぎ	Katsuragi	35	30340	
 3	30343	30	30340		九度山町	くどやまちょう	Kudoyama Town	九度山	くどやま	Kudoyama	35	30340	
 3	30344	30	30340		高野町	こうやちょう	Koya Town	高野	こうや	Koya	35	30340	
-1	30360	30			有田郡	ありだぐん	Arida County	有田	ありだ	Arida	24		
 2	30360	30			有田郡	ありだぐん	Arida County	有田	ありだ	Arida	24		
 3	30361	30	30360		湯浅町	ゆあさちょう	Yuasa Town	湯浅	ゆあさ	Yuasa	35	30360	
 3	30362	30	30360		広川町	ひろがわちょう	Hirogawa Town	広川	ひろがわ	Hirogawa	35	30360	
 3	30366	30	30360		有田川町	ありだがわちょう	Aridagawa Town	有田川	ありだがわ	Aridagawa	35	30360	
-1	30380	30			日高郡	ひだかぐん	Hidaka County	日高	ひだか	Hidaka	24		
 2	30380	30			日高郡	ひだかぐん	Hidaka County	日高	ひだか	Hidaka	24		
 3	30381	30	30380		美浜町	みはまちょう	Mihama Town	美浜	みはま	Mihama	35	30380	
 3	30382	30	30380		日高町	ひだかちょう	Hidaka Town	日高	ひだか	Hidaka	35	30380	
@@ -2068,50 +1767,43 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	30390	30	30380		印南町	いなみちょう	Inami Town	印南	いなみ	Inami	35	30380	
 3	30391	30	30380		みなべ町	みなべちょう	Minabe Town	みなべ	みなべ	Minabe	35	30380	
 3	30392	30	30380		日高川町	ひだかがわちょう	Hidakagawa Town	日高川	ひだかがわ	Hidakagawa	35	30380	
-1	30400	30			西牟婁郡	にしむろぐん	Nishimuro County	西牟婁	にしむろ	Nishimuro	24		
 2	30400	30			西牟婁郡	にしむろぐん	Nishimuro County	西牟婁	にしむろ	Nishimuro	24		
 3	30401	30	30400		白浜町	しらはまちょう	Shirahama Town	白浜	しらはま	Shirahama	35	30400	
 3	30404	30	30400		上富田町	かみとんだちょう	Kamitonda Town	上富田	かみとんだ	Kamitonda	35	30400	
 3	30406	30	30400		すさみ町	すさみちょう	Susami Town	すさみ	すさみ	Susami	35	30400	
-1	30420	30			東牟婁郡	ひがしむろぐん	Higashimuro County	東牟婁	ひがしむろ	Higashimuro	24		
 2	30420	30			東牟婁郡	ひがしむろぐん	Higashimuro County	東牟婁	ひがしむろ	Higashimuro	24		
 3	30421	30	30420		那智勝浦町	なちかつうらちょう	Nachikatsuura Town	那智勝浦	なちかつうら	Nachikatsuura	35	30420	
 3	30422	30	30420		太地町	たいじちょう	Taiji Town	太地	たいじ	Taiji	35	30420	
 3	30424	30	30420		古座川町	こざがわちょう	Kozagawa Town	古座川	こざがわ	Kozagawa	35	30420	
 3	30427	30	30420		北山村	きたやまむら	Kitayama Village	北山	きたやま	Kitayama	36	30420	
 3	30428	30	30420		串本町	くしもとちょう	Kushimoto Town	串本	くしもと	Kushimoto	35	30420	
-1	31200	31			市部	しぶ	City Area				23		
+1	31000	31			鳥取県	とっとりけん	Tottori Prefecture	鳥取	とっとり	Tottori	14		
 2	31200	31			市部	しぶ	City Area				23		
 3	31201	31	31200		鳥取市	とっとりし	Tottori City	鳥取	とっとり	Tottori	32		
 3	31202	31	31200		米子市	よなごし	Yonago City	米子	よなご	Yonago	32		
 3	31203	31	31200		倉吉市	くらよしし	Kurayoshi City	倉吉	くらよし	Kurayoshi	32		
 3	31204	31	31200		境港市	さかいみなとし	Sakaiminato City	境港	さかいみなと	Sakaiminato	32		
-1	31300	31			岩美郡	いわみぐん	Iwami County	岩美	いわみ	Iwami	24		
 2	31300	31			岩美郡	いわみぐん	Iwami County	岩美	いわみ	Iwami	24		
 3	31302	31	31300		岩美町	いわみちょう	Iwami Town	岩美	いわみ	Iwami	35	31300	
-1	31320	31			八頭郡	やずぐん	Yazu County	八頭	やず	Yazu	24		
 2	31320	31			八頭郡	やずぐん	Yazu County	八頭	やず	Yazu	24		
 3	31325	31	31320		若桜町	わかさちょう	Wakasa Town	若桜	わかさ	Wakasa	35	31320	
 3	31328	31	31320		智頭町	ちづちょう	Chizu Town	智頭	ちづ	Chizu	35	31320	
 3	31329	31	31320		八頭町	やずちょう	Yazu Town	八頭	やず	Yazu	35	31320	
-1	31360	31			東伯郡	とうはくぐん	Tohaku County	東伯	とうはく	Tohaku	24		
 2	31360	31			東伯郡	とうはくぐん	Tohaku County	東伯	とうはく	Tohaku	24		
 3	31364	31	31360		三朝町	みささちょう	Misasa Town	三朝	みささ	Misasa	35	31360	
 3	31370	31	31360		湯梨浜町	ゆりはまちょう	Yurihama Town	湯梨浜	ゆりはま	Yurihama	35	31360	
 3	31371	31	31360		琴浦町	ことうらちょう	Kotoura Town	琴浦	ことうら	Kotoura	35	31360	
 3	31372	31	31360		北栄町	ほくえいちょう	Hokuei Town	北栄	ほくえい	Hokuei	35	31360	
-1	31380	31			西伯郡	さいはくぐん	Saihaku County	西伯	さいはく	Saihaku	24		
 2	31380	31			西伯郡	さいはくぐん	Saihaku County	西伯	さいはく	Saihaku	24		
 3	31384	31	31380		日吉津村	ひえづそん	Hiezu Village	日吉津	ひえづ	Hiezu	37	31380	
 3	31386	31	31380		大山町	だいせんちょう	Daisen Town	大山	だいせん	Daisen	35	31380	
 3	31389	31	31380		南部町	なんぶちょう	Nanbu Town	南部	なんぶ	Nanbu	35	31380	
 3	31390	31	31380		伯耆町	ほうきちょう	Hoki Town	伯耆	ほうき	Hoki	35	31380	
-1	31400	31			日野郡	ひのぐん	Hino County	日野	ひの	Hino	24		
 2	31400	31			日野郡	ひのぐん	Hino County	日野	ひの	Hino	24		
 3	31401	31	31400		日南町	にちなんちょう	Nichinan Town	日南	にちなん	Nichinan	35	31400	
 3	31402	31	31400		日野町	ひのちょう	Hino Town	日野	ひの	Hino	35	31400	
 3	31403	31	31400		江府町	こうふちょう	Kofu Town	江府	こうふ	Kofu	35	31400	
-1	32200	32			市部	しぶ	City Area				23		
+1	32000	32			島根県	しまねけん	Shimane Prefecture	島根	しまね	Shimane	14		
 2	32200	32			市部	しぶ	City Area				23		
 3	32201	32	32200		松江市	まつえし	Matsue City	松江	まつえ	Matsue	32		
 3	32202	32	32200		浜田市	はまだし	Hamada City	浜田	はまだ	Hamada	32		
@@ -2121,35 +1813,29 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	32206	32	32200		安来市	やすぎし	Yasugi City	安来	やすぎ	Yasugi	32		
 3	32207	32	32200		江津市	ごうつし	Gotsu City	江津	ごうつ	Gotsu	32		
 3	32209	32	32200		雲南市	うんなんし	Unnan City	雲南	うんなん	Unnan	32		
-1	32340	32			仁多郡	にたぐん	Nita County	仁多	にた	Nita	24		
 2	32340	32			仁多郡	にたぐん	Nita County	仁多	にた	Nita	24		
 3	32343	32	32340		奥出雲町	おくいずもちょう	Okuizumo Town	奥出雲	おくいずも	Okuizumo	35	32340	
-1	32380	32			飯石郡	いいしぐん	Iishi County	飯石	いいし	Iishi	24		
 2	32380	32			飯石郡	いいしぐん	Iishi County	飯石	いいし	Iishi	24		
 3	32386	32	32380		飯南町	いいなんちょう	Iinan Town	飯南	いいなん	Iinan	35	32380	
-1	32440	32			邑智郡	おおちぐん	Ochi County	邑智	おおち	Ochi	24		
 2	32440	32			邑智郡	おおちぐん	Ochi County	邑智	おおち	Ochi	24		
 3	32441	32	32440		川本町	かわもとまち	Kawamoto Town	川本	かわもと	Kawamoto	34	32440	
 3	32448	32	32440		美郷町	みさとちょう	Misato Town	美郷	みさと	Misato	35	32440	
 3	32449	32	32440		邑南町	おおなんちょう	Onan Town	邑南	おおなん	Onan	35	32440	
-1	32500	32			鹿足郡	かのあしぐん	Kanoashi County	鹿足	かのあし	Kanoashi	24		
 2	32500	32			鹿足郡	かのあしぐん	Kanoashi County	鹿足	かのあし	Kanoashi	24		
 3	32501	32	32500		津和野町	つわのちょう	Tsuwano Town	津和野	つわの	Tsuwano	35	32500	
 3	32505	32	32500		吉賀町	よしかちょう	Yoshika Town	吉賀	よしか	Yoshika	35	32500	
-1	32520	32			隠岐郡	おきぐん	Oki County	隠岐	おき	Oki	24		
 2	32520	32			隠岐郡	おきぐん	Oki County	隠岐	おき	Oki	24		
 3	32525	32	32520		海士町	あまちょう	Ama Town	海士	あま	Ama	35	32520	
 3	32526	32	32520		西ノ島町	にしのしまちょう	Nishinoshima Town	西ノ島	にしのしま	Nishinoshima	35	32520	
 3	32527	32	32520		知夫村	ちぶむら	Chibu Village	知夫	ちぶ	Chibu	36	32520	
 3	32528	32	32520		隠岐の島町	おきのしまちょう	Okinoshima Town	隠岐の島	おきのしま	Okinoshima	35	32520	
-1	33100	33			岡山市	おかやまし	Okayama City	岡山	おかやま	Okayama	21		
+1	33000	33			岡山県	おかやまけん	Okayama Prefecture	岡山	おかやま	Okayama	14		
 2	33100	33			岡山市	おかやまし	Okayama City	岡山	おかやま	Okayama	21		
 3	33100	33	33100		岡山市	おかやまし	Okayama City	岡山	おかやま	Okayama	31		
 4	33101	33		33100	北区	きたく	Kita Ward	北	きた	Kita	41		
 4	33102	33		33100	中区	なかく	Naka Ward	中	なか	Naka	41		
 4	33103	33		33100	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41		
 4	33104	33		33100	南区	みなみく	Minami Ward	南	みなみ	Minami	41		
-1	33200	33			市部	しぶ	City Area				23		
 2	33200	33			市部	しぶ	City Area				23		
 3	33202	33	33200		倉敷市	くらしきし	Kurashiki City	倉敷	くらしき	Kurashiki	32		
 3	33203	33	33200		津山市	つやまし	Tsuyama City	津山	つやま	Tsuyama	32		
@@ -2165,39 +1851,29 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	33214	33	33200		真庭市	まにわし	Maniwa City	真庭	まにわ	Maniwa	32		
 3	33215	33	33200		美作市	みまさかし	Mimasaka City	美作	みまさか	Mimasaka	32		
 3	33216	33	33200		浅口市	あさくちし	Asakuchi City	浅口	あさくち	Asakuchi	32		
-1	33340	33			和気郡	わけぐん	Wake County	和気	わけ	Wake	24		
 2	33340	33			和気郡	わけぐん	Wake County	和気	わけ	Wake	24		
 3	33346	33	33340		和気町	わけちょう	Wake Town	和気	わけ	Wake	35	33340	
-1	33420	33			都窪郡	つくぼぐん	Tsukubo County	都窪	つくぼ	Tsukubo	24		
 2	33420	33			都窪郡	つくぼぐん	Tsukubo County	都窪	つくぼ	Tsukubo	24		
 3	33423	33	33420		早島町	はやしまちょう	Hayashima Town	早島	はやしま	Hayashima	35	33420	
-1	33440	33			浅口郡	あさくちぐん	Asakuchi County	浅口	あさくち	Asakuchi	24		
 2	33440	33			浅口郡	あさくちぐん	Asakuchi County	浅口	あさくち	Asakuchi	24		
 3	33445	33	33440		里庄町	さとしょうちょう	Satosho Town	里庄	さとしょう	Satosho	35	33440	
-1	33460	33			小田郡	おだぐん	Oda County	小田	おだ	Oda	24		
 2	33460	33			小田郡	おだぐん	Oda County	小田	おだ	Oda	24		
 3	33461	33	33460		矢掛町	やかげちょう	Yakage Town	矢掛	やかげ	Yakage	35	33460	
-1	33580	33			真庭郡	まにわぐん	Maniwa County	真庭	まにわ	Maniwa	24		
 2	33580	33			真庭郡	まにわぐん	Maniwa County	真庭	まにわ	Maniwa	24		
 3	33586	33	33580		新庄村	しんじょうそん	Shinjo Village	新庄	しんじょう	Shinjo	37	33580	
-1	33600	33			苫田郡	とまたぐん	Tomata County	苫田	とまた	Tomata	24		
 2	33600	33			苫田郡	とまたぐん	Tomata County	苫田	とまた	Tomata	24		
 3	33606	33	33600		鏡野町	かがみのちょう	Kagamino Town	鏡野	かがみの	Kagamino	35	33600	
-1	33620	33			勝田郡	かつたぐん	Katsuta County	勝田	かつた	Katsuta	24		
 2	33620	33			勝田郡	かつたぐん	Katsuta County	勝田	かつた	Katsuta	24		
 3	33622	33	33620		勝央町	しょうおうちょう	Shoo Town	勝央	しょうおう	Shoo	35	33620	
 3	33623	33	33620		奈義町	なぎちょう	Nagi Town	奈義	なぎ	Nagi	35	33620	
-1	33640	33			英田郡	あいだぐん	Aida County	英田	あいだ	Aida	24		
 2	33640	33			英田郡	あいだぐん	Aida County	英田	あいだ	Aida	24		
 3	33643	33	33640		西粟倉村	にしあわくらそん	Nishiawakura Village	西粟倉	にしあわくら	Nishiawakura	37	33640	
-1	33660	33			久米郡	くめぐん	Kume County	久米	くめ	Kume	24		
 2	33660	33			久米郡	くめぐん	Kume County	久米	くめ	Kume	24		
 3	33663	33	33660		久米南町	くめなんちょう	Kumenan Town	久米南	くめなん	Kumenan	35	33660	
 3	33666	33	33660		美咲町	みさきちょう	Misaki Town	美咲	みさき	Misaki	35	33660	
-1	33680	33			加賀郡	かがぐん	Kaga County	加賀	かが	Kaga	24		
 2	33680	33			加賀郡	かがぐん	Kaga County	加賀	かが	Kaga	24		
 3	33681	33	33680		吉備中央町	きびちゅうおうちょう	Kibichuo Town	吉備中央	きびちゅうおう	Kibichuo	35	33680	
-1	34100	34			広島市	ひろしまし	Hiroshima City	広島	ひろしま	Hiroshima	21		
+1	34000	34			広島県	ひろしまけん	Hiroshima Prefecture	広島	ひろしま	Hiroshima	14		
 2	34100	34			広島市	ひろしまし	Hiroshima City	広島	ひろしま	Hiroshima	21		
 3	34100	34	34100		広島市	ひろしまし	Hiroshima City	広島	ひろしま	Hiroshima	31		
 4	34101	34		34100	中区	なかく	Naka Ward	中	なか	Naka	41		
@@ -2208,7 +1884,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	34106	34		34100	安佐北区	あさきたく	Asakita Ward	安佐北	あさきた	Asakita	41		
 4	34107	34		34100	安芸区	あきく	Aki Ward	安芸	あき	Aki	41		
 4	34108	34		34100	佐伯区	さえきく	Saeki Ward	佐伯	さえき	Saeki	41		
-1	34200	34			市部	しぶ	City Area				23		
 2	34200	34			市部	しぶ	City Area				23		
 3	34202	34	34200		呉市	くれし	Kure City	呉	くれ	Kure	32		
 3	34203	34	34200		竹原市	たけはらし	Takehara City	竹原	たけはら	Takehara	32		
@@ -2223,26 +1898,21 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	34213	34	34200		廿日市市	はつかいちし	Hatsukaichi City	廿日市	はつかいち	Hatsukaichi	32		
 3	34214	34	34200		安芸高田市	あきたかたし	Akitakata City	安芸高田	あきたかた	Akitakata	32		
 3	34215	34	34200		江田島市	えたじまし	Etajima City	江田島	えたじま	Etajima	32		
-1	34300	34			安芸郡	あきぐん	Aki County	安芸	あき	Aki	24		
 2	34300	34			安芸郡	あきぐん	Aki County	安芸	あき	Aki	24		
 3	34302	34	34300		府中町	ふちゅうちょう	Fuchu Town	府中	ふちゅう	Fuchu	35	34300	
 3	34304	34	34300		海田町	かいたちょう	Kaita Town	海田	かいた	Kaita	35	34300	
 3	34307	34	34300		熊野町	くまのちょう	Kumano Town	熊野	くまの	Kumano	35	34300	
 3	34309	34	34300		坂町	さかちょう	Saka Town	坂	さか	Saka	35	34300	
-1	34360	34			山県郡	やまがたぐん	Yamagata County	山県	やまがた	Yamagata	24		
 2	34360	34			山県郡	やまがたぐん	Yamagata County	山県	やまがた	Yamagata	24		
 3	34368	34	34360		安芸太田町	あきおおたちょう	Akiota Town	安芸太田	あきおおた	Akiota	35	34360	
 3	34369	34	34360		北広島町	きたひろしまちょう	Kitahiroshima Town	北広島	きたひろしま	Kitahiroshima	35	34360	
-1	34420	34			豊田郡	とよたぐん	Toyota County	豊田	とよた	Toyota	24		
 2	34420	34			豊田郡	とよたぐん	Toyota County	豊田	とよた	Toyota	24		
 3	34431	34	34420		大崎上島町	おおさきかみじまちょう	Osakikamijima Town	大崎上島	おおさきかみじま	Osakikamijima	35	34420	
-1	34460	34			世羅郡	せらぐん	Sera County	世羅	せら	Sera	24		
 2	34460	34			世羅郡	せらぐん	Sera County	世羅	せら	Sera	24		
 3	34462	34	34460		世羅町	せらちょう	Sera Town	世羅	せら	Sera	35	34460	
-1	34540	34			神石郡	じんせきぐん	Jinseki County	神石	じんせき	Jinseki	24		
 2	34540	34			神石郡	じんせきぐん	Jinseki County	神石	じんせき	Jinseki	24		
 3	34545	34	34540		神石高原町	じんせきこうげんちょう	Jinsekikogen Town	神石高原	じんせきこうげん	Jinsekikogen	35	34540	
-1	35200	35			市部	しぶ	City Area				23		
+1	35000	35			山口県	やまぐちけん	Yamaguchi Prefecture	山口	やまぐち	Yamaguchi	14		
 2	35200	35			市部	しぶ	City Area				23		
 3	35201	35	35200		下関市	しものせきし	Shimonoseki City	下関	しものせき	Shimonoseki	32		
 3	35202	35	35200		宇部市	うべし	Ube City	宇部	うべ	Ube	32		
@@ -2257,21 +1927,17 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	35213	35	35200		美祢市	みねし	Mine City	美祢	みね	Mine	32		
 3	35215	35	35200		周南市	しゅうなんし	Shunan City	周南	しゅうなん	Shunan	32		
 3	35216	35	35200		山陽小野田市	さんようおのだし	Sanyo-Onoda City	山陽小野田	さんようおのだ	Sanyo-Onoda	32		
-1	35300	35			大島郡	おおしまぐん	Oshima County	大島	おおしま	Oshima	24		
 2	35300	35			大島郡	おおしまぐん	Oshima County	大島	おおしま	Oshima	24		
 3	35305	35	35300		周防大島町	すおうおおしまちょう	Suooshima Town	周防大島	すおうおおしま	Suooshima	35	35300	
-1	35320	35			玖珂郡	くがぐん	Kuga County	玖珂	くが	Kuga	24		
 2	35320	35			玖珂郡	くがぐん	Kuga County	玖珂	くが	Kuga	24		
 3	35321	35	35320		和木町	わきちょう	Waki Town	和木	わき	Waki	35	35320	
-1	35340	35			熊毛郡	くまげぐん	Kumage County	熊毛	くまげ	Kumage	24		
 2	35340	35			熊毛郡	くまげぐん	Kumage County	熊毛	くまげ	Kumage	24		
 3	35341	35	35340		上関町	かみのせきちょう	Kaminoseki Town	上関	かみのせき	Kaminoseki	35	35340	
 3	35343	35	35340		田布施町	たぶせちょう	Tabuse Town	田布施	たぶせ	Tabuse	35	35340	
 3	35344	35	35340		平生町	ひらおちょう	Hirao Town	平生	ひらお	Hirao	35	35340	
-1	35500	35			阿武郡	あぶぐん	Abu County	阿武	あぶ	Abu	24		
 2	35500	35			阿武郡	あぶぐん	Abu County	阿武	あぶ	Abu	24		
 3	35502	35	35500		阿武町	あぶちょう	Abu Town	阿武	あぶ	Abu	35	35500	
-1	36200	36			市部	しぶ	City Area				23		
+1	36000	36			徳島県	とくしまけん	Tokushima Prefecture	徳島	とくしま	Tokushima	14		
 2	36200	36			市部	しぶ	City Area				23		
 3	36201	36	36200		徳島市	とくしまし	Tokushima City	徳島	とくしま	Tokushima	32		
 3	36202	36	36200		鳴門市	なるとし	Naruto City	鳴門	なると	Naruto	32		
@@ -2281,39 +1947,31 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	36206	36	36200		阿波市	あわし	Awa City	阿波	あわ	Awa	32		
 3	36207	36	36200		美馬市	みまし	Mima City	美馬	みま	Mima	32		
 3	36208	36	36200		三好市	みよしし	Miyoshi City	三好	みよし	Miyoshi	32		
-1	36300	36			勝浦郡	かつうらぐん	Katsuura County	勝浦	かつうら	Katsuura	24		
 2	36300	36			勝浦郡	かつうらぐん	Katsuura County	勝浦	かつうら	Katsuura	24		
 3	36301	36	36300		勝浦町	かつうらちょう	Katsuura Town	勝浦	かつうら	Katsuura	35	36300	
 3	36302	36	36300		上勝町	かみかつちょう	Kamikatsu Town	上勝	かみかつ	Kamikatsu	35	36300	
-1	36320	36			名東郡	みょうどうぐん	Myodo County	名東	みょうどう	Myodo	24		
 2	36320	36			名東郡	みょうどうぐん	Myodo County	名東	みょうどう	Myodo	24		
 3	36321	36	36320		佐那河内村	さなごうちそん	Sanagochi Village	佐那河内	さなごうち	Sanagochi	37	36320	
-1	36340	36			名西郡	みょうざいぐん	Myozai County	名西	みょうざい	Myozai	24		
 2	36340	36			名西郡	みょうざいぐん	Myozai County	名西	みょうざい	Myozai	24		
 3	36341	36	36340		石井町	いしいちょう	Ishii Town	石井	いしい	Ishii	35	36340	
 3	36342	36	36340		神山町	かみやまちょう	Kamiyama Town	神山	かみやま	Kamiyama	35	36340	
-1	36360	36			那賀郡	なかぐん	Naka County	那賀	なか	Naka	24		
 2	36360	36			那賀郡	なかぐん	Naka County	那賀	なか	Naka	24		
 3	36368	36	36360		那賀町	なかちょう	Naka Town	那賀	なか	Naka	35	36360	
-1	36380	36			海部郡	かいふぐん	Kaifu County	海部	かいふ	Kaifu	24		
 2	36380	36			海部郡	かいふぐん	Kaifu County	海部	かいふ	Kaifu	24		
 3	36383	36	36380		牟岐町	むぎちょう	Mugi Town	牟岐	むぎ	Mugi	35	36380	
 3	36387	36	36380		美波町	みなみちょう	Minami Town	美波	みなみ	Minami	35	36380	
 3	36388	36	36380		海陽町	かいようちょう	Kaiyo Town	海陽	かいよう	Kaiyo	35	36380	
-1	36400	36			板野郡	いたのぐん	Itano County	板野	いたの	Itano	24		
 2	36400	36			板野郡	いたのぐん	Itano County	板野	いたの	Itano	24		
 3	36401	36	36400		松茂町	まつしげちょう	Matsushige Town	松茂	まつしげ	Matsushige	35	36400	
 3	36402	36	36400		北島町	きたじまちょう	Kitajima Town	北島	きたじま	Kitajima	35	36400	
 3	36403	36	36400		藍住町	あいずみちょう	Aizumi Town	藍住	あいずみ	Aizumi	35	36400	
 3	36404	36	36400		板野町	いたのちょう	Itano Town	板野	いたの	Itano	35	36400	
 3	36405	36	36400		上板町	かみいたちょう	Kamiita Town	上板	かみいた	Kamiita	35	36400	
-1	36460	36			美馬郡	みまぐん	Mima County	美馬	みま	Mima	24		
 2	36460	36			美馬郡	みまぐん	Mima County	美馬	みま	Mima	24		
 3	36468	36	36460		つるぎ町	つるぎちょう	Tsurugi Town	つるぎ	つるぎ	Tsurugi	35	36460	
-1	36480	36			三好郡	みよしぐん	Miyoshi County	三好	みよし	Miyoshi	24		
 2	36480	36			三好郡	みよしぐん	Miyoshi County	三好	みよし	Miyoshi	24		
 3	36489	36	36480		東みよし町	ひがしみよしちょう	Higashimiyoshi Town	東みよし	ひがしみよし	Higashimiyoshi	35	36480	
-1	37200	37			市部	しぶ	City Area				23		
+1	37000	37			香川県	かがわけん	Kagawa Prefecture	香川	かがわ	Kagawa	14		
 2	37200	37			市部	しぶ	City Area				23		
 3	37201	37	37200		高松市	たかまつし	Takamatsu City	高松	たかまつ	Takamatsu	32		
 3	37202	37	37200		丸亀市	まるがめし	Marugame City	丸亀	まるがめ	Marugame	32		
@@ -2323,26 +1981,21 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	37206	37	37200		さぬき市	さぬきし	Sanuki City	さぬき	さぬき	Sanuki	32		
 3	37207	37	37200		東かがわ市	ひがしかがわし	Higashikagawa City	東かがわ	ひがしかがわ	Higashikagawa	32		
 3	37208	37	37200		三豊市	みとよし	Mitoyo City	三豊	みとよ	Mitoyo	32		
-1	37320	37			小豆郡	しょうずぐん	Shozu County	小豆	しょうず	Shozu	24		
 2	37320	37			小豆郡	しょうずぐん	Shozu County	小豆	しょうず	Shozu	24		
 3	37322	37	37320		土庄町	とのしょうちょう	Tonosho Town	土庄	とのしょう	Tonosho	35	37320	
 3	37324	37	37320		小豆島町	しょうどしまちょう	Shodoshima Town	小豆島	しょうどしま	Shodoshima	35	37320	
-1	37340	37			木田郡	きたぐん	Kita County	木田	きた	Kita	24		
 2	37340	37			木田郡	きたぐん	Kita County	木田	きた	Kita	24		
 3	37341	37	37340		三木町	みきちょう	Miki Town	三木	みき	Miki	35	37340	
-1	37360	37			香川郡	かがわぐん	Kagawa County	香川	かがわ	Kagawa	24		
 2	37360	37			香川郡	かがわぐん	Kagawa County	香川	かがわ	Kagawa	24		
 3	37364	37	37360		直島町	なおしまちょう	Naoshima Town	直島	なおしま	Naoshima	35	37360	
-1	37380	37			綾歌郡	あやうたぐん	Ayauta County	綾歌	あやうた	Ayauta	24		
 2	37380	37			綾歌郡	あやうたぐん	Ayauta County	綾歌	あやうた	Ayauta	24		
 3	37386	37	37380		宇多津町	うたづちょう	Utazu Town	宇多津	うたづ	Utazu	35	37380	
 3	37387	37	37380		綾川町	あやがわちょう	Ayagawa Town	綾川	あやがわ	Ayagawa	35	37380	
-1	37400	37			仲多度郡	なかたどぐん	Nakatado County	仲多度	なかたど	Nakatado	24		
 2	37400	37			仲多度郡	なかたどぐん	Nakatado County	仲多度	なかたど	Nakatado	24		
 3	37403	37	37400		琴平町	ことひらちょう	Kotohira Town	琴平	ことひら	Kotohira	35	37400	
 3	37404	37	37400		多度津町	たどつちょう	Tadotsu Town	多度津	たどつ	Tadotsu	35	37400	
 3	37406	37	37400		まんのう町	まんのうちょう	Manno Town	まんのう	まんのう	Manno	35	37400	
-1	38200	38			市部	しぶ	City Area				23		
+1	38000	38			愛媛県	えひめけん	Ehime Prefecture	愛媛	えひめ	Ehime	14		
 2	38200	38			市部	しぶ	City Area				23		
 3	38201	38	38200		松山市	まつやまし	Matsuyama City	松山	まつやま	Matsuyama	32		
 3	38202	38	38200		今治市	いまばりし	Imabari City	今治	いまばり	Imabari	32		
@@ -2355,30 +2008,23 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	38213	38	38200		四国中央市	しこくちゅうおうし	Shikokuchuo City	四国中央	しこくちゅうおう	Shikokuchuo	32		
 3	38214	38	38200		西予市	せいよし	Seiyo City	西予	せいよ	Seiyo	32		
 3	38215	38	38200		東温市	とうおんし	Toon City	東温	とうおん	Toon	32		
-1	38340	38			越智郡	おちぐん	Ochi County	越智	おち	Ochi	24		
 2	38340	38			越智郡	おちぐん	Ochi County	越智	おち	Ochi	24		
 3	38356	38	38340		上島町	かみじまちょう	Kamijima Town	上島	かみじま	Kamijima	35	38340	
-1	38380	38			上浮穴郡	かみうけなぐん	Kamiukena County	上浮穴	かみうけな	Kamiukena	24		
 2	38380	38			上浮穴郡	かみうけなぐん	Kamiukena County	上浮穴	かみうけな	Kamiukena	24		
 3	38386	38	38380		久万高原町	くまこうげんちょう	Kumakogen Town	久万高原	くまこうげん	Kumakogen	35	38380	
-1	38400	38			伊予郡	いよぐん	Iyo County	伊予	いよ	Iyo	24		
 2	38400	38			伊予郡	いよぐん	Iyo County	伊予	いよ	Iyo	24		
 3	38401	38	38400		松前町	まさきちょう	Masaki Town	松前	まさき	Masaki	35	38400	
 3	38402	38	38400		砥部町	とべちょう	Tobe Town	砥部	とべ	Tobe	35	38400	
-1	38420	38			喜多郡	きたぐん	Kita County	喜多	きた	Kita	24		
 2	38420	38			喜多郡	きたぐん	Kita County	喜多	きた	Kita	24		
 3	38422	38	38420		内子町	うちこちょう	Uchiko Town	内子	うちこ	Uchiko	35	38420	
-1	38440	38			西宇和郡	にしうわぐん	Nishiuwa County	西宇和	にしうわ	Nishiuwa	24		
 2	38440	38			西宇和郡	にしうわぐん	Nishiuwa County	西宇和	にしうわ	Nishiuwa	24		
 3	38442	38	38440		伊方町	いかたちょう	Ikata Town	伊方	いかた	Ikata	35	38440	
-1	38480	38			北宇和郡	きたうわぐん	Kitauwa County	北宇和	きたうわ	Kitauwa	24		
 2	38480	38			北宇和郡	きたうわぐん	Kitauwa County	北宇和	きたうわ	Kitauwa	24		
 3	38484	38	38480		松野町	まつのちょう	Matsuno Town	松野	まつの	Matsuno	35	38480	
 3	38488	38	38480		鬼北町	きほくちょう	Kihoku Town	鬼北	きほく	Kihoku	35	38480	
-1	38500	38			南宇和郡	みなみうわぐん	Minamiuwa County	南宇和	みなみうわ	Minamiuwa	24		
 2	38500	38			南宇和郡	みなみうわぐん	Minamiuwa County	南宇和	みなみうわ	Minamiuwa	24		
 3	38506	38	38500		愛南町	あいなんちょう	Ainan Town	愛南	あいなん	Ainan	35	38500	
-1	39200	39			市部	しぶ	City Area				23		
+1	39000	39			高知県	こうちけん	Kochi Prefecture	高知	こうち	Kochi	14		
 2	39200	39			市部	しぶ	City Area				23		
 3	39201	39	39200		高知市	こうちし	Kochi City	高知	こうち	Kochi	32		
 3	39202	39	39200		室戸市	むろとし	Muroto City	室戸	むろと	Muroto	32		
@@ -2391,7 +2037,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	39210	39	39200		四万十市	しまんとし	Shimanto City	四万十	しまんと	Shimanto	32		
 3	39211	39	39200		香南市	こうなんし	Konan City	香南	こうなん	Konan	32		
 3	39212	39	39200		香美市	かみし	Kami City	香美	かみ	Kami	32		
-1	39300	39			安芸郡	あきぐん	Aki County	安芸	あき	Aki	24		
 2	39300	39			安芸郡	あきぐん	Aki County	安芸	あき	Aki	24		
 3	39301	39	39300		東洋町	とうようちょう	Toyo Town	東洋	とうよう	Toyo	35	39300	
 3	39302	39	39300		奈半利町	なはりちょう	Nahari Town	奈半利	なはり	Nahari	35	39300	
@@ -2400,19 +2045,15 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	39305	39	39300		北川村	きたがわむら	Kitagawa Village	北川	きたがわ	Kitagawa	36	39300	
 3	39306	39	39300		馬路村	うまじむら	Umaji Village	馬路	うまじ	Umaji	36	39300	
 3	39307	39	39300		芸西村	げいせいむら	Geisei Village	芸西	げいせい	Geisei	36	39300	
-1	39340	39			長岡郡	ながおかぐん	Nagaoka County	長岡	ながおか	Nagaoka	24		
 2	39340	39			長岡郡	ながおかぐん	Nagaoka County	長岡	ながおか	Nagaoka	24		
 3	39341	39	39340		本山町	もとやまちょう	Motoyama Town	本山	もとやま	Motoyama	35	39340	
 3	39344	39	39340		大豊町	おおとよちょう	Otoyo Town	大豊	おおとよ	Otoyo	35	39340	
-1	39360	39			土佐郡	とさぐん	Tosa County	土佐	とさ	Tosa	24		
 2	39360	39			土佐郡	とさぐん	Tosa County	土佐	とさ	Tosa	24		
 3	39363	39	39360		土佐町	とさちょう	Tosa Town	土佐	とさ	Tosa	35	39360	
 3	39364	39	39360		大川村	おおかわむら	Okawa Village	大川	おおかわ	Okawa	36	39360	
-1	39380	39			吾川郡	あがわぐん	Agawa County	吾川	あがわ	Agawa	24		
 2	39380	39			吾川郡	あがわぐん	Agawa County	吾川	あがわ	Agawa	24		
 3	39386	39	39380		いの町	いのちょう	Ino Town	いの	いの	Ino	35	39380	
 3	39387	39	39380		仁淀川町	によどがわちょう	Niyodogawa Town	仁淀川	によどがわ	Niyodogawa	35	39380	
-1	39400	39			高岡郡	たかおかぐん	Takaoka County	高岡	たかおか	Takaoka	24		
 2	39400	39			高岡郡	たかおかぐん	Takaoka County	高岡	たかおか	Takaoka	24		
 3	39401	39	39400		中土佐町	なかとさちょう	Nakatosa Town	中土佐	なかとさ	Nakatosa	35	39400	
 3	39402	39	39400		佐川町	さかわちょう	Sakawa Town	佐川	さかわ	Sakawa	35	39400	
@@ -2421,12 +2062,11 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	39410	39	39400		日高村	ひだかむら	Hidaka Village	日高	ひだか	Hidaka	36	39400	
 3	39411	39	39400		津野町	つのちょう	Tsuno Town	津野	つの	Tsuno	35	39400	
 3	39412	39	39400		四万十町	しまんとちょう	Shimanto Town	四万十	しまんと	Shimanto	35	39400	
-1	39420	39			幡多郡	はたぐん	Hata County	幡多	はた	Hata	24		
 2	39420	39			幡多郡	はたぐん	Hata County	幡多	はた	Hata	24		
 3	39424	39	39420		大月町	おおつきちょう	Otsuki Town	大月	おおつき	Otsuki	35	39420	
 3	39427	39	39420		三原村	みはらむら	Mihara Village	三原	みはら	Mihara	36	39420	
 3	39428	39	39420		黒潮町	くろしおちょう	Kuroshio Town	黒潮	くろしお	Kuroshio	35	39420	
-1	40100	40			北九州市	きたきゅうしゅうし	Kitakyushu City	北九州	きたきゅうしゅう	Kitakyushu	21		
+1	40000	40			福岡県	ふくおかけん	Fukuoka Prefecture	福岡	ふくおか	Fukuoka	14		
 2	40100	40			北九州市	きたきゅうしゅうし	Kitakyushu City	北九州	きたきゅうしゅう	Kitakyushu	21		
 3	40100	40	40100		北九州市	きたきゅうしゅうし	Kitakyushu City	北九州	きたきゅうしゅう	Kitakyushu	31		
 4	40101	40		40100	門司区	もじく	Moji Ward	門司	もじ	Moji	41		
@@ -2436,7 +2076,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	40107	40		40100	小倉南区	こくらみなみく	Kokuraminami Ward	小倉南	こくらみなみ	Kokuraminami	41		
 4	40108	40		40100	八幡東区	やはたひがしく	Yahatahigashi Ward	八幡東	やはたひがし	Yahatahigashi	41		
 4	40109	40		40100	八幡西区	やはたにしく	Yahatanishi Ward	八幡西	やはたにし	Yahatanishi	41		
-1	40130	40			福岡市	ふくおかし	Fukuoka City	福岡	ふくおか	Fukuoka	21		
 2	40130	40			福岡市	ふくおかし	Fukuoka City	福岡	ふくおか	Fukuoka	21		
 3	40130	40	40130		福岡市	ふくおかし	Fukuoka City	福岡	ふくおか	Fukuoka	31		
 4	40131	40		40130	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41		
@@ -2446,7 +2085,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	40135	40		40130	西区	にしく	Nishi Ward	西	にし	Nishi	41		
 4	40136	40		40130	城南区	じょうなんく	Jonan Ward	城南	じょうなん	Jonan	41		
 4	40137	40		40130	早良区	さわらく	Sawara Ward	早良	さわら	Sawara	41		
-1	40200	40			市部	しぶ	City Area				23		
 2	40200	40			市部	しぶ	City Area				23		
 3	40202	40	40200		大牟田市	おおむたし	Omuta City	大牟田	おおむた	Omuta	32		
 3	40203	40	40200		久留米市	くるめし	Kurume City	久留米	くるめ	Kurume	32		
@@ -2475,7 +2113,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	40229	40	40200		みやま市	みやまし	Miyama City	みやま	みやま	Miyama	32		
 3	40230	40	40200		糸島市	いとしまし	Itoshima City	糸島	いとしま	Itoshima	32		
 3	40231	40	40200		那珂川市	なかがわし	Nakagawa City	那珂川	なかがわ	Nakagawa	32		
-1	40340	40			糟屋郡	かすやぐん	Kasuya County	糟屋	かすや	Kasuya	24		
 2	40340	40			糟屋郡	かすやぐん	Kasuya County	糟屋	かすや	Kasuya	24		
 3	40341	40	40340		宇美町	うみまち	Umi Town	宇美	うみ	Umi	34	40340	
 3	40342	40	40340		篠栗町	ささぐりまち	Sasaguri Town	篠栗	ささぐり	Sasaguri	34	40340	
@@ -2484,33 +2121,25 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	40345	40	40340		新宮町	しんぐうまち	Shingu Town	新宮	しんぐう	Shingu	34	40340	
 3	40348	40	40340		久山町	ひさやままち	Hisayama Town	久山	ひさやま	Hisayama	34	40340	
 3	40349	40	40340		粕屋町	かすやまち	Kasuya Town	粕屋	かすや	Kasuya	34	40340	
-1	40380	40			遠賀郡	おんがぐん	Onga County	遠賀	おんが	Onga	24		
 2	40380	40			遠賀郡	おんがぐん	Onga County	遠賀	おんが	Onga	24		
 3	40381	40	40380		芦屋町	あしやまち	Ashiya Town	芦屋	あしや	Ashiya	34	40380	
 3	40382	40	40380		水巻町	みずまきまち	Mizumaki Town	水巻	みずまき	Mizumaki	34	40380	
 3	40383	40	40380		岡垣町	おかがきまち	Okagaki Town	岡垣	おかがき	Okagaki	34	40380	
 3	40384	40	40380		遠賀町	おんがちょう	Onga Town	遠賀	おんが	Onga	35	40380	
-1	40400	40			鞍手郡	くらてぐん	Kurate County	鞍手	くらて	Kurate	24		
 2	40400	40			鞍手郡	くらてぐん	Kurate County	鞍手	くらて	Kurate	24		
 3	40401	40	40400		小竹町	こたけまち	Kotake Town	小竹	こたけ	Kotake	34	40400	
 3	40402	40	40400		鞍手町	くらてまち	Kurate Town	鞍手	くらて	Kurate	34	40400	
-1	40420	40			嘉穂郡	かほぐん	Kaho County	嘉穂	かほ	Kaho	24		
 2	40420	40			嘉穂郡	かほぐん	Kaho County	嘉穂	かほ	Kaho	24		
 3	40421	40	40420		桂川町	けいせんまち	Keisen Town	桂川	けいせん	Keisen	34	40420	
-1	40440	40			朝倉郡	あさくらぐん	Asakura County	朝倉	あさくら	Asakura	24		
 2	40440	40			朝倉郡	あさくらぐん	Asakura County	朝倉	あさくら	Asakura	24		
 3	40447	40	40440		筑前町	ちくぜんまち	Chikuzen Town	筑前	ちくぜん	Chikuzen	34	40440	
 3	40448	40	40440		東峰村	とうほうむら	Toho Village	東峰	とうほう	Toho	36	40440	
-1	40500	40			三井郡	みいぐん	Mii County	三井	みい	Mii	24		
 2	40500	40			三井郡	みいぐん	Mii County	三井	みい	Mii	24		
 3	40503	40	40500		大刀洗町	たちあらいまち	Tachiarai Town	大刀洗	たちあらい	Tachiarai	34	40500	
-1	40520	40			三潴郡	みづまぐん	Mizuma County	三潴	みづま	Mizuma	24		
 2	40520	40			三潴郡	みづまぐん	Mizuma County	三潴	みづま	Mizuma	24		
 3	40522	40	40520		大木町	おおきまち	Oki Town	大木	おおき	Oki	34	40520	
-1	40540	40			八女郡	やめぐん	Yame County	八女	やめ	Yame	24		
 2	40540	40			八女郡	やめぐん	Yame County	八女	やめ	Yame	24		
 3	40544	40	40540		広川町	ひろかわまち	Hirokawa Town	広川	ひろかわ	Hirokawa	34	40540	
-1	40600	40			田川郡	たがわぐん	Tagawa County	田川	たがわ	Tagawa	24		
 2	40600	40			田川郡	たがわぐん	Tagawa County	田川	たがわ	Tagawa	24		
 3	40601	40	40600		香春町	かわらまち	Kawara Town	香春	かわら	Kawara	34	40600	
 3	40602	40	40600		添田町	そえだまち	Soeda Town	添田	そえだ	Soeda	34	40600	
@@ -2519,16 +2148,14 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	40608	40	40600		大任町	おおとうまち	Oto Town	大任	おおとう	Oto	34	40600	
 3	40609	40	40600		赤村	あかむら	Aka Village	赤	あか	Aka	36	40600	
 3	40610	40	40600		福智町	ふくちまち	Fukuchi Town	福智	ふくち	Fukuchi	34	40600	
-1	40620	40			京都郡	みやこぐん	Miyako County	京都	みやこ	Miyako	24		
 2	40620	40			京都郡	みやこぐん	Miyako County	京都	みやこ	Miyako	24		
 3	40621	40	40620		苅田町	かんだまち	Kanda Town	苅田	かんだ	Kanda	34	40620	
 3	40625	40	40620		みやこ町	みやこまち	Miyako Town	みやこ	みやこ	Miyako	34	40620	
-1	40640	40			築上郡	ちくじょうぐん	Chikujo County	築上	ちくじょう	Chikujo	24		
 2	40640	40			築上郡	ちくじょうぐん	Chikujo County	築上	ちくじょう	Chikujo	24		
 3	40642	40	40640		吉富町	よしとみまち	Yoshitomi Town	吉富	よしとみ	Yoshitomi	34	40640	
 3	40646	40	40640		上毛町	こうげまち	Koge Town	上毛	こうげ	Koge	34	40640	
 3	40647	40	40640		築上町	ちくじょうまち	Chikujo Town	築上	ちくじょう	Chikujo	34	40640	
-1	41200	41			市部	しぶ	City Area				23		
+1	41000	41			佐賀県	さがけん	Saga Prefecture	佐賀	さが	Saga	14		
 2	41200	41			市部	しぶ	City Area				23		
 3	41201	41	41200		佐賀市	さがし	Saga City	佐賀	さが	Saga	32		
 3	41202	41	41200		唐津市	からつし	Karatsu City	唐津	からつ	Karatsu	32		
@@ -2540,29 +2167,23 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	41208	41	41200		小城市	おぎし	Ogi City	小城	おぎ	Ogi	32		
 3	41209	41	41200		嬉野市	うれしのし	Ureshino City	嬉野	うれしの	Ureshino	32		
 3	41210	41	41200		神埼市	かんざきし	Kanzaki City	神埼	かんざき	Kanzaki	32		
-1	41320	41			神埼郡	かんざきぐん	Kanzaki County	神埼	かんざき	Kanzaki	24		
 2	41320	41			神埼郡	かんざきぐん	Kanzaki County	神埼	かんざき	Kanzaki	24		
 3	41327	41	41320		吉野ヶ里町	よしのがりちょう	Yoshinogari Town	吉野ヶ里	よしのがり	Yoshinogari	35	41320	
-1	41340	41			三養基郡	みやきぐん	Miyaki County	三養基	みやき	Miyaki	24		
 2	41340	41			三養基郡	みやきぐん	Miyaki County	三養基	みやき	Miyaki	24		
 3	41341	41	41340		基山町	きやまちょう	Kiyama Town	基山	きやま	Kiyama	35	41340	
 3	41345	41	41340		上峰町	かみみねちょう	Kamimine Town	上峰	かみみね	Kamimine	35	41340	
 3	41346	41	41340		みやき町	みやきちょう	Miyaki Town	みやき	みやき	Miyaki	35	41340	
-1	41380	41			東松浦郡	ひがしまつうらぐん	Higashimatsuura County	東松浦	ひがしまつうら	Higashimatsuura	24		
 2	41380	41			東松浦郡	ひがしまつうらぐん	Higashimatsuura County	東松浦	ひがしまつうら	Higashimatsuura	24		
 3	41387	41	41380		玄海町	げんかいちょう	Genkai Town	玄海	げんかい	Genkai	35	41380	
-1	41400	41			西松浦郡	にしまつうらぐん	Nishimatsuura County	西松浦	にしまつうら	Nishimatsuura	24		
 2	41400	41			西松浦郡	にしまつうらぐん	Nishimatsuura County	西松浦	にしまつうら	Nishimatsuura	24		
 3	41401	41	41400		有田町	ありたちょう	Arita Town	有田	ありた	Arita	35	41400	
-1	41420	41			杵島郡	きしまぐん	Kishima County	杵島	きしま	Kishima	24		
 2	41420	41			杵島郡	きしまぐん	Kishima County	杵島	きしま	Kishima	24		
 3	41423	41	41420		大町町	おおまちちょう	Omachi Town	大町	おおまち	Omachi	35	41420	
 3	41424	41	41420		江北町	こうほくまち	Kohoku Town	江北	こうほく	Kohoku	34	41420	
 3	41425	41	41420		白石町	しろいしちょう	Shiroishi Town	白石	しろいし	Shiroishi	35	41420	
-1	41440	41			藤津郡	ふじつぐん	Fujitsu County	藤津	ふじつ	Fujitsu	24		
 2	41440	41			藤津郡	ふじつぐん	Fujitsu County	藤津	ふじつ	Fujitsu	24		
 3	41441	41	41440		太良町	たらちょう	Tara Town	太良	たら	Tara	35	41440	
-1	42200	42			市部	しぶ	City Area				23		
+1	42000	42			長崎県	ながさきけん	Nagasaki Prefecture	長崎	ながさき	Nagasaki	14		
 2	42200	42			市部	しぶ	City Area				23		
 3	42201	42	42200		長崎市	ながさきし	Nagasaki City	長崎	ながさき	Nagasaki	32		
 3	42202	42	42200		佐世保市	させぼし	Sasebo City	佐世保	させぼ	Sasebo	32		
@@ -2577,23 +2198,19 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	42212	42	42200		西海市	さいかいし	Saikai City	西海	さいかい	Saikai	32		
 3	42213	42	42200		雲仙市	うんぜんし	Unzen City	雲仙	うんぜん	Unzen	32		
 3	42214	42	42200		南島原市	みなみしまばらし	Minamishimabara City	南島原	みなみしまばら	Minamishimabara	32		
-1	42300	42			西彼杵郡	にしそのぎぐん	Nishisonogi County	西彼杵	にしそのぎ	Nishisonogi	24		
 2	42300	42			西彼杵郡	にしそのぎぐん	Nishisonogi County	西彼杵	にしそのぎ	Nishisonogi	24		
 3	42307	42	42300		長与町	ながよちょう	Nagayo Town	長与	ながよ	Nagayo	35	42300	
 3	42308	42	42300		時津町	とぎつちょう	Togitsu Town	時津	とぎつ	Togitsu	35	42300	
-1	42320	42			東彼杵郡	ひがしそのぎぐん	Higashisonogi County	東彼杵	ひがしそのぎ	Higashisonogi	24		
 2	42320	42			東彼杵郡	ひがしそのぎぐん	Higashisonogi County	東彼杵	ひがしそのぎ	Higashisonogi	24		
 3	42321	42	42320		東彼杵町	ひがしそのぎちょう	Higashisonogi Town	東彼杵	ひがしそのぎ	Higashisonogi	35	42320	
 3	42322	42	42320		川棚町	かわたなちょう	Kawatana Town	川棚	かわたな	Kawatana	35	42320	
 3	42323	42	42320		波佐見町	はさみちょう	Hasami Town	波佐見	はさみ	Hasami	35	42320	
-1	42380	42			北松浦郡	きたまつうらぐん	Kitamatsuura County	北松浦	きたまつうら	Kitamatsuura	24		
 2	42380	42			北松浦郡	きたまつうらぐん	Kitamatsuura County	北松浦	きたまつうら	Kitamatsuura	24		
 3	42383	42	42380		小値賀町	おぢかちょう	Ojika Town	小値賀	おぢか	Ojika	35	42380	
 3	42391	42	42380		佐々町	さざちょう	Saza Town	佐々	さざ	Saza	35	42380	
-1	42400	42			南松浦郡	みなみまつうらぐん	Minamimatsuura County	南松浦	みなみまつうら	Minamimatsuura	24		
 2	42400	42			南松浦郡	みなみまつうらぐん	Minamimatsuura County	南松浦	みなみまつうら	Minamimatsuura	24		
 3	42411	42	42400		新上五島町	しんかみごとうちょう	Shinkamigoto Town	新上五島	しんかみごとう	Shinkamigoto	35	42400	
-1	43100	43			熊本市	くまもとし	Kumamoto City	熊本	くまもと	Kumamoto	21		
+1	43000	43			熊本県	くまもとけん	Kumamoto Prefecture	熊本	くまもと	Kumamoto	14		
 2	43100	43			熊本市	くまもとし	Kumamoto City	熊本	くまもと	Kumamoto	21		
 3	43100	43	43100		熊本市	くまもとし	Kumamoto City	熊本	くまもと	Kumamoto	31		
 4	43101	43		43100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41		
@@ -2601,7 +2218,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 4	43103	43		43100	西区	にしく	Nishi Ward	西	にし	Nishi	41		
 4	43104	43		43100	南区	みなみく	Minami Ward	南	みなみ	Minami	41		
 4	43105	43		43100	北区	きたく	Kita Ward	北	きた	Kita	41		
-1	43200	43			市部	しぶ	City Area				23		
 2	43200	43			市部	しぶ	City Area				23		
 3	43202	43	43200		八代市	やつしろし	Yatsushiro City	八代	やつしろ	Yatsushiro	32		
 3	43203	43	43200		人吉市	ひとよしし	Hitoyoshi City	人吉	ひとよし	Hitoyoshi	32		
@@ -2616,20 +2232,16 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	43214	43	43200		阿蘇市	あそし	Aso City	阿蘇	あそ	Aso	32		
 3	43215	43	43200		天草市	あまくさし	Amakusa City	天草	あまくさ	Amakusa	32		
 3	43216	43	43200		合志市	こうしし	Koshi City	合志	こうし	Koshi	32		
-1	43340	43			下益城郡	しもましきぐん	Shimomashiki County	下益城	しもましき	Shimomashiki	24		
 2	43340	43			下益城郡	しもましきぐん	Shimomashiki County	下益城	しもましき	Shimomashiki	24		
 3	43348	43	43340		美里町	みさとまち	Misato Town	美里	みさと	Misato	34	43340	
-1	43360	43			玉名郡	たまなぐん	Tamana County	玉名	たまな	Tamana	24		
 2	43360	43			玉名郡	たまなぐん	Tamana County	玉名	たまな	Tamana	24		
 3	43364	43	43360		玉東町	ぎょくとうまち	Gyokuto Town	玉東	ぎょくとう	Gyokuto	34	43360	
 3	43367	43	43360		南関町	なんかんまち	Nankan Town	南関	なんかん	Nankan	34	43360	
 3	43368	43	43360		長洲町	ながすまち	Nagasu Town	長洲	ながす	Nagasu	34	43360	
 3	43369	43	43360		和水町	なごみまち	Nagomi Town	和水	なごみ	Nagomi	34	43360	
-1	43400	43			菊池郡	きくちぐん	Kikuchi County	菊池	きくち	Kikuchi	24		
 2	43400	43			菊池郡	きくちぐん	Kikuchi County	菊池	きくち	Kikuchi	24		
 3	43403	43	43400		大津町	おおづまち	Ozu Town	大津	おおづ	Ozu	34	43400	
 3	43404	43	43400		菊陽町	きくようまち	Kikuyo Town	菊陽	きくよう	Kikuyo	34	43400	
-1	43420	43			阿蘇郡	あそぐん	Aso County	阿蘇	あそ	Aso	24		
 2	43420	43			阿蘇郡	あそぐん	Aso County	阿蘇	あそ	Aso	24		
 3	43423	43	43420		南小国町	みなみおぐにまち	Minamioguni Town	南小国	みなみおぐに	Minamioguni	34	43420	
 3	43424	43	43420		小国町	おぐにまち	Oguni Town	小国	おぐに	Oguni	34	43420	
@@ -2637,21 +2249,17 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	43428	43	43420		高森町	たかもりまち	Takamori Town	高森	たかもり	Takamori	34	43420	
 3	43432	43	43420		西原村	にしはらむら	Nishihara Village	西原	にしはら	Nishihara	36	43420	
 3	43433	43	43420		南阿蘇村	みなみあそむら	Minamiaso Village	南阿蘇	みなみあそ	Minamiaso	36	43420	
-1	43440	43			上益城郡	かみましきぐん	Kamimashiki County	上益城	かみましき	Kamimashiki	24		
 2	43440	43			上益城郡	かみましきぐん	Kamimashiki County	上益城	かみましき	Kamimashiki	24		
 3	43441	43	43440		御船町	みふねまち	Mifune Town	御船	みふね	Mifune	34	43440	
 3	43442	43	43440		嘉島町	かしままち	Kashima Town	嘉島	かしま	Kashima	34	43440	
 3	43443	43	43440		益城町	ましきまち	Mashiki Town	益城	ましき	Mashiki	34	43440	
 3	43444	43	43440		甲佐町	こうさまち	Kosa Town	甲佐	こうさ	Kosa	34	43440	
 3	43447	43	43440		山都町	やまとちょう	Yamato Town	山都	やまと	Yamato	35	43440	
-1	43460	43			八代郡	やつしろぐん	Yatsushiro County	八代	やつしろ	Yatsushiro	24		
 2	43460	43			八代郡	やつしろぐん	Yatsushiro County	八代	やつしろ	Yatsushiro	24		
 3	43468	43	43460		氷川町	ひかわちょう	Hikawa Town	氷川	ひかわ	Hikawa	35	43460	
-1	43480	43			葦北郡	あしきたぐん	Ashikita County	葦北	あしきた	Ashikita	24		
 2	43480	43			葦北郡	あしきたぐん	Ashikita County	葦北	あしきた	Ashikita	24		
 3	43482	43	43480		芦北町	あしきたまち	Ashikita Town	芦北	あしきた	Ashikita	34	43480	
 3	43484	43	43480		津奈木町	つなぎまち	Tsunagi Town	津奈木	つなぎ	Tsunagi	34	43480	
-1	43500	43			球磨郡	くまぐん	Kuma County	球磨	くま	Kuma	24		
 2	43500	43			球磨郡	くまぐん	Kuma County	球磨	くま	Kuma	24		
 3	43501	43	43500		錦町	にしきまち	Nishiki Town	錦	にしき	Nishiki	34	43500	
 3	43505	43	43500		多良木町	たらぎまち	Taragi Town	多良木	たらぎ	Taragi	34	43500	
@@ -2662,10 +2270,9 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	43512	43	43500		山江村	やまえむら	Yamae Village	山江	やまえ	Yamae	36	43500	
 3	43513	43	43500		球磨村	くまむら	Kuma Village	球磨	くま	Kuma	36	43500	
 3	43514	43	43500		あさぎり町	あさぎりちょう	Asagiri Town	あさぎり	あさぎり	Asagiri	35	43500	
-1	43520	43			天草郡	あまくさぐん	Amakusa County	天草	あまくさ	Amakusa	24		
 2	43520	43			天草郡	あまくさぐん	Amakusa County	天草	あまくさ	Amakusa	24		
 3	43531	43	43520		苓北町	れいほくまち	Reihoku Town	苓北	れいほく	Reihoku	34	43520	
-1	44200	44			市部	しぶ	City Area				23		
+1	44000	44			大分県	おおいたけん	Oita Prefecture	大分	おおいた	Oita	14		
 2	44200	44			市部	しぶ	City Area				23		
 3	44201	44	44200		大分市	おおいたし	Oita City	大分	おおいた	Oita	32		
 3	44202	44	44200		別府市	べっぷし	Beppu City	別府	べっぷ	Beppu	32		
@@ -2681,17 +2288,14 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	44212	44	44200		豊後大野市	ぶんごおおのし	Bungoono City	豊後大野	ぶんごおおの	Bungoono	32		
 3	44213	44	44200		由布市	ゆふし	Yufu City	由布	ゆふ	Yufu	32		
 3	44214	44	44200		国東市	くにさきし	Kunisaki City	国東	くにさき	Kunisaki	32		
-1	44320	44			東国東郡	ひがしくにさきぐん	Higashikunisaki County	東国東	ひがしくにさき	Higashikunisaki	24		
 2	44320	44			東国東郡	ひがしくにさきぐん	Higashikunisaki County	東国東	ひがしくにさき	Higashikunisaki	24		
 3	44322	44	44320		姫島村	ひめしまむら	Himeshima Village	姫島	ひめしま	Himeshima	36	44320	
-1	44340	44			速見郡	はやみぐん	Hayami County	速見	はやみ	Hayami	24		
 2	44340	44			速見郡	はやみぐん	Hayami County	速見	はやみ	Hayami	24		
 3	44341	44	44340		日出町	ひじまち	Hiji Town	日出	ひじ	Hiji	34	44340	
-1	44460	44			玖珠郡	くすぐん	Kusu County	玖珠	くす	Kusu	24		
 2	44460	44			玖珠郡	くすぐん	Kusu County	玖珠	くす	Kusu	24		
 3	44461	44	44460		九重町	ここのえまち	Kokonoe Town	九重	ここのえ	Kokonoe	34	44460	
 3	44462	44	44460		玖珠町	くすまち	Kusu Town	玖珠	くす	Kusu	34	44460	
-1	45200	45			市部	しぶ	City Area				23		
+1	45000	45			宮崎県	みやざきけん	Miyazaki Prefecture	宮崎	みやざき	Miyazaki	14		
 2	45200	45			市部	しぶ	City Area				23		
 3	45201	45	45200		宮崎市	みやざきし	Miyazaki City	宮崎	みやざき	Miyazaki	32		
 3	45202	45	45200		都城市	みやこのじょうし	Miyakonojo City	都城	みやこのじょう	Miyakonojo	32		
@@ -2702,17 +2306,13 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	45207	45	45200		串間市	くしまし	Kushima City	串間	くしま	Kushima	32		
 3	45208	45	45200		西都市	さいとし	Saito City	西都	さいと	Saito	32		
 3	45209	45	45200		えびの市	えびのし	Ebino City	えびの	えびの	Ebino	32		
-1	45340	45			北諸県郡	きたもろかたぐん	Kitamorokata County	北諸県	きたもろかた	Kitamorokata	24		
 2	45340	45			北諸県郡	きたもろかたぐん	Kitamorokata County	北諸県	きたもろかた	Kitamorokata	24		
 3	45341	45	45340		三股町	みまたちょう	Mimata Town	三股	みまた	Mimata	35	45340	
-1	45360	45			西諸県郡	にしもろかたぐん	Nishimorokata County	西諸県	にしもろかた	Nishimorokata	24		
 2	45360	45			西諸県郡	にしもろかたぐん	Nishimorokata County	西諸県	にしもろかた	Nishimorokata	24		
 3	45361	45	45360		高原町	たかはるちょう	Takaharu Town	高原	たかはる	Takaharu	35	45360	
-1	45380	45			東諸県郡	ひがしもろかたぐん	Higashimorokata County	東諸県	ひがしもろかた	Higashimorokata	24		
 2	45380	45			東諸県郡	ひがしもろかたぐん	Higashimorokata County	東諸県	ひがしもろかた	Higashimorokata	24		
 3	45382	45	45380		国富町	くにとみちょう	Kunitomi Town	国富	くにとみ	Kunitomi	35	45380	
 3	45383	45	45380		綾町	あやちょう	Aya Town	綾	あや	Aya	35	45380	
-1	45400	45			児湯郡	こゆぐん	Koyu County	児湯	こゆ	Koyu	24		
 2	45400	45			児湯郡	こゆぐん	Koyu County	児湯	こゆ	Koyu	24		
 3	45401	45	45400		高鍋町	たかなべちょう	Takanabe Town	高鍋	たかなべ	Takanabe	35	45400	
 3	45402	45	45400		新富町	しんとみちょう	Shintomi Town	新富	しんとみ	Shintomi	35	45400	
@@ -2720,18 +2320,16 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	45404	45	45400		木城町	きじょうちょう	Kijo Town	木城	きじょう	Kijo	35	45400	
 3	45405	45	45400		川南町	かわみなみちょう	Kawaminami Town	川南	かわみなみ	Kawaminami	35	45400	
 3	45406	45	45400		都農町	つのちょう	Tsuno Town	都農	つの	Tsuno	35	45400	
-1	45420	45			東臼杵郡	ひがしうすきぐん	Higashiusuki County	東臼杵	ひがしうすき	Higashiusuki	24		
 2	45420	45			東臼杵郡	ひがしうすきぐん	Higashiusuki County	東臼杵	ひがしうすき	Higashiusuki	24		
 3	45421	45	45420		門川町	かどがわちょう	Kadogawa Town	門川	かどがわ	Kadogawa	35	45420	
 3	45429	45	45420		諸塚村	もろつかそん	Morotsuka Village	諸塚	もろつか	Morotsuka	37	45420	
 3	45430	45	45420		椎葉村	しいばそん	Shiiba Village	椎葉	しいば	Shiiba	37	45420	
 3	45431	45	45420		美郷町	みさとちょう	Misato Town	美郷	みさと	Misato	35	45420	
-1	45440	45			西臼杵郡	にしうすきぐん	Nishiusuki County	西臼杵	にしうすき	Nishiusuki	24		
 2	45440	45			西臼杵郡	にしうすきぐん	Nishiusuki County	西臼杵	にしうすき	Nishiusuki	24		
 3	45441	45	45440		高千穂町	たかちほちょう	Takachiho Town	高千穂	たかちほ	Takachiho	35	45440	
 3	45442	45	45440		日之影町	ひのかげちょう	Hinokage Town	日之影	ひのかげ	Hinokage	35	45440	
 3	45443	45	45440		五ヶ瀬町	ごかせちょう	Gokase Town	五ヶ瀬	ごかせ	Gokase	35	45440	
-1	46200	46			市部	しぶ	City Area				23		
+1	46000	46			鹿児島県	かごしまけん	Kagoshima Prefecture	鹿児島	かごしま	Kagoshima	14		
 2	46200	46			市部	しぶ	City Area				23		
 3	46201	46	46200		鹿児島市	かごしまし	Kagoshima City	鹿児島	かごしま	Kagoshima	32		
 3	46203	46	46200		鹿屋市	かのやし	Kanoya City	鹿屋	かのや	Kanoya	32		
@@ -2752,34 +2350,26 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	46223	46	46200		南九州市	みなみきゅうしゅうし	Minamikyushu City	南九州	みなみきゅうしゅう	Minamikyushu	32		
 3	46224	46	46200		伊佐市	いさし	Isa City	伊佐	いさ	Isa	32		
 3	46225	46	46200		姶良市	あいらし	Aira City	姶良	あいら	Aira	32		
-1	46300	46			鹿児島郡	かごしまぐん	Kagoshima County	鹿児島	かごしま	Kagoshima	24		
 2	46300	46			鹿児島郡	かごしまぐん	Kagoshima County	鹿児島	かごしま	Kagoshima	24		
 3	46303	46	46300		三島村	みしまむら	Mishima Village	三島	みしま	Mishima	36	46300	
 3	46304	46	46300		十島村	としまむら	Toshima Village	十島	としま	Toshima	36	46300	
-1	46380	46			薩摩郡	さつまぐん	Satsuma County	薩摩	さつま	Satsuma	24		
 2	46380	46			薩摩郡	さつまぐん	Satsuma County	薩摩	さつま	Satsuma	24		
 3	46392	46	46380		さつま町	さつまちょう	Satsuma Town	さつま	さつま	Satsuma	35	46380	
-1	46400	46			出水郡	いずみぐん	Izumi County	出水	いずみ	Izumi	24		
 2	46400	46			出水郡	いずみぐん	Izumi County	出水	いずみ	Izumi	24		
 3	46404	46	46400		長島町	ながしまちょう	Nagashima Town	長島	ながしま	Nagashima	35	46400	
-1	46440	46			姶良郡	あいらぐん	Aira County	姶良	あいら	Aira	24		
 2	46440	46			姶良郡	あいらぐん	Aira County	姶良	あいら	Aira	24		
 3	46452	46	46440		湧水町	ゆうすいちょう	Yusui Town	湧水	ゆうすい	Yusui	35	46440	
-1	46460	46			曽於郡	そおぐん	Soo County	曽於	そお	Soo	24		
 2	46460	46			曽於郡	そおぐん	Soo County	曽於	そお	Soo	24		
 3	46468	46	46460		大崎町	おおさきちょう	Osaki Town	大崎	おおさき	Osaki	35	46460	
-1	46480	46			肝属郡	きもつきぐん	Kimotsuki County	肝属	きもつき	Kimotsuki	24		
 2	46480	46			肝属郡	きもつきぐん	Kimotsuki County	肝属	きもつき	Kimotsuki	24		
 3	46482	46	46480		東串良町	ひがしくしらちょう	Higashikushira Town	東串良	ひがしくしら	Higashikushira	35	46480	
 3	46490	46	46480		錦江町	きんこうちょう	Kinko Town	錦江	きんこう	Kinko	35	46480	
 3	46491	46	46480		南大隅町	みなみおおすみちょう	Minamiosumi Town	南大隅	みなみおおすみ	Minamiosumi	35	46480	
 3	46492	46	46480		肝付町	きもつきちょう	Kimotsuki Town	肝付	きもつき	Kimotsuki	35	46480	
-1	46500	46			熊毛郡	くまげぐん	Kumage County	熊毛	くまげ	Kumage	24		
 2	46500	46			熊毛郡	くまげぐん	Kumage County	熊毛	くまげ	Kumage	24		
 3	46501	46	46500		中種子町	なかたねちょう	Nakatane Town	中種子	なかたね	Nakatane	35	46500	
 3	46502	46	46500		南種子町	みなみたねちょう	Minamitane Town	南種子	みなみたね	Minamitane	35	46500	
 3	46505	46	46500		屋久島町	やくしまちょう	Yakushima Town	屋久島	やくしま	Yakushima	35	46500	
-1	46520	46			大島郡	おおしまぐん	Oshima County	大島	おおしま	Oshima	24		
 2	46520	46			大島郡	おおしまぐん	Oshima County	大島	おおしま	Oshima	24		
 3	46523	46	46520		大和村	やまとそん	Yamato Village	大和	やまと	Yamato	37	46520	
 3	46524	46	46520		宇検村	うけんそん	Uken Village	宇検	うけん	Uken	37	46520	
@@ -2792,7 +2382,7 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	46533	46	46520		和泊町	わどまりちょう	Wadomari Town	和泊	わどまり	Wadomari	35	46520	
 3	46534	46	46520		知名町	ちなちょう	China Town	知名	ちな	China	35	46520	
 3	46535	46	46520		与論町	よろんちょう	Yoron Town	与論	よろん	Yoron	35	46520	
-1	47200	47			市部	しぶ	City Area				23		
+1	47000	47			沖縄県	おきなわけん	Okinawa Prefecture	沖縄	おきなわ	Okinawa	14		
 2	47200	47			市部	しぶ	City Area				23		
 3	47201	47	47200		那覇市	なはし	Naha City	那覇	なは	Naha	32		
 3	47205	47	47200		宜野湾市	ぎのわんし	Ginowan City	宜野湾	ぎのわん	Ginowan	32		
@@ -2805,7 +2395,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	47213	47	47200		うるま市	うるまし	Uruma City	うるま	うるま	Uruma	32		
 3	47214	47	47200		宮古島市	みやこじまし	Miyakojima City	宮古島	みやこじま	Miyakojima	32		
 3	47215	47	47200		南城市	なんじょうし	Nanjo City	南城	なんじょう	Nanjo	32		
-1	47300	47			国頭郡	くにがみぐん	Kunigami County	国頭	くにがみ	Kunigami	24		
 2	47300	47			国頭郡	くにがみぐん	Kunigami County	国頭	くにがみ	Kunigami	24		
 3	47301	47	47300		国頭村	くにがみそん	Kunigami Village	国頭	くにがみ	Kunigami	37	47300	
 3	47302	47	47300		大宜味村	おおぎみそん	Ogimi Village	大宜味	おおぎみ	Ogimi	37	47300	
@@ -2816,7 +2405,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	47313	47	47300		宜野座村	ぎのざそん	Ginoza Village	宜野座	ぎのざ	Ginoza	37	47300	
 3	47314	47	47300		金武町	きんちょう	Kin Town	金武	きん	Kin	35	47300	
 3	47315	47	47300		伊江村	いえそん	Ie Village	伊江	いえ	Ie	37	47300	
-1	47320	47			中頭郡	なかがみぐん	Nakagami County	中頭	なかがみ	Nakagami	24		
 2	47320	47			中頭郡	なかがみぐん	Nakagami County	中頭	なかがみ	Nakagami	24		
 3	47324	47	47320		読谷村	よみたんそん	Yomitan Village	読谷	よみたん	Yomitan	37	47320	
 3	47325	47	47320		嘉手納町	かでなちょう	Kadena Town	嘉手納	かでな	Kadena	35	47320	
@@ -2824,7 +2412,6 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	47327	47	47320		北中城村	きたなかぐすくそん	Kitanakagusuku Village	北中城	きたなかぐすく	Kitanakagusuku	37	47320	
 3	47328	47	47320		中城村	なかぐすくそん	Nakagusuku Village	中城	なかぐすく	Nakagusuku	37	47320	
 3	47329	47	47320		西原町	にしはらちょう	Nishihara Town	西原	にしはら	Nishihara	35	47320	
-1	47340	47			島尻郡	しまじりぐん	Shimajiri County	島尻	しまじり	Shimajiri	24		
 2	47340	47			島尻郡	しまじりぐん	Shimajiri County	島尻	しまじり	Shimajiri	24		
 3	47348	47	47340		与那原町	よなばるちょう	Yonabaru Town	与那原	よなばる	Yonabaru	35	47340	
 3	47350	47	47340		南風原町	はえばるちょう	Haebaru Town	南風原	はえばる	Haebaru	35	47340	
@@ -2838,10 +2425,8 @@ layer	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	47360	47	47340		伊是名村	いぜなそん	Izena Village	伊是名	いぜな	Izena	37	47340	
 3	47361	47	47340		久米島町	くめじまちょう	Kumejima Town	久米島	くめじま	Kumejima	35	47340	
 3	47362	47	47340		八重瀬町	やえせちょう	Yaese Town	八重瀬	やえせ	Yaese	35	47340	
-1	47370	47			宮古郡	みやこぐん	Miyako County	宮古	みやこ	Miyako	24		
 2	47370	47			宮古郡	みやこぐん	Miyako County	宮古	みやこ	Miyako	24		
 3	47375	47	47370		多良間村	たらまそん	Tarama Village	多良間	たらま	Tarama	37	47370	
-1	47380	47			八重山郡	やえやまぐん	Yaeyama County	八重山	やえやま	Yaeyama	24		
 2	47380	47			八重山郡	やえやまぐん	Yaeyama County	八重山	やえやま	Yaeyama	24		
 3	47381	47	47380		竹富町	たけとみちょう	Taketomi Town	竹富	たけとみ	Taketomi	35	47380	
 3	47382	47	47380		与那国町	よなぐにちょう	Yonaguni Town	与那国	よなぐに	Yonaguni	35	47380	
