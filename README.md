@@ -91,12 +91,12 @@ Some entities in Hokkaido have identical names.
   * `01403` Shiribeshi General Subprefectural Bureau, Furuu County
   * `01696` Nemuro Subprefectural Bureau, Kunashiri County, part of disputed Northern Territories
 * Kamikawa County
-  * `01826` former Ishikari Province
-  * `01828` former Teshio Province
-  * `01851` former Tokachi Province
+  * `01830` former Ishikari Province
+  * `01832` former Teshio Province
+  * `01857` former Tokachi Province
 * Nakagawa County
-  * `01829` former Teshio Province
-  * `01854` former Tokachi Province
+  * `01833` former Teshio Province
+  * `01860` former Tokachi Province
 
 2 towns named Esashi Town (`01361` and `01514`) can be distinguished by their names in kanji. (江差町 and 枝幸町 respectively)
 
@@ -106,7 +106,7 @@ Each designated city constitutes a prefecture subdivision by itself. To make the
 
 ### Hokkaido counties
 
-Hokkaido uses subprefectures instead of counties to assign codes to towns and villages, even though there are counties in Hokkaido. Because the counties do not have official 5-digit standard area codes, I assigned them codes between `01801` and `01869`.  
+Hokkaido uses subprefectures instead of counties to assign codes to towns and villages, even though there are counties in Hokkaido. Because the counties do not have official 5-digit standard area codes, I assigned them codes between `01801` and `01876`.  
 These county codes are by no means official, and only exists to provide information about which town/village belongs to which county.
 
 ### English/Romaji names

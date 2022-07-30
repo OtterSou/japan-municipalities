@@ -48,238 +48,238 @@ level	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01235	01	01200		石狩市	いしかりし	Ishikari City	石狩	いしかり	Ishikari	32		01300
 3	01236	01	01200		北斗市	ほくとし	Hokuto City	北斗	ほくと	Hokuto	32		01330
 2	01300	01			石狩振興局	いしかりしんこうきょく	Ishikari Subprefectural Bureau	石狩	いしかり	Ishikari	26		
-3	01303	01	01300		当別町	とうべつちょう	Tobetsu Town	当別	とうべつ	Tobetsu	35	01801	01300
-3	01304	01	01300		新篠津村	しんしのつむら	Shinshinotsu Village	新篠津	しんしのつ	Shinshinotsu	36	01801	01300
+3	01303	01	01300		当別町	とうべつちょう	Tobetsu Town	当別	とうべつ	Tobetsu	35	01802	01300
+3	01304	01	01300		新篠津村	しんしのつむら	Shinshinotsu Village	新篠津	しんしのつ	Shinshinotsu	36	01802	01300
 2	01330	01			渡島総合振興局	おしまそうごうしんこうきょく	Oshima General Subprefectural Bureau	渡島	おしま	Oshima	25		
-3	01331	01	01330		松前町	まつまえちょう	Matsumae Town	松前	まつまえ	Matsumae	35	01802	01330
-3	01332	01	01330		福島町	ふくしまちょう	Fukushima Town	福島	ふくしま	Fukushima	35	01802	01330
-3	01333	01	01330		知内町	しりうちちょう	Shiriuchi Town	知内	しりうち	Shiriuchi	35	01803	01330
-3	01334	01	01330		木古内町	きこないちょう	Kikonai Town	木古内	きこない	Kikonai	35	01803	01330
-3	01337	01	01330		七飯町	ななえちょう	Nanae Town	七飯	ななえ	Nanae	35	01804	01330
-3	01343	01	01330		鹿部町	しかべちょう	Shikabe Town	鹿部	しかべ	Shikabe	35	01805	01330
-3	01345	01	01330		森町	もりまち	Mori Town	森	もり	Mori	34	01805	01330
-3	01346	01	01330		八雲町	やくもちょう	Yakumo Town	八雲	やくも	Yakumo	35	01806	01330
-3	01347	01	01330		長万部町	おしゃまんべちょう	Oshamanbe Town	長万部	おしゃまんべ	Oshamanbe	35	01807	01330
+3	01331	01	01330		松前町	まつまえちょう	Matsumae Town	松前	まつまえ	Matsumae	35	01806	01330
+3	01332	01	01330		福島町	ふくしまちょう	Fukushima Town	福島	ふくしま	Fukushima	35	01806	01330
+3	01333	01	01330		知内町	しりうちちょう	Shiriuchi Town	知内	しりうち	Shiriuchi	35	01807	01330
+3	01334	01	01330		木古内町	きこないちょう	Kikonai Town	木古内	きこない	Kikonai	35	01807	01330
+3	01337	01	01330		七飯町	ななえちょう	Nanae Town	七飯	ななえ	Nanae	35	01808	01330
+3	01343	01	01330		鹿部町	しかべちょう	Shikabe Town	鹿部	しかべ	Shikabe	35	01809	01330
+3	01345	01	01330		森町	もりまち	Mori Town	森	もり	Mori	34	01809	01330
+3	01346	01	01330		八雲町	やくもちょう	Yakumo Town	八雲	やくも	Yakumo	35	01810	01330
+3	01347	01	01330		長万部町	おしゃまんべちょう	Oshamanbe Town	長万部	おしゃまんべ	Oshamanbe	35	01811	01330
 2	01360	01			檜山振興局	ひやましんこうきょく	Hiyama Subprefectural Bureau	檜山	ひやま	Hiyama	26		
-3	01361	01	01360		江差町	えさしちょう	Esashi Town	江差	えさし	Esashi	35	01808	01360
-3	01362	01	01360		上ノ国町	かみのくにちょう	Kaminokuni Town	上ノ国	かみのくに	Kaminokuni	35	01808	01360
-3	01363	01	01360		厚沢部町	あっさぶちょう	Assabu Town	厚沢部	あっさぶ	Assabu	35	01808	01360
-3	01364	01	01360		乙部町	おとべちょう	Otobe Town	乙部	おとべ	Otobe	35	01809	01360
-3	01367	01	01360		奥尻町	おくしりちょう	Okushiri Town	奥尻	おくしり	Okushiri	35	01810	01360
-3	01370	01	01360		今金町	いまかねちょう	Imakane Town	今金	いまかね	Imakane	35	01811	01360
-3	01371	01	01360		せたな町	せたなちょう	Setana Town	せたな	せたな	Setana	35	01812	01360
+3	01361	01	01360		江差町	えさしちょう	Esashi Town	江差	えさし	Esashi	35	01812	01360
+3	01362	01	01360		上ノ国町	かみのくにちょう	Kaminokuni Town	上ノ国	かみのくに	Kaminokuni	35	01812	01360
+3	01363	01	01360		厚沢部町	あっさぶちょう	Assabu Town	厚沢部	あっさぶ	Assabu	35	01812	01360
+3	01364	01	01360		乙部町	おとべちょう	Otobe Town	乙部	おとべ	Otobe	35	01813	01360
+3	01367	01	01360		奥尻町	おくしりちょう	Okushiri Town	奥尻	おくしり	Okushiri	35	01815	01360
+3	01370	01	01360		今金町	いまかねちょう	Imakane Town	今金	いまかね	Imakane	35	01816	01360
+3	01371	01	01360		せたな町	せたなちょう	Setana Town	せたな	せたな	Setana	35	01814	01360
 2	01390	01			後志総合振興局	しりべしそうごうしんこうきょく	Shiribeshi General Subprefectural Bureau	後志	しりべし	Shiribeshi	25		
-3	01391	01	01390		島牧村	しままきむら	Shimamaki Village	島牧	しままき	Shimamaki	36	01813	01390
-3	01392	01	01390		寿都町	すっつちょう	Suttsu Town	寿都	すっつ	Suttsu	35	01814	01390
-3	01393	01	01390		黒松内町	くろまつないちょう	Kuromatsunai Town	黒松内	くろまつない	Kuromatsunai	35	01814	01390
-3	01394	01	01390		蘭越町	らんこしちょう	Rankoshi Town	蘭越	らんこし	Rankoshi	35	01815	01390
-3	01395	01	01390		ニセコ町	にせこちょう	Niseko Town	ニセコ	にせこ	Niseko	35	01816	01390
-3	01396	01	01390		真狩村	まっかりむら	Makkari Village	真狩	まっかり	Makkari	36	01816	01390
-3	01397	01	01390		留寿都村	るすつむら	Rusutsu Village	留寿都	るすつ	Rusutsu	36	01816	01390
-3	01398	01	01390		喜茂別町	きもべつちょう	Kimobetsu Town	喜茂別	きもべつ	Kimobetsu	35	01816	01390
-3	01399	01	01390		京極町	きょうごくちょう	Kyogoku Town	京極	きょうごく	Kyogoku	35	01816	01390
-3	01400	01	01390		倶知安町	くっちゃんちょう	Kutchan Town	倶知安	くっちゃん	Kutchan	35	01816	01390
-3	01401	01	01390		共和町	きょうわちょう	Kyowa Town	共和	きょうわ	Kyowa	35	01817	01390
-3	01402	01	01390		岩内町	いわないちょう	Iwanai Town	岩内	いわない	Iwanai	35	01817	01390
-3	01403	01	01390		泊村	とまりむら	Tomari Village	泊	とまり	Tomari	36	01818	01390
-3	01404	01	01390		神恵内村	かもえないむら	Kamoenai Village	神恵内	かもえない	Kamoenai	36	01818	01390
-3	01405	01	01390		積丹町	しゃこたんちょう	Shakotan Town	積丹	しゃこたん	Shakotan	35	01819	01390
-3	01406	01	01390		古平町	ふるびらちょう	Furubira Town	古平	ふるびら	Furubira	35	01820	01390
-3	01407	01	01390		仁木町	にきちょう	Niki Town	仁木	にき	Niki	35	01821	01390
-3	01408	01	01390		余市町	よいちちょう	Yoichi Town	余市	よいち	Yoichi	35	01821	01390
-3	01409	01	01390		赤井川村	あかいがわむら	Akaigawa Village	赤井川	あかいがわ	Akaigawa	36	01821	01390
+3	01391	01	01390		島牧村	しままきむら	Shimamaki Village	島牧	しままき	Shimamaki	36	01817	01390
+3	01392	01	01390		寿都町	すっつちょう	Suttsu Town	寿都	すっつ	Suttsu	35	01818	01390
+3	01393	01	01390		黒松内町	くろまつないちょう	Kuromatsunai Town	黒松内	くろまつない	Kuromatsunai	35	01818	01390
+3	01394	01	01390		蘭越町	らんこしちょう	Rankoshi Town	蘭越	らんこし	Rankoshi	35	01819	01390
+3	01395	01	01390		ニセコ町	にせこちょう	Niseko Town	ニセコ	にせこ	Niseko	35	01820	01390
+3	01396	01	01390		真狩村	まっかりむら	Makkari Village	真狩	まっかり	Makkari	36	01820	01390
+3	01397	01	01390		留寿都村	るすつむら	Rusutsu Village	留寿都	るすつ	Rusutsu	36	01820	01390
+3	01398	01	01390		喜茂別町	きもべつちょう	Kimobetsu Town	喜茂別	きもべつ	Kimobetsu	35	01820	01390
+3	01399	01	01390		京極町	きょうごくちょう	Kyogoku Town	京極	きょうごく	Kyogoku	35	01820	01390
+3	01400	01	01390		倶知安町	くっちゃんちょう	Kutchan Town	倶知安	くっちゃん	Kutchan	35	01820	01390
+3	01401	01	01390		共和町	きょうわちょう	Kyowa Town	共和	きょうわ	Kyowa	35	01821	01390
+3	01402	01	01390		岩内町	いわないちょう	Iwanai Town	岩内	いわない	Iwanai	35	01821	01390
+3	01403	01	01390		泊村	とまりむら	Tomari Village	泊	とまり	Tomari	36	01822	01390
+3	01404	01	01390		神恵内村	かもえないむら	Kamoenai Village	神恵内	かもえない	Kamoenai	36	01822	01390
+3	01405	01	01390		積丹町	しゃこたんちょう	Shakotan Town	積丹	しゃこたん	Shakotan	35	01823	01390
+3	01406	01	01390		古平町	ふるびらちょう	Furubira Town	古平	ふるびら	Furubira	35	01824	01390
+3	01407	01	01390		仁木町	にきちょう	Niki Town	仁木	にき	Niki	35	01825	01390
+3	01408	01	01390		余市町	よいちちょう	Yoichi Town	余市	よいち	Yoichi	35	01825	01390
+3	01409	01	01390		赤井川村	あかいがわむら	Akaigawa Village	赤井川	あかいがわ	Akaigawa	36	01825	01390
 2	01420	01			空知総合振興局	そらちそうごうしんこうきょく	Sorachi General Subprefectural Bureau	空知	そらち	Sorachi	25		
-3	01423	01	01420		南幌町	なんぽろちょう	Nanporo Town	南幌	なんぽろ	Nanporo	35	01822	01420
-3	01424	01	01420		奈井江町	ないえちょう	Naie Town	奈井江	ないえ	Naie	35	01822	01420
-3	01425	01	01420		上砂川町	かみすながわちょう	Kamisunagawa Town	上砂川	かみすながわ	Kamisunagawa	35	01822	01420
-3	01427	01	01420		由仁町	ゆにちょう	Yuni Town	由仁	ゆに	Yuni	35	01823	01420
-3	01428	01	01420		長沼町	ながぬまちょう	Naganuma Town	長沼	ながぬま	Naganuma	35	01823	01420
-3	01429	01	01420		栗山町	くりやまちょう	Kuriyama Town	栗山	くりやま	Kuriyama	35	01823	01420
-3	01430	01	01420		月形町	つきがたちょう	Tsukigata Town	月形	つきがた	Tsukigata	35	01824	01420
-3	01431	01	01420		浦臼町	うらうすちょう	Urausu Town	浦臼	うらうす	Urausu	35	01824	01420
-3	01432	01	01420		新十津川町	しんとつかわちょう	Shintotsukawa Town	新十津川	しんとつかわ	Shintotsukawa	35	01824	01420
-3	01433	01	01420		妹背牛町	もせうしちょう	Moseushi Town	妹背牛	もせうし	Moseushi	35	01825	01420
-3	01434	01	01420		秩父別町	ちっぷべつちょう	Chippubetsu Town	秩父別	ちっぷべつ	Chippubetsu	35	01825	01420
-3	01436	01	01420		雨竜町	うりゅうちょう	Uryu Town	雨竜	うりゅう	Uryu	35	01825	01420
-3	01437	01	01420		北竜町	ほくりゅうちょう	Hokuryu Town	北竜	ほくりゅう	Hokuryu	35	01825	01420
-3	01438	01	01420		沼田町	ぬまたちょう	Numata Town	沼田	ぬまた	Numata	35	01825	01420
+3	01423	01	01420		南幌町	なんぽろちょう	Nanporo Town	南幌	なんぽろ	Nanporo	35	01826	01420
+3	01424	01	01420		奈井江町	ないえちょう	Naie Town	奈井江	ないえ	Naie	35	01826	01420
+3	01425	01	01420		上砂川町	かみすながわちょう	Kamisunagawa Town	上砂川	かみすながわ	Kamisunagawa	35	01826	01420
+3	01427	01	01420		由仁町	ゆにちょう	Yuni Town	由仁	ゆに	Yuni	35	01827	01420
+3	01428	01	01420		長沼町	ながぬまちょう	Naganuma Town	長沼	ながぬま	Naganuma	35	01827	01420
+3	01429	01	01420		栗山町	くりやまちょう	Kuriyama Town	栗山	くりやま	Kuriyama	35	01827	01420
+3	01430	01	01420		月形町	つきがたちょう	Tsukigata Town	月形	つきがた	Tsukigata	35	01828	01420
+3	01431	01	01420		浦臼町	うらうすちょう	Urausu Town	浦臼	うらうす	Urausu	35	01828	01420
+3	01432	01	01420		新十津川町	しんとつかわちょう	Shintotsukawa Town	新十津川	しんとつかわ	Shintotsukawa	35	01828	01420
+3	01433	01	01420		妹背牛町	もせうしちょう	Moseushi Town	妹背牛	もせうし	Moseushi	35	01829	01420
+3	01434	01	01420		秩父別町	ちっぷべつちょう	Chippubetsu Town	秩父別	ちっぷべつ	Chippubetsu	35	01829	01420
+3	01436	01	01420		雨竜町	うりゅうちょう	Uryu Town	雨竜	うりゅう	Uryu	35	01829	01420
+3	01437	01	01420		北竜町	ほくりゅうちょう	Hokuryu Town	北竜	ほくりゅう	Hokuryu	35	01829	01420
+3	01438	01	01420		沼田町	ぬまたちょう	Numata Town	沼田	ぬまた	Numata	35	01829	01420
 2	01450	01			上川総合振興局	かみかわそうごうしんこうきょく	Kamikawa General Subprefectural Bureau	上川	かみかわ	Kamikawa	25		
-3	01452	01	01450		鷹栖町	たかすちょう	Takasu Town	鷹栖	たかす	Takasu	35	01826	01450
-3	01453	01	01450		東神楽町	ひがしかぐらちょう	Higashikagura Town	東神楽	ひがしかぐら	Higashikagura	35	01826	01450
-3	01454	01	01450		当麻町	とうまちょう	Toma Town	当麻	とうま	Toma	35	01826	01450
-3	01455	01	01450		比布町	ぴっぷちょう	Pippu Town	比布	ぴっぷ	Pippu	35	01826	01450
-3	01456	01	01450		愛別町	あいべつちょう	Aibetsu Town	愛別	あいべつ	Aibetsu	35	01826	01450
-3	01457	01	01450		上川町	かみかわちょう	Kamikawa Town	上川	かみかわ	Kamikawa	35	01826	01450
-3	01458	01	01450		東川町	ひがしかわちょう	Higashikawa Town	東川	ひがしかわ	Higashikawa	35	01826	01450
-3	01459	01	01450		美瑛町	びえいちょう	Biei Town	美瑛	びえい	Biei	35	01826	01450
-3	01460	01	01450		上富良野町	かみふらのちょう	Kamifurano Town	上富良野	かみふらの	Kamifurano	35	01822	01450
-3	01461	01	01450		中富良野町	なかふらのちょう	Nakafurano Town	中富良野	なかふらの	Nakafurano	35	01822	01450
-3	01462	01	01450		南富良野町	みなみふらのちょう	Minamifurano Town	南富良野	みなみふらの	Minamifurano	35	01822	01450
-3	01463	01	01450		占冠村	しむかっぷむら	Shimukappu Village	占冠	しむかっぷ	Shimukappu	36	01827	01450
-3	01464	01	01450		和寒町	わっさむちょう	Wassamu Town	和寒	わっさむ	Wassamu	35	01828	01450
-3	01465	01	01450		剣淵町	けんぶちちょう	Kenbuchi Town	剣淵	けんぶち	Kenbuchi	35	01828	01450
-3	01468	01	01450		下川町	しもかわちょう	Shimokawa Town	下川	しもかわ	Shimokawa	35	01828	01450
-3	01469	01	01450		美深町	びふかちょう	Bifuka Town	美深	びふか	Bifuka	35	01829	01450
-3	01470	01	01450		音威子府村	おといねっぷむら	Otoineppu Village	音威子府	おといねっぷ	Otoineppu	36	01829	01450
-3	01471	01	01450		中川町	なかがわちょう	Nakagawa Town	中川	なかがわ	Nakagawa	35	01829	01450
-3	01472	01	01450		幌加内町	ほろかないちょう	Horokanai Town	幌加内	ほろかない	Horokanai	35	01825	01450
+3	01452	01	01450		鷹栖町	たかすちょう	Takasu Town	鷹栖	たかす	Takasu	35	01830	01450
+3	01453	01	01450		東神楽町	ひがしかぐらちょう	Higashikagura Town	東神楽	ひがしかぐら	Higashikagura	35	01830	01450
+3	01454	01	01450		当麻町	とうまちょう	Toma Town	当麻	とうま	Toma	35	01830	01450
+3	01455	01	01450		比布町	ぴっぷちょう	Pippu Town	比布	ぴっぷ	Pippu	35	01830	01450
+3	01456	01	01450		愛別町	あいべつちょう	Aibetsu Town	愛別	あいべつ	Aibetsu	35	01830	01450
+3	01457	01	01450		上川町	かみかわちょう	Kamikawa Town	上川	かみかわ	Kamikawa	35	01830	01450
+3	01458	01	01450		東川町	ひがしかわちょう	Higashikawa Town	東川	ひがしかわ	Higashikawa	35	01830	01450
+3	01459	01	01450		美瑛町	びえいちょう	Biei Town	美瑛	びえい	Biei	35	01830	01450
+3	01460	01	01450		上富良野町	かみふらのちょう	Kamifurano Town	上富良野	かみふらの	Kamifurano	35	01826	01450
+3	01461	01	01450		中富良野町	なかふらのちょう	Nakafurano Town	中富良野	なかふらの	Nakafurano	35	01826	01450
+3	01462	01	01450		南富良野町	みなみふらのちょう	Minamifurano Town	南富良野	みなみふらの	Minamifurano	35	01826	01450
+3	01463	01	01450		占冠村	しむかっぷむら	Shimukappu Village	占冠	しむかっぷ	Shimukappu	36	01831	01450
+3	01464	01	01450		和寒町	わっさむちょう	Wassamu Town	和寒	わっさむ	Wassamu	35	01832	01450
+3	01465	01	01450		剣淵町	けんぶちちょう	Kenbuchi Town	剣淵	けんぶち	Kenbuchi	35	01832	01450
+3	01468	01	01450		下川町	しもかわちょう	Shimokawa Town	下川	しもかわ	Shimokawa	35	01832	01450
+3	01469	01	01450		美深町	びふかちょう	Bifuka Town	美深	びふか	Bifuka	35	01833	01450
+3	01470	01	01450		音威子府村	おといねっぷむら	Otoineppu Village	音威子府	おといねっぷ	Otoineppu	36	01833	01450
+3	01471	01	01450		中川町	なかがわちょう	Nakagawa Town	中川	なかがわ	Nakagawa	35	01833	01450
+3	01472	01	01450		幌加内町	ほろかないちょう	Horokanai Town	幌加内	ほろかない	Horokanai	35	01829	01450
 2	01480	01			留萌振興局	るもいしんこうきょく	Rumoi Subprefectural Bureau	留萌	るもい	Rumoi	26		
-3	01481	01	01480		増毛町	ましけちょう	Mashike Town	増毛	ましけ	Mashike	35	01830	01480
-3	01482	01	01480		小平町	おびらちょう	Obira Town	小平	おびら	Obira	35	01831	01480
-3	01483	01	01480		苫前町	とままえちょう	Tomamae Town	苫前	とままえ	Tomamae	35	01832	01480
-3	01484	01	01480		羽幌町	はぼろちょう	Haboro Town	羽幌	はぼろ	Haboro	35	01832	01480
-3	01485	01	01480		初山別村	しょさんべつむら	Shosanbetsu Village	初山別	しょさんべつ	Shosanbetsu	36	01832	01480
-3	01486	01	01480		遠別町	えんべつちょう	Enbetsu Town	遠別	えんべつ	Enbetsu	35	01833	01480
-3	01487	01	01480		天塩町	てしおちょう	Teshio Town	天塩	てしお	Teshio	35	01833	01480
+3	01481	01	01480		増毛町	ましけちょう	Mashike Town	増毛	ましけ	Mashike	35	01834	01480
+3	01482	01	01480		小平町	おびらちょう	Obira Town	小平	おびら	Obira	35	01835	01480
+3	01483	01	01480		苫前町	とままえちょう	Tomamae Town	苫前	とままえ	Tomamae	35	01836	01480
+3	01484	01	01480		羽幌町	はぼろちょう	Haboro Town	羽幌	はぼろ	Haboro	35	01836	01480
+3	01485	01	01480		初山別村	しょさんべつむら	Shosanbetsu Village	初山別	しょさんべつ	Shosanbetsu	36	01836	01480
+3	01486	01	01480		遠別町	えんべつちょう	Enbetsu Town	遠別	えんべつ	Enbetsu	35	01837	01480
+3	01487	01	01480		天塩町	てしおちょう	Teshio Town	天塩	てしお	Teshio	35	01837	01480
 2	01510	01			宗谷総合振興局	そうやそうごうしんこうきょく	Soya General Subprefectural Bureau	宗谷	そうや	Soya	25		
-3	01511	01	01510		猿払村	さるふつむら	Sarufutsu Village	猿払	さるふつ	Sarufutsu	36	01834	01510
-3	01512	01	01510		浜頓別町	はまとんべつちょう	Hamatonbetsu Town	浜頓別	はまとんべつ	Hamatonbetsu	35	01835	01510
-3	01513	01	01510		中頓別町	なかとんべつちょう	Nakatonbetsu Town	中頓別	なかとんべつ	Nakatonbetsu	35	01835	01510
-3	01514	01	01510		枝幸町	えさしちょう	Esashi Town	枝幸	えさし	Esashi	35	01835	01510
-3	01516	01	01510		豊富町	とよとみちょう	Toyotomi Town	豊富	とよとみ	Toyotomi	35	01833	01510
-3	01517	01	01510		礼文町	れぶんちょう	Rebun Town	礼文	れぶん	Rebun	35	01836	01510
-3	01518	01	01510		利尻町	りしりちょう	Rishiri Town	利尻	りしり	Rishiri	35	01837	01510
-3	01519	01	01510		利尻富士町	りしりふじちょう	Rishirifuji Town	利尻富士	りしりふじ	Rishirifuji	35	01837	01510
-3	01520	01	01510		幌延町	ほろのべちょう	Horonobe Town	幌延	ほろのべ	Horonobe	35	01833	01510
+3	01511	01	01510		猿払村	さるふつむら	Sarufutsu Village	猿払	さるふつ	Sarufutsu	36	01838	01510
+3	01512	01	01510		浜頓別町	はまとんべつちょう	Hamatonbetsu Town	浜頓別	はまとんべつ	Hamatonbetsu	35	01839	01510
+3	01513	01	01510		中頓別町	なかとんべつちょう	Nakatonbetsu Town	中頓別	なかとんべつ	Nakatonbetsu	35	01839	01510
+3	01514	01	01510		枝幸町	えさしちょう	Esashi Town	枝幸	えさし	Esashi	35	01839	01510
+3	01516	01	01510		豊富町	とよとみちょう	Toyotomi Town	豊富	とよとみ	Toyotomi	35	01837	01510
+3	01517	01	01510		礼文町	れぶんちょう	Rebun Town	礼文	れぶん	Rebun	35	01840	01510
+3	01518	01	01510		利尻町	りしりちょう	Rishiri Town	利尻	りしり	Rishiri	35	01841	01510
+3	01519	01	01510		利尻富士町	りしりふじちょう	Rishirifuji Town	利尻富士	りしりふじ	Rishirifuji	35	01841	01510
+3	01520	01	01510		幌延町	ほろのべちょう	Horonobe Town	幌延	ほろのべ	Horonobe	35	01837	01510
 2	01540	01			オホーツク総合振興局	おほーつくそうごうしんこうきょく	Okhotsk General Subprefectural Bureau	オホーツク	おほーつく	Okhotsk	25		
-3	01543	01	01540		美幌町	びほろちょう	Bihoro Town	美幌	びほろ	Bihoro	35	01838	01540
-3	01544	01	01540		津別町	つべつちょう	Tsubetsu Town	津別	つべつ	Tsubetsu	35	01838	01540
-3	01545	01	01540		斜里町	しゃりちょう	Shari Town	斜里	しゃり	Shari	35	01839	01540
-3	01546	01	01540		清里町	きよさとちょう	Kiyosato Town	清里	きよさと	Kiyosato	35	01839	01540
-3	01547	01	01540		小清水町	こしみずちょう	Koshimizu Town	小清水	こしみず	Koshimizu	35	01839	01540
-3	01549	01	01540		訓子府町	くんねっぷちょう	Kunneppu Town	訓子府	くんねっぷ	Kunneppu	35	01840	01540
-3	01550	01	01540		置戸町	おけとちょう	Oketo Town	置戸	おけと	Oketo	35	01840	01540
-3	01552	01	01540		佐呂間町	さろまちょう	Saroma Town	佐呂間	さろま	Saroma	35	01840	01540
-3	01555	01	01540		遠軽町	えんがるちょう	Engaru Town	遠軽	えんがる	Engaru	35	01841	01540
-3	01559	01	01540		湧別町	ゆうべつちょう	Yubetsu Town	湧別	ゆうべつ	Yubetsu	35	01841	01540
-3	01560	01	01540		滝上町	たきのうえちょう	Takinoue Town	滝上	たきのうえ	Takinoue	35	01841	01540
-3	01561	01	01540		興部町	おこっぺちょう	Okoppe Town	興部	おこっぺ	Okoppe	35	01841	01540
-3	01562	01	01540		西興部村	にしおこっぺむら	Nishiokoppe Village	西興部	にしおこっぺ	Nishiokoppe	36	01841	01540
-3	01563	01	01540		雄武町	おうむちょう	Omu Town	雄武	おうむ	Omu	35	01841	01540
-3	01564	01	01540		大空町	おおぞらちょう	Ozora Town	大空	おおぞら	Ozora	35	01838	01540
+3	01543	01	01540		美幌町	びほろちょう	Bihoro Town	美幌	びほろ	Bihoro	35	01842	01540
+3	01544	01	01540		津別町	つべつちょう	Tsubetsu Town	津別	つべつ	Tsubetsu	35	01842	01540
+3	01545	01	01540		斜里町	しゃりちょう	Shari Town	斜里	しゃり	Shari	35	01843	01540
+3	01546	01	01540		清里町	きよさとちょう	Kiyosato Town	清里	きよさと	Kiyosato	35	01843	01540
+3	01547	01	01540		小清水町	こしみずちょう	Koshimizu Town	小清水	こしみず	Koshimizu	35	01843	01540
+3	01549	01	01540		訓子府町	くんねっぷちょう	Kunneppu Town	訓子府	くんねっぷ	Kunneppu	35	01844	01540
+3	01550	01	01540		置戸町	おけとちょう	Oketo Town	置戸	おけと	Oketo	35	01844	01540
+3	01552	01	01540		佐呂間町	さろまちょう	Saroma Town	佐呂間	さろま	Saroma	35	01844	01540
+3	01555	01	01540		遠軽町	えんがるちょう	Engaru Town	遠軽	えんがる	Engaru	35	01845	01540
+3	01559	01	01540		湧別町	ゆうべつちょう	Yubetsu Town	湧別	ゆうべつ	Yubetsu	35	01845	01540
+3	01560	01	01540		滝上町	たきのうえちょう	Takinoue Town	滝上	たきのうえ	Takinoue	35	01845	01540
+3	01561	01	01540		興部町	おこっぺちょう	Okoppe Town	興部	おこっぺ	Okoppe	35	01845	01540
+3	01562	01	01540		西興部村	にしおこっぺむら	Nishiokoppe Village	西興部	にしおこっぺ	Nishiokoppe	36	01845	01540
+3	01563	01	01540		雄武町	おうむちょう	Omu Town	雄武	おうむ	Omu	35	01845	01540
+3	01564	01	01540		大空町	おおぞらちょう	Ozora Town	大空	おおぞら	Ozora	35	01842	01540
 2	01570	01			胆振総合振興局	いぶりそうごうしんこうきょく	Iburi General Subprefectural Bureau	胆振	いぶり	Iburi	25		
-3	01571	01	01570		豊浦町	とようらちょう	Toyoura Town	豊浦	とようら	Toyoura	35	01816	01570
-3	01575	01	01570		壮瞥町	そうべつちょう	Sobetsu Town	壮瞥	そうべつ	Sobetsu	35	01842	01570
-3	01578	01	01570		白老町	しらおいちょう	Shiraoi Town	白老	しらおい	Shiraoi	35	01843	01570
-3	01581	01	01570		厚真町	あつまちょう	Atsuma Town	厚真	あつま	Atsuma	35	01827	01570
-3	01584	01	01570		洞爺湖町	とうやこちょう	Toyako Town	洞爺湖	とうやこ	Toyako	35	01816	01570
-3	01585	01	01570		安平町	あびらちょう	Abira Town	安平	あびら	Abira	35	01827	01570
-3	01586	01	01570		むかわ町	むかわちょう	Mukawa Town	むかわ	むかわ	Mukawa	35	01827	01570
+3	01571	01	01570		豊浦町	とようらちょう	Toyoura Town	豊浦	とようら	Toyoura	35	01820	01570
+3	01575	01	01570		壮瞥町	そうべつちょう	Sobetsu Town	壮瞥	そうべつ	Sobetsu	35	01846	01570
+3	01578	01	01570		白老町	しらおいちょう	Shiraoi Town	白老	しらおい	Shiraoi	35	01848	01570
+3	01581	01	01570		厚真町	あつまちょう	Atsuma Town	厚真	あつま	Atsuma	35	01831	01570
+3	01584	01	01570		洞爺湖町	とうやこちょう	Toyako Town	洞爺湖	とうやこ	Toyako	35	01820	01570
+3	01585	01	01570		安平町	あびらちょう	Abira Town	安平	あびら	Abira	35	01831	01570
+3	01586	01	01570		むかわ町	むかわちょう	Mukawa Town	むかわ	むかわ	Mukawa	35	01831	01570
 2	01600	01			日高振興局	ひだかしんこうきょく	Hidaka Subprefectural Bureau	日高	ひだか	Hidaka	26		
-3	01601	01	01600		日高町	ひだかちょう	Hidaka Town	日高	ひだか	Hidaka	35	01844	01600
-3	01602	01	01600		平取町	びらとりちょう	Biratori Town	平取	びらとり	Biratori	35	01844	01600
-3	01604	01	01600		新冠町	にいかっぷちょう	Niikappu Town	新冠	にいかっぷ	Niikappu	35	01845	01600
-3	01607	01	01600		浦河町	うらかわちょう	Urakawa Town	浦河	うらかわ	Urakawa	35	01846	01600
-3	01608	01	01600		様似町	さまにちょう	Samani Town	様似	さまに	Samani	35	01847	01600
-3	01609	01	01600		えりも町	えりもちょう	Erimo Town	えりも	えりも	Erimo	35	01848	01600
-3	01610	01	01600		新ひだか町	しんひだかちょう	Shinhidaka Town	新ひだか	しんひだか	Shinhidaka	35	01849	01600
+3	01601	01	01600		日高町	ひだかちょう	Hidaka Town	日高	ひだか	Hidaka	35	01849	01600
+3	01602	01	01600		平取町	びらとりちょう	Biratori Town	平取	びらとり	Biratori	35	01849	01600
+3	01604	01	01600		新冠町	にいかっぷちょう	Niikappu Town	新冠	にいかっぷ	Niikappu	35	01850	01600
+3	01607	01	01600		浦河町	うらかわちょう	Urakawa Town	浦河	うらかわ	Urakawa	35	01853	01600
+3	01608	01	01600		様似町	さまにちょう	Samani Town	様似	さまに	Samani	35	01854	01600
+3	01609	01	01600		えりも町	えりもちょう	Erimo Town	えりも	えりも	Erimo	35	01855	01600
+3	01610	01	01600		新ひだか町	しんひだかちょう	Shinhidaka Town	新ひだか	しんひだか	Shinhidaka	35	01876	01600
 2	01630	01			十勝総合振興局	とかちそうごうしんこうきょく	Tokachi General Subprefectural Bureau	十勝	とかち	Tokachi	25		
-3	01631	01	01630		音更町	おとふけちょう	Otofuke Town	音更	おとふけ	Otofuke	35	01850	01630
-3	01632	01	01630		士幌町	しほろちょう	Shihoro Town	士幌	しほろ	Shihoro	35	01850	01630
-3	01633	01	01630		上士幌町	かみしほろちょう	Kamishihoro Town	上士幌	かみしほろ	Kamishihoro	35	01850	01630
-3	01634	01	01630		鹿追町	しかおいちょう	Shikaoi Town	鹿追	しかおい	Shikaoi	35	01850	01630
-3	01635	01	01630		新得町	しんとくちょう	Shintoku Town	新得	しんとく	Shintoku	35	01851	01630
-3	01636	01	01630		清水町	しみずちょう	Shimizu Town	清水	しみず	Shimizu	35	01851	01630
-3	01637	01	01630		芽室町	めむろちょう	Memuro Town	芽室	めむろ	Memuro	35	01852	01630
-3	01638	01	01630		中札内村	なかさつないむら	Nakasatsunai Village	中札内	なかさつない	Nakasatsunai	36	01852	01630
-3	01639	01	01630		更別村	さらべつむら	Sarabetsu Village	更別	さらべつ	Sarabetsu	36	01852	01630
-3	01641	01	01630		大樹町	たいきちょう	Taiki Town	大樹	たいき	Taiki	35	01853	01630
-3	01642	01	01630		広尾町	ひろおちょう	Hiroo Town	広尾	ひろお	Hiroo	35	01853	01630
-3	01643	01	01630		幕別町	まくべつちょう	Makubetsu Town	幕別	まくべつ	Makubetsu	35	01854	01630
-3	01644	01	01630		池田町	いけだちょう	Ikeda Town	池田	いけだ	Ikeda	35	01854	01630
-3	01645	01	01630		豊頃町	とよころちょう	Toyokoro Town	豊頃	とよころ	Toyokoro	35	01854	01630
-3	01646	01	01630		本別町	ほんべつちょう	Honbetsu Town	本別	ほんべつ	Honbetsu	35	01854	01630
-3	01647	01	01630		足寄町	あしょろちょう	Ashoro Town	足寄	あしょろ	Ashoro	35	01855	01630
-3	01648	01	01630		陸別町	りくべつちょう	Rikubetsu Town	陸別	りくべつ	Rikubetsu	35	01855	01630
-3	01649	01	01630		浦幌町	うらほろちょう	Urahoro Town	浦幌	うらほろ	Urahoro	35	01856	01630
+3	01631	01	01630		音更町	おとふけちょう	Otofuke Town	音更	おとふけ	Otofuke	35	01856	01630
+3	01632	01	01630		士幌町	しほろちょう	Shihoro Town	士幌	しほろ	Shihoro	35	01856	01630
+3	01633	01	01630		上士幌町	かみしほろちょう	Kamishihoro Town	上士幌	かみしほろ	Kamishihoro	35	01856	01630
+3	01634	01	01630		鹿追町	しかおいちょう	Shikaoi Town	鹿追	しかおい	Shikaoi	35	01856	01630
+3	01635	01	01630		新得町	しんとくちょう	Shintoku Town	新得	しんとく	Shintoku	35	01857	01630
+3	01636	01	01630		清水町	しみずちょう	Shimizu Town	清水	しみず	Shimizu	35	01857	01630
+3	01637	01	01630		芽室町	めむろちょう	Memuro Town	芽室	めむろ	Memuro	35	01858	01630
+3	01638	01	01630		中札内村	なかさつないむら	Nakasatsunai Village	中札内	なかさつない	Nakasatsunai	36	01858	01630
+3	01639	01	01630		更別村	さらべつむら	Sarabetsu Village	更別	さらべつ	Sarabetsu	36	01858	01630
+3	01641	01	01630		大樹町	たいきちょう	Taiki Town	大樹	たいき	Taiki	35	01859	01630
+3	01642	01	01630		広尾町	ひろおちょう	Hiroo Town	広尾	ひろお	Hiroo	35	01859	01630
+3	01643	01	01630		幕別町	まくべつちょう	Makubetsu Town	幕別	まくべつ	Makubetsu	35	01860	01630
+3	01644	01	01630		池田町	いけだちょう	Ikeda Town	池田	いけだ	Ikeda	35	01860	01630
+3	01645	01	01630		豊頃町	とよころちょう	Toyokoro Town	豊頃	とよころ	Toyokoro	35	01860	01630
+3	01646	01	01630		本別町	ほんべつちょう	Honbetsu Town	本別	ほんべつ	Honbetsu	35	01860	01630
+3	01647	01	01630		足寄町	あしょろちょう	Ashoro Town	足寄	あしょろ	Ashoro	35	01861	01630
+3	01648	01	01630		陸別町	りくべつちょう	Rikubetsu Town	陸別	りくべつ	Rikubetsu	35	01861	01630
+3	01649	01	01630		浦幌町	うらほろちょう	Urahoro Town	浦幌	うらほろ	Urahoro	35	01862	01630
 2	01660	01			釧路総合振興局	くしろそうごうしんこうきょく	Kushiro General Subprefectural Bureau	釧路	くしろ	Kushiro	25		
-3	01661	01	01660		釧路町	くしろちょう	Kushiro Town	釧路	くしろ	Kushiro	35	01857	01660
-3	01662	01	01660		厚岸町	あっけしちょう	Akkeshi Town	厚岸	あっけし	Akkeshi	35	01858	01660
-3	01663	01	01660		浜中町	はまなかちょう	Hamanaka Town	浜中	はまなか	Hamanaka	35	01858	01660
-3	01664	01	01660		標茶町	しべちゃちょう	Shibecha Town	標茶	しべちゃ	Shibecha	35	01859	01660
-3	01665	01	01660		弟子屈町	てしかがちょう	Teshikaga Town	弟子屈	てしかが	Teshikaga	35	01859	01660
-3	01667	01	01660		鶴居村	つるいむら	Tsurui Village	鶴居	つるい	Tsurui	36	01860	01660
-3	01668	01	01660		白糠町	しらぬかちょう	Shiranuka Town	白糠	しらぬか	Shiranuka	35	01861	01660
+3	01661	01	01660		釧路町	くしろちょう	Kushiro Town	釧路	くしろ	Kushiro	35	01863	01660
+3	01662	01	01660		厚岸町	あっけしちょう	Akkeshi Town	厚岸	あっけし	Akkeshi	35	01864	01660
+3	01663	01	01660		浜中町	はまなかちょう	Hamanaka Town	浜中	はまなか	Hamanaka	35	01864	01660
+3	01664	01	01660		標茶町	しべちゃちょう	Shibecha Town	標茶	しべちゃ	Shibecha	35	01865	01660
+3	01665	01	01660		弟子屈町	てしかがちょう	Teshikaga Town	弟子屈	てしかが	Teshikaga	35	01865	01660
+3	01667	01	01660		鶴居村	つるいむら	Tsurui Village	鶴居	つるい	Tsurui	36	01866	01660
+3	01668	01	01660		白糠町	しらぬかちょう	Shiranuka Town	白糠	しらぬか	Shiranuka	35	01867	01660
 2	01690	01			根室振興局	ねむろしんこうきょく	Nemuro Subprefectural Bureau	根室	ねむろ	Nemuro	26		
-3	01691	01	01690		別海町	べつかいちょう	Betsukai Town	別海	べつかい	Betsukai	35	01862	01690
-3	01692	01	01690		中標津町	なかしべつちょう	Nakashibetsu Town	中標津	なかしべつ	Nakashibetsu	35	01863	01690
-3	01693	01	01690		標津町	しべつちょう	Shibetsu Town	標津	しべつ	Shibetsu	35	01863	01690
-3	01694	01	01690		羅臼町	らうすちょう	Rausu Town	羅臼	らうす	Rausu	35	01864	01690
-3	01695	01	01690		色丹村	しこたんむら	Shikotan Village	色丹	しこたん	Shikotan	36	01865	01690
-3	01696	01	01690		泊村	とまりむら	Tomari Village	泊	とまり	Tomari	36	01866	01690
-3	01697	01	01690		留夜別村	るよべつむら	Ruyobetsu Village	留夜別	るよべつ	Ruyobetsu	36	01866	01690
-3	01698	01	01690		留別村	るべつむら	Rubetsu Village	留別	るべつ	Rubetsu	36	01867	01690
-3	01699	01	01690		紗那村	しゃなむら	Shana Village	紗那	しゃな	Shana	36	01868	01690
-3	01700	01	01690		蘂取村	しべとろむら	Shibetoro Village	蘂取	しべとろ	Shibetoro	36	01869	01690
-2	01801	01			石狩郡	いしかりぐん	Ishikari County	石狩	いしかり	Ishikari	24		
-2	01802	01			松前郡	まつまえぐん	Matsumae County	松前	まつまえ	Matsumae	24		
-2	01803	01			上磯郡	かみいそぐん	Kamiiso County	上磯	かみいそ	Kamiiso	24		
-2	01804	01			亀田郡	かめだぐん	Kameda County	亀田	かめだ	Kameda	24		
-2	01805	01			茅部郡	かやべぐん	Kayabe County	茅部	かやべ	Kayabe	24		
-2	01806	01			二海郡	ふたみぐん	Futami County	二海	ふたみ	Futami	24		
-2	01807	01			山越郡	やまこしぐん	Yamakoshi County	山越	やまこし	Yamakoshi	24		
-2	01808	01			檜山郡	ひやまぐん	Hiyama County	檜山	ひやま	Hiyama	24		
-2	01809	01			爾志郡	にしぐん	Nishi County	爾志	にし	Nishi	24		
-2	01810	01			奥尻郡	おくしりぐん	Okushiri County	奥尻	おくしり	Okushiri	24		
-2	01811	01			瀬棚郡	せたなぐん	Setana County	瀬棚	せたな	Setana	24		
-2	01812	01			久遠郡	くどうぐん	Kudo County	久遠	くどう	Kudo	24		
-2	01813	01			島牧郡	しままきぐん	Shimamaki County	島牧	しままき	Shimamaki	24		
-2	01814	01			寿都郡	すっつぐん	Suttsu County	寿都	すっつ	Suttsu	24		
-2	01815	01			磯谷郡	いそやぐん	Isoya County	磯谷	いそや	Isoya	24		
-2	01816	01			虻田郡	あぶたぐん	Abuta County	虻田	あぶた	Abuta	24		
-2	01817	01			岩内郡	いわないぐん	Iwanai County	岩内	いわない	Iwanai	24		
-2	01818	01			古宇郡	ふるうぐん	Furuu County	古宇	ふるう	Furuu	24		
-2	01819	01			積丹郡	しゃこたんぐん	Shakotan County	積丹	しゃこたん	Shakotan	24		
-2	01820	01			古平郡	ふるびらぐん	Furubira County	古平	ふるびら	Furubira	24		
-2	01821	01			余市郡	よいちぐん	Yoichi County	余市	よいち	Yoichi	24		
-2	01822	01			空知郡	そらちぐん	Sorachi County	空知	そらち	Sorachi	24		
-2	01823	01			夕張郡	ゆうばりぐん	Yubari County	夕張	ゆうばり	Yubari	24		
-2	01824	01			樺戸郡	かばとぐん	Kabato County	樺戸	かばと	Kabato	24		
-2	01825	01			雨竜郡	うりゅうぐん	Uryu County	雨竜	うりゅう	Uryu	24		
-2	01826	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
-2	01827	01			勇払郡	ゆうふつぐん	Yufutsu County	勇払	ゆうふつ	Yufutsu	24		
-2	01828	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
-2	01829	01			中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24		
-2	01830	01			増毛郡	ましけぐん	Mashike County	増毛	ましけ	Mashike	24		
-2	01831	01			留萌郡	るもいぐん	Rumoi County	留萌	るもい	Rumoi	24		
-2	01832	01			苫前郡	とままえぐん	Tomamae County	苫前	とままえ	Tomamae	24		
-2	01833	01			天塩郡	てしおぐん	Teshio County	天塩	てしお	Teshio	24		
-2	01834	01			宗谷郡	そうやぐん	Soya County	宗谷	そうや	Soya	24		
-2	01835	01			枝幸郡	えさしぐん	Esashi County	枝幸	えさし	Esashi	24		
-2	01836	01			礼文郡	れぶんぐん	Rebun County	礼文	れぶん	Rebun	24		
-2	01837	01			利尻郡	りしりぐん	Rishiri County	利尻	りしり	Rishiri	24		
-2	01838	01			網走郡	あばしりぐん	Abashiri County	網走	あばしり	Abashiri	24		
-2	01839	01			斜里郡	しゃりぐん	Shari County	斜里	しゃり	Shari	24		
-2	01840	01			常呂郡	ところぐん	Tokoro County	常呂	ところ	Tokoro	24		
-2	01841	01			紋別郡	もんべつぐん	Monbetsu County	紋別	もんべつ	Monbetsu	24		
-2	01842	01			有珠郡	うすぐん	Usu County	有珠	うす	Usu	24		
-2	01843	01			白老郡	しらおいぐん	Shiraoi County	白老	しらおい	Shiraoi	24		
-2	01844	01			沙流郡	さるぐん	Saru County	沙流	さる	Saru	24		
-2	01845	01			新冠郡	にいかっぷぐん	Niikappu County	新冠	にいかっぷ	Niikappu	24		
-2	01846	01			浦河郡	うらかわぐん	Urakawa County	浦河	うらかわ	Urakawa	24		
-2	01847	01			様似郡	さまにぐん	Samani County	様似	さまに	Samani	24		
-2	01848	01			幌泉郡	ほろいずみぐん	Horoizumi County	幌泉	ほろいずみ	Horoizumi	24		
-2	01849	01			日高郡	ひだかぐん	Hidaka County	日高	ひだか	Hidaka	24		
-2	01850	01			河東郡	かとうぐん	Kato County	河東	かとう	Kato	24		
-2	01851	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
-2	01852	01			河西郡	かさいぐん	Kasai County	河西	かさい	Kasai	24		
-2	01853	01			広尾郡	ひろおぐん	Hiroo County	広尾	ひろお	Hiroo	24		
-2	01854	01			中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24		
-2	01855	01			足寄郡	あしょろぐん	Ashoro County	足寄	あしょろ	Ashoro	24		
-2	01856	01			十勝郡	とかちぐん	Tokachi County	十勝	とかち	Tokachi	24		
-2	01857	01			釧路郡	くしろぐん	Kushiro County	釧路	くしろ	Kushiro	24		
-2	01858	01			厚岸郡	あっけしぐん	Akkeshi County	厚岸	あっけし	Akkeshi	24		
-2	01859	01			川上郡	かわかみぐん	Kawakami County	川上	かわかみ	Kawakami	24		
-2	01860	01			阿寒郡	あかんぐん	Akan County	阿寒	あかん	Akan	24		
-2	01861	01			白糠郡	しらぬかぐん	Shiranuka County	白糠	しらぬか	Shiranuka	24		
-2	01862	01			野付郡	のつけぐん	Notsuke County	野付	のつけ	Notsuke	24		
-2	01863	01			標津郡	しべつぐん	Shibetsu County	標津	しべつ	Shibetsu	24		
-2	01864	01			目梨郡	めなしぐん	Menashi County	目梨	めなし	Menashi	24		
-2	01865	01			色丹郡	しこたんぐん	Shikotan County	色丹	しこたん	Shikotan	24		
-2	01866	01			国後郡	くなしりぐん	Kunashiri County	国後	くなしり	Kunashiri	24		
-2	01867	01			択捉郡	えとろふぐん	Etorofu County	択捉	えとろふ	Etorofu	24		
-2	01868	01			紗那郡	しゃなぐん	Shana County	紗那	しゃな	Shana	24		
-2	01869	01			蘂取郡	しべとろぐん	Shibetoro County	蘂取	しべとろ	Shibetoro	24		
+3	01691	01	01690		別海町	べつかいちょう	Betsukai Town	別海	べつかい	Betsukai	35	01868	01690
+3	01692	01	01690		中標津町	なかしべつちょう	Nakashibetsu Town	中標津	なかしべつ	Nakashibetsu	35	01869	01690
+3	01693	01	01690		標津町	しべつちょう	Shibetsu Town	標津	しべつ	Shibetsu	35	01869	01690
+3	01694	01	01690		羅臼町	らうすちょう	Rausu Town	羅臼	らうす	Rausu	35	01870	01690
+3	01695	01	01690		色丹村	しこたんむら	Shikotan Village	色丹	しこたん	Shikotan	36	01871	01690
+3	01696	01	01690		泊村	とまりむら	Tomari Village	泊	とまり	Tomari	36	01872	01690
+3	01697	01	01690		留夜別村	るよべつむら	Ruyobetsu Village	留夜別	るよべつ	Ruyobetsu	36	01872	01690
+3	01698	01	01690		留別村	るべつむら	Rubetsu Village	留別	るべつ	Rubetsu	36	01873	01690
+3	01699	01	01690		紗那村	しゃなむら	Shana Village	紗那	しゃな	Shana	36	01874	01690
+3	01700	01	01690		蘂取村	しべとろむら	Shibetoro Village	蘂取	しべとろ	Shibetoro	36	01875	01690
+2	01802	01			石狩郡	いしかりぐん	Ishikari County	石狩	いしかり	Ishikari	24		
+2	01806	01			松前郡	まつまえぐん	Matsumae County	松前	まつまえ	Matsumae	24		
+2	01807	01			上磯郡	かみいそぐん	Kamiiso County	上磯	かみいそ	Kamiiso	24		
+2	01808	01			亀田郡	かめだぐん	Kameda County	亀田	かめだ	Kameda	24		
+2	01809	01			茅部郡	かやべぐん	Kayabe County	茅部	かやべ	Kayabe	24		
+2	01810	01			二海郡	ふたみぐん	Futami County	二海	ふたみ	Futami	24		
+2	01811	01			山越郡	やまこしぐん	Yamakoshi County	山越	やまこし	Yamakoshi	24		
+2	01812	01			檜山郡	ひやまぐん	Hiyama County	檜山	ひやま	Hiyama	24		
+2	01813	01			爾志郡	にしぐん	Nishi County	爾志	にし	Nishi	24		
+2	01814	01			久遠郡	くどうぐん	Kudo County	久遠	くどう	Kudo	24		
+2	01815	01			奥尻郡	おくしりぐん	Okushiri County	奥尻	おくしり	Okushiri	24		
+2	01816	01			瀬棚郡	せたなぐん	Setana County	瀬棚	せたな	Setana	24		
+2	01817	01			島牧郡	しままきぐん	Shimamaki County	島牧	しままき	Shimamaki	24		
+2	01818	01			寿都郡	すっつぐん	Suttsu County	寿都	すっつ	Suttsu	24		
+2	01819	01			磯谷郡	いそやぐん	Isoya County	磯谷	いそや	Isoya	24		
+2	01820	01			虻田郡	あぶたぐん	Abuta County	虻田	あぶた	Abuta	24		
+2	01821	01			岩内郡	いわないぐん	Iwanai County	岩内	いわない	Iwanai	24		
+2	01822	01			古宇郡	ふるうぐん	Furuu County	古宇	ふるう	Furuu	24		
+2	01823	01			積丹郡	しゃこたんぐん	Shakotan County	積丹	しゃこたん	Shakotan	24		
+2	01824	01			古平郡	ふるびらぐん	Furubira County	古平	ふるびら	Furubira	24		
+2	01825	01			余市郡	よいちぐん	Yoichi County	余市	よいち	Yoichi	24		
+2	01826	01			空知郡	そらちぐん	Sorachi County	空知	そらち	Sorachi	24		
+2	01827	01			夕張郡	ゆうばりぐん	Yubari County	夕張	ゆうばり	Yubari	24		
+2	01828	01			樺戸郡	かばとぐん	Kabato County	樺戸	かばと	Kabato	24		
+2	01829	01			雨竜郡	うりゅうぐん	Uryu County	雨竜	うりゅう	Uryu	24		
+2	01830	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
+2	01831	01			勇払郡	ゆうふつぐん	Yufutsu County	勇払	ゆうふつ	Yufutsu	24		
+2	01832	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
+2	01833	01			中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24		
+2	01834	01			増毛郡	ましけぐん	Mashike County	増毛	ましけ	Mashike	24		
+2	01835	01			留萌郡	るもいぐん	Rumoi County	留萌	るもい	Rumoi	24		
+2	01836	01			苫前郡	とままえぐん	Tomamae County	苫前	とままえ	Tomamae	24		
+2	01837	01			天塩郡	てしおぐん	Teshio County	天塩	てしお	Teshio	24		
+2	01838	01			宗谷郡	そうやぐん	Soya County	宗谷	そうや	Soya	24		
+2	01839	01			枝幸郡	えさしぐん	Esashi County	枝幸	えさし	Esashi	24		
+2	01840	01			礼文郡	れぶんぐん	Rebun County	礼文	れぶん	Rebun	24		
+2	01841	01			利尻郡	りしりぐん	Rishiri County	利尻	りしり	Rishiri	24		
+2	01842	01			網走郡	あばしりぐん	Abashiri County	網走	あばしり	Abashiri	24		
+2	01843	01			斜里郡	しゃりぐん	Shari County	斜里	しゃり	Shari	24		
+2	01844	01			常呂郡	ところぐん	Tokoro County	常呂	ところ	Tokoro	24		
+2	01845	01			紋別郡	もんべつぐん	Monbetsu County	紋別	もんべつ	Monbetsu	24		
+2	01846	01			有珠郡	うすぐん	Usu County	有珠	うす	Usu	24		
+2	01848	01			白老郡	しらおいぐん	Shiraoi County	白老	しらおい	Shiraoi	24		
+2	01849	01			沙流郡	さるぐん	Saru County	沙流	さる	Saru	24		
+2	01850	01			新冠郡	にいかっぷぐん	Niikappu County	新冠	にいかっぷ	Niikappu	24		
+2	01853	01			浦河郡	うらかわぐん	Urakawa County	浦河	うらかわ	Urakawa	24		
+2	01854	01			様似郡	さまにぐん	Samani County	様似	さまに	Samani	24		
+2	01855	01			幌泉郡	ほろいずみぐん	Horoizumi County	幌泉	ほろいずみ	Horoizumi	24		
+2	01856	01			河東郡	かとうぐん	Kato County	河東	かとう	Kato	24		
+2	01857	01			上川郡	かみかわぐん	Kamikawa County	上川	かみかわ	Kamikawa	24		
+2	01858	01			河西郡	かさいぐん	Kasai County	河西	かさい	Kasai	24		
+2	01859	01			広尾郡	ひろおぐん	Hiroo County	広尾	ひろお	Hiroo	24		
+2	01860	01			中川郡	なかがわぐん	Nakagawa County	中川	なかがわ	Nakagawa	24		
+2	01861	01			足寄郡	あしょろぐん	Ashoro County	足寄	あしょろ	Ashoro	24		
+2	01862	01			十勝郡	とかちぐん	Tokachi County	十勝	とかち	Tokachi	24		
+2	01863	01			釧路郡	くしろぐん	Kushiro County	釧路	くしろ	Kushiro	24		
+2	01864	01			厚岸郡	あっけしぐん	Akkeshi County	厚岸	あっけし	Akkeshi	24		
+2	01865	01			川上郡	かわかみぐん	Kawakami County	川上	かわかみ	Kawakami	24		
+2	01866	01			阿寒郡	あかんぐん	Akan County	阿寒	あかん	Akan	24		
+2	01867	01			白糠郡	しらぬかぐん	Shiranuka County	白糠	しらぬか	Shiranuka	24		
+2	01868	01			野付郡	のつけぐん	Notsuke County	野付	のつけ	Notsuke	24		
+2	01869	01			標津郡	しべつぐん	Shibetsu County	標津	しべつ	Shibetsu	24		
+2	01870	01			目梨郡	めなしぐん	Menashi County	目梨	めなし	Menashi	24		
+2	01871	01			色丹郡	しこたんぐん	Shikotan County	色丹	しこたん	Shikotan	24		
+2	01872	01			国後郡	くなしりぐん	Kunashiri County	国後	くなしり	Kunashiri	24		
+2	01873	01			択捉郡	えとろふぐん	Etorofu County	択捉	えとろふ	Etorofu	24		
+2	01874	01			紗那郡	しゃなぐん	Shana County	紗那	しゃな	Shana	24		
+2	01875	01			蘂取郡	しべとろぐん	Shibetoro County	蘂取	しべとろ	Shibetoro	24		
+2	01876	01			日高郡	ひだかぐん	Hidaka County	日高	ひだか	Hidaka	24		
 1	02000	02			青森県	あおもりけん	Aomori Prefecture	青森	あおもり	Aomori	14		
 2	02200	02			市部	しぶ	City Area				23		
 3	02201	02	02200		青森市	あおもりし	Aomori City	青森	あおもり	Aomori	32		
