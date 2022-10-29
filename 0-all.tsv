@@ -19,10 +19,10 @@ level	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01205	01	01200		室蘭市	むろらんし	Muroran City	室蘭	むろらん	Muroran	32		01570
 3	01206	01	01200		釧路市	くしろし	Kushiro City	釧路	くしろ	Kushiro	32		01660
 3	01207	01	01200		帯広市	おびひろし	Obihiro City	帯広	おびひろ	Obihiro	32		01630
-3	01208	01	01200		北見市	きたみし	Kitami City	北見	きたみ	Kitami	32		01450
+3	01208	01	01200		北見市	きたみし	Kitami City	北見	きたみ	Kitami	32		01540
 3	01209	01	01200		夕張市	ゆうばりし	Yubari City	夕張	ゆうばり	Yubari	32		01420
 3	01210	01	01200		岩見沢市	いわみざわし	Iwamizawa City	岩見沢	いわみざわ	Iwamizawa	32		01420
-3	01211	01	01200		網走市	あばしりし	Abashiri City	網走	あばしり	Abashiri	32		01450
+3	01211	01	01200		網走市	あばしりし	Abashiri City	網走	あばしり	Abashiri	32		01540
 3	01212	01	01200		留萌市	るもいし	Rumoi City	留萌	るもい	Rumoi	32		01480
 3	01213	01	01200		苫小牧市	とまこまいし	Tomakomai City	苫小牧	とまこまい	Tomakomai	32		01570
 3	01214	01	01200		稚内市	わっかないし	Wakkanai City	稚内	わっかない	Wakkanai	32		01510
@@ -30,7 +30,7 @@ level	code	pref	psub	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base
 3	01216	01	01200		芦別市	あしべつし	Ashibetsu City	芦別	あしべつ	Ashibetsu	32		01420
 3	01217	01	01200		江別市	えべつし	Ebetsu City	江別	えべつ	Ebetsu	32		01300
 3	01218	01	01200		赤平市	あかびらし	Akabira City	赤平	あかびら	Akabira	32		01420
-3	01219	01	01200		紋別市	もんべつし	Monbetsu City	紋別	もんべつ	Monbetsu	32		01450
+3	01219	01	01200		紋別市	もんべつし	Monbetsu City	紋別	もんべつ	Monbetsu	32		01540
 3	01220	01	01200		士別市	しべつし	Shibetsu City	士別	しべつ	Shibetsu	32		01450
 3	01221	01	01200		名寄市	なよろし	Nayoro City	名寄	なよろ	Nayoro	32		01450
 3	01222	01	01200		三笠市	みかさし	Mikasa City	三笠	みかさ	Mikasa	32		01420
