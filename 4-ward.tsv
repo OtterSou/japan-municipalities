@@ -1,176 +1,176 @@
-code	pref	muni	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	type
-01101	01	01100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41
-01102	01	01100	北区	きたく	Kita Ward	北	きた	Kita	41
-01103	01	01100	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41
-01104	01	01100	白石区	しろいしく	Shiroishi Ward	白石	しろいし	Shiroishi	41
-01105	01	01100	豊平区	とよひらく	Toyohira Ward	豊平	とよひら	Toyohira	41
-01106	01	01100	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-01107	01	01100	西区	にしく	Nishi Ward	西	にし	Nishi	41
-01108	01	01100	厚別区	あつべつく	Atsubetsu Ward	厚別	あつべつ	Atsubetsu	41
-01109	01	01100	手稲区	ていねく	Teine Ward	手稲	ていね	Teine	41
-01110	01	01100	清田区	きよたく	Kiyota Ward	清田	きよた	Kiyota	41
-04101	04	04100	青葉区	あおばく	Aoba Ward	青葉	あおば	Aoba	41
-04102	04	04100	宮城野区	みやぎのく	Miyagino Ward	宮城野	みやぎの	Miyagino	41
-04103	04	04100	若林区	わかばやしく	Wakabayashi Ward	若林	わかばやし	Wakabayashi	41
-04104	04	04100	太白区	たいはくく	Taihaku Ward	太白	たいはく	Taihaku	41
-04105	04	04100	泉区	いずみく	Izumi Ward	泉	いずみ	Izumi	41
-11101	11	11100	西区	にしく	Nishi Ward	西	にし	Nishi	41
-11102	11	11100	北区	きたく	Kita Ward	北	きた	Kita	41
-11103	11	11100	大宮区	おおみやく	Omiya Ward	大宮	おおみや	Omiya	41
-11104	11	11100	見沼区	みぬまく	Minuma Ward	見沼	みぬま	Minuma	41
-11105	11	11100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41
-11106	11	11100	桜区	さくらく	Sakura Ward	桜	さくら	Sakura	41
-11107	11	11100	浦和区	うらわく	Urawa Ward	浦和	うらわ	Urawa	41
-11108	11	11100	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-11109	11	11100	緑区	みどりく	Midori Ward	緑	みどり	Midori	41
-11110	11	11100	岩槻区	いわつきく	Iwatsuki Ward	岩槻	いわつき	Iwatsuki	41
-12101	12	12100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41
-12102	12	12100	花見川区	はなみがわく	Hanamigawa Ward	花見川	はなみがわ	Hanamigawa	41
-12103	12	12100	稲毛区	いなげく	Inage Ward	稲毛	いなげ	Inage	41
-12104	12	12100	若葉区	わかばく	Wakaba Ward	若葉	わかば	Wakaba	41
-12105	12	12100	緑区	みどりく	Midori Ward	緑	みどり	Midori	41
-12106	12	12100	美浜区	みはまく	Mihama Ward	美浜	みはま	Mihama	41
-14101	14	14100	鶴見区	つるみく	Tsurumi Ward	鶴見	つるみ	Tsurumi	41
-14102	14	14100	神奈川区	かながわく	Kanagawa Ward	神奈川	かながわ	Kanagawa	41
-14103	14	14100	西区	にしく	Nishi Ward	西	にし	Nishi	41
-14104	14	14100	中区	なかく	Naka Ward	中	なか	Naka	41
-14105	14	14100	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-14106	14	14100	保土ケ谷区	ほどがやく	Hodogaya Ward	保土ケ谷	ほどがや	Hodogaya	41
-14107	14	14100	磯子区	いそごく	Isogo Ward	磯子	いそご	Isogo	41
-14108	14	14100	金沢区	かなざわく	Kanazawa Ward	金沢	かなざわ	Kanazawa	41
-14109	14	14100	港北区	こうほくく	Kohoku Ward	港北	こうほく	Kohoku	41
-14110	14	14100	戸塚区	とつかく	Totsuka Ward	戸塚	とつか	Totsuka	41
-14111	14	14100	港南区	こうなんく	Konan Ward	港南	こうなん	Konan	41
-14112	14	14100	旭区	あさひく	Asahi Ward	旭	あさひ	Asahi	41
-14113	14	14100	緑区	みどりく	Midori Ward	緑	みどり	Midori	41
-14114	14	14100	瀬谷区	せやく	Seya Ward	瀬谷	せや	Seya	41
-14115	14	14100	栄区	さかえく	Sakae Ward	栄	さかえ	Sakae	41
-14116	14	14100	泉区	いずみく	Izumi Ward	泉	いずみ	Izumi	41
-14117	14	14100	青葉区	あおばく	Aoba Ward	青葉	あおば	Aoba	41
-14118	14	14100	都筑区	つづきく	Tsuzuki Ward	都筑	つづき	Tsuzuki	41
-14131	14	14130	川崎区	かわさきく	Kawasaki Ward	川崎	かわさき	Kawasaki	41
-14132	14	14130	幸区	さいわいく	Saiwai Ward	幸	さいわい	Saiwai	41
-14133	14	14130	中原区	なかはらく	Nakahara Ward	中原	なかはら	Nakahara	41
-14134	14	14130	高津区	たかつく	Takatsu Ward	高津	たかつ	Takatsu	41
-14135	14	14130	多摩区	たまく	Tama Ward	多摩	たま	Tama	41
-14136	14	14130	宮前区	みやまえく	Miyamae Ward	宮前	みやまえ	Miyamae	41
-14137	14	14130	麻生区	あさおく	Asao Ward	麻生	あさお	Asao	41
-14151	14	14150	緑区	みどりく	Midori Ward	緑	みどり	Midori	41
-14152	14	14150	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41
-14153	14	14150	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-15101	15	15100	北区	きたく	Kita Ward	北	きた	Kita	41
-15102	15	15100	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41
-15103	15	15100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41
-15104	15	15100	江南区	こうなんく	Konan Ward	江南	こうなん	Konan	41
-15105	15	15100	秋葉区	あきはく	Akiha Ward	秋葉	あきは	Akiha	41
-15106	15	15100	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-15107	15	15100	西区	にしく	Nishi Ward	西	にし	Nishi	41
-15108	15	15100	西蒲区	にしかんく	Nishikan Ward	西蒲	にしかん	Nishikan	41
-22101	22	22100	葵区	あおいく	Aoi Ward	葵	あおい	Aoi	41
-22102	22	22100	駿河区	するがく	Suruga Ward	駿河	するが	Suruga	41
-22103	22	22100	清水区	しみずく	Shimizu Ward	清水	しみず	Shimizu	41
-22131	22	22130	中区	なかく	Naka Ward	中	なか	Naka	41
-22132	22	22130	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41
-22133	22	22130	西区	にしく	Nishi Ward	西	にし	Nishi	41
-22134	22	22130	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-22135	22	22130	北区	きたく	Kita Ward	北	きた	Kita	41
-22136	22	22130	浜北区	はまきたく	Hamakita Ward	浜北	はまきた	Hamakita	41
-22137	22	22130	天竜区	てんりゅうく	Tenryu Ward	天竜	てんりゅう	Tenryu	41
-23101	23	23100	千種区	ちくさく	Chikusa Ward	千種	ちくさ	Chikusa	41
-23102	23	23100	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41
-23103	23	23100	北区	きたく	Kita Ward	北	きた	Kita	41
-23104	23	23100	西区	にしく	Nishi Ward	西	にし	Nishi	41
-23105	23	23100	中村区	なかむらく	Nakamura Ward	中村	なかむら	Nakamura	41
-23106	23	23100	中区	なかく	Naka Ward	中	なか	Naka	41
-23107	23	23100	昭和区	しょうわく	Showa Ward	昭和	しょうわ	Showa	41
-23108	23	23100	瑞穂区	みずほく	Mizuho Ward	瑞穂	みずほ	Mizuho	41
-23109	23	23100	熱田区	あつたく	Atsuta Ward	熱田	あつた	Atsuta	41
-23110	23	23100	中川区	なかがわく	Nakagawa Ward	中川	なかがわ	Nakagawa	41
-23111	23	23100	港区	みなとく	Minato Ward	港	みなと	Minato	41
-23112	23	23100	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-23113	23	23100	守山区	もりやまく	Moriyama Ward	守山	もりやま	Moriyama	41
-23114	23	23100	緑区	みどりく	Midori Ward	緑	みどり	Midori	41
-23115	23	23100	名東区	めいとうく	Meito Ward	名東	めいとう	Meito	41
-23116	23	23100	天白区	てんぱくく	Tenpaku Ward	天白	てんぱく	Tenpaku	41
-26101	26	26100	北区	きたく	Kita Ward	北	きた	Kita	41
-26102	26	26100	上京区	かみぎょうく	Kamigyo Ward	上京	かみぎょう	Kamigyo	41
-26103	26	26100	左京区	さきょうく	Sakyo Ward	左京	さきょう	Sakyo	41
-26104	26	26100	中京区	なかぎょうく	Nakagyo Ward	中京	なかぎょう	Nakagyo	41
-26105	26	26100	東山区	ひがしやまく	Higashiyama Ward	東山	ひがしやま	Higashiyama	41
-26106	26	26100	下京区	しもぎょうく	Shimogyo Ward	下京	しもぎょう	Shimogyo	41
-26107	26	26100	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-26108	26	26100	右京区	うきょうく	Ukyo Ward	右京	うきょう	Ukyo	41
-26109	26	26100	伏見区	ふしみく	Fushimi Ward	伏見	ふしみ	Fushimi	41
-26110	26	26100	山科区	やましなく	Yamashina Ward	山科	やましな	Yamashina	41
-26111	26	26100	西京区	にしきょうく	Nishikyo Ward	西京	にしきょう	Nishikyo	41
-27102	27	27100	都島区	みやこじまく	Miyakojima Ward	都島	みやこじま	Miyakojima	41
-27103	27	27100	福島区	ふくしまく	Fukushima Ward	福島	ふくしま	Fukushima	41
-27104	27	27100	此花区	このはなく	Konohana Ward	此花	このはな	Konohana	41
-27106	27	27100	西区	にしく	Nishi Ward	西	にし	Nishi	41
-27107	27	27100	港区	みなとく	Minato Ward	港	みなと	Minato	41
-27108	27	27100	大正区	たいしょうく	Taisho Ward	大正	たいしょう	Taisho	41
-27109	27	27100	天王寺区	てんのうじく	Tennoji Ward	天王寺	てんのうじ	Tennoji	41
-27111	27	27100	浪速区	なにわく	Naniwa Ward	浪速	なにわ	Naniwa	41
-27113	27	27100	西淀川区	にしよどがわく	Nishiyodogawa Ward	西淀川	にしよどがわ	Nishiyodogawa	41
-27114	27	27100	東淀川区	ひがしよどがわく	Higashiyodogawa Ward	東淀川	ひがしよどがわ	Higashiyodogawa	41
-27115	27	27100	東成区	ひがしなりく	Higashinari Ward	東成	ひがしなり	Higashinari	41
-27116	27	27100	生野区	いくのく	Ikuno Ward	生野	いくの	Ikuno	41
-27117	27	27100	旭区	あさひく	Asahi Ward	旭	あさひ	Asahi	41
-27118	27	27100	城東区	じょうとうく	Joto Ward	城東	じょうとう	Joto	41
-27119	27	27100	阿倍野区	あべのく	Abeno Ward	阿倍野	あべの	Abeno	41
-27120	27	27100	住吉区	すみよしく	Sumiyoshi Ward	住吉	すみよし	Sumiyoshi	41
-27121	27	27100	東住吉区	ひがしすみよしく	Higashisumiyoshi Ward	東住吉	ひがしすみよし	Higashisumiyoshi	41
-27122	27	27100	西成区	にしなりく	Nishinari Ward	西成	にしなり	Nishinari	41
-27123	27	27100	淀川区	よどがわく	Yodogawa Ward	淀川	よどがわ	Yodogawa	41
-27124	27	27100	鶴見区	つるみく	Tsurumi Ward	鶴見	つるみ	Tsurumi	41
-27125	27	27100	住之江区	すみのえく	Suminoe Ward	住之江	すみのえ	Suminoe	41
-27126	27	27100	平野区	ひらのく	Hirano Ward	平野	ひらの	Hirano	41
-27127	27	27100	北区	きたく	Kita Ward	北	きた	Kita	41
-27128	27	27100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41
-27141	27	27140	堺区	さかいく	Sakai Ward	堺	さかい	Sakai	41
-27142	27	27140	中区	なかく	Naka Ward	中	なか	Naka	41
-27143	27	27140	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41
-27144	27	27140	西区	にしく	Nishi Ward	西	にし	Nishi	41
-27145	27	27140	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-27146	27	27140	北区	きたく	Kita Ward	北	きた	Kita	41
-27147	27	27140	美原区	みはらく	Mihara Ward	美原	みはら	Mihara	41
-28101	28	28100	東灘区	ひがしなだく	Higashinada Ward	東灘	ひがしなだ	Higashinada	41
-28102	28	28100	灘区	なだく	Nada Ward	灘	なだ	Nada	41
-28105	28	28100	兵庫区	ひょうごく	Hyogo Ward	兵庫	ひょうご	Hyogo	41
-28106	28	28100	長田区	ながたく	Nagata Ward	長田	ながた	Nagata	41
-28107	28	28100	須磨区	すまく	Suma Ward	須磨	すま	Suma	41
-28108	28	28100	垂水区	たるみく	Tarumi Ward	垂水	たるみ	Tarumi	41
-28109	28	28100	北区	きたく	Kita Ward	北	きた	Kita	41
-28110	28	28100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41
-28111	28	28100	西区	にしく	Nishi Ward	西	にし	Nishi	41
-33101	33	33100	北区	きたく	Kita Ward	北	きた	Kita	41
-33102	33	33100	中区	なかく	Naka Ward	中	なか	Naka	41
-33103	33	33100	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41
-33104	33	33100	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-34101	34	34100	中区	なかく	Naka Ward	中	なか	Naka	41
-34102	34	34100	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41
-34103	34	34100	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-34104	34	34100	西区	にしく	Nishi Ward	西	にし	Nishi	41
-34105	34	34100	安佐南区	あさみなみく	Asaminami Ward	安佐南	あさみなみ	Asaminami	41
-34106	34	34100	安佐北区	あさきたく	Asakita Ward	安佐北	あさきた	Asakita	41
-34107	34	34100	安芸区	あきく	Aki Ward	安芸	あき	Aki	41
-34108	34	34100	佐伯区	さえきく	Saeki Ward	佐伯	さえき	Saeki	41
-40101	40	40100	門司区	もじく	Moji Ward	門司	もじ	Moji	41
-40103	40	40100	若松区	わかまつく	Wakamatsu Ward	若松	わかまつ	Wakamatsu	41
-40105	40	40100	戸畑区	とばたく	Tobata Ward	戸畑	とばた	Tobata	41
-40106	40	40100	小倉北区	こくらきたく	Kokurakita Ward	小倉北	こくらきた	Kokurakita	41
-40107	40	40100	小倉南区	こくらみなみく	Kokuraminami Ward	小倉南	こくらみなみ	Kokuraminami	41
-40108	40	40100	八幡東区	やはたひがしく	Yahatahigashi Ward	八幡東	やはたひがし	Yahatahigashi	41
-40109	40	40100	八幡西区	やはたにしく	Yahatanishi Ward	八幡西	やはたにし	Yahatanishi	41
-40131	40	40130	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41
-40132	40	40130	博多区	はかたく	Hakata Ward	博多	はかた	Hakata	41
-40133	40	40130	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41
-40134	40	40130	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-40135	40	40130	西区	にしく	Nishi Ward	西	にし	Nishi	41
-40136	40	40130	城南区	じょうなんく	Jonan Ward	城南	じょうなん	Jonan	41
-40137	40	40130	早良区	さわらく	Sawara Ward	早良	さわら	Sawara	41
-43101	43	43100	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41
-43102	43	43100	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41
-43103	43	43100	西区	にしく	Nishi Ward	西	にし	Nishi	41
-43104	43	43100	南区	みなみく	Minami Ward	南	みなみ	Minami	41
-43105	43	43100	北区	きたく	Kita Ward	北	きた	Kita	41
+code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	type	pref	psub	county	subpref	muni
+01101	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41	01	01100		01300	01100
+01102	北区	きたく	Kita Ward	北	きた	Kita	41	01	01100		01300	01100
+01103	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41	01	01100		01300	01100
+01104	白石区	しろいしく	Shiroishi Ward	白石	しろいし	Shiroishi	41	01	01100		01300	01100
+01105	豊平区	とよひらく	Toyohira Ward	豊平	とよひら	Toyohira	41	01	01100		01300	01100
+01106	南区	みなみく	Minami Ward	南	みなみ	Minami	41	01	01100		01300	01100
+01107	西区	にしく	Nishi Ward	西	にし	Nishi	41	01	01100		01300	01100
+01108	厚別区	あつべつく	Atsubetsu Ward	厚別	あつべつ	Atsubetsu	41	01	01100		01300	01100
+01109	手稲区	ていねく	Teine Ward	手稲	ていね	Teine	41	01	01100		01300	01100
+01110	清田区	きよたく	Kiyota Ward	清田	きよた	Kiyota	41	01	01100		01300	01100
+04101	青葉区	あおばく	Aoba Ward	青葉	あおば	Aoba	41	04	04100			04100
+04102	宮城野区	みやぎのく	Miyagino Ward	宮城野	みやぎの	Miyagino	41	04	04100			04100
+04103	若林区	わかばやしく	Wakabayashi Ward	若林	わかばやし	Wakabayashi	41	04	04100			04100
+04104	太白区	たいはくく	Taihaku Ward	太白	たいはく	Taihaku	41	04	04100			04100
+04105	泉区	いずみく	Izumi Ward	泉	いずみ	Izumi	41	04	04100			04100
+11101	西区	にしく	Nishi Ward	西	にし	Nishi	41	11	11100			11100
+11102	北区	きたく	Kita Ward	北	きた	Kita	41	11	11100			11100
+11103	大宮区	おおみやく	Omiya Ward	大宮	おおみや	Omiya	41	11	11100			11100
+11104	見沼区	みぬまく	Minuma Ward	見沼	みぬま	Minuma	41	11	11100			11100
+11105	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41	11	11100			11100
+11106	桜区	さくらく	Sakura Ward	桜	さくら	Sakura	41	11	11100			11100
+11107	浦和区	うらわく	Urawa Ward	浦和	うらわ	Urawa	41	11	11100			11100
+11108	南区	みなみく	Minami Ward	南	みなみ	Minami	41	11	11100			11100
+11109	緑区	みどりく	Midori Ward	緑	みどり	Midori	41	11	11100			11100
+11110	岩槻区	いわつきく	Iwatsuki Ward	岩槻	いわつき	Iwatsuki	41	11	11100			11100
+12101	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41	12	12100			12100
+12102	花見川区	はなみがわく	Hanamigawa Ward	花見川	はなみがわ	Hanamigawa	41	12	12100			12100
+12103	稲毛区	いなげく	Inage Ward	稲毛	いなげ	Inage	41	12	12100			12100
+12104	若葉区	わかばく	Wakaba Ward	若葉	わかば	Wakaba	41	12	12100			12100
+12105	緑区	みどりく	Midori Ward	緑	みどり	Midori	41	12	12100			12100
+12106	美浜区	みはまく	Mihama Ward	美浜	みはま	Mihama	41	12	12100			12100
+14101	鶴見区	つるみく	Tsurumi Ward	鶴見	つるみ	Tsurumi	41	14	14100			14100
+14102	神奈川区	かながわく	Kanagawa Ward	神奈川	かながわ	Kanagawa	41	14	14100			14100
+14103	西区	にしく	Nishi Ward	西	にし	Nishi	41	14	14100			14100
+14104	中区	なかく	Naka Ward	中	なか	Naka	41	14	14100			14100
+14105	南区	みなみく	Minami Ward	南	みなみ	Minami	41	14	14100			14100
+14106	保土ケ谷区	ほどがやく	Hodogaya Ward	保土ケ谷	ほどがや	Hodogaya	41	14	14100			14100
+14107	磯子区	いそごく	Isogo Ward	磯子	いそご	Isogo	41	14	14100			14100
+14108	金沢区	かなざわく	Kanazawa Ward	金沢	かなざわ	Kanazawa	41	14	14100			14100
+14109	港北区	こうほくく	Kohoku Ward	港北	こうほく	Kohoku	41	14	14100			14100
+14110	戸塚区	とつかく	Totsuka Ward	戸塚	とつか	Totsuka	41	14	14100			14100
+14111	港南区	こうなんく	Konan Ward	港南	こうなん	Konan	41	14	14100			14100
+14112	旭区	あさひく	Asahi Ward	旭	あさひ	Asahi	41	14	14100			14100
+14113	緑区	みどりく	Midori Ward	緑	みどり	Midori	41	14	14100			14100
+14114	瀬谷区	せやく	Seya Ward	瀬谷	せや	Seya	41	14	14100			14100
+14115	栄区	さかえく	Sakae Ward	栄	さかえ	Sakae	41	14	14100			14100
+14116	泉区	いずみく	Izumi Ward	泉	いずみ	Izumi	41	14	14100			14100
+14117	青葉区	あおばく	Aoba Ward	青葉	あおば	Aoba	41	14	14100			14100
+14118	都筑区	つづきく	Tsuzuki Ward	都筑	つづき	Tsuzuki	41	14	14100			14100
+14131	川崎区	かわさきく	Kawasaki Ward	川崎	かわさき	Kawasaki	41	14	14130			14130
+14132	幸区	さいわいく	Saiwai Ward	幸	さいわい	Saiwai	41	14	14130			14130
+14133	中原区	なかはらく	Nakahara Ward	中原	なかはら	Nakahara	41	14	14130			14130
+14134	高津区	たかつく	Takatsu Ward	高津	たかつ	Takatsu	41	14	14130			14130
+14135	多摩区	たまく	Tama Ward	多摩	たま	Tama	41	14	14130			14130
+14136	宮前区	みやまえく	Miyamae Ward	宮前	みやまえ	Miyamae	41	14	14130			14130
+14137	麻生区	あさおく	Asao Ward	麻生	あさお	Asao	41	14	14130			14130
+14151	緑区	みどりく	Midori Ward	緑	みどり	Midori	41	14	14150			14150
+14152	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41	14	14150			14150
+14153	南区	みなみく	Minami Ward	南	みなみ	Minami	41	14	14150			14150
+15101	北区	きたく	Kita Ward	北	きた	Kita	41	15	15100			15100
+15102	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41	15	15100			15100
+15103	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41	15	15100			15100
+15104	江南区	こうなんく	Konan Ward	江南	こうなん	Konan	41	15	15100			15100
+15105	秋葉区	あきはく	Akiha Ward	秋葉	あきは	Akiha	41	15	15100			15100
+15106	南区	みなみく	Minami Ward	南	みなみ	Minami	41	15	15100			15100
+15107	西区	にしく	Nishi Ward	西	にし	Nishi	41	15	15100			15100
+15108	西蒲区	にしかんく	Nishikan Ward	西蒲	にしかん	Nishikan	41	15	15100			15100
+22101	葵区	あおいく	Aoi Ward	葵	あおい	Aoi	41	22	22100			22100
+22102	駿河区	するがく	Suruga Ward	駿河	するが	Suruga	41	22	22100			22100
+22103	清水区	しみずく	Shimizu Ward	清水	しみず	Shimizu	41	22	22100			22100
+22131	中区	なかく	Naka Ward	中	なか	Naka	41	22	22130			22130
+22132	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41	22	22130			22130
+22133	西区	にしく	Nishi Ward	西	にし	Nishi	41	22	22130			22130
+22134	南区	みなみく	Minami Ward	南	みなみ	Minami	41	22	22130			22130
+22135	北区	きたく	Kita Ward	北	きた	Kita	41	22	22130			22130
+22136	浜北区	はまきたく	Hamakita Ward	浜北	はまきた	Hamakita	41	22	22130			22130
+22137	天竜区	てんりゅうく	Tenryu Ward	天竜	てんりゅう	Tenryu	41	22	22130			22130
+23101	千種区	ちくさく	Chikusa Ward	千種	ちくさ	Chikusa	41	23	23100			23100
+23102	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41	23	23100			23100
+23103	北区	きたく	Kita Ward	北	きた	Kita	41	23	23100			23100
+23104	西区	にしく	Nishi Ward	西	にし	Nishi	41	23	23100			23100
+23105	中村区	なかむらく	Nakamura Ward	中村	なかむら	Nakamura	41	23	23100			23100
+23106	中区	なかく	Naka Ward	中	なか	Naka	41	23	23100			23100
+23107	昭和区	しょうわく	Showa Ward	昭和	しょうわ	Showa	41	23	23100			23100
+23108	瑞穂区	みずほく	Mizuho Ward	瑞穂	みずほ	Mizuho	41	23	23100			23100
+23109	熱田区	あつたく	Atsuta Ward	熱田	あつた	Atsuta	41	23	23100			23100
+23110	中川区	なかがわく	Nakagawa Ward	中川	なかがわ	Nakagawa	41	23	23100			23100
+23111	港区	みなとく	Minato Ward	港	みなと	Minato	41	23	23100			23100
+23112	南区	みなみく	Minami Ward	南	みなみ	Minami	41	23	23100			23100
+23113	守山区	もりやまく	Moriyama Ward	守山	もりやま	Moriyama	41	23	23100			23100
+23114	緑区	みどりく	Midori Ward	緑	みどり	Midori	41	23	23100			23100
+23115	名東区	めいとうく	Meito Ward	名東	めいとう	Meito	41	23	23100			23100
+23116	天白区	てんぱくく	Tenpaku Ward	天白	てんぱく	Tenpaku	41	23	23100			23100
+26101	北区	きたく	Kita Ward	北	きた	Kita	41	26	26100			26100
+26102	上京区	かみぎょうく	Kamigyo Ward	上京	かみぎょう	Kamigyo	41	26	26100			26100
+26103	左京区	さきょうく	Sakyo Ward	左京	さきょう	Sakyo	41	26	26100			26100
+26104	中京区	なかぎょうく	Nakagyo Ward	中京	なかぎょう	Nakagyo	41	26	26100			26100
+26105	東山区	ひがしやまく	Higashiyama Ward	東山	ひがしやま	Higashiyama	41	26	26100			26100
+26106	下京区	しもぎょうく	Shimogyo Ward	下京	しもぎょう	Shimogyo	41	26	26100			26100
+26107	南区	みなみく	Minami Ward	南	みなみ	Minami	41	26	26100			26100
+26108	右京区	うきょうく	Ukyo Ward	右京	うきょう	Ukyo	41	26	26100			26100
+26109	伏見区	ふしみく	Fushimi Ward	伏見	ふしみ	Fushimi	41	26	26100			26100
+26110	山科区	やましなく	Yamashina Ward	山科	やましな	Yamashina	41	26	26100			26100
+26111	西京区	にしきょうく	Nishikyo Ward	西京	にしきょう	Nishikyo	41	26	26100			26100
+27102	都島区	みやこじまく	Miyakojima Ward	都島	みやこじま	Miyakojima	41	27	27100			27100
+27103	福島区	ふくしまく	Fukushima Ward	福島	ふくしま	Fukushima	41	27	27100			27100
+27104	此花区	このはなく	Konohana Ward	此花	このはな	Konohana	41	27	27100			27100
+27106	西区	にしく	Nishi Ward	西	にし	Nishi	41	27	27100			27100
+27107	港区	みなとく	Minato Ward	港	みなと	Minato	41	27	27100			27100
+27108	大正区	たいしょうく	Taisho Ward	大正	たいしょう	Taisho	41	27	27100			27100
+27109	天王寺区	てんのうじく	Tennoji Ward	天王寺	てんのうじ	Tennoji	41	27	27100			27100
+27111	浪速区	なにわく	Naniwa Ward	浪速	なにわ	Naniwa	41	27	27100			27100
+27113	西淀川区	にしよどがわく	Nishiyodogawa Ward	西淀川	にしよどがわ	Nishiyodogawa	41	27	27100			27100
+27114	東淀川区	ひがしよどがわく	Higashiyodogawa Ward	東淀川	ひがしよどがわ	Higashiyodogawa	41	27	27100			27100
+27115	東成区	ひがしなりく	Higashinari Ward	東成	ひがしなり	Higashinari	41	27	27100			27100
+27116	生野区	いくのく	Ikuno Ward	生野	いくの	Ikuno	41	27	27100			27100
+27117	旭区	あさひく	Asahi Ward	旭	あさひ	Asahi	41	27	27100			27100
+27118	城東区	じょうとうく	Joto Ward	城東	じょうとう	Joto	41	27	27100			27100
+27119	阿倍野区	あべのく	Abeno Ward	阿倍野	あべの	Abeno	41	27	27100			27100
+27120	住吉区	すみよしく	Sumiyoshi Ward	住吉	すみよし	Sumiyoshi	41	27	27100			27100
+27121	東住吉区	ひがしすみよしく	Higashisumiyoshi Ward	東住吉	ひがしすみよし	Higashisumiyoshi	41	27	27100			27100
+27122	西成区	にしなりく	Nishinari Ward	西成	にしなり	Nishinari	41	27	27100			27100
+27123	淀川区	よどがわく	Yodogawa Ward	淀川	よどがわ	Yodogawa	41	27	27100			27100
+27124	鶴見区	つるみく	Tsurumi Ward	鶴見	つるみ	Tsurumi	41	27	27100			27100
+27125	住之江区	すみのえく	Suminoe Ward	住之江	すみのえ	Suminoe	41	27	27100			27100
+27126	平野区	ひらのく	Hirano Ward	平野	ひらの	Hirano	41	27	27100			27100
+27127	北区	きたく	Kita Ward	北	きた	Kita	41	27	27100			27100
+27128	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41	27	27100			27100
+27141	堺区	さかいく	Sakai Ward	堺	さかい	Sakai	41	27	27140			27140
+27142	中区	なかく	Naka Ward	中	なか	Naka	41	27	27140			27140
+27143	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41	27	27140			27140
+27144	西区	にしく	Nishi Ward	西	にし	Nishi	41	27	27140			27140
+27145	南区	みなみく	Minami Ward	南	みなみ	Minami	41	27	27140			27140
+27146	北区	きたく	Kita Ward	北	きた	Kita	41	27	27140			27140
+27147	美原区	みはらく	Mihara Ward	美原	みはら	Mihara	41	27	27140			27140
+28101	東灘区	ひがしなだく	Higashinada Ward	東灘	ひがしなだ	Higashinada	41	28	28100			28100
+28102	灘区	なだく	Nada Ward	灘	なだ	Nada	41	28	28100			28100
+28105	兵庫区	ひょうごく	Hyogo Ward	兵庫	ひょうご	Hyogo	41	28	28100			28100
+28106	長田区	ながたく	Nagata Ward	長田	ながた	Nagata	41	28	28100			28100
+28107	須磨区	すまく	Suma Ward	須磨	すま	Suma	41	28	28100			28100
+28108	垂水区	たるみく	Tarumi Ward	垂水	たるみ	Tarumi	41	28	28100			28100
+28109	北区	きたく	Kita Ward	北	きた	Kita	41	28	28100			28100
+28110	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41	28	28100			28100
+28111	西区	にしく	Nishi Ward	西	にし	Nishi	41	28	28100			28100
+33101	北区	きたく	Kita Ward	北	きた	Kita	41	33	33100			33100
+33102	中区	なかく	Naka Ward	中	なか	Naka	41	33	33100			33100
+33103	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41	33	33100			33100
+33104	南区	みなみく	Minami Ward	南	みなみ	Minami	41	33	33100			33100
+34101	中区	なかく	Naka Ward	中	なか	Naka	41	34	34100			34100
+34102	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41	34	34100			34100
+34103	南区	みなみく	Minami Ward	南	みなみ	Minami	41	34	34100			34100
+34104	西区	にしく	Nishi Ward	西	にし	Nishi	41	34	34100			34100
+34105	安佐南区	あさみなみく	Asaminami Ward	安佐南	あさみなみ	Asaminami	41	34	34100			34100
+34106	安佐北区	あさきたく	Asakita Ward	安佐北	あさきた	Asakita	41	34	34100			34100
+34107	安芸区	あきく	Aki Ward	安芸	あき	Aki	41	34	34100			34100
+34108	佐伯区	さえきく	Saeki Ward	佐伯	さえき	Saeki	41	34	34100			34100
+40101	門司区	もじく	Moji Ward	門司	もじ	Moji	41	40	40100			40100
+40103	若松区	わかまつく	Wakamatsu Ward	若松	わかまつ	Wakamatsu	41	40	40100			40100
+40105	戸畑区	とばたく	Tobata Ward	戸畑	とばた	Tobata	41	40	40100			40100
+40106	小倉北区	こくらきたく	Kokurakita Ward	小倉北	こくらきた	Kokurakita	41	40	40100			40100
+40107	小倉南区	こくらみなみく	Kokuraminami Ward	小倉南	こくらみなみ	Kokuraminami	41	40	40100			40100
+40108	八幡東区	やはたひがしく	Yahatahigashi Ward	八幡東	やはたひがし	Yahatahigashi	41	40	40100			40100
+40109	八幡西区	やはたにしく	Yahatanishi Ward	八幡西	やはたにし	Yahatanishi	41	40	40100			40100
+40131	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41	40	40130			40130
+40132	博多区	はかたく	Hakata Ward	博多	はかた	Hakata	41	40	40130			40130
+40133	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41	40	40130			40130
+40134	南区	みなみく	Minami Ward	南	みなみ	Minami	41	40	40130			40130
+40135	西区	にしく	Nishi Ward	西	にし	Nishi	41	40	40130			40130
+40136	城南区	じょうなんく	Jonan Ward	城南	じょうなん	Jonan	41	40	40130			40130
+40137	早良区	さわらく	Sawara Ward	早良	さわら	Sawara	41	40	40130			40130
+43101	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	41	43	43100			43100
+43102	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	41	43	43100			43100
+43103	西区	にしく	Nishi Ward	西	にし	Nishi	41	43	43100			43100
+43104	南区	みなみく	Minami Ward	南	みなみ	Minami	41	43	43100			43100
+43105	北区	きたく	Kita Ward	北	きた	Kita	41	43	43100			43100
