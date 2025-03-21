@@ -78,8 +78,8 @@ code | description | count
 35 | town/cho | 466
 36 | village/mura | 161
 37 | village/son | 28
-**4** | **Wards** | **175**
-41 | ward | 175
+**4** | **Wards** | **171**
+41 | ward | 171
 
 ## Notes
 
