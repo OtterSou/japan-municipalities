@@ -1,20 +1,20 @@
 code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	type	pref
 01100	札幌市	さっぽろし	Sapporo City	札幌	さっぽろ	Sapporo	21	01
 01200	市部	しぶ	City Area				23	01
-01300	石狩振興局	いしかりしんこうきょく	Ishikari Subprefectural Bureau	石狩	いしかり	Ishikari	26	01
-01330	渡島総合振興局	おしまそうごうしんこうきょく	Oshima General Subprefectural Bureau	渡島	おしま	Oshima	25	01
-01360	檜山振興局	ひやましんこうきょく	Hiyama Subprefectural Bureau	檜山	ひやま	Hiyama	26	01
-01390	後志総合振興局	しりべしそうごうしんこうきょく	Shiribeshi General Subprefectural Bureau	後志	しりべし	Shiribeshi	25	01
-01420	空知総合振興局	そらちそうごうしんこうきょく	Sorachi General Subprefectural Bureau	空知	そらち	Sorachi	25	01
-01450	上川総合振興局	かみかわそうごうしんこうきょく	Kamikawa General Subprefectural Bureau	上川	かみかわ	Kamikawa	25	01
-01480	留萌振興局	るもいしんこうきょく	Rumoi Subprefectural Bureau	留萌	るもい	Rumoi	26	01
-01510	宗谷総合振興局	そうやそうごうしんこうきょく	Soya General Subprefectural Bureau	宗谷	そうや	Soya	25	01
-01540	オホーツク総合振興局	おほーつくそうごうしんこうきょく	Okhotsk General Subprefectural Bureau	オホーツク	おほーつく	Okhotsk	25	01
-01570	胆振総合振興局	いぶりそうごうしんこうきょく	Iburi General Subprefectural Bureau	胆振	いぶり	Iburi	25	01
-01600	日高振興局	ひだかしんこうきょく	Hidaka Subprefectural Bureau	日高	ひだか	Hidaka	26	01
-01630	十勝総合振興局	とかちそうごうしんこうきょく	Tokachi General Subprefectural Bureau	十勝	とかち	Tokachi	25	01
-01660	釧路総合振興局	くしろそうごうしんこうきょく	Kushiro General Subprefectural Bureau	釧路	くしろ	Kushiro	25	01
-01690	根室振興局	ねむろしんこうきょく	Nemuro Subprefectural Bureau	根室	ねむろ	Nemuro	26	01
+01300	石狩振興局	いしかりしんこうきょく	Ishikari Subprefecture	石狩	いしかり	Ishikari	26	01
+01330	渡島総合振興局	おしまそうごうしんこうきょく	Oshima Subprefecture	渡島	おしま	Oshima	25	01
+01360	檜山振興局	ひやましんこうきょく	Hiyama Subprefecture	檜山	ひやま	Hiyama	26	01
+01390	後志総合振興局	しりべしそうごうしんこうきょく	Shiribeshi Subprefecture	後志	しりべし	Shiribeshi	25	01
+01420	空知総合振興局	そらちそうごうしんこうきょく	Sorachi Subprefecture	空知	そらち	Sorachi	25	01
+01450	上川総合振興局	かみかわそうごうしんこうきょく	Kamikawa Subprefecture	上川	かみかわ	Kamikawa	25	01
+01480	留萌振興局	るもいしんこうきょく	Rumoi Subprefecture	留萌	るもい	Rumoi	26	01
+01510	宗谷総合振興局	そうやそうごうしんこうきょく	Soya Subprefecture	宗谷	そうや	Soya	25	01
+01540	オホーツク総合振興局	おほーつくそうごうしんこうきょく	Okhotsk Subprefecture	オホーツク	おほーつく	Okhotsk	25	01
+01570	胆振総合振興局	いぶりそうごうしんこうきょく	Iburi Subprefecture	胆振	いぶり	Iburi	25	01
+01600	日高振興局	ひだかしんこうきょく	Hidaka Subprefecture	日高	ひだか	Hidaka	26	01
+01630	十勝総合振興局	とかちそうごうしんこうきょく	Tokachi Subprefecture	十勝	とかち	Tokachi	25	01
+01660	釧路総合振興局	くしろそうごうしんこうきょく	Kushiro Subprefecture	釧路	くしろ	Kushiro	25	01
+01690	根室振興局	ねむろしんこうきょく	Nemuro Subprefecture	根室	ねむろ	Nemuro	26	01
 01802	石狩郡	いしかりぐん	Ishikari County	石狩	いしかり	Ishikari	24	01
 01806	松前郡	まつまえぐん	Matsumae County	松前	まつまえ	Matsumae	24	01
 01807	上磯郡	かみいそぐん	Kamiiso County	上磯	かみいそ	Kamiiso	24	01

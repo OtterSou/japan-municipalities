@@ -47,10 +47,10 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01234	北広島市	きたひろしまし	Kitahiroshima City	北広島	きたひろしま	Kitahiroshima	3	32	01	01200		01300	
 01235	石狩市	いしかりし	Ishikari City	石狩	いしかり	Ishikari	3	32	01	01200		01300	
 01236	北斗市	ほくとし	Hokuto City	北斗	ほくと	Hokuto	3	32	01	01200		01330	
-01300	石狩振興局	いしかりしんこうきょく	Ishikari Subprefectural Bureau	石狩	いしかり	Ishikari	2	26	01				
+01300	石狩振興局	いしかりしんこうきょく	Ishikari Subprefecture	石狩	いしかり	Ishikari	2	26	01				
 01303	当別町	とうべつちょう	Tobetsu Town	当別	とうべつ	Tobetsu	3	35	01	01300	01802	01300	
 01304	新篠津村	しんしのつむら	Shinshinotsu Village	新篠津	しんしのつ	Shinshinotsu	3	36	01	01300	01802	01300	
-01330	渡島総合振興局	おしまそうごうしんこうきょく	Oshima General Subprefectural Bureau	渡島	おしま	Oshima	2	25	01				
+01330	渡島総合振興局	おしまそうごうしんこうきょく	Oshima Subprefecture	渡島	おしま	Oshima	2	25	01				
 01331	松前町	まつまえちょう	Matsumae Town	松前	まつまえ	Matsumae	3	35	01	01330	01806	01330	
 01332	福島町	ふくしまちょう	Fukushima Town	福島	ふくしま	Fukushima	3	35	01	01330	01806	01330	
 01333	知内町	しりうちちょう	Shiriuchi Town	知内	しりうち	Shiriuchi	3	35	01	01330	01807	01330	
@@ -60,7 +60,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01345	森町	もりまち	Mori Town	森	もり	Mori	3	34	01	01330	01809	01330	
 01346	八雲町	やくもちょう	Yakumo Town	八雲	やくも	Yakumo	3	35	01	01330	01810	01330	
 01347	長万部町	おしゃまんべちょう	Oshamanbe Town	長万部	おしゃまんべ	Oshamanbe	3	35	01	01330	01811	01330	
-01360	檜山振興局	ひやましんこうきょく	Hiyama Subprefectural Bureau	檜山	ひやま	Hiyama	2	26	01				
+01360	檜山振興局	ひやましんこうきょく	Hiyama Subprefecture	檜山	ひやま	Hiyama	2	26	01				
 01361	江差町	えさしちょう	Esashi Town	江差	えさし	Esashi	3	35	01	01360	01812	01360	
 01362	上ノ国町	かみのくにちょう	Kaminokuni Town	上ノ国	かみのくに	Kaminokuni	3	35	01	01360	01812	01360	
 01363	厚沢部町	あっさぶちょう	Assabu Town	厚沢部	あっさぶ	Assabu	3	35	01	01360	01812	01360	
@@ -68,7 +68,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01367	奥尻町	おくしりちょう	Okushiri Town	奥尻	おくしり	Okushiri	3	35	01	01360	01815	01360	
 01370	今金町	いまかねちょう	Imakane Town	今金	いまかね	Imakane	3	35	01	01360	01816	01360	
 01371	せたな町	せたなちょう	Setana Town	せたな	せたな	Setana	3	35	01	01360	01814	01360	
-01390	後志総合振興局	しりべしそうごうしんこうきょく	Shiribeshi General Subprefectural Bureau	後志	しりべし	Shiribeshi	2	25	01				
+01390	後志総合振興局	しりべしそうごうしんこうきょく	Shiribeshi Subprefecture	後志	しりべし	Shiribeshi	2	25	01				
 01391	島牧村	しままきむら	Shimamaki Village	島牧	しままき	Shimamaki	3	36	01	01390	01817	01390	
 01392	寿都町	すっつちょう	Suttsu Town	寿都	すっつ	Suttsu	3	35	01	01390	01818	01390	
 01393	黒松内町	くろまつないちょう	Kuromatsunai Town	黒松内	くろまつない	Kuromatsunai	3	35	01	01390	01818	01390	
@@ -88,7 +88,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01407	仁木町	にきちょう	Niki Town	仁木	にき	Niki	3	35	01	01390	01825	01390	
 01408	余市町	よいちちょう	Yoichi Town	余市	よいち	Yoichi	3	35	01	01390	01825	01390	
 01409	赤井川村	あかいがわむら	Akaigawa Village	赤井川	あかいがわ	Akaigawa	3	36	01	01390	01825	01390	
-01420	空知総合振興局	そらちそうごうしんこうきょく	Sorachi General Subprefectural Bureau	空知	そらち	Sorachi	2	25	01				
+01420	空知総合振興局	そらちそうごうしんこうきょく	Sorachi Subprefecture	空知	そらち	Sorachi	2	25	01				
 01423	南幌町	なんぽろちょう	Nanporo Town	南幌	なんぽろ	Nanporo	3	35	01	01420	01826	01420	
 01424	奈井江町	ないえちょう	Naie Town	奈井江	ないえ	Naie	3	35	01	01420	01826	01420	
 01425	上砂川町	かみすながわちょう	Kamisunagawa Town	上砂川	かみすながわ	Kamisunagawa	3	35	01	01420	01826	01420	
@@ -103,7 +103,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01436	雨竜町	うりゅうちょう	Uryu Town	雨竜	うりゅう	Uryu	3	35	01	01420	01829	01420	
 01437	北竜町	ほくりゅうちょう	Hokuryu Town	北竜	ほくりゅう	Hokuryu	3	35	01	01420	01829	01420	
 01438	沼田町	ぬまたちょう	Numata Town	沼田	ぬまた	Numata	3	35	01	01420	01829	01420	
-01450	上川総合振興局	かみかわそうごうしんこうきょく	Kamikawa General Subprefectural Bureau	上川	かみかわ	Kamikawa	2	25	01				
+01450	上川総合振興局	かみかわそうごうしんこうきょく	Kamikawa Subprefecture	上川	かみかわ	Kamikawa	2	25	01				
 01452	鷹栖町	たかすちょう	Takasu Town	鷹栖	たかす	Takasu	3	35	01	01450	01830	01450	
 01453	東神楽町	ひがしかぐらちょう	Higashikagura Town	東神楽	ひがしかぐら	Higashikagura	3	35	01	01450	01830	01450	
 01454	当麻町	とうまちょう	Toma Town	当麻	とうま	Toma	3	35	01	01450	01830	01450	
@@ -123,7 +123,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01470	音威子府村	おといねっぷむら	Otoineppu Village	音威子府	おといねっぷ	Otoineppu	3	36	01	01450	01833	01450	
 01471	中川町	なかがわちょう	Nakagawa Town	中川	なかがわ	Nakagawa	3	35	01	01450	01833	01450	
 01472	幌加内町	ほろかないちょう	Horokanai Town	幌加内	ほろかない	Horokanai	3	35	01	01450	01829	01450	
-01480	留萌振興局	るもいしんこうきょく	Rumoi Subprefectural Bureau	留萌	るもい	Rumoi	2	26	01				
+01480	留萌振興局	るもいしんこうきょく	Rumoi Subprefecture	留萌	るもい	Rumoi	2	26	01				
 01481	増毛町	ましけちょう	Mashike Town	増毛	ましけ	Mashike	3	35	01	01480	01834	01480	
 01482	小平町	おびらちょう	Obira Town	小平	おびら	Obira	3	35	01	01480	01835	01480	
 01483	苫前町	とままえちょう	Tomamae Town	苫前	とままえ	Tomamae	3	35	01	01480	01836	01480	
@@ -131,7 +131,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01485	初山別村	しょさんべつむら	Shosanbetsu Village	初山別	しょさんべつ	Shosanbetsu	3	36	01	01480	01836	01480	
 01486	遠別町	えんべつちょう	Enbetsu Town	遠別	えんべつ	Enbetsu	3	35	01	01480	01837	01480	
 01487	天塩町	てしおちょう	Teshio Town	天塩	てしお	Teshio	3	35	01	01480	01837	01480	
-01510	宗谷総合振興局	そうやそうごうしんこうきょく	Soya General Subprefectural Bureau	宗谷	そうや	Soya	2	25	01				
+01510	宗谷総合振興局	そうやそうごうしんこうきょく	Soya Subprefecture	宗谷	そうや	Soya	2	25	01				
 01511	猿払村	さるふつむら	Sarufutsu Village	猿払	さるふつ	Sarufutsu	3	36	01	01510	01838	01510	
 01512	浜頓別町	はまとんべつちょう	Hamatonbetsu Town	浜頓別	はまとんべつ	Hamatonbetsu	3	35	01	01510	01839	01510	
 01513	中頓別町	なかとんべつちょう	Nakatonbetsu Town	中頓別	なかとんべつ	Nakatonbetsu	3	35	01	01510	01839	01510	
@@ -141,7 +141,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01518	利尻町	りしりちょう	Rishiri Town	利尻	りしり	Rishiri	3	35	01	01510	01841	01510	
 01519	利尻富士町	りしりふじちょう	Rishirifuji Town	利尻富士	りしりふじ	Rishirifuji	3	35	01	01510	01841	01510	
 01520	幌延町	ほろのべちょう	Horonobe Town	幌延	ほろのべ	Horonobe	3	35	01	01510	01837	01510	
-01540	オホーツク総合振興局	おほーつくそうごうしんこうきょく	Okhotsk General Subprefectural Bureau	オホーツク	おほーつく	Okhotsk	2	25	01				
+01540	オホーツク総合振興局	おほーつくそうごうしんこうきょく	Okhotsk Subprefecture	オホーツク	おほーつく	Okhotsk	2	25	01				
 01543	美幌町	びほろちょう	Bihoro Town	美幌	びほろ	Bihoro	3	35	01	01540	01842	01540	
 01544	津別町	つべつちょう	Tsubetsu Town	津別	つべつ	Tsubetsu	3	35	01	01540	01842	01540	
 01545	斜里町	しゃりちょう	Shari Town	斜里	しゃり	Shari	3	35	01	01540	01843	01540	
@@ -157,7 +157,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01562	西興部村	にしおこっぺむら	Nishiokoppe Village	西興部	にしおこっぺ	Nishiokoppe	3	36	01	01540	01845	01540	
 01563	雄武町	おうむちょう	Omu Town	雄武	おうむ	Omu	3	35	01	01540	01845	01540	
 01564	大空町	おおぞらちょう	Ozora Town	大空	おおぞら	Ozora	3	35	01	01540	01842	01540	
-01570	胆振総合振興局	いぶりそうごうしんこうきょく	Iburi General Subprefectural Bureau	胆振	いぶり	Iburi	2	25	01				
+01570	胆振総合振興局	いぶりそうごうしんこうきょく	Iburi Subprefecture	胆振	いぶり	Iburi	2	25	01				
 01571	豊浦町	とようらちょう	Toyoura Town	豊浦	とようら	Toyoura	3	35	01	01570	01820	01570	
 01575	壮瞥町	そうべつちょう	Sobetsu Town	壮瞥	そうべつ	Sobetsu	3	35	01	01570	01846	01570	
 01578	白老町	しらおいちょう	Shiraoi Town	白老	しらおい	Shiraoi	3	35	01	01570	01848	01570	
@@ -165,7 +165,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01584	洞爺湖町	とうやこちょう	Toyako Town	洞爺湖	とうやこ	Toyako	3	35	01	01570	01820	01570	
 01585	安平町	あびらちょう	Abira Town	安平	あびら	Abira	3	35	01	01570	01831	01570	
 01586	むかわ町	むかわちょう	Mukawa Town	むかわ	むかわ	Mukawa	3	35	01	01570	01831	01570	
-01600	日高振興局	ひだかしんこうきょく	Hidaka Subprefectural Bureau	日高	ひだか	Hidaka	2	26	01				
+01600	日高振興局	ひだかしんこうきょく	Hidaka Subprefecture	日高	ひだか	Hidaka	2	26	01				
 01601	日高町	ひだかちょう	Hidaka Town	日高	ひだか	Hidaka	3	35	01	01600	01849	01600	
 01602	平取町	びらとりちょう	Biratori Town	平取	びらとり	Biratori	3	35	01	01600	01849	01600	
 01604	新冠町	にいかっぷちょう	Niikappu Town	新冠	にいかっぷ	Niikappu	3	35	01	01600	01850	01600	
@@ -173,7 +173,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01608	様似町	さまにちょう	Samani Town	様似	さまに	Samani	3	35	01	01600	01854	01600	
 01609	えりも町	えりもちょう	Erimo Town	えりも	えりも	Erimo	3	35	01	01600	01855	01600	
 01610	新ひだか町	しんひだかちょう	Shinhidaka Town	新ひだか	しんひだか	Shinhidaka	3	35	01	01600	01876	01600	
-01630	十勝総合振興局	とかちそうごうしんこうきょく	Tokachi General Subprefectural Bureau	十勝	とかち	Tokachi	2	25	01				
+01630	十勝総合振興局	とかちそうごうしんこうきょく	Tokachi Subprefecture	十勝	とかち	Tokachi	2	25	01				
 01631	音更町	おとふけちょう	Otofuke Town	音更	おとふけ	Otofuke	3	35	01	01630	01856	01630	
 01632	士幌町	しほろちょう	Shihoro Town	士幌	しほろ	Shihoro	3	35	01	01630	01856	01630	
 01633	上士幌町	かみしほろちょう	Kamishihoro Town	上士幌	かみしほろ	Kamishihoro	3	35	01	01630	01856	01630	
@@ -192,7 +192,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01647	足寄町	あしょろちょう	Ashoro Town	足寄	あしょろ	Ashoro	3	35	01	01630	01861	01630	
 01648	陸別町	りくべつちょう	Rikubetsu Town	陸別	りくべつ	Rikubetsu	3	35	01	01630	01861	01630	
 01649	浦幌町	うらほろちょう	Urahoro Town	浦幌	うらほろ	Urahoro	3	35	01	01630	01862	01630	
-01660	釧路総合振興局	くしろそうごうしんこうきょく	Kushiro General Subprefectural Bureau	釧路	くしろ	Kushiro	2	25	01				
+01660	釧路総合振興局	くしろそうごうしんこうきょく	Kushiro Subprefecture	釧路	くしろ	Kushiro	2	25	01				
 01661	釧路町	くしろちょう	Kushiro Town	釧路	くしろ	Kushiro	3	35	01	01660	01863	01660	
 01662	厚岸町	あっけしちょう	Akkeshi Town	厚岸	あっけし	Akkeshi	3	35	01	01660	01864	01660	
 01663	浜中町	はまなかちょう	Hamanaka Town	浜中	はまなか	Hamanaka	3	35	01	01660	01864	01660	
@@ -200,7 +200,7 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 01665	弟子屈町	てしかがちょう	Teshikaga Town	弟子屈	てしかが	Teshikaga	3	35	01	01660	01865	01660	
 01667	鶴居村	つるいむら	Tsurui Village	鶴居	つるい	Tsurui	3	36	01	01660	01866	01660	
 01668	白糠町	しらぬかちょう	Shiranuka Town	白糠	しらぬか	Shiranuka	3	35	01	01660	01867	01660	
-01690	根室振興局	ねむろしんこうきょく	Nemuro Subprefectural Bureau	根室	ねむろ	Nemuro	2	26	01				
+01690	根室振興局	ねむろしんこうきょく	Nemuro Subprefecture	根室	ねむろ	Nemuro	2	26	01				
 01691	別海町	べつかいちょう	Betsukai Town	別海	べつかい	Betsukai	3	35	01	01690	01868	01690	
 01692	中標津町	なかしべつちょう	Nakashibetsu Town	中標津	なかしべつ	Nakashibetsu	3	35	01	01690	01869	01690	
 01693	標津町	しべつちょう	Shibetsu Town	標津	しべつ	Shibetsu	3	35	01	01690	01869	01690	
