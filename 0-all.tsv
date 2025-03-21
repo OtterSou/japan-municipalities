@@ -1313,13 +1313,9 @@ code	full-ja	full-ja-hira	full-en	base-ja	base-ja-hira	base-en	level	type	pref	p
 22103	清水区	しみずく	Shimizu Ward	清水	しみず	Shimizu	4	41	22	22100			22100
 22130	浜松市	はままつし	Hamamatsu City	浜松	はままつ	Hamamatsu	2	21	22				
 22130	浜松市	はままつし	Hamamatsu City	浜松	はままつ	Hamamatsu	3	31	22	22130			
-22131	中区	なかく	Naka Ward	中	なか	Naka	4	41	22	22130			22130
-22132	東区	ひがしく	Higashi Ward	東	ひがし	Higashi	4	41	22	22130			22130
-22133	西区	にしく	Nishi Ward	西	にし	Nishi	4	41	22	22130			22130
-22134	南区	みなみく	Minami Ward	南	みなみ	Minami	4	41	22	22130			22130
-22135	北区	きたく	Kita Ward	北	きた	Kita	4	41	22	22130			22130
-22136	浜北区	はまきたく	Hamakita Ward	浜北	はまきた	Hamakita	4	41	22	22130			22130
-22137	天竜区	てんりゅうく	Tenryu Ward	天竜	てんりゅう	Tenryu	4	41	22	22130			22130
+22138	中央区	ちゅうおうく	Chuo Ward	中央	ちゅうおう	Chuo	4	41	22	22130			22130
+22139	浜名区	はまなく	Hamana Ward	浜名	はまな	Hamana	4	41	22	22130			22130
+22140	天竜区	てんりゅうく	Tenryu Ward	天竜	てんりゅう	Tenryu	4	41	22	22130			22130
 22200	市部	しぶ	City Area				2	23	22				
 22203	沼津市	ぬまづし	Numazu City	沼津	ぬまづ	Numazu	3	32	22	22200			
 22205	熱海市	あたみし	Atami City	熱海	あたみ	Atami	3	32	22	22200			

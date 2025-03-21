@@ -2,7 +2,7 @@
 
 [日本語版](README-ja.md)
 
-This repository contains a list of all administrative divisions with [standard area codes](http://data.e-stat.go.jp/lodw/en/provdata/lodRegion/) in Japan as of April 26, 2022.
+This repository contains a list of all administrative divisions with [standard area codes](http://data.e-stat.go.jp/lodw/en/provdata/lodRegion/) in Japan as of March 2025.
 
 ## Files and Fields
 

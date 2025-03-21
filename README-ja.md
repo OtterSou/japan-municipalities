@@ -2,7 +2,7 @@
 
 [English version](README.md)
 
-このリポジトリは2022年4月26日現在の日本の行政区分で[標準地域コード](http://data.e-stat.go.jp/lodw/provdata/lodRegion/#3-2-1)が割り振られているものを一覧にしています。
+このリポジトリは2025年3月現在の日本の行政区分で[標準地域コード](http://data.e-stat.go.jp/lodw/provdata/lodRegion/#3-2-1)が割り振られているものを一覧にしています。
 
 ## ファイルとフィールド
 
